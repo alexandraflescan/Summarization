@@ -1,0 +1,24 @@
+Summarization-tool- python script
+
+
+Intersection function - receives two sentences, and returns a score for the intersection between them. 
+- split each sentence into words/tokens
+- count how many common tokens we have
+- normalize the result with the average length of the two sentences
+
+formula:  f(s1, s2) = |{w | w in s1 and w in s2}| / ((|s1| + |s2|) / 2) 
+
+Sentences dictionary - receives our text as input, and calculates a score for each sentence.
+- calculations  - 2 steps: 
+	1. split the text into sentences, and store the intersection value between each two sentences in a matrix
+		- so values[0][2] will hold the intersection score between sentence #1 and sentence #3
+		- converted our text into a fully-connected weighted graph
+		- each sentence is a node in the graph and the two-dimensional array holds the weight of each edge
+	2. calculate an individual score for each sentence and store it in a key-value dictionary, where the sentence itself is the key and 	the value is the total score. 
+		- calculates the score for each node in our graph
+		- do that by summing all the edges that are connected to the node
+		
+
+Generating the final summary -  split our text into paragraphs, and then we choose the best sentence from each paragraph according to our sentences dictionary. 
+- every paragraph in the text represents some logical subset of our graph, so we just pick the most valuable node from each subset
+
