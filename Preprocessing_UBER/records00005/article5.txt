@@ -1,0 +1,906 @@
+oai:pubmedcentral.nih.gov:53593052017-04-04frontcellneuropmc-open
+ALS: a bucket of genes, environment, metabolism and unknown ingredients
+
+        Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative disease characterized by progressive muscle paralysis determined by the degeneration of motoneurons in the motor cortex brainstem and spinal cord. The ALS pathogenetic mechanisms are still unclear, despite the wealth of studies demonstrating the involvement of several altered signaling pathways, such as mitochondrial dysfunction, glutamate excitotoxicity, oxidative stress and neuroinflammation. To date, the proposed therapeutic strategies are targeted to one or a few of these alterations, resulting in only a minimal effect on disease course and survival of ALS patients. The involvement of different mechanisms in ALS pathogenesis underlines the need for a therapeutic approach targeted to multiple aspects. Mesenchymal stem cells (MSC) can support motoneurons and surrounding cells, reduce inflammation, stimulate tissue regeneration and release growth factors. On this basis, MSC have been proposed as promising candidates to treat ALS. However, due to the drawbacks of cell therapy, the possible therapeutic use of extracellular vesicles (EVs) released by stem cells is raising increasing interest. The present review summarizes the main pathological mechanisms involved in ALS and the related therapeutic approaches proposed to date, focusing on MSC therapy and their preclinical and clinical applications. Moreover, the nature and characteristics of EVs and their role in recapitulating the effect of stem cells are discussed, elucidating how and why these vesicles could provide novel opportunities for ALS treatment.
+      
+
+        amyotrophic lateral sclerosis
+        ALS therapeutic applications
+        mesenchymal stem cells
+        extracellular vesicles
+        exosomes
+      
+
+    
+      Introduction
+      Amyotrophic lateral sclerosis (ALS) is a fatal adult-onset neurodegenerative disease, first described by the neurobiologist Jean-Martin Charcot in the 1870s and which became initially known as Charcot’s sclerosis. In the USA, the disease is also known as Lou Gehrig disease, in honor of the baseball player who developed the disease in the 1930s. ALS has an incidence of 2–3/100,000 and a prevalence of 6–7/100,000 in Europe (Costa and de Carvalho, 2016), making it the most common motoneuron disease in human adults (Cleveland and Rothstein, 2001). In 90%–95% of cases there is no apparent genetic link (sporadic ALS, sALS), while the remaining 5%–10% of cases have a family history (familial ALS, fALS).
+      In general, the first symptoms appear at the mean age of 50 years for fALS, and 60 years for sALS, even if the onset can occur in very young individuals or in elderly people (Costa and de Carvalho, 2016). The disease is more common in males than in females, with an incidence of 1.5:1 (Zarei et al., 2015), although the incidence in men and women is about the same in fALS. The disease is fatal within 2–5 years after clinical onset; about 50% of patients die within 30 months from symptom onset, while about 10% of patients may survive for more than a decade (Forsgren et al., 1983; del Aguila et al., 2003).
+      Both sALS and fALS are characterized by selective degeneration of both upper motoneurons in the primary motor cortex, and lower motoneurons in the brainstem and spinal cord. However, some groups of motoneurons, including those that control pelvic muscles (Onuf’s nucleus in the sacral spinal cord) and eye movements (oculomotoneurons), are spared by the pathology. The reasons of this differential motoneuron vulnerability remain unknown (Comley et al., 2015).
+      The familial and sporadic forms of the disease appear clinically indistinguishable. Although the motoneuron degeneration is the main hallmark of the disease, ALS can be classified according to the district of symptom onset. Limb onset is the most common presentation of ALS, with progressive muscle weakness and wasting, body weight loss, fasciculations, emotional lability and cognitive dysfunction. In the bulbar onset, representing approximately 30% of ALS cases, the disease starts with difficulties in speech and swallowing (dysarthria and dysphagia), followed by limb symptoms (Pratt et al., 2012).
+      In sALS, the occurrence of the disease could be also due to a gene-environment interaction; sALS has been associated with “susceptibility” genes, that may trigger the cascade of neurodegeneration interacting with environmental risk factors. Susceptibility genes could also play a role in fALS, (Zufiría et al., 2016). Mutations in susceptibility genes could potentially contribute to the development of the disease only in the presence of other genetic or environmental factors. In persons with a susceptibility genotype, the exposure to specific environmental risk factors may increase the risk for the disease.
+      Concerning genetic predisposition, epigenetics, and in particular defects in histone homeostasis (acetylation and deacetylation), have been implicated in ALS. Histone acetyltransferases (HATs) and histone deacetylases (HDACs) catalyze acetylation and deacetylation, respectively, of histone proteins Lys residues. The interplay between HATs and HDACs alters the net balance of histone acetylation levels, thereby remodeling chromatin structure, as indicated by transcriptional dysregulation that occurs in both ALS murine models and patients (Janssen et al., 2010). Although a role of epigenetic alterations in the pathogenesis of ALS has been documented, it remains to be clarified whether the involved epigenetic alterations could be related to environmental factors.
+      Among the risk factors for ALS, lifestyle, including smoking and dietary factors, and physical activity have been hypothesized. In particular, some ALS patients have a higher level of physical fitness and a lower body mass index compared with healthy controls (Armon, 2003; Turner, 2013). Moreover, environmental risk factors combined with working conditions (construction workers, carpenters, farm workers, laboratory technicians and athletes) could potentially increase the risk for ALS due to exposure to heavy metals, solvents, pesticides and chemicals which could contribute to trigger ALS pathogenetic mechanisms (Ingre et al., 2015).
+      In a geographical area which includes part of Japan, Guam, Kii Peninsula of Japan and Guinea the prevalence of the disease is 50–100 times higher than in any other part of the world. This increased incidence is ascribed to exposure to a neurotoxic amino acid, β-methylamino-L-alanine, as indicated by the higher concentration of this molecule in the brain and spinal cord tissues of ALS patients than in healthy controls (Pablo et al., 2009).
+      Viral infections have also been considered as a potential risk factor for ALS: exposure to viruses such as enterovirus, herpesvirus and retrovirus may play an important role in the disease, as reported in studies of blood, serum, muscle and post-mortem brain tissue of ALS patients. In these tissues a significant increase of the expression of the virus and the ability to form virus-like particles were revealed (Berger et al., 2000; Oluwole et al., 2007; Alfahad and Nath, 2013).
+      Another important factor to consider is the relationship between ALS and other medical conditions. Several studies suggest a strong association of head trauma, metabolic diseases, autoimmune pathology and neuroinflammation (Chen et al., 2007; Turner et al., 2013).
+      Altogether these data point to a substantial impact of non-genetic factors on ALS. The identification and knowledge of these factors would be highly relevant for understanding the etiopathogenesis of the sporadic form of the disease in persons with a susceptibility genotype.
+      About 5%–10% of ALS is familial, with a Mendelian pattern of inheritance. ALS can be inherited in an autosomal dominant, autosomal recessive or X-linked manner, although in most affected families it is inherited in an autosomal dominant manner. Patients with fALS present an earlier age of onset compared to the sporadic form, and the penetrance, severity, progression and duration of disease vary in different gene mutations and different mutations in the same gene (Chen et al., 2013).
+      More than 20 gene mutations have been identified in fALS, which include: Cu/Zn superoxide dismutase 1 gene (SOD1), TAR DNA-binding protein 43 (TDP43), fused in sarcoma (FUS)/translocated in sarcoma and ubiquitin 2 (Kaur et al., 2016). It has been recently reported that the hexarepeat expansion in chromosome 9 open reading frame 72 (C9orf72) is the most common inherited cause of fALS (40% of cases; Zufiría et al., 2016).
+      Mutations in the SOD1 gene were the first to be identified in ALS: they occur in up to 20% of fALS cases and in 1%–4% of sALS cases and, to date, more than 150 mutations have been found (Chen et al., 2013). Three different isoform of SOD metalloenzymes are encoded in the human genome: the cytoplasmic Cu/Zn SOD (SOD1), the mitochondrial Mn SOD (SOD2) and the extracellular Cu/Zn SOD (SOD3). Each isoform is a product of distinct genes and has a distinct subcellular localization, but all require metals for their activity and catalyze the same reaction: the dismutation of toxic superoxide anion radical (O2−), a reactive oxygen species (ROS) with a single unpaired electron produced by cellular respiration, into oxygen and hydrogen peroxide (H2O2). The toxicity of H2O2 is then removed by glutathione peroxidase or catalase, which generates water and oxygen. Therefore, SODs enzymes provide an important antioxidant defense in cells exposed to oxygen (Fukai and Ushio-Fukai, 2011).
+      The human SOD1 isoform, whose gene is located on chromosome 21 (locus 21q22.1), is a small gene consisting of five exons and four introns encoding for a homodimeric enzyme, each monomer formed by 153 amino acids (15.8 kDa) which form eight antiparallel beta strands. The protein contains one copper and one zinc atom: the first is fundamental for SOD1 activity, while zinc plays a role in the structural stability of the enzyme (Rosen et al., 1993).
+      The SOD1 mutations can be localized on the beta strand, determining structural protein instability, or in the metal-binding sites, determining the lack of Cu and/or Zn, conformational dysfunction and alteration of protein interactions. In both instances, the destabilization of the structure can lead to the formation of aggregates (Kaur et al., 2016).
+      The majority of SOD1 mutations are associated with an autosomal dominant form of the disease (ALS1) and G93A, alanine at codon 4 changed to valine (A4V), H46R and D90A are the most commonly reported ALS mutations. The G93A mutation (glycine 93 changed to alanine) is a rare mutation, but is the most studied as it was the first to be used in a transgenic mouse model of the disease. The A4V is the most prevalent mutation in the USA and D90A (aspartic acid at codon 90 changed to alanine) is the most common in Europe (with either dominant or recessive inheritance).
+      Gene mutations can cause a dominant gain of function, resulting in an increase of SOD1 activity, with an excessive production of H2O2, or in a dominant loss of function with a decrease in enzyme activity which results in insufficient degradation of ROS (Kaur et al., 2016).
+      The main pathogenetic mechanisms involved in motoneuron degeneration in ALS and the main therapeutic strategies proposed to date are here summarized. This review article also focuses on the application of mesenchymal stem cells (MSC) as treatment for ALS, reporting results obtained in in vivo models of the disease and in clinical trials. Moreover, extracellular vesicles (EVs) as possible mediators of a therapeutic effect of stem cells will be discussed, underlying their potential use for ALS treatment.
+    
+    
+      Pathogenetic Mechanisms in ALS
+      The identification of molecular mechanisms by which motoneurons degenerate in ALS is crucial for understanding disease progression and for the development of new therapeutic approaches. Although SOD1 mutations have been linked to ALS since more than two decades, the mechanisms underlying the mode of action of mutant SOD1 and the subsequent neurodegeneration/neurotoxicity are still unclear. Several hypotheses have been proposed in this regards and it seems likely that the combination of mechanisms, rather than a single mechanism, contributes to neurodegeneration in ALS, pointing to a multifactorial pathogenesis (Figure 1).
+      
+        Figure 1
+        
+          Pathogenetic mechanisms involved in amyotrophic lateral sclerosis (ALS). The pathophysiological mechanism of the disease appears to be multifactorial and several mechanisms contribute to neurodegeneration. An increase of the neurotransmitter glutamate in the synaptic cleft (glutamate excitotoxicity), due to the impairment of its uptake by astrocytes, leads to an increased influx of Ca2+ ions in the motoneurons. The increased levels of Ca2+ ions, which in physiological conditions could be removed by mitochondria (calcium homeostasis), remain high in the cytoplasm due to mitochondrial dysfunction and can cause neurodegeneration through activation of Ca2+-dependent enzymatic pathways contributing to oxidative stress. Mutant misfolding proteins (such as superoxide dismutase 1 gene (SOD1), chromosome 9 open reading frame 72 (C9orf72), TAR DNA-binding protein 43 (TDP-43) and fused in sarcoma (FUS) form intercellular aggregates, contribute to an increase of oxidative stress, contribute to mitochondrial dysfunction and could lead to the accumulation of neurofilaments (NFs) and dysfunction of axonal transport. Moreover, activated astrocyte and microglia release inflammatory mediators and toxic factors, contributing to neurotoxicity.
+        
+        
+      
+      
+        Mitochondrial Dysfunction
+        Mitochondrial damage is a common feature of many neurodegenerative diseases. Mitochondria are the most important organelles for energy production, cellular respiration and calcium homeostasis. Moreover, they produce high level of ROS and play a key role in apoptosis, opening the permeability transition pore and allowing the release of cytochrome c, which leads to the activation of the caspase cascade. For these reasons, structural and biochemical alterations of mitochondria can be linked to many aspects of ALS pathogenesis.
+        Morphological alterations in mitochondria, such as vacuolated and dilated organelle with disorganized cristae and membranes, fragmented network and swelling, were observed in spinal motoneurons and skeletal muscle of both sALS and fALS patients and in the murine model of the disease (SOD1(G93A) mice; Boillée et al., 2006a; Sasaki and Iwata, 2007; Magrané and Manfredi, 2009). The formation of vacuoles is due to expansion of the mitochondrial intermembrane space and consequent distention of membranes (Higgins et al., 2003).
+        Although the mitochondria have own SOD protein (SOD2), the cytoplasmic SOD protein (SOD1) is also present, at low levels, in the mitochondrial intermembrane space and in their matrix (Bergemalm et al., 2006). The deposit of misfolded mutant SOD1 in mitochondria may alter the physiological function of these organelles in the cell metabolism. Abnormal production of ATP and ROS, dysfunction in energy homeostasis and calcium homeostasis, alteration of apoptosis triggering, as well as altered mitochondrial transport along axons have been reported in ALS transgenic mice and patients (Pasinelli et al., 2000; Mattiazzi et al., 2002; Menzies et al., 2002; Damiano et al., 2006). Concerning energy homeostasis and ATP deficits, mutant SOD1 causes a decreased activity of respiratory chain complexes I and IV which are associated with defective energy metabolism (Wiedemann et al., 1998). Another key function of mitochondria concerns the regulation of cytosolic calcium levels: several studies reported a loss of Ca2+ binding proteins in motoneurons of ALS patients related to the presence of mutant SOD1 (Bernard-Marissal et al., 2012; Mattson, 2013), which leads to reduced calcium uptake from the cytoplasm, increasing the sensitivity to excitotoxicity.
+        Moreover, mitochondria are required in areas with high demand of ATP and calcium homeostasis, such as synaptic terminals. Therefore, transport of mitochondria to these areas is of primary importance, and defects in mitochondrial axonal transport lead to metabolic alterations in neurons (Magrané and Manfredi, 2009; Mòrotz et al., 2012).
+        Altered protein expression in mutant mitochondria has also been reported (Fukada et al., 2004; Kirby et al., 2005; Lukas et al., 2006). Since the majority of proteins required for the function of this organelle are synthesized in the cytoplasm and imported in the mitochondria, mutant SOD1 associated to the mitochondrial surface could prevent protein import (Liu et al., 2004).
+      
+      
+        Glutamate Excitotoxicity
+        Glutamate, the main excitatory neurotransmitter in the central nervous system (CNS), is synthesized in the presynaptic terminal and diffuses across the synaptic cleft, activating specific postsynaptic receptors and triggering action potentials. This neurotransmitter acts on different receptors on the dendrites of the postsynaptic motoneuron, such as α-amino-3-hydroxyl-5-methyl-4-isoxazole-propionate (AMPA) and N-methyl-D-aspartate (NMDA) receptors. The depolarization of neuronal membranes after activation of neuronal glutamate receptors activates voltage-dependent calcium channels, allowing calcium to enter the cell.
+        After release from the presynaptic neuron, glutamate is removed from the synaptic cleft by several glial and neuronal cell transporter proteins, excitatory amino acid transporters (EAATs; Sundaram et al., 2012). The concentration of glutamate in the synaptic cleft is thus finely regulated, avoiding excitotoxicity: an excessive or prolonged activation of glutamate receptors results in degeneration and eventually death of the involved neurons (Shaw and Eggett, 2000). A sustained elevation of intracellular calcium levels triggers enzymatic and mitochondrial damages that lead to the formation of ROS and activates several destructive biochemical processes, determining excitatory damage and neuronal degeneration (Ilieva et al., 2009; Vucic et al., 2014). Therefore, the rapid removal of glutamate is required to prevent neuronal toxicity. In particular, the isoform 2 of the astroglial glutamate transporter (EAAT2) is involved in keeping the amount of glutamate below excitotoxic level in the nervous system.
+        Before the identification of the genetic links of fALS, glutamate excitotoxicity was one of the first hypotheses proposed as pathogenetic mechanism of ALS (Bendotti and Carrì, 2004). The motor cortex and spinal cord of ALS patients and transgenic mutant SOD1 mouse models were found to have reduced EAAT2 level, probably due to the presence of aberrant EAAT2 mRNA or to cleavage of the EAAT2 transporter. This leads to an increase of synaptic glutamate concentration and an over-stimulation of glutamate postsynaptic receptors, determining excitotoxic neuronal degeneration (Lin et al., 1998; Zarei et al., 2015). The loss of functional EAAT2 was also observed in affected brain regions of other neurodegenerative diseases, such as Alzheimer’s and Huntington’s diseases (Guo et al., 2003). To establish whether loss of functional EAAT2 in ALS was a primary cause of neuron degeneration or a consequence of cell damage, transgenic mutant SOD1 mice overexpressing EAAT2 (EAAT2/G93A double transgenic mice) were generated to investigate whether supplementation of EAAT2 loss would delay or rescue the disease. Mice with an increased EAAT2 expression showed a delay in motoneuron degeneration and disease progression. Since no change in lifespan was found comparing EAAT2/G93A mice with SOD1(G93A) mice, it was concluded that loss of EAAT2 may contribute to motoneuron degeneration in ALS but is not the principal cause (Guo et al., 2003).
+        Moreover, the selective vulnerability of motoneurons in ALS may be due to a higher permeability to calcium of these cells compared with other neurons, probably caused by a defect in RNA editing of the GluR2 subunit of AMPA, which renders this receptor more permeable to calcium (Kawahara et al., 2004).
+      
+      
+        Oxidative Stress
+        Free radicals or ROS are natural products of oxygen metabolism. The term oxidative stress is used when the production of ROS is higher than the capacity of cells to remove them. This leads to the accumulation of ROS, which causes irreversible damage to cell structures and macromolecules, such as proteins, DNA and RNA.
+        SOD1 is the major enzyme to prevent oxidative damage and to reduce superoxide leakage from mitochondria. Mutations in this gene can cause alterations in the activity of the protein leading to cytotoxicity.
+        Early studies suggested that mutations in the SOD1 gene cause a complete loss of protein function (Deng et al., 1993). Subsequently, in vitro experiments demonstrated that mutant human SOD1 proteins (such as the G37R mutation) are active and stable, promoting neural apoptosis in a dominant manner (Borchelt et al., 1994; Rabizadeh et al., 1995). These studies suggest ALS pathogenesis may involve not only a decrease/loss in the enzymatic function of SOD1, but is also probably due to a dominant toxic gain of function of the enzyme. It has been proposed that mutant SOD1 could revert its normal antioxidant activity producing toxic superoxide: the mutated protein could take electrons from other cellular antioxidants and donate them to molecular oxygen, producing superoxide and making SOD1 the source of oxidative stress (Beckman et al., 2001; Liochev and Fridovich, 2003). Increased levels of free radicals and of oxidative damage were found in cerebrospinal fluid (CSF), serum and urine samples of ALS patients (Zarei et al., 2015) and could be due to an altered geometry in the active site of the mutated SOD1, which allows entry of reducing substrates.
+        Oxidative stress in ALS may also derive from a defective oxidative phosphorylation (Bacman et al., 2006), as reported from studies of CSF in transgenic mice and in patients, in which ROS produced from defective oxidative phosphorylation, such as 3-nitrotyrosine, were found in high concentration (Tohgi et al., 1999). Moreover, this study combined the increase of ROS with mitochondrial dysfunction and provided an example of how different pathogenetic mechanisms of ALS may be inter-related.
+      
+      
+        Protein Aggregates
+        Protein aggregates are a pathological hallmark of many neurodegenerative diseases such as Alzheimer’s, Parkinson’s, Huntington’s diseases and ALS. These aggregates derive from the accumulation of misfolded proteins, which oligomerize and aggregate, gaining toxic properties (Julien, 2001). Inclusions rich in mutated SOD1 proteins have been found in tissues from both sALS and fALS cases, as well in mutant SOD1 transgenic mice (Boillée et al., 2006a).
+        The structure of SOD1 in the aggregates is not clear, but it seems that the protein is disulfide-reduced and lacks both copper and zinc atoms. The aberrant accumulation of mutated proteins is also related to a lack of their degradation, resulting in aggregates consisting of mutated SOD1 and other mutated proteins related to ALS, such as TDP43 or FUS.
+        TDP43, an RNA-binding protein, is normally located in the nucleus, where it regulates transcription, splicing and mRNA transport. This protein is necessary for the prevention of DNA damage (Hill et al., 2016). TDP43 aberrant protein inclusions have been reported in 80% of ALS cases and it seems that the cytoplasmic accumulation is due to mutations in the 3′ UTR region of the genes, which lead to overexpression and altered location of the protein (Neumann et al., 2006; Coan and Mitchell, 2015). As TDP43, FUS is a nuclear protein. The accumulation of TDP43 and FUS in the cytoplasm is probably due to mutations which prevent their shuttles to the nucleus (Dormann and Haass, 2011).
+        Protein inclusions in ALS contain also other components, such as chaperones, mitochondrial proteins, ubiquitin and neurofilaments (NFs). Moreover, the aberrant accumulation of ubiquitin and of ubiquinated and misfolded proteins could affect the normal function of the proteasome machinery, impairing normal protein degradation and leading to further protein accumulation, degeneration and death of motoneurons.
+      
+      
+        Accumulation of Neurofilaments
+        Accumulation and/or aggregation of NFs in the cell bodies and axons, and abnormal location of phosphorylated NFs in the cell body are typical pathological hallmarks of ALS. NFs are the major intermediate filaments in neurons; they are the most abundant cytoskeletal components of large myelinated axons and control the axonal caliber. NFs are formed by the co-polymerization of light (NF-L, 65 kDa), medium (NF-M, 95 kDa) and heavy (NF-H, 115 kDa) subunits. NF-L is necessary for filament assembly, whereas NF-M and NF-H form links with other NFs in the axon (Julien, 1999). Also α-internexin is an integral component of NFs in the CNS, in particular during axon elongation (Yuan et al., 2006).
+        The mechanisms leading to the formation of NF aggregates in ALS are still unclear. Mutations in NF genes occur in fALS and sALS and seem to be correlated with abnormal phosphorylation of NFs. Phosphorylation of NF-H and NF-M usually occurs only in the axon and the rate of NF transport is inversely correlated to their phosphorylation state. The abnormal phosphorylation could alter the axonal transport of NFs, determining their accumulation in the cell bodies and proximal axon. This accumulation could be at the basis of defects in axonal transport of other cellular components important for cell survival, such as mitochondria (Xiao et al., 2006).
+        The aggregation of NFs could also be due to their altered stoichiometry: overexpression or downregulation of NF subunits in murine models of ALS provoke NF accumulation (Perrot and Eyer, 2009). Transgenic SOD1(G93A) mice which overexpress the NF-L subunit exhibit excessive accumulation of NFs in the perikarya and proximal axon of motoneurons in the ventral horn of the spinal cord, accompanied by proximal axonal swelling and subsequent degeneration (Xu et al., 1993). In situ hybridization revealed a consistent reduction in NF-L mRNA levels in degenerating spinal motoneurons of ALS patients (Tomkins et al., 1998; Al-Chalabi et al., 1999; Wong et al., 2000), while NF-L deficiency accelerates motoneuron degeneration in transgenic mice (Xu et al., 1993), indicating the importance of NF protein stoichiometry in the distribution and aggregation of NFs.
+        Surprisingly, overexpression of both NF-L and NF-H subunits significantly slowed down disease progression in mouse models of ALS. Double transgenic mice (SOD1(G93A) gene and NF-L or NF-H genes) showed a significant delay in disease progression and an extension of survival compared with SOD1(G93A) mice (Kong and Xu, 2000), suggesting a protective effect of NF accumulation. The mechanism of this protection is unclear, but perikaryal accumulation of NFs rather than their axonal deficiency could be responsible in slowing down the disease.
+        The abnormal organization of NF seems to be involved in the pathogenesis of ALS, although the relationship between their accumulation and motoneuron neurodegeneration remains unclear. Despite the correlation of some mutations of NF genes with ALS disease, specific mutations in NF genes have not been identified, indicating that probably NF gene mutations are not a common cause of ALS but could represent a risk factor for selective motoneuron vulnerability.
+      
+      
+        Neuroinflammation
+        A common characteristic of ALS and other neurodegenerative diseases is the neuroinflammatory response, characterized by activated microglia, astrogliosis and infiltrating immune cells in the sites of neuronal injury. Although ALS involves the selective death of motoneurons, different lines of evidence have shown that neuronal injury is non-cell-autonomous but depends on a finely regulated dialog between motoneurons and glial cells. Deregulated communication between neurons and glial cells compromises neuronal homeostasis and survival, and the involvement of mutant glia in motoneuron degeneration is well documented. The expression of mutant SOD1 gene limited to motoneurons is not sufficient to cause disease in transgenic mouse model of ALS, leading to suppose that their degeneration requires the participation of non-neuronal cells (Clement et al., 2003). Non-mutated motoneurons surrounded by glial cells carrying a SOD1 mutated gene develop the pathological phenotype, while mutated motoneurons surrounded by wild-type glia show a healthy phenotype (Clement et al., 2003). Moreover, the replacement of mutant SOD1 in glial cells with wild-type glia delays the disease and prolongs the survival of ALS mice (Lee et al., 2012). Thus, damaged glia and neurons act together contributing to the process of neurodegeneration and to disease progression.
+        In the CNS, microglial cells are the resident macrophages and represent the first line of defense against infection or injury, monitoring the extracellular environment and interacting with neurons and astrocytes. These cells have immunological properties, with both neuroprotective and neurotoxic potential. After CNS injury, microglial activation is a major component of neuroinflammation. In particular, in ALS the interaction between motoneurons and microglia initially protects neurons. When motoneuron damage worsens, motoneurons and astrocytes release misfolded proteins (such as mutated SOD1) and other toxic molecules that stimulate the activation of microglial cells, which switch from an anti-inflammatory and neuroprotective to a pro-inflammatory and neurotoxic phenotype (Appel et al., 2011; Zhao et al., 2013). Microglial activation includes activated microglia (M1) and alternatively activated microglia (M2). M1 microglia are cytotoxic and secrete ROS, proinflammatory cytokines and neurotoxic molecules, mediating motoneuron death (Almer et al., 1999; Elliott, 2001). Studies in SOD1 transgenic mice have shown that the replacement of mutant SOD1 microglia with wild-type microglia, as well as the specific reduction of the expression of mutant SOD1 gene in these cells, significantly reduce motoneuron degeneration and extend the lifespan of the animals (Beers et al., 2006; Boillée et al., 2006b). This points to an involvement of microglial cells in neurodegeneration, underlining that mutant SOD1 microglia acquire a M1 toxic phenotype promoting disease progression.
+        Unlike the M1 phenotype, M2 microglia produce high levels of anti-inflammatory cytokines and neurotrophic factors that enhance the protection and survival of motoneurons. The upregulation of M2 markers in the spinal cord of SOD1(G93A) mice demonstrated that in the early stage of the disease microglia display an M2 phenotype which promotes repair and regeneration. During disease progression, damaged motoneurons induce microglial cells to release ROS and proinflammatory cytokines and to acquire an M1 phenotype leading to further neurotoxicity (Zhao et al., 2013). Activated microglia increase during disease progression due to their interaction with the cell microenvironment at different stages of the disease, which plays a key role in determining a neuroprotective or neurotoxic function of microglia.
+        Astrocytes are the largest glial cell components of the CNS and play many important functions in maintaining and supporting neurons. Reactive astrogliosis has been implicated in neurodegeneration and in the progression of ALS. One of the most important functions of astrocytes in supporting neurons is to maintain low concentration of glutamate in the synaptic cleft through EAAT2 glutamate receptors. In patients with sALS and fALS, as well as in SOD1 mice, astrocytes downregulate the EAAT2 transporter, determining a less efficient uptake of glutamate and contributing to excitotoxicity (Howland et al., 2002). Other studies have shown that, upon activation, an insufficient release of neurotrophic factors and the release of neurotoxic factors from astrocytes are involved in neurodegeneration (Komine and Yamanaka, 2015). This was also indicated by analyses of astrocytes in post-mortem tissue of ALS patients, which revealed an upregulation of 22 genes encoding chemokines, proinflammatory cytokines and components of the complement cascade, which could exacerbate neural damage and loss of already compromised neurons (Zhao et al., 2013). Moreover, the selective removal of the mutant SOD1 gene from astrocytes, or the transplantation of healthy astroglial cells, slowed down the disease progression, attenuated motoneuron loss and increased the lifespan in SOD1 transgenic mice (Lepore et al., 2008; Yamanaka et al., 2008), indicating the involvement of astroglial cells in the neurodegeneration process.
+      
+    
+    
+      Therapeutic Approaches in ALS
+      Given the complexity of ALS pathogenesis, to date there is no effective treatment to cure or significantly ameliorate the quality of life of patients. Nevertheless, several therapeutic strategies have been proposed to relieve symptoms and improve the quality of life of ALS patients.
+      
+        Pharmacological Therapy
+        The only drug approved by the US Food and Drug Administration is riluzole (2-amino-6-trifluoromethoxy benzothiazole, also known as rilutek), that acts as an inhibitor of glutamate release from the presynaptic terminals by blocking voltage-gated sodium channels, thus limiting glutamate excitotoxicity. Moreover, riluzole has other neuroprotective pharmacological actions, including the modulation of the NMDA ionotropic receptors, inactivation of voltage-dependent sodium channels and inhibition of the uptake of the inhibitory neurotransmitter γ–aminobutyric acid (Gurney et al., 1998). In vitro studies have demonstrated that riluzole protects motoneuron cell lines from glutamate stress, blocking excitotoxic damage (Doble, 1997). Neuroprotection has also been observed in vivo in models of ALS, in which treatment with the drug before the onset prolongs survival and slows neurodegeneration, improving motor performance of the treated animals (Gurney et al., 1998). However, the clinical use of riluzole (100 mg daily) prolongs the life of patients by 3 months, although the results obtained in clinical trials are often controversial (Miller et al., 2012). The beneficial effect is very modest: only a small beneficial effect in both bulbar and limb functions but no effect on muscle strength were found (Musarò, 2013). In some studies, the neuroprotective effect of riluzole was examined in combination with other drugs. Rasagiline is an antiapoptotic drug which reduces oxidative stress (by inhibition of monoamine oxidase B) and preserves mitochondrial membrane potential. The combined treatment of rasagiline with riluzole determined a dose-dependent improvement in motor performance and extended survival in SOD1(G93A) mice more than treatments in which rasaligine was administered alone (Waibel et al., 2004). Given the modest efficacy and the high cost, doubts persist about the clinical administration of these drugs and additional studies are needed to improve their clinical effect.
+        Since loss of neurotrophic support to motoneurons has been proposed as mechanism contributing to ALS, several studies have reported that increased levels of growth factors (such as insulin-like growth factor 1, glial cell line derived growth factor and ciliary neurotrophic factors) have a positive effect in experimental models of the disease (Gould and Oppenheim, 2011), promoting neuron hypertrophy and survival. In particular, in animal models, the efficacy of growth factors delivered by viral-mediated gene (to stimulate the secretion of specific trophic factors to target cells) or by directed infusion of the trophic factors in the spinal cord or in the brain provided a modest benefit slowing down disease progression and increasing survival of the animals (Boillée et al., 2006a). However, human trials based on the use of neurotrophic factors showed modest or no effects (Beghi et al., 2011).
+        These pharmacological strategies are directed against one or a few altered mechanisms involved in ALS and their use has only a minimal impact on the disease course. Probably, for an efficient therapeutic approach it could be helpful to counteract different pathogenetic mechanisms involved in the disease. For this reason, since the transplantation of stem cells and gene therapy can act via multiple mechanisms, in the last years an increasing interest has been addressed to these therapeutic approaches.
+      
+      
+        Gene Therapy
+        ALS can be caused by dominant mutations in SOD1 that give toxic property to the mutant protein. Since the complete absence of the SOD1 gene does not cause the disease in mice (Reaume et al., 1996), the SOD1 gene silencing has been regarded as an interesting possibility to limit the course of the pathology. In particular, a lentivirus encoding for a RNA silencing (siRNA) that catalyzes the selective degradation of SOD1-mRNA was used in this approach. The injection of this virus in the muscle or directly in the spinal cord of transgenic mouse models of ALS reduced SOD1 expression delaying the neurodegeneration, but data about the slowing down of the disease progression and survival are controversial (Ralph et al., 2005; Raoul et al., 2005). Moreover, this approach could be used only for a familial form of ALS and not for sALS which represents the majority of cases.
+        An antisense oligonucleotide directed to SOD1-mRNA was found to decrease the concentration of SOD1 mRNA and related protein in the spinal cord, prolonging survival in the SOD1(G93A) rat model of the disease (Smith et al., 2006). After this encouraging result, to date the only clinical trial performed in phase I has shown the safety, tolerability and pharmacokinetics of this antisense oligonucleotide (Miller et al., 2013). Despite the small number of patients, the study showed that the intrathecal administration of antisense oligonucleotide is safe and well-tolerated. However, antisense oligonucleotides do not cross the blood-brain barrier (BBB) and, to cure ALS patients, they should be delivered directly to the CNS (O’Connor and Boulis, 2015), which is difficult to achieve. Moreover, this type of treatment requires a constant infusion of repeated doses of the antisense nucleotide. Gene therapy requires to be optimized for a successful approach to neurodegenerative diseases.
+      
+      
+        Stem Cell Therapy
+        Stem cells are becoming a promising therapeutic approach to neuronal replacement and regeneration, becoming a source of great hope and expectation for patients affected by different neurodegenerative diseases, including ALS. The use of stem cells as therapeutic approach is of great interest given their ability to home to damaged sites, stimulate tissue repair and regeneration, and direct their differentiation in response to extracellular signals (Faravelli et al., 2014).
+        Stem cells are a group of cells with the ability of self-renewal and to differentiate in many cell types. They are usually divided in two major subtypes: embryonic stem cells (ESC), originated from the inner cell mass of blastocyst and that possess the ability to produce all the three germ layers; adult stem cells, specialized cells that can differentiate into many cell types of different organs, usually determined by the germ layer of origin (Meamar et al., 2013). Among the different stem cell types, the most common used for neurological diseases are: ESC, neural stem cells (NSC), MSC and induced pluripotent stem cells (iPSC). The best source of stem cells should be chosen on the basis of their biological features to survive, migrate to the damaged tissues, engraft and differentiate (Faravelli et al., 2014).
+        The main objectives of the treatment with stem cells are cellular replacement and neural protection. The first objective would be achieved by the stem cell differentiation into specific cell subtypes involved in the disease, with the purpose to replace dead cells. The second objective involves the use of stem cells based on their ability to release trophic factors and to remove neurotoxic molecules, providing a local support in the microenvironment of the damaged area, acting as neural protectors.
+        Among the different types of stem cells used in the treatment of neurodegenerative diseases, MSC seem to have aroused the highest interest as promising candidates (Baglio et al., 2012). MSC can be isolated from a variety of fetal and adult tissues, such as skeletal muscle, placenta, umbilical cord, blood and adipose tissue. Adipose tissue is gaining increasing interest because it is available in large amount from liposuction, allowing autologous transplantation of adipose-derived MSC (ASC).
+        There are several technical advantages in the application of MSC. First of all, their isolation is safe and easy, their expansion in vitro is simple and it was demonstrated, both in vitro and in vivo, that they can differentiate in neural-like, glial-like and astrocytic-like cells (Marconi et al., 2013; Haidet-Phillips and Maragakis, 2015). MSC are less susceptible to tumoral changes and do not require immunosuppressive treatment to prevent rejection given the possibility of autologous transplantation. Moreover, as the other stem cells, after transplantation and migration, MSC are attracted to the damaged area, where they increase the release of neurotrophic factors (Meamar et al., 2013).
+        Several studies have provided evidence for the efficacy of MSC in in vivo models of ALS, demonstrating that their injections can delay the death of motoneurons, decrease the inflammatory response and may prolong survival of the animals. Results of some preclinical studies in in vivo models of ALS with MSC are reported in Table 1.
+        
+          Table 1
+          
+            Applications of mesenchymal stem cells (MSC) in amyotrophic lateral sclerosis (ALS) models.
+          
+          
+            
+              
+                ALS model
+                Stem cell type
+                Injection specifics
+                Results
+                References
+              
+            
+            
+              
+                SOD1(G93A) mouse
+                hBM-MSC
+                Intraspinal (105 cells) Presymptomatic (week 28)
+                Improvement of motor performance, migration and engraftment of MSC in the spinal cord, prevention of astroglial and microglial activation
+                Vercelli et al. (2008)
+              
+              
+                SOD1(G93A) rat
+                rHSC
+                Intrathecal (2 × 106 cells) Clinical onset (week 12)
+                Reduction of motoneurons death and inflammation, improvement of motor functions and extended survival
+                Boucherie et al. (2009)
+              
+              
+                SOD1(G93A) mouse
+                hBM-MSC
+                Intrathecal (106 cells) Presymptomatic (week 8)
+                Improvement of motor performance, reduction of motoneuron death and prolonged lifespan
+                Kim et al. (2010)
+              
+              
+                SOD1(G93A) rat
+                rMSC
+                Intraspinal (105 cells) and intravenous (2 × 106 cells) Clinical onset (week 16)
+                Improvement of motor performance, increase of survival, migration and engraftment of MSC in the spinal cord
+                Forostyak et al. (2011)
+              
+              
+                SOD1(G93A) mouse
+                hBM-MSC transfected with GLP-1
+                Intracerebroventricular (2.8 × 103 cells) Presymptomatic (week 5)
+                Improvement of motor performance, delay of disease onset and survival
+                Knippenberg et al. (2012)
+              
+              
+                SOD1(G93A) mouse
+                mBM-MSC
+                Intravenous (3 × 106 cells) Clinical onset (week 12)
+                Improvement of motor functions and survival. Reduction of oxidative stress; limited migration and engraftment of MSC in the spinal cord
+                Uccelli et al. (2012)
+              
+              
+                SOD1(G93A) mouse
+                mASC
+                Intravenous (2 × 106 cells) Clinical onset (week 11)
+                Improvement of motor functions, delay of motoneuron death, limited migration and engraftment of MSC in the spinal cord, modulation of neurotrophic molecules.
+                Marconi et al. (2013)
+              
+              
+                SOD1(G93A) mouse
+                hBM-MSC
+                Intracisternal (3 × 105 cells) Clinical onset (week 16–18)
+                Delay of motoneuron death, reduction of astrogliosis, modulation of microglial activation, increase of IL-13 expression
+                Boido et al. (2014)
+              
+            
+          
+        
+        Due to the positive results obtained in in vivo models of the disease, in the last years numerous cell-based clinical trials for ALS have used MSC, and have reported the feasibility, safety and immunological effects of administration of MSC to ALS patients (Table 2).
+        
+          Table 2
+          
+            Clinical applications of MSCs in ALS patients.
+          
+          
+            
+              
+                Stem cell type and specifics
+                Delivery method/Cell number
+                Trial status and details
+                References
+              
+            
+            
+              
+                Autologous BM-MSC
+                Intraspinal (14–60 × 106 cells)
+                The approach is safe and feasible. Some patients demonstrate electroneuromyography improvements
+                Deda et al. (2009)
+              
+              
+                Autologous BM-MSC
+                Intrathecal (54.7 × 106 ± 17.4 × 106 cells) Intravenous (23.4 ± 6 × 106 cells)
+                The approach is safe, feasible and induces immediate immunomodulatory effects. Phase I complete, Phase II open to evaluate preliminary effects at various doses of cells
+                Karussis et al. (2010)
+              
+              
+                Autologous BM-MSC
+                Intraspinal (15–110 × 106 cells)
+                The approach is safe and feasible, with no signs of toxicity, adverse events or abnormal cell growth. Phase I complete; no long-term harmful consequences, however disease progression did not appear to be slowed
+                Mazzini et al. (2010); Mazzini et al. (2012)
+              
+              
+                Autologous BM-MSC
+                Intraspinal (138–602.87 × 106 cells)
+                The approach is safe and feasible. No acceleration in decline noted and an increase in spinal cord motoneurons numbers were identify after autopsy
+                Blanquer et al. (2012)
+              
+              
+                Autologous BM-MSC
+                Intraventricular (1 × 106 cells/kg)
+                The approach is safe and feasible
+                Baek et al. (2012)
+              
+              
+                Autologous BM-MSC
+                Motor cortex (2.5–7.5 × 105 cells)
+                The approach is safe and feasible, with a higher significant survival in treated patients
+                Martinez et al. (2009); Martínez et al. (2012)
+              
+              
+                Autologous BM-MSC and neural-induced MSC
+                Intravenous (42–102 × 106 cells) and intralumbar (5–9.7 × 102 × 106 cells)
+                The approach is safe and delay the disease progression, improving the quality of life of patients
+                Rushkevich et al. (2015)
+              
+              
+                Autologous BM-MSC
+                Intrathecal (1–2 × 106 cells) Intramuscular (1–48 × 106 cells)
+                The approach is safe and feasible. Phase I complete, Phase II open to evaluate preliminary effects at various doses of cells
+                Petrou et al. (2016)
+              
+            
+          
+        
+        However, despite stem cell-mediated therapy represents a new promising approach to cure ALS and other neurodegenerative disorders, to date no significant effects on the disease progression have been obtained compared to placebo-treated controls and key issues need to be solved before extensive clinical translation. First, it is necessary to identify the delivery of the cells to the CNS using standardized protocols and considering the route of administration, the dose of cells, the timing and the number of cell-injections. Moreover, given the high proliferative capacity of stem cells, the oncogenic transformation of transplanted cells should be prevented and their immunorejection avoided.
+        After the demonstration that only a small proportion of injected stem cells can reach, engraft and differentiate in the site of injury, the idea that the beneficial effect of stem cells is indirect and most probably depends on their paracrine activity is becoming more pervasive (Baglio et al., 2012; Maumus et al., 2013; Lai et al., 2015). Stem cells produce a large spectrum of EVs which contain cytokines, chemokines, growth factors, proteins and nucleic acids, and can exert significant effects on cells, mediating cell-cell communication. These observations led to the hypothesis that stem cells exert their beneficial effect through the secretion of EVs which enhance the repair of the damaged area releasing their content. Thus, EVs could be used as a novel cell-free therapeutic approach, avoiding all the risks associated with the use of cells.
+      
+    
+    
+      Extracellular Vesicles
+      Intercellular communication plays a fundamental role in multicellular organisms. It can be mediated through a direct contact between cells or by the secretion of molecules, such as growth factors, chemokines and cytokines, exerting their effect on cells in their proximity. In the last decades, a novel mechanism of cell communication has been proposed and involves intercellular transfer of EVs. These vesicles represent a vehicle to transfer membrane and cytoplasmic proteins, lipids and nucleic acids between cells, becoming an integral part of the intercellular microenvironment and playing a role in many physiological and pathological processes.
+      EVs are spherical particles enclosed by a phospholipid bilayer. They can be distinguished on the basis of their size (ranging from 30 nm to 1000 nm in diameter), lipid and protein composition, sedimentation rate, flotation density on a sucrose cargo and biogenesis pathway (Maumus et al., 2013; Lai et al., 2015). According to the biogenesis, morphology, protein compositions and size, EVs are classified as microvesicles and exosomes.
+      
+        Microvesicles
+        Microvesicles (also known as shedding vesicles) range from 150 nm to 1000 nm in diameter, although the size ranges of microvesicles and exosomes may overlap, especially when vesicles are isolated from biological fluids (György et al., 2011). Microvesicles are released by budding from the plasma membrane through a process dependent on intracellular calcium concentration, calpain and cytoskeleton reorganization, unlike exosomes, whose release is independent of cell calcium influx (Maumus et al., 2013). Calcium ions are responsible for the changes in phospholipid distribution in the plasma membrane, which is of primary importance for the formation of cytoplasmic protrusions (Biancone et al., 2012). Microvesicles are surrounded by a phospholipid bilayer and contain proteins, lipids and nucleic acids depending on the cell of origin. A typical characteristic of these vesicles is that they usually contain proteins associated with lipid rafts and cholesterol, sphingomyelin, ceramide and phosphatidylserine (Biancone et al., 2012).
+      
+      
+        Exosomes
+        Exosomes are EVs produced by almost all cell types, with a diameter ranging from 30 nm to 100 nm and a flotation density of 1.10–1.18 g/ml (Lai et al., 2015). They are present in many biological fluids, including urine, saliva, blood, amniotic fluid and CSF, as well as in a conditioned medium of cell culture (Kourembanas, 2015). The most commonly used techniques for their isolation are represented by ultracentrifugation, ultrafiltration and immunoprecipitation, although many isolation kits are currently available (Maumus et al., 2013; Raposo and Stoorvogel, 2013).
+        The morphology of exosomes is described as “cup shaped” after visualization by transmission electron microscopy. They are surrounded by a phospholipid bilayer and contain many characteristic proteins, lipids and functional RNAs, in particular mRNAs and microRNA (miRNAs) that can be transferred between cells. Concerning protein composition, exosomes from different cell types present typical endosome-associated proteins (as GTPase and Alix) or membrane proteins (as tetraspanin CD63, CD9, CD81 and heat-shock proteins Hsp70 and Hsp90) involved in their biogenesis, transport and fusion (Raposo and Stoorvogel, 2013).
+        The cargo and composition of exosomes are unique and depend in part from the cell of origin and its physiological state (Jarmalavičiūtė and Pivoriūnas, 2016). Exosomes derived from diseased cells are usually implicated in the spread of pathological processes or in the propagation of diseases, while exosomes derived from stem cells can be used as therapeutic tools (Jarmalavičiūtė and Pivoriūnas, 2016). Many studies on the biochemical composition of exosomes have been performed. The results on the composition of exosomes in terms of proteins, nucleic acids and lipids are reported in the database ExoCarta1, recently incorporated in another database, Vesiclepedia, which includes data from all types of EVs (Mathivanan et al., 2012; Raposo and Stoorvogel, 2013).
+        Some of the properties (such as size and morphology) of exosomes overlap with those of microvesicles, but exosomes are the only class known to have an endosomal origin, distinguishing them from other vesicles. Exosomes originate from invagination and endocytosis of the plasma membrane. These early endosomes mature through a series of transformation and changes in protein content to become late endosomes. The membranes of late endosomes give rise to vesicles ranging from 30 to100 nm in size (exosomes), contained in multivesicular bodies which during this phase have incorporated proteins (from plasma membrane and Golgi complex), lipids and nucleic acids (Zhang et al., 2016). The multivesicular bodies can be degraded in lysosomes or can be fused with the plasma membrane, releasing exosomes in the extracellular environment.
+        Released exosomes can act in a paracrine or endocrine manner, modifying the behavior of adjacent or distant cells. The role of exosomes in physiological and pathological processes depends on their ability to interact with recipient cells to deliver their content. In particular, the vesicles can be internalized by recipient cells by endocytosis, by fusion or after contact with surface receptors (Raposo and Stoorvogel, 2013; Kourembanas, 2015).
+      
+      
+        Functions of Extracellular Vesicles in Intercellular Communication
+        Once secreted from the cells, exosomes and microvesicles can interact with adjacent or distant recipient cells and deliver their cargo, modulating their activities. In addition to providing biologically active molecules, EVs protect these molecules against degradation until they reach the target site, and facilitate their uptake from the recipient cells. The uptake can be direct, by fusion with the target cell or by endocytosis, or indirect, mediated by receptor binding. The fusion of EVs with the plasma membrane determines the direct release of the content of EVs inside the cells, while, with the other mechanisms, EVs remain within the endosome until they fuse with the endosome membrane, releasing their content into the cytoplasm. Alternatively, endosomes can fuse with lysosomes, leading to the degradation of the vesicles and their content (Turturici et al., 2014).
+        The proteins and functional RNAs contained in the EVs are implicated in many biochemical and cellular processes, such as communication, inflammation, tissue repair and regeneration, cell differentiation, as well as metabolism (Lai et al., 2015).
+        The cargo, and therefore the functions, of EVs depend on the phenotype of the cell of origin. Nevertheless, it has been shown that a selective enrichment of specific molecules occurs: some proteins and, above all, functional RNAs are preferentially sorted to EVs and released through them (Li et al., 2013) and the selective fate of molecules into the EVs is finely regulated in both physiological and pathological conditions. During development, secreted EVs contain morphogens (such as sonic hedgehog and retinoic acid), playing an important role in developmental signaling and morphogenesis (Greco et al., 2001). EVs also contain bioactive lipids that can stimulate cytokine secretion, induce chemotaxis or inhibit apoptosis (Turturici et al., 2014). EVs released from tumor cells contain molecules which stimulate proliferation, angiogenesis and metastasis (Turturici et al., 2014). Moreover, in this case, cells release EVs containing caspase-3 and Fas ligand, allowing tumor cells to escape from apoptosis and immunosurveillance.
+        Concerning EVs secreted from stem cells, it was hypothesized that they can be involved in self-renewal and the pluripotency typical of these cells, and that they can play key roles in signaling within the stem cell niche.
+        Recently, more attention has been given to the ability of EVs to transfer genetic information between cells, in particular mRNAs and miRNAs. Intercellular communication based on these functional RNAs require the selectively compartmentation of RNAs in an appropriate vehicle, the protection from circulating RNAses, and the ability of RNA to retain the capability to control gene expression. For these reasons, EVs represent an optimal candidate for genetic exchange between cells, modulating the behavior of recipient cells. Exosomes released from MSC may regulate neurite outgrowth and neural plasticity by the transfer of miRNA-133b (Xin et al., 2012). Exosomes obtained from bone marrow-MSC (BM-MSC) contain miRNA-21 and miRNA-222 which are involved in cell proliferation and differentiation (Collino et al., 2010). This indicates that the biological effects on the neighboring cells can be, in part, regulated by shuttled-RNA of EVs.
+      
+      
+        Therapeutic Applications of Exosomes
+        Since exosomes and microvesicles can transfer biological information over long distance, increasing attention has been paid to these vesicles as promoters of suppressors of pathological processes. As exosomes are smaller than microvesicles and capable to cross the BBB, here we will focus on the use of exosomes as a potential therapeutic tool in neurodegenerative diseases, such as ALS, Alzheimer’s and Parkinson’s diseases.
+        There is evidence that infusion of exosomes isolated from neuroblastoma or primary neurons into the brain ameliorates Alzheimer’s disease course in a mouse model, sequestering intracerebral amyloid-β (Aβ) peptide (Yuyama et al., 2015).
+        Another cellular source to obtain exosomes is represented by MSC and several studies have demonstrated the neuroprotective effects of these exosomes. In particular, exosomes derived from MSC isolated from dental pulp protected dopaminergic neurons against neurodegeneration induced by 6-hydroxy-dopamine oxidative stress, reducing the production of ROS and consequently apoptosis, indicating a potential therapeutic use of exosomes in the treatment of Parkinson’s disease (Jarmalavičiūtė et al., 2015). Another study reported that exosomes isolated from adipose tissue-MSC decrease the levels of Aβ in an in vitro model of Alzheimer’s disease, thanks to the high level of neprilysin (an important protein for the proteolysis of Aβ, whose activity and expression decrease during the disease) contained in the exosomes (Katsuda et al., 2013). The neuroprotective effect of exosomes obtained from ASC was also demonstrated in human neuroblastoma cell line and primary murine hippocampal neurons after an oxidative insult (Farinazzo et al., 2015). Moreover, exosomes derived from BM-MSC have been used to improve recovery and neuroregeneration after stroke and traumatic brain injury (Xin et al., 2013; Zhang et al., 2015).
+        We recently demonstrated that exosomes isolated from ASC exert a neuroprotective effect in an in vitro model of ALS (Bonafede et al., 2016). In this study, we used the motoneuron-like cell line NSC-34 transiently and stable transfected with different SOD1 point mutations to mimic the behavior of ALS motoneurons, and H2O2 as pathological insult. The presence of exosomes increased ALS motoneuron survival, probably counteracting the apoptosis pathway, underlining their possible therapeutic application to ALS. Another study demonstrated the possible application of ASC derived exosomes in ALS, reducing mutant SOD1 aggregation and restoring mitochondrial protein function (Lee et al., 2016a). Moreover, exosomes derived from ASC ameliorated the disease progression in an in vitro model of Huntington’s disease, reducing huntingtin protein aggregates and the level of apoptotic proteins (Lee et al., 2016b). Altogether, these studies indicate a protective beneficial role of exosomes in different neurodegenerative diseases.
+        Increasing evidence suggests that exosomes display anti-inflammatory properties, reducing the number of activated inflammatory microglial cells, supporting oligodendrocytes and protecting neurons (Zhuang et al., 2011; Pusic et al., 2014). Moreover, exosomes injected intranasally are transported rapidly to the brain, where they can be taken up by microglial cells (Zhuang et al., 2011). Since, as stated above, neuroinflammation is a common feature of neurodegenerative diseases, the suppression of the neuroinflammatory response and the possibility to reach easily the CNS are of great importance for the treatment of these pathologies.
+        The increasing attention to the use of exosomes for the treatment of neurodegenerative diseases derives from the capability of exosomes to cross the BBB, the physiological barrier that separates the brain parenchyma from circulating blood in the CNS. As mentioned before, current treatments for neurodegenerative diseases are often symptomatic and do not halt the degenerative processes; the main problem for the cure of these pathologies is the inability of cells and drugs to cross the BBB. Recent studies have reported that exosomes, unlike microvesicles, can cross the BBB: the hypothesis is that exosomes are internalized by endothelial cells and, through the release of specific cargo, they affect the integrity of cell junctions increasing permeability between cells and allowing a massive entry of vesicles in the CNS (Zhou et al., 2014; Tominaga et al., 2015; Jarmalavičiūtė and Pivoriūnas, 2016), where they could exert neuroprotective actions (Figure 2).
+        
+          Figure 2
+          
+            Hypothetical mechanisms of action of exosomes. Exosomes interact with the endothelial cells of the blood-brain barrier (BBB) modifying the integrity of cell junctions and increasing the permeability between cells. This mechanism allows a massive entry of vesicles in the central nervous system (CNS). Once in the CNS, exosomes could interact directly on motoneurons (arrows) modulating different biological processes (such as apoptosis, cell proliferation, gene expression and oxidative stress) or indirectly modifying the local motoneuron environment, acting on glial cells that decrease the release of toxic factor and inflammatory mediators (dotted arrows). These direct and indirect mechanisms of action of exosomes could counteract the pathological mechanisms involved in the disease.
+          
+          
+        
+        In this regards, we recently set up a protocol to label exosomes with superparamagnetic iron oxide nanoparticles, and the use of labeled exosomes, which allows their detection by magnetic resonance imaging, could be useful to verify this hypothesis (Busato et al., 2016).
+      
+    
+    
+      Conclusions and Future Perspectives
+      The scientific interest on MSC as potential therapeutic approach in neurodegenerative diseases is due to their ability to migrate to damaged tissues, differentiate and contribute to reparative processes (Faravelli et al., 2014). Besides these characteristics, ASC are also easily available and can be used for autologous transplantation, avoiding possible cell rejection (Marconi et al., 2013). These properties make ASC a candidate for cell therapy based on cell replacement and cell differentiation. These features have led different research groups to use ASC as possible therapy for ALS. In a study on the effects of ASC systemic administration in a murine model of ALS we have demonstrated that the treatment delayed signs of motor deterioration although a limited amount of ASC in the site of injury was detected (Marconi et al., 2013). Since the beneficial effects of ASC could be due to paracrine activity rather than to their engraftment, the scientific community has shifted the focus from cells to EVs, which, thanks to their content, can recapitulate the ASC effects and could potentially provide the basis for a non-cell-based therapy for the treatment of ALS. This innovative therapy would be easy to transfer to ALS patients since the EVs would be obtained from autologous ASC and would preserve the immune properties of their origins, avoiding immunogenic reaction.
+      In view of a possible application of EVs to ALS, a disease in which the BBB is not disrupted, the vesicles need to cross the BBB to reach the site of injury and, among EVs, exosomes have the required characteristics. To test the effects of exosomes in ALS, we have recently demonstrated that the administration of exosomes in an in vitro model of ALS exerts a neuroprotective effect following an oxidative insult, supporting the idea that exosomes can recapitulate and ameliorate the neuroprotective effect of stem cell therapy (Bonafede et al., 2016).
+      The evaluation of the exosomes content, in terms of proteins, mRNAs and miRNAs, and their correlation with a specific cellular pathway involved in ALS, could pave the way to explain their mechanism of action. Moreover, the understanding of the involved pathways could lead to the generation of engineered cells which release exosomes enriched with specific molecules. This could lead to a targeted exosome therapy in ALS.
+    
+    
+      Author Contributions
+      RB and RM designed and wrote the review.
+    
+    
+      Conflict of Interest Statement
+      The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    
+  
+
+    
+      The authors are grateful to Marco Veronese for his help in designing the figures. The preparation of this article has been partially supported by “Viva la Vita—Italia Onlus”.
+    
+    
+      
+        
+          1
+          http://www.exocarta.org
+        
+      
+    
+    
+      References
+      
+        Al-ChalabiA.AndersenP. M.NilssonP.ChiozaB.AnderssonJ. L.RussC.. (1999). Deletions of the heavy neurofilament subunit tail in amyotrophic lateral sclerosis. Hum. Mol. Genet.
+8, 157–164. 10.1093/hmg/8.2.1579931323
+      
+      
+        AlfahadT.NathA. (2013). Retroviruses and amyotrophic lateral sclerosis. Antiviral Res.
+99, 180–187. 10.1016/j.antiviral.2013.05.00623707220
+      
+      
+        AlmerG.VukosavicS.RomeroN.PrzedborskiS. (1999). Inducible nitric oxide synthase up-regulation in a transgenic mouse model of familial amyotrophic lateral sclerosis. J. Neurochem.
+72, 2415–2425. 10.1046/j.1471-4159.1999.0722415.x10349851
+      
+      
+        AppelS. H.ZhaoW.BeersD. R.HenkelJ. S. (2011). The microglial-motoneuron dialogue in ALS. Acta Myol.
+30, 4–8. 21842586
+      
+      
+        ArmonC. (2003). An evidence-based medicine approach to the evaluation of the role of exogenous risk factors in sporadic amyotrophic lateral sclerosis. Neuroepidemiology
+22, 217–228. 10.1159/00007056212792141
+      
+      
+        BacmanS. R.BradleyW. G.MoraesC. T. (2006). Mitochondrial involvement in amyotrophic lateral sclerosis: trigger or target?
+Mol. Neurobiol.
+33, 113–131. 10.1385/MN:33:2:11316603792
+      
+      
+        BaekW.KimY. S.KohS. H.LimS. W.KimH. Y.YiH. J.. (2012). Stem cell transplantation into the intraventricular space via an Ommaya reservoir in a patient with amyotrophic lateral sclerosis. J. Neurosurg. Sci.
+56, 261–263. 22854595
+      
+      
+        BaglioS. R.PegtelD. M.BaldiniN. (2012). Mesenchymal stem cell secreted vesicles provide novel opportunities in (stem) cell-free therapy. Front. Physiol.
+3:359. 10.3389/fphys.2012.0035922973239
+      
+      
+        BeckmanJ. S.EstévezA. G.CrowJ. P.BarbeitoL. (2001). Superoxide dismutase and the death of motoneurons in ALS. Trends Neurosci.
+24, S15–S20. 10.1016/s0166-2236(00)01981-011881740
+      
+      
+        BeersD. R.HenkelJ. S.XiaoQ.ZhaoW.WangJ.YenA. A.. (2006). Wild-type microglia extend survival in PU.1 knockout mice with familial amyotrophic lateral sclerosis. Proc. Natl. Acad. Sci. U S A
+103, 16021–16026. 10.1073/pnas.060742310317043238
+      
+      
+        BeghiE.ChiòA.CouratierP.EstebanJ.HardimanO.LogroscinoG.. (2011). The epidemiology and treatment of ALS: focus on the heterogeneity of the disease and critical appraisal of therapeutic trials. Amyotroph. Lateral Scler.
+12, 1–10. 10.3109/17482968.2010.50294020698807
+      
+      
+        BendottiC.CarrìM. T. (2004). Lessons from models of SOD1-linked familial ALS. Trends Mol. Med.
+10, 393–400. 10.1016/j.molmed.2004.06.00915310460
+      
+      
+        BergemalmD.JonssonP. A.GraffmoK. S.AndersenP. M.BrännströmT.RehnmarkA.. (2006). Overloading of stable and exclusion of unstable human superoxide dismutase-1 variants in mitochondria of murine amyotrophic lateral sclerosis models. J. Neurosci.
+26, 4147–4154. 10.1523/JNEUROSCI.5461-05.200616624935
+      
+      
+        BergerM. M.KoppN.VitalC.RedlB.AymardM.LinaB. (2000). Detection and cellular localization of enterovirus RNA sequences in spinal cord of patient with ALS. Neurology
+54, 20–25. 10.1212/WNL.54.1.2010636120
+      
+      
+        Bernard-MarissalN.MoumenA.SunsyachC.PellegrinoC.DudleyK.HendersonC. E.. (2012). Reduced calreticulin levels link endoplasmic reticulum stress and Fast-riggered cell death in motoneurons vulnerable to ALS. J. Neurosci.
+32, 4901–4912. 10.1523/JNEUROSCI.5431-11.201222492046
+      
+      
+        BianconeL.BrunoS.DeregibusC.TettaC.CamussiG. (2012). Therapeutic potential of mesenchymal stem cell-derived microvesicles. Nephrol. Dial. Transplant.
+27, 3037–3042. 10.1093/ndt/gfs16822851627
+      
+      
+        BlanquerM.MoraledaJ. M.IniestaF.Gómez-EspuchJ.Meca-LallanaJ.VillaverdeR.. (2012). Neurotrophic bone marrow cellular nests prevent spinal motoneuron degeneration in amyotrophic lateral sclerosis patients: a pilot safety study. Stem Cells
+30, 1277–1285. 10.1002/stem.108022415951
+      
+      
+        BoidoM.PirasA.ValsecchiV.SpigolonG.MareschiK.FerreroI.. (2014). Human mesenchymal stromal cell transplantation modulates neuroinflammatory milieu in a mouse model of amyotrophic lateral sclerosis. Cytotherapy
+16, 1059–1072. 10.1016/j.jcyt.2014.02.00324794182
+      
+      
+        BoilléeS.Vande VeldeC.ClevelandD. W. (2006a). ALS: a disease of motor neurons and their non neuronal neighbors. Neuron
+52, 39–59. 10.1016/j.neuron.2006.09.01817015226
+      
+      
+        BoilléeS.YamanakaK.LobsigerC. S.CopelandN. G.JenkinsN. A.KassiotisG.. (2006b). Onset and progression in inherited ALS determined by motor neurons and microglia. Science
+312, 1389–1392. 10.1126/science.112351116741123
+      
+      
+        BonafedeR.ScambiI.PeroniD.PotrichV.BoschiF.BenatiD.. (2016). Exosome derived from murine adipose-derived stromal cells: neuroprotective effect on in vitro model of amyotrophic lateral sclerosis. Exp. Cell Res.
+340, 150–158. 10.1016/j.yexcr.2015.12.00926708289
+      
+      
+        BorcheltD. R.LeeM. K.SluntH. S.GuarnieriM.XuZ. S.WongP. C.. (1994). Superoxide dismutase 1 with mutations linked to familial amyotrophic lateral sclerosis possesses significant activity. Proc. Natl. Acad. Sci. U S A
+91, 8292–8296. 10.1073/pnas.91.17.82928058797
+      
+      
+        BoucherieC.SchäferS.Lavand’hommeP.MaloteauxJ. M.HermansE. (2009). Chimerization of astroglial population in the lumbar spinal cord after mesenchymal stem cell transplantation prolongs survival in a rat model of amyotrophic lateral sclerosis. J. Neurosci. Res.
+87, 2034–2046. 10.1002/jnr.2203819267424
+      
+      
+        BusatoA.BonafedeR.BontempiP.ScambiI.SchiaffinoL.BenatiD.. (2016). Magnetic resonance imaging of USPIO-labeled exosomes from stem cells: a new method to obtain labeled exosomes. Int. J. Nanomedicine
+11, 2481–2490. 10.2147/IJN.s10415227330291
+      
+      
+        ChenH.RichardM.SandlerD. P.UmbachD. M.KamelF. (2007). Head injury and amyotrophic lateral sclerosis. Am. J. Epidemiol.
+166, 810–816. 10.1093/aje/kwm15317641152
+      
+      
+        ChenS.SayanaP.ZhangX.LeW. (2013). Genetics of amyotrophic lateral sclerosis: an update. Mol. Neurodegener.
+8:28. 10.1186/1750-1326-8-2823941283
+      
+      
+        ClementA. M.NguyenM. D.RobertsE. A.GarciaM. L.BoilléeS.RuleM.. (2003). Wild-type non neuronal cells extend survival of SOD1 mutant motor neurons in ALS mice. Science
+302, 113–117. 10.1126/science.108607114526083
+      
+      
+        ClevelandD. W.RothsteinJ. D. (2001). From charcot to lou gehrig: deciphering selective motor neuron death in ALS. Nat. Rev. Neurosci.
+2, 806–819. 10.1038/3509756511715057
+      
+      
+        CoanG.MitchellC. S. (2015). An assessment of possible neuropathology and clinical relationships in 46 sporadic amyotrophic lateral sclerosis patient autopsies. Neurodegener. Dis.
+15, 301–312. 10.1159/00043358126183171
+      
+      
+        CollinoF.DeregibusM. C.BrunoS.SterponeL.AghemoG.ViltonoL.. (2010). Microvesicles derived from adult human bone marrow and tissue specific mesenchymal stem cells shuttle selected pattern of miRNAs. PLoS One
+5:e11803. 10.1371/journal.pone.001180320668554
+      
+      
+        ComleyL.AllodiI.NichterwitzS.NizzardoM.SimoneC.CortiS.. (2015). Motor neurons with differential vulnerability to degeneration show distinct protein signatures in health and ALS. Neuroscience
+291, 216–229. 10.1016/j.neuroscience.2015.02.01325697826
+      
+      
+        CostaJ.de CarvalhoM. (2016). Emerging molecular biomarker targets for amyotrophic lateral sclerosis. Clin. Chim. Acta
+455, 7–14. 10.1016/j.cca.2016.01.01126774696
+      
+      
+        DamianoM.StarkovA. A.PetriS.KipianiK.KiaeiM.MattiazziM.. (2006). Neural mitochondrial Ca2+ capacity impairment precedes the onset of motor symptoms in G93A Cu/Zn-superoxide dismutase mutant mice. J. Neurochem.
+96, 1349–1361. 10.1111/j.1471-4159.2006.03619.x16478527
+      
+      
+        DedaH.InciM. C.KürekçiA. E.SavA.KayihanK.OzgünE.. (2009). Treatment of amyotrophic lateral sclerosis patients by autologous bone marrow-derived hematopoietic stem cell transplantation: a 1-year follow-up. Cytotherapy
+11, 18–25. 10.1080/1465324080254947019012065
+      
+      
+        del AguilaM. A.LongstrethW. T.Jr.McGuireV.KoepsellT. D.van BelleG. (2003). Prognosis in amyotrophic lateral sclerosis: a population-based study. Neurology
+60, 813–819. 10.1212/01.WNL.0000049472.47709.3B12629239
+      
+      
+        DengH. X.HentatiA.TainerJ. A.IqbalZ.CayabyabA.HungW. Y.. (1993). Amyotrophic lateral sclerosis and structural defects in Cu,Zn superoxide dismutase. Science
+261, 1047–1051. 10.1126/science.83515198351519
+      
+      
+        DobleA. (1997). Effects of riluzole on glutamatergic neurotransmission in the mammalian central nervous system, and other pharmacological effects. Rev. Contemp. Pharmacother.
+8, 213–225.
+      
+      
+        DormannD.HaassC. (2011). TDP-43 and FUS: a nuclear affair. Trends Neurosci.
+34, 339–348. 10.1016/j.tins.2011.05.00221700347
+      
+      
+        ElliottJ. L. (2001). Cytokine upregulation in a murine model of familial amyotrophic lateral sclerosis. Mol. Brain Res.
+95, 172–178. 10.1016/s0169-328x(01)00242-x11687290
+      
+      
+        FaravelliI.RiboldiG.NizzardoM.SimoneC.ZanettaC.BresolinN.. (2014). Stem cell transplantation for amyotrophic lateral sclerosis: therapeutic potential and perspectives on clinical translation. Cell. Mol. Life Sci.
+71, 3257–3268. 10.1007/s00018-014-1613-424699704
+      
+      
+        FarinazzoA.TuranoE.MarconiS.BistaffaE.BazzoliE.BonettiB. (2015). Murine adipose-derived mesenchymal stromal cell vesicles: in vitro clues for neuroprotective and neuroregenerative approaches. Cytotherapy
+17, 571–578. 10.1016/j.jcyt.2015.01.00525743633
+      
+      
+        ForostyakS.JendelovaP.KapcalovaM.ArboledaD.SykovaE. (2011). Mesenchymal stromal cells prolong the lifespan in a rat model of amyotrophic lateral sclerosis. Cytotherapy
+13, 1036–1046. 10.3109/14653249.2011.59252121736505
+      
+      
+        ForsgrenL.AlmayB. G.HolmgrenG.WallS. (1983). Epidemiology of motor neuron disease in northern Sweden. Acta Neurol. Scand.
+68, 20–29. 10.1111/j.1600-0404.1983.tb04810.x6604389
+      
+      
+        FukadaK.ZhangF.VienA.CashmanN. R.ZhuH. (2004). Mitochondrial proteomic analysis of a cell line model of familial amyotrophic lateral sclerosis. Mol. Cell. Proteomics
+3, 1211–1223. 10.1074/mcp.m400094-mcp20015501831
+      
+      
+        FukaiT.Ushio-FukaiM. (2011). Superoxide dismutases: role in redox signaling, vascular function, and disease. Antioxid. Redox Signal.
+15, 1583–1606. 10.1089/ars.2011.399921473702
+      
+      
+        GouldT. W.OppenheimR. W. (2011). Motor neuron trophic factors: therapeutic use in ALS?
+Brain Res. Rev.
+67, 1–39. 10.1016/j.brainresrev.2010.10.00320971133
+      
+      
+        GrecoV.HannusM.EatonS. (2001). Argosomes: a potential vehicle for the spread of morphogens through epithelia. Cell
+106, 633–645. 10.1016/S0092-8674(01)00484-611551510
+      
+      
+        GuoH.LaiL.ButchbachM. E.StockingerM. P.ShanX.BishopG. A.. (2003). Increased expression of the glial glutamate transporter EAAT2 modulates excitotoxicity and delays the onset but not the outcome of ALS in mice. Hum. Mol. Genet.
+12, 2519–2532. 10.1093/hmg/ddg26712915461
+      
+      
+        GurneyM. E.FleckT. J.HimesC. S.HallE. D. (1998). Riluzole preserves motor function in a transgenic model of familial amyotrophic lateral sclerosis. Neurology
+50, 62–66. 10.1212/wnl.50.1.629443458
+      
+      
+        GyörgyB.MódosK.PállingerE.PálócziK.PásztóiM.MisjákP.. (2011). Detection and isolation of cell-derived microparticles are compromised by protein complexes resulting from shared biophysical parameters. Blood
+117, e39–e48. 10.1182/blood-2010-09-30759521041717
+      
+      
+        Haidet-PhillipsA. M.MaragakisN. J. (2015). Neural and glial progenitor transplantation as a neuroprotective strategy for amyotrophic lateral sclerosis (ALS). Brain Research.
+1628, 343–350. 10.1016/j.brainres.2015.06.03526187754
+      
+      
+        HigginsC. M. J.JungC.XuZ. (2003). ALS-associated mutant SOD1G93A causes mitochondrial vacuolation by expansion of the intermembrane space and by involvement of SOD1 aggregation and peroxisomes. BMC Neurosci.
+4:16. 10.1186/1471-2202-4-1612864925
+      
+      
+        HillS. J.MordesD. A.CameronL. A.NeubergD. S.LandiniS.EgganK.. (2016). Two familial ALS proteins function in prevention/repair of transcription-associated DNA damage. Proc. Natl. Acad. Sci. U S A
+113, E7701–E7709. 10.1073/pnas.161167311327849576
+      
+      
+        HowlandD. S.LiuJ.SheY.GoadB.MaragakisN. J.KimB.. (2002). Focal loss of the glutamate transporter EAAT2 in a transgenic rat model of SOD1 mutant-mediated amyotrophic lateral sclerosis (ALS). Proc. Natl. Acad. Sci. U S A
+99, 1604–1609. 10.1073/pnas.03253929911818550
+      
+      
+        IlievaH.PolymenidouM.ClevelandD. W. (2009). Non-cell autonomous toxicity in neurodegenerative disorders: ALS and beyond. J. Cell Biol.
+187, 761–772. 10.1083/jcb.20090816419951898
+      
+      
+        IngreC.RoosP. M.PiehlF.KamelF.FangF. (2015). Risk factors for amyotrophic lateral sclerosis. Clin. Epidemiol.
+7, 181–193. 10.2147/CLEP.S3750525709501
+      
+      
+        JanssenC.SchmalbachS.BoeseltS.SarletteA.DenglerR.PetriS. (2010). Differential histone deacetylase mRNA expression patterns in amyotrophic lateral sclerosis. J. Neuropathol. Exp. Neurol.
+69, 573–581. 10.1097/NEN.0b013e3181ddd40420467334
+      
+      
+        JarmalavičiūtėA.PivoriūnasA. (2016). Exosomes as a potential novel therapeutic tools against neurodegenerative diseases. Pharmacol. Res.
+113, 816–822. 10.1016/j.phrs.2016.02.00226855317
+      
+      
+        JarmalavičiūtėA.TunaitisV.PivoraitėU.VenalisA.PivoriūnasA. (2015). Exosomes from dental pulp stem cells rescue human dopaminergic neurons from 6-hydroxy-dopamine-induced apoptosis. Cytotherapy
+17, 932–939. 10.1016/j.jcyt.2014.07.01325981557
+      
+      
+        JulienJ.-P. (1999). Neurofilament functions in health and disease. Curr. Opin. Neurobiol.
+9, 554–560. 10.1016/s0959-4388(99)00004-510508735
+      
+      
+        JulienJ.-P. (2001). Amyotrophic lateral sclerosis: unfolding the toxicity of the misfolded. Cell
+104, 581–591. 10.1016/S0092-8674(01)00244-611239414
+      
+      
+        KarussisD.KarageorgiouC.Vaknin-DembinskyA.Gowda-KurkalliB.GomoriJ. M.KassisI.. (2010). Safety and immunological effects of mesenchymal stem cell transplantation in patients with multiple sclerosis and amyotrophic lateral sclerosis. Arch. Neurol.
+67, 1187–1194. 10.1001/archneurol.2010.24820937945
+      
+      
+        KatsudaT.TsuchiyaR.KosakaN.YoshiokaY.TakagakiK.OkiK.. (2013). Human adipose tissue-derived mesenchymal stem cells secrete functional neprilysin-bound exosomes. Sci. Rep.
+3:1197. 10.1038/srep0119723378928
+      
+      
+        KaurS. J.McKeownS. R.RashidS. (2016). Mutant SOD1 mediated pathogenesis of amyotrophic lateral sclerosis. Gene
+577, 109–118. 10.1016/j.gene.2015.11.04926657039
+      
+      
+        KawaharaY.ItoK.SunH.AizawaH.KanazawaI.KwakS. (2004). Glutamate receptors: RNA editing and death of motor neurons. Nature
+427:801. 10.1038/427801a14985749
+      
+      
+        KimH.KimH. Y.ChoiM. R.HwangS.NamK. H.KimH. C.. (2010). Dose-dependent efficacy of ALS-human mesenchymal stem cells transplantation into cisterna magna in SOD1–G93A ALS mice. Neurosci. Lett.
+468, 190–194. 10.1016/j.neulet.2009.10.07419879334
+      
+      
+        KirbyJ.HalliganE.BaptistaM. J.AllenS.HeathP. R.HoldenH.. (2005). Mutant SOD1 alters the motor neuronal transcriptome: implication for familial ALS. Brain
+128, 1686–1706. 10.1093/brain/awh50315872021
+      
+      
+        KnippenbergS.ThauN.DenglerR.BrinkerT.PetriS. (2012). Intracerebroventricular injection of encapsulated human mesenchymal cells producing glucagon-like peptide 1 prolongs survival in a mouse model of ALS. PLoS One
+7:e36857. 10.1371/journal.pone.003685722745655
+      
+      
+        KomineO.YamanakaK. (2015). Neuroinflammation in motor neuron disease. Nagoya J. Med. Sci.
+77, 537–549. 26663933
+      
+      
+        KongJ.XuZ. (2000). Overexpression of neurofilament subunit NF-L and NF-H extends survival of a mouse model for amyotrophic lateral sclerosis. Neurosci. Lett.
+281, 72–74. 10.1016/s0304-3940(00)00808-910686419
+      
+      
+        KourembanasS. (2015). Exosomes: vehicles of intercellular signaling, biomarkers, and vectors of cell therapy. Annu. Rev. Physiol.
+77, 13–27. 10.1146/annurev-physiol-021014-07164125293529
+      
+      
+        LaiR. C.YeoR. W.LimS. K. (2015). Mesenchymal stem cell exosome. Semin. Cell Dev. Biol.
+40, 82–88. 10.1016/j.semcdb.2015.03.00125765629
+      
+      
+        LeeM.BanJ. J.KimK. Y.JeonG. S.ImW.SungJ. J. (2016a). Adipose-derived stem cell exosomes alleviate pathology of amyotrophic lateral sclerosis in vitro. Biochem. Biophys. Res. Commun.
+479, 434–439. 10.1016/j.bbrc.2016.09.06927641665
+      
+      
+        LeeM.LiuT.ImW.KimM. (2016b). Exosomes from adipose-derived stem cells ameliorate phenotype of Huntington’s disease in vitro model. Eur. J. Neurosci.
+44, 2114–2119. 10.1111/ejn.1327527177616
+      
+      
+        LeeJ. C.SeongJ.KimS. H.LeeS. J.ChoY. J.AnJ.. (2012). Replacement of microglial cells using Clodronate liposome and bone marrow transplantation in the central nervous system of SOD1(G93A) transgenic mice as an in vivo model of amyotrophic lateral sclerosis. Biochem. Biophys. Res. Commun.
+418, 359–365. 10.1016/j.bbrc.2012.01.02622269142
+      
+      
+        LeporeA. C.RauckB.DejeaC.PardoA. C.RaoM. S.RothsteinJ. D.. (2008). Focal transplantation-based astrocyte replacement is neuroprotective in a model of motor neuron disease. Nat. Neurosci.
+11, 1294–1301. 10.1038/nn.221018931666
+      
+      
+        LiC. C.EatonS. A.YoungP. E.LeeM.ShuttleworthR.HumphreysD. T.. (2013). Glioma microvesicles carry selectively packaged coding and non-coding RNAs which alter gene expression in recipient cells. RNA Biol.
+10, 1333–1344. 10.4161/rna.2528123807490
+      
+      
+        LinC. L.BristolL. A.JinL.Dykes-HobergM.CrawfordT.ClawsonL.. (1998). Aberrant RNA processing in a neurodegenerative disease: the cause for absent EAAT2, a glutamate transporter, in amyotrophic lateral sclerosis. Neuron
+20, 589–602. 10.1016/s0896-6273(00)80997-69539131
+      
+      
+        LiochevS. I.FridovichI. (2003). Mutant Cu,Zn superoxide dismutases and familial amyotrophic lateral sclerosis: evaluation of oxidative hypotheses. Free Radic. Biol. Med.
+34, 1383–1389. 10.1016/s0891-5849(03)00153-912757848
+      
+      
+        LiuJ.LilloC.JonssonP. A.Vande VeldeC.WardC. M.MillerT. M.. (2004). Toxicity of familial ALS-linked SOD1 mutants from selective recruitment to spinal mitochondria. Neuron
+43, 5–17. 10.1016/j.neuron.2004.06.01615233913
+      
+      
+        LukasT. J.LuoW. W.MaoH.ColeN.SiddiqueT. (2006). Informatics-assisted protein profiling in a transgenic mouse model of amyotrophic lateral sclerosis. Mol. Cell. Proteomics
+5, 1233–1244. 10.1074/mcp.m500431-mcp20016571896
+      
+      
+        MagranéJ.ManfrediG. (2009). Mitochondrial function, morphology, and axonal transport in amyotrophic lateral sclerosis. Antioxid. Redox Signal.
+11, 1615–1626. 10.1089/ARS.2009.260419344253
+      
+      
+        MarconiS.BonaconsaM.ScambiI.SquintaniG. M.RuiW.TuranoE.. (2013). Systemic treatment with adipose-derived mesenchymal stem cells ameliorates clinical and pathological features in the amyotrophic lateral sclerosis murine model. Neuroscience
+248, 333–343. 10.1016/j.neuroscience.2013.05.03423727509
+      
+      
+        MartinezH. R.Gonzalez-GarzaM. T.Moreno-CuevasJ. E.CaroE.Gutierrez-JimenezE.SeguraJ. J. (2009). Stem-cell transplantation into the frontal motor cortex in amyotrophic lateral sclerosis patients. Cytotherapy
+11, 26–34. 10.1080/1465324080264465119191058
+      
+      
+        MartínezH. R.Molina-LopezJ. F.González-GarzaM. T.Moreno-CuevasJ. E.Caro-OsorioE.Gil-ValadezA.. (2012). Stem cell transplantation in amyotrophic lateral sclerosis patients: methodological approach, safety, and feasibility. Cell Transplant.
+21, 1899–1907. 10.3727/096368911X58276923356668
+      
+      
+        MathivananS.FahnerC. J.ReidG. E.SimpsonR. J. (2012). Exocarta 2012: database of exosomal proteins, RNA and lipids. Nucleic Acids Res.
+40, 1241–1244. 10.1093/nar/gkr82821989406
+      
+      
+        MattiazziM.D’AurelioM.GajewskiC. D.MartushovaK.KiaeiM.BealM. F.. (2002). Mutated human SOD1 causes dysfunction of oxidative phosphorylation in mitochondria of transgenic mice. J. Biol. Chem.
+277, 29626–29633. 10.1074/jbc.M20306520012050154
+      
+      
+        MattsonM. P. (2013). Excitation BolsTORs motor neurons in ALS mice. Neuron
+80, 1–3. 10.1016/j.neuron.2013.09.01724094096
+      
+      
+        MaumusM.JorgensenC.NoelD. (2013). Mesenchymal stem cells in regenerative medicine applied to rheumatic disease: role of secretome and exosomes. Biochimie
+95, 2229–2234. 10.1016/j.biochi.2013.04.01723685070
+      
+      
+        MazziniL.FerreroI.LuparelloV.RustichelliD.GunettiM.MareschiK.. (2010). Mesenchymal stem cell transplantation in amyotrophic lateral sclerosis: a Phase I clinical trial. Exp. Neurol.
+223, 229–237. 10.1016/j.expneurol.2009.08.00719682989
+      
+      
+        MazziniL.MareschiK.FerreroI.MigliorettiM.SteccoA.ServoS.. (2012). Mesenchymal stromal cell transplantation in amyotrophic lateral sclerosis: a long-term safety study. Cytotherapy
+14, 56–60. 10.3109/14653249.2011.61392921954839
+      
+      
+        MeamarR.Nasr-EsfahaniM. H.MousaviS. A.BasiriK. (2013). Stem cell therapy in amyotrophic lateral sclerosis. J. Clin. Neurosci.
+20, 1659–1663. 10.1016/j.jocn.2013.04.02424148693
+      
+      
+        MenziesF. M.CooksonM. R.TaylorR. W.TurnbullD. M.Chrzanowska-LightowlersZ. M.DongL.. (2002). Mitochondrial dysfunction in a cell culture model of familial amyotrophic lateral sclerosis. Brain
+125, 1522–1533. 10.1093/brain/awf16712077002
+      
+      
+        MillerR. G.MitchellJ. D.MooreD. H. (2012). Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND). Cochrane Database Syst. Rev.
+3:CD001447. 10.1002/14651858.CD001447.pub325946910
+      
+      
+        MillerT. M.PestronkA.DavidW.RothsteinJ.SimpsonE.AppelS. H.. (2013). An antisense oligonucleotide against SOD1 delivered intrathecally for patients with SOD1 familial amyotrophic lateral sclerosis: a phase 1, randomised, first-in-man study. Lancet Neurol.
+12, 435–442. 10.1016/S1474-4422(13)70061-923541756
+      
+      
+        MòrotzG. M.De VosK. J.VagnoniA.AckerleyS.ShawC. E.MillerC. C. (2012). Amyotrophic lateral sclerosis-associated mutant VAPBP56S perturbs calcium homeostasis to disrupt axonal transport of mitochondria. Hum. Mol. Genet.
+21, 1979–1988. 10.1093/hmg/dds01122258555
+      
+      
+        MusaròA. (2013). Understanding ALS: new therapeutic approaches. FEBS J.
+280, 4315–4322. 10.1111/febs.1208723217177
+      
+      
+        NeumannM.SampathuD. M.KwongL. K.TruaxA. C.MicsenyiM. C.ChouT. T.. (2006). Ubiquitinated TDP-43 in frontotemporal lobar degeneration and amyotrophic lateral sclerosis. Science
+314, 130–133. 10.1126/science.113410817023659
+      
+      
+        O’ConnorD. M.BoulisN. M. (2015). Gene therapy for neurodegenerative diseases. Trends Mol. Med.
+21, 504–512. 10.1016/j.molmed.2015.06.00126122838
+      
+      
+        OluwoleS. O.YaoY.ContradiS.KristenssonK.KarlssonH. (2007). Elevated levels of transcript encoding a human retroviral envelope protein (syncytin) in muscle from patients with motor neuron disease. Amyotroph. Lateral Scler.
+8, 67–72. 10.1080/1748296060086420717453631
+      
+      
+        PabloJ.BanackS. A.CoxP. A.JohnsonT. E.PapapetropoulosS.BradleyW. G.. (2009). Cyanobacterial neurotoxin BMAA in ALS and Alzheimer’s disease. Acta Neurol. Scand.
+120, 216–225. 10.1111/j.1600-0404.2008.01150.x19254284
+      
+      
+        PasinelliP.HouseweartM. K.BrownR. H.Jr.ClevelandD. W. (2000). Caspase-1 and -3 are sequentially activated in motor neuron death in Cu,Zn superoxide dismutase-mediated familial amyotrophic lateral sclerosis. Proc. Natl. Acad. Sci. U S A
+97, 13901–13906. 10.1073/pnas.24030589711095709
+      
+      
+        PerrotR.EyerJ. (2009). Neuronal intermediate filaments and neurodegenerative disorders. Brain Res. Bull.
+80, 282–295. 10.1016/j.brainresbull.2009.06.00419539727
+      
+      
+        PetrouP.GothelfY.ArgovZ.GotkineM.LevyY. S.KassisI.. (2016). Safety and clinical effects of mesenchymal stem cells secreting neurotrophic factor transplantation in patients with amyotrophic lateral sclerosis: results of phase 1/2 and 2a clinical trials. JAMA Neurol.
+73, 337–344. 10.1001/jamaneurol.2015.432126751635
+      
+      
+        PrattA. J.GetzoffE. D.PerryJ. P. (2012). Amyotrophic lateral sclerosis: update and new developments. Degener. Neurol. Neuromuscul. Dis.
+2, 1–14. 10.2147/dnnd.s1980323019386
+      
+      
+        PusicA. D.PusicK. M.ClaytonB. L.KraigR. P. (2014). Ifngamma-stimulated dendritic cell exosomes as a potential therapeutic for remyelination. J. Neuroimmunol.
+266, 12–23. 10.1016/j.jneuroim.2013.10.01424275061
+      
+      
+        RabizadehS.GrallaE. B.BorcheltD. R.GwinnR.ValentineJ. S.SisodiaS. (1995). Mutations associated with amyotrophic lateral sclerosis convert superoxide dismutase from an antiapoptotic gene to a proapoptotic gene: studies in yeast and neural cells. Proc. Natl. Acad. Sci. U S A
+92, 3024–3028. 10.1073/pnas.92.7.30247708768
+      
+      
+        RalphG. S.RadcliffeP. A.DayD. M.CarthyJ. M.LerouxM. A.LeeD. C. (2005). Silencing mutant SOD1 using RNAi protects against neurodegeneration and extends survival in an ALS model. Nat Med.
+11, 429–433. 10.1038/nm120515768029
+      
+      
+        RaoulC.Abbas-TerkiT.BensadounJ. C.GuillotS.HaaseG.SzulcJ. (2005). Lentiviral-mediated silencing of SOD1 through RNA interference retards disease onset progression in a muose model of ALS. Nat. Med.
+11, 423–428. 10.1038/nm120715768028
+      
+      
+        RaposoG.StoorvogelW. (2013). Extracellular vesicles: exosome, microvesicles, and friends. J. Cell Biol.
+200, 373–383. 10.1083/jcb.20121113823420871
+      
+      
+        ReaumeA. G.ElliottJ. L.HoffmanE. K.KowallN. W.FerranteR. J.SiwekD. F. (1996). Motor neuron in Cu/Zn superoxide dismutase-deficient mice develop normally but exhibit enhanced cell death after axonal injury. Nat. Genet.
+13, 43–47. 10.1038/ng0596-438673102
+      
+      
+        RosenD. R.SiddiqueT.PattersonD.FiglewiczD. A.SappP.HentatiA.. (1993). Mutations in Cu/Zn superoxide dismutase gene are associated with familial amyotrophic lateral sclerosis. Nature
+362, 59–62. 10.1038/362059a08446170
+      
+      
+        RushkevichY. N.KosmachevaS. M.ZabrodetsG. V.IgnatenkoS. I.GoncharovaN. V.SeverinI. N.. (2015). The use of autologous mesenchymal stem cells for cell therapy of patients with amyotrophic lateral sclerosis in belarus. Bull. Exp. Biol. Med.
+159, 576–581. 10.1007/s10517-015-3017-326395626
+      
+      
+        SasakiS.IwataM. (2007). Mitochondrial alterations in the spinal cord of patients with sporadic amyotrophic lateral sclerosis. J. Neuropathol. Exp. Neurol.
+66, 10–16. 10.1097/nen.0b013e31802c396b17204932
+      
+      
+        ShawP. J.EggettC. J. (2000). Molecular factors underlying selective vulnerability of motor neurons to neurodegeneration in amyotrophic lateral sclerosis. J. Neurol.
+247, I17–I27. 10.1007/s00415005055310795883
+      
+      
+        SmithR. A.MillerT. M.YamanakaK.MoniaB. P.CondonT. P.HungG.. (2006). Antisense oligonucleotide therapy for neurodegenerative disease. J. Clin. Invest.
+116, 2290–2296. 10.1172/jci2542416878173
+      
+      
+        SundaramR. S.GowthamL.NayakB. S. (2012). The role of excitatory neurotransmitter glutamate in brain physiology and pathology. Asian J. Pharm. Clin. Res.
+5, 1–7.
+      
+      
+        TohgiH.AbeT.YamazakiK.MurataT.IshizakiE.IsobeC. (1999). Remarkable increase in cerebrospinal fluid 3- nitrotyrosine in patient with sporadic amyotrophic lateral sclerosis. Ann. Neurol.
+46, 129–131. 10.1002/1531-8249(199907)46:1&lt;129::aid-ana21&gt;3.0.co;2-y10401792
+      
+      
+        TominagaN.KosakaN.OnoM.KatsudaT.YoshiokaY.TamuraK.. (2015). Brain metastatic cancer cells release microrna-181c-containing extracellular vesicles capable of destructing blood-brain barrier. Nat. Commun.
+6:6716. 10.1038/ncomms771625828099
+      
+      
+        TomkinsJ.UsherP.SladeJ. Y.InceP. G.CurtisA.BushbyK.. (1998). Novel insertion in the KSP region of the neurofilament heavy gene in amyotrophic lateral sclerosis (ALS). Neuroreport
+9, 3967–3970. 10.1097/00001756-199812010-000369875737
+      
+      
+        TurnerM. R. (2013). Increased premorbid physical activity and amyotrophic lateral sclerosis: burn to run rather than run to death, or a seductive myth?
+J. Neurol. Neurosurg. Psychiatry
+84:947. 10.1136/jnnp-2013-30493523447649
+      
+      
+        TurnerM. R.GoldracreR.RamagopalanS.TalbotK.GoldacreM. J. (2013). Autoimmune disease preceding amyotrophic lateral sclerosis: an epidemiologic study. Neurology
+81, 1222–1225. 10.1212/WNL.0b013e3182a6cc1323946298
+      
+      
+        TurturiciG.TinnirelloR.SconzoG.GeraciF. (2014). Extracellular membrane vesicles as a mechanism of cell-to-cell communication: advantages and disadvantages. Am. J. Physiol. Cell Physiol.
+306, C621–C633. 10.1152/ajpcell.00228.201324452373
+      
+      
+        UccelliA.MilaneseM.PrincipatoM. C.MorandoS.BonifacinoT.VerganiL.. (2012). Intravenous mesenchymal stem cells improve survival and motor function in experimental amyotrophic lateral sclerosis. Mol. Med.
+18, 794–804. 10.2119/molmed.2011.0049822481270
+      
+      
+        VercelliA.MereutaO. M.GarbossaD.MuracaG.MareschiK.RustichelliD.. (2008). Human mesenchymal stem cell transplantation extends survival, improves motor performance and decreases neuroinflammation in mouse model of amyotrophic lateral sclerosis. Neurobiol. Dis.
+31, 395–405. 10.1016/j.nbd.2008.05.01618586098
+      
+      
+        VucicS.RothsteinJ. D.KiermanM. C. (2014). Advances in treating amyotrophic lateral sclerosis: insights from pathophysiological studies. Trends Neurosci.
+37, 433–442. 10.1016/j.tins.2014.05.00624927875
+      
+      
+        WaibelS.ReuterA.MalessaS.BlaugrundE.LudolphA. C. (2004). Rasagiline alone and in combination with riluzole prolongs survival in an ALS mouse model. J. Neurol.
+251, 1080–1084. 10.1007/s00415-004-0481-515372249
+      
+      
+        WiedemannF. R.WinklerK.KuznetsovA. V.BartelsC.VielhaberS.FeistnerH.. (1998). Impairment of mitochondrial function in skeletal muscle of patients with amyotrophic lateral sclerosis. J. Neurol. Sci.
+156, 65–72. 10.1016/S0022-510X(98)00008-29559989
+      
+      
+        WongN. K.HeB. P.StrongM. J. (2000). Characterization of neuronal intermediate filament protein expression in cervical spinal motor neurons in sporadic amyotrophic lateral sclerosis (ALS). J. Neuropathol. Exp. Neurol.
+59, 972–982. 10.1093/jnen/59.11.97211089575
+      
+      
+        XiaoS.McLeanJ.RobertsonJ. (2006). Neuronal intermediate filaments and ALS: a new look at an old question. Biochim. Biophys. Acta
+1762, 1001–1012. 10.1016/j.bbadis.2006.09.00317045786
+      
+      
+        XinH.LiY.BullerB.KatakowskiM.ZhangY.WangX.. (2012). Exosome-mediated transfer of miR-133b from multipotent mesenchymal stromal cells to neural cells contributes to neurite outgrowth. Stem Cells
+30, 1556–1564. 10.1002/stem.112922605481
+      
+      
+        XinH.LiY.LiuZ.WangX.ShangX.CuiY.. (2013). MiR-133b promotes neural plasticity and functional recovery after treatment of stroke with multipotent mesenchymal stromal cells in rats via transfer of exosome-enriched extracellular particles. Stem Cells
+31, 2737–2746. 10.1002/stem.140923630198
+      
+      
+        XuZ.CorkL. C.GriffinJ. W.ClevelandD. W. (1993). Increased expression of neurofilament subunit NF-L produces morphological alterations that resemble the pathology of human motor neuron disease. Cell
+73, 23–33. 10.1016/0092-8674(93)90157-l8462100
+      
+      
+        YamanakaK.ChunS. J.BoilleeS.Fujimori-TonouN.YamashitaH.GutmannD. H.. (2008). Astrocytes as determinants of disease progression in inherited amyotrophic lateral sclerosis. Nat. Neurosci.
+11, 251–253. 10.1038/nn204718246065
+      
+      
+        YuanA.RaoM. V.SasakiT.ChenY.KumarA.Veeranna. (2006). Alpha-internexin is structurally and functionally associated with the neurofilament triplet proteins in the mature CNS. J. Neurosci.
+26, 10006–10019. 10.1523/JNEUROSCI.2580-06.200617005864
+      
+      
+        YuyamaK.SunH.UsukiS.SakaiS.HanamatsuH.MiokaT.. (2015). A potential function for neuronal exosomes: sequestering intracerebral amyloid-β peptide. FEBS Lett.
+589, 84–88. 10.1016/j.febslet.2014.11.02725436414
+      
+      
+        ZareiS.CarrK.ReileyL.DiazK.GuerraO.AltamiranoP. F.. (2015). A comprehensive review of amyotrophic lateral sclerosis. Surg. Neurol. Int.
+6:171. 10.4103/2152-7806.16956126629397
+      
+      
+        ZhangY.ChoppM.MengY.KatakowskiM.XinH.MahmoodA.. (2015). Effect of exosomes derived from multipotent menchymal stromal cells on functional recovery and neurovascular plasticity in rats after traumatic brain injury. J. Neurosurg.
+122, 856–867. 10.3171/2014.11.JNS1477025594326
+      
+      
+        ZhangY.YuM.TianW. (2016). Physiological and pathological impact of exosomes of adipose tissue. Cell Prolif.
+49, 3–13. 10.1111/cpr.1223326776755
+      
+      
+        ZhaoW.BeersD. R.AppelS. H. (2013). Immune-mediated mechanisms in the pathoprogression of amyotrophic lateral sclerosis. J. Neuroimmune Pharmacol.
+8, 888–899. 10.1007/s11481-013-9489-x23881705
+      
+      
+        ZhouW.FongM. Y.MinY.SomloG.LiuL.PalomaresM. R.. (2014). Cancer.secreted mir-105 destroys vascular endothelial barriers to promote metastasis. Cancer Cell
+25, 501–515. 10.1016/j.ccr.2014.03.00724735924
+      
+      
+        ZhuangX.XiangX.GrizzleW.SunD.ZhuangS.AxtellR. C.. (2011). Treatment of brain inflammatory diseases by delivering exosomes encapsulated anti-inflammatory drugs from the nasal region to the brain. Mol. Ther.
+19, 1769–1779. 10.1038/mt.2011.16421915101
+      
+      
+        ZufiríaM.Gil-BeaF. J.Fernández-TorrónR.PozaJ. J.Muñoz-BlancoJ. L.Rojas-GarcíaR.. (2016). ALS: a bucket of genes, environment, metabolism and unknown ingredients. Prog. Neurobiol.
+142, 104–129. 10.1016/j.pneurobio.2016.05.00427236050
+      
+    
+  

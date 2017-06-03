@@ -1,0 +1,300 @@
+oai:pubmedcentral.nih.gov:53593152017-04-04fcimbpmc-open
+Staphylococcal LTA-induced miR-143 inhibits Propionibacterium acnes-mediated inflammatory response in skin
+
+        The majority of research in the Staphylococcus field has been dedicated to the understanding of Staphylococcus aureus infections. In contrast, there is limited information on infections by coagulase-negative Staphylococci (CoNS) and how the host responds to them. S. epidermidis, a member of the coagulase-negative Staphylococci, is an important commensal organism of the human skin and mucous membranes; and there is emerging evidence of its benefit for human health in fighting off harmful microorganisms. However, S. epidermidis can cause opportunistic infections, which include particularly biofilm-associated infections on indwelling medical devices. These often can disseminate into the bloodstream; and in fact, S. epidermidis is the most frequent cause of nosocomial sepsis. The increasing use of medical implants and the dramatic shift in the patient demographic population in recent years have contributed significantly to the rise of S. epidermidis infections. Furthermore, treatment has been complicated by the emergence of antibiotic-resistant strains. Today, S. epidermidis is a major nosocomial pathogen posing significant medical and economic burdens. In this review, we present the current understanding of mechanisms of host defense against the prototypical CoNS species S. epidermidis as a commensal of the skin and mucous membranes, and during biofilm-associated infection and sepsis.
+      
+
+        coagulase-negative staphylococci
+        
+          Staphylococcus epidermidis
+        
+        innate immunity
+        host defense
+        sepsis
+        biofilms
+        biofilm-associated infection
+      
+
+    
+      Introduction
+      Coagulase-negative staphylococci (CoNS) are a heterogeneous group of staphylococcal species classified clinically by the absence of the blood-clotting enzyme coagulase. This distinguishes them from Staphylococcus aureus and a few clinically less important coagulase-positive species. Today, CoNS are the most commonly isolated bacteria in clinical cultures and have emerged as major nosocomial pathogens. Risk factors for CoNS infection include the presence of indwelling medical implants, such as intravascular catheters, or immunosuppression due to cancer treatment or HIV/AIDS. Treatment of CoNS infections is complicated by the emergence of antibiotic-resistant strains (such as particularly MRSE, methicillin-resistant S. epidermidis) (Rogers et al., 2009).
+      CoNS are an integral part of the normal flora on the human skin and mucous membranes, and preferentially colonize moist areas (Grice et al., 2009). S. epidermidis, the most common CoNS species recovered from clinical cultures, colonizes the armpit, groin, anterior nares, conjunctiva, toe webs, and perineal area (Kloos and Musselwhite, 1975). While usually innocuous or even beneficial colonizers, once the host epithelial barrier is compromised, CoNS such as S. epidermidis can cause serious infections. In fact, CoNS infections account for the majority of bacterial sepsis and foreign body-related infections, with S. epidermidis being the most significant species in that regard (Rogers et al., 2009).
+      The host immune response to S. epidermidis, the mechanism of immune tolerance, and the immune benefits that S. epidermidis commensals can provide, are just beginning to be unraveled. This review will provide the latest research on the host response to S. epidermidis as commensals, and as opportunistic bacteria in the context of biofilm and septic infections.
+    
+    
+      The host immune response to S. epidermidis as a commensal
+      There is increasing evidence that the skin microbiota in general have an important impact on the immune system (Belkaid and Tamoutounour, 2016). Despite CoNS being among the most important skin colonizers, specific studies on the host immune response to CoNS colonization and establishment have been limited. Those that are available have focused on the immune response to skin colonization by the prototypical CoNS species S. epidermidis and the benefits such colonization provides to the host.
+      For example, the Gallo group has described potentially beneficial functions of S. epidermidis as a skin commensal. Namely, Lai et al. reported that S. epidermidis lipoteichoic acid (LTA) through a mechanism involving TLR (toll-like receptor) 2 reduces skin inflammation (Lai et al., 2009). The same authors also later reported that S. epidermidis (but not other bacteria) produces a not further characterized substance of less than 10 kD that activates TLR2, and thereby induces antimicrobial peptide production, which increased the capacity of cell lysates to inhibit growth of group A Streptococcus and S. aureus (Lai et al., 2010) (Figure 1A). While these results underline a beneficial function of S. epidermidis on the skin, regarding the stimulating factor, they have to be seen in light of the fact that the frequently reported activation of TLR2 by LTA has been challenged: LTA purification is extremely difficult and often contains TLR2-stimulating lipopeptide contaminants, including in commercial preparations (Hashimoto et al., 2006). These findings thus certainly require further assessment using isogenic mutants of S. epidermidis to verify the nature of the stimulating factor.
+      
+        Figure 1
+        
+          Model of the host response to S. epidermidis colonization (A)
+S. epidermidis colonizes the skin epidermis, a highly organized structure composed mainly of keratinocytes. In response to S. epidermidis colonization, pattern recognition receptors (PRRs) such as TLR2 on keratinocytes bind to poorly characterized factor(s) secreted by S. epidermidis to stimulate a signaling cascade that results, for example, in the production of the antimicrobial peptides β-defensin 2 (hBD2) and hBD3. These antimicrobial peptides provide protection from cutaneous S. aureus and Group A Streptococcus infections. (B)
+S. epidermidis colonization induces a specific CD4+ FOXP3+ Treg response, which is essential for immune tolerance toward S. epidermidis as a commensal. Immune tolerance is believed to be established only during the neonatal period, as colonization in adult mice failed to establish tolerance. (C) In a different model, based on results obtained in adult mice, skin colonization by S. epidermidis triggers a specific IL-17A+ CD8+ T-cell response. Primed in the skin draining lymph node by CD103+ dendritic cells, these T cells enhance the innate antimicrobial defense and prevent invasion by the fungus, C. albicans.
+        
+        
+      
+      Scharschmidt et al. showed that colonization with S. epidermidis triggered a local, as well as systemic, specific CD4+ T cell response as demonstrated by the enrichment of specific CD4+ T cells in both the skin-draining lymph nodes and the spleen (Scharschmidt et al., 2015). This group engineered the S. epidermidis skin isolate, strain Tü3298, to express the peptide antigen 2W (Epi-2W) linked to a fluorescent protein. To achieve colonization, they applied 108–109 CFUs of the engineered Epi-2W strain to the dorsal skin of C57BL/6 mice every 3 days for a total of three applications. Using this model, the authors illustrated that expansion of specifically CD4+ regulatory T (Treg) cells plays a critical role in the immune tolerance to S. epidermidis. Such tolerance, however, required early bacterial colonization during the neonatal stage, as colonization in adult mice did not establish tolerance (Figure 1B). The work by Scharschmidt et al. is especially intriguing as it provides the scientific rationale for the modulation of the skin microbiota in the neonatal period as a therapeutic option to treat inflammatory skin diseases, and in particular, for atopic dermatitis (AD).
+      The skin of AD patients is often colonized by S. aureus (Higaki et al., 1999). Several studies show that S. epidermidis is the second most common microbe isolated from AD-affected skin lesions (Hon et al., 2005, 2012, 2016). While this does not directly implicate S. epidermidis in the pathogenesis of AD, due to its normal and frequent abundance on the skin, in the most recent of those studies, Hon et al. examined bacterial isolates from 100 AD patients and found that S. epidermidis is present in the most severely AD-affected skin lesions (Hon et al., 2016). Thus, the previously suggested antagonistic relationship between S. epidermidis and S. aureus (Cogen et al., 2010; Iwase et al., 2010), did not translate to less disease in their study. Rather, the results suggested that S. epidermidis colonization is associated with more severe AD disease. Certainly, further studies are required to evaluate the role of S. epidermidis in AD pathogenesis and the nature of the relationship between S. aureus and S. epidermidis in AD lesions.
+      Naik et al. demonstrated that S. epidermidis colonization in adult mice induces a skin-specific T cell response (Naik et al., 2015). In this study, the group applied ~5 ml of 107–109 CFU per ml of S. epidermidis across the entire mouse skin surface every other day for a total of four applications, a procedure by which they reported to obtain stable colonization. The T cells induced in this study, however, were IL-17A+ CD8+ T cells rather than CD4+ T cells, as in the Scharschmidt et al. study (Scharschmidt et al., 2015). The authors showed that these IL-17A+ CD8+ T cells provided immunity to cutaneous C. albicans infection (Figure 1C); however, they did not examine whether this also provides immunity to other pathogens, notably S. aureus (Naik et al., 2015).
+      Both the Scharschmidt et al. and Naik et al. studies examined the host immune response to S. epidermidis colonization, yet their findings are quite different. These differences can be attributed to the nuances in the setup of the mouse models or possibly also the specific S. epidermidis strains used. Despite the differences in the results, collectively, the two studies showed that colonization with S. epidermidis induces an adaptive T cell response in mice. It is unclear, however, if such immune signature to S. epidermidis colonization is also observed in humans.
+    
+    
+      Immunity against S. epidermidis in biofilm-associated infections
+      Very few studies have been performed to assess the immune response to CoNS biofilm-associated infections, especially as compared to S. aureus. Most of those studies have focused on S. epidermidis. CoNS biofilm-associated infections often occur in patients with medical implants, with S. epidermidis being the most likely species to be recovered (Rogers et al., 2009). Biofilms are complex, spatially diverse agglomerations of bacterial cells enclosed within an amorphous, self-produced extracellular matrix composed of extracellular DNA, proteins, and polysaccharides (Otto, 2008). Biofilm-associated infections are extremely resistant to antibiotic treatment for several reasons, including reduced metabolism and hampered penetration through the extracellular matrix (Mah and O'Toole, 2001). Consequently, treatment often requires surgical removal of the infected device or tissue. In the US alone, approximately $ 2 billion is spent annually for the treatment and management of orthopedic implant-related infections (Darouiche, 2004; Parvizi et al., 2010).
+      In general, the host immune response to an S. epidermidis biofilm-associated infection is not protective or sufficient to clear the infection. Hence, most S. epidermidis biofilm-associated infections are chronic. Most studies conducted on the subject thus far are in-vitro studies that have compared biofilm-grown versus planktonic bacteria. Results from several studies suggest that S. epidermidis biofilms induce attenuation in phagocytic function and production of anti-inflammatory cytokines when compared to their planktonic counterparts (Figure 2). Conflicting findings have been reported on the effects of S. epidermidis biofilms on phagocytic activity. Two studies reported that adherence and phagocytosis by human neutrophils and primary human monocyte-derived macrophages were significantly enhanced when stimulated with biofilm-grown bacteria (Heinzelmann et al., 1997; Spiliopoulou et al., 2012), while others reported that the biofilm exopolysaccharide, polysaccharide intercellular adhesin (PIA) (Mack et al., 1996) plays an essential role in the attenuation of phagocytic capacity of murine peritoneal macrophages (Shiau and Wu, 1998), J774A.1 murine macrophages (Schommer et al., 2011), and human PMNs. There is consensus in the literature, however, with regard to the effects of S. epidermidis biofilm on phagocytic killing. Killing by human macrophages (Spiliopoulou et al., 2012) and PMNs (Vuong et al., 2004; Kristian et al., 2008) as well as antibody-mediated killing by leukocytes (Cerca et al., 2006) are strongly attenuated in the presence of biofilm-grown bacteria.
+      
+        Figure 2
+        
+          Model of the host response to S. epidermidis infections. Breaching through the skin can result in S. epidermidis dissemination into the bloodstream to cause bacteremia and acute cases of sepsis. Host immunity against septic infections heavily depends on neutrophils, complement, as well as activation of PRRs including G-protein coupled receptors (GPCRs) such as TLR2 (green) and FPR2 (blue). Biofilm-associated infections on medical implants originate from contaminations during device insertion or, in rare cases, from the bloodstream. Patients with medical implants are susceptible to S. epidermidis sepsis, as biofilm bacteria can often disseminate into the bloodstream. The immune response to biofilm-associated infections is generally thought to be not effective, as biofilms inhibit phagocytic killing by PMNs and macrophages. In addition, they skew the immune system toward enhanced production of anti-inflammatory cytokines such as IL-13 while limiting the secretion of pro-inflammatory cytokines, including IL1-beta, IL-12, and IFN-gamma.
+        
+        
+      
+      The role of complement in CoNS biofilm-associated infections is quite unclear. While S. epidermidis biofilm-producing strains elicit a stronger response in the activation and release of complement components than their isogenic PIA-negative and thus biofilm-negative counterparts (Kristian et al., 2008; Fredheim et al., 2011), such complement release did not translate to enhanced phagocytic killing. S. epidermidis PIA-positive biofilms triggered C3a release, but protected S. epidermidis from C3b and IgG opsonization and PMN-mediated killing (Kristian et al., 2008). Notably—while some authors tried to attribute specific effects to PIA, rather than biofilm formation, by mechanically destroying aggregates (Vuong et al., 2004), in none of these studies a clear distinction between the effects of biofilm agglomerations and a direct effect of the exopolysaccharide PIA can be made. As for the claimed pro-inflammatory properties of PIA (Kristian et al., 2008; Fredheim et al., 2011; Ferreirinha et al., 2016), the facts that PIA is a difficult-to-purify substance and isogenic PIA-negative mutants have distinctly different cell surface properties, makes it difficult to attribute observed effects directly to the PIA molecule.
+      It has been reported that S. epidermidis biofilm-grown strains elicit production of anti-inflammatory rather than pro-inflammatory cytokines (Spiliopoulou et al., 2012). In the respective study, primary human monocyte-derived macrophages stimulated with live S. epidermidis from 24-h biofilms produced lower levels of pro-inflammatory cytokines (IL-1beta, IFN-gamma, IL-12) and elevated levels of the anti-inflammatory cytokine IL-13 than planktonic cells grown for 2 h. Obviously, in that comparison other factors, such as most notably quorum-sensing-regulated pro-inflammatory factors such as the phenol-soluble modulins (PSMs) (Cheung et al., 2014) discussed below, may be made responsible for the observed differences rather than biofilm formation itself. However, comparing biofilm-positive with isogenic biofilm-negative (PIA-negative, Embp, or Aap-negative) strains, Schommer et al. also observed a reduced inflammatory response in 774A.1 macrophages with reduced NF-kappaB activation and reduced IL-1beta production (Schommer et al., 2011).
+      Little is known about how the adaptive immune system responds to biofilm-associated infections, in part, because it is difficult to establish long-term S. epidermidis biofilm infection models. Vuong et al. have developed a catheter-related murine infection model with a S. epidermidis bioluminescent strain called SE Xen43, with which they were able to monitor in real-time the progression of S. epidermidis biofilm-associated infection (Vuong et al., 2008). Comparing the susceptibility of Nu/Nu (T cell-deficient) and CBSCBG-MM (T/B cell-deficient) to S. epidermidis biofilm-associated infection with immuno-competent wild-type Balb/C mice, the authors found that in particular the Nu/Nu mice were more susceptible to infection, indicating an important role of T cell-mediated immunity against S. epidermidis biofilm-associated infection.
+    
+    
+      Immunity against S. epidermidis during sepsis
+      The presence of CoNS in the blood (bacteremia), often originating from the dispersal of bacteria from biofilms on indwelling medical devices, can cause acute sepsis (Figure 2). CoNS bacteremia is associated with significant healthcare costs, morbidity, and mortality (Bearman and Wenzel, 2005). Immune-compromised and premature neonates are the most vulnerable to CoNS sepsis with S. epidermidis being the most prevalent CoNS species involved (Cheung and Otto, 2010).
+      In contrast to S. epidermidis biofilm-associated infections, which are chronic, S. epidermidis sepsis is acute by nature. Therefore, the host immune response to S. epidermidis sepsis, which takes place largely in the bloodstream, is quite different from that against tissue-residing S. epidermidis biofilm associated-infections. Since neonates have increased susceptibility to S. epidermidis sepsis, most of the studies on the matter dealt with S. epidermidis neonatal sepsis. Therefore, the following discussion will be focused on neonatal immunity in response to S. epidermidis sepsis.
+      An important element in the innate immune response are innate immune cells, among which neutrophils dominate in number. Neutrophils recognize invading microbes via a repertoire of host receptors (see below), ingest them, and eliminate them within the phagosome by reactive oxygen species and antimicrobial proteins released during a process called degranulation (Malech et al., 2014). In addition, lysed neutrophils can form neutrophil extracellular traps (NETs) to bind and kill invading microbes (Brinkmann et al., 2004).
+      Several pattern recognition receptors (PRRs), which recognize and bind to conserved microbial products (PAMPs, pathogen-associated molecular patterns) and play an essential role in the activation of the innate immune response, have been shown to be critical in host immunity against S. epidermidis sepsis. TLR2 was shown to be critical for clearance of S. epidermidis in a mouse sepsis model (Strunk et al., 2010). In human neonates, there is an increase in TLR2 expression over the course of S. epidermidis sepsis (Viemann et al., 2005), however, a TLR-stimulated immune system was reported to be less proficient in eliciting multiple cytokine responses in neonates compared to adults (Kollmann et al., 2009). S. epidermidis PIA (Stevens et al., 2009), PSMs (Hajjar et al., 2001), and lipoteichoic acid (LTA) (Xia et al., 2016) have been claimed to be effectors of TLR2. However, studies with PIA and PSMs were not verified with isogenic mutants; and as for LTA, there has been recent evidence indicating that staphylococcal lipopeptides rather than LTA are the real immune-stimulatory agents (Hashimoto et al., 2006). Furthermore, in S. aureus it was shown that PSMs are not direct agonists of TLR2, but lead to the release of lipopeptides from the cell surface and thus have a secondary, TLR2-stimulatory effect (Hanzelmann et al., 2016), an effect likely also present in S. epidermidis.
+      Based on the fact that the formyl peptide receptor 2 (FPR2) recognizes PSMs (Kretschmer et al., 2010), this G protein-coupled chemoattractant receptor is another potentially important host receptor in the response against S. epidermidis. As shown in S. aureus, PSM-FPR2 activation induces chemotaxis, granule exocytosis, and interleukin-8 (IL-8) release from PMNs (Wang et al., 2007; Kretschmer et al., 2010). Studies on the effects of PSMs of CoNS on the immune response have only been performed with pure PSMs of S. epidermidis (Cheung et al., 2010), and so far have been hampered by the multitude of genetic psm loci in S. epidermidis and the general difficulty to produce isogenic deletion mutants in CoNS. However, a recent study attributed a crucial role to the mobile genetic-element-encoded, highly produced PSM-mec of S. epidermidis in inflammation and immune evasion, using isogenic psm-mec mutants (Qin et al., 2017).
+      Complement also plays an important role in the immunity against S. epidermidis sepsis. Deficiencies in complement factor C3 and IgG are associated with a higher risk of neonatal CoNS-associated sepsis (Lassiter et al., 1991). Furthermore, in a study using an ex-vivo whole-blood sepsis model, S. epidermidis induced significantly lower complement activation in neonatal compared to adult blood (Granslo et al., 2013). This finding suggests that there is a maturational deficiency in the neonatal complement system, which, in part, may explain why neonates are more susceptible to S. epidermidis septic infections than adults. Moreover, this study highlights the importance of the complement system in the host defense against S. epidermidis sepsis.
+      Like complement, neutrophils of preterm neonates display maturational deficiency. They show an impaired oxidative burst compared to those isolated from term newborns when stimulated with S. epidermidis (Björkqvist et al., 2004). This, in part, may also explain the increased susceptibility in preterm neonates to S. epidermidis sepsis. Interestingly enough, monocytes, another cellular component in the innate immune response, are not essential to the host defense against neonatal S. epidermidis sepsis as both human neonatal and adult monocytes displayed similar phagocytic and intracellular killing capacity (Strunk et al., 2007). Taken together, this indicates that neutrophils play a particularly important role in the immune response during S. epidermidis sepsis.
+      While there are numerous studies dedicated to understanding the role of the innate immune response during S. epidermidis sepsis, research on the role of the adaptive immune response in S. epidermidis septic infections remains limited. As these infections are acute in nature, it is unlikely that the adaptive immune response plays a significant role. Accordingly, intravenous transfer of immunoglobulin from donors with high titers of antibodies to S. epidermidis or S. aureus failed to protect from sepsis in preterm newborns (Bloom et al., 2005; DeJonge et al., 2007).
+    
+    
+      Conclusions
+      CoNS infections and in particular S. epidermidis pose a significant medical and economic burden to public healthcare. Furthermore, with the emergence of antibiotic resistance, treatment options are becoming limited. However, the elimination of S. epidermidis bacteria appears inappropriate, as they are an integral part of the beneficial microbiota on the skin and mucous membranes.
+      The beneficial role of S. epidermidis colonization in the prevention of pathogen overgrowth on the skin, based on results in mice, has been attributed to stimulation of the immune response. However, with the mouse skin model barely reflecting the situation on human skin, it remains poorly understood whether the findings are transferable to humans. Furthermore, whether there is a role of potential direct bacterial interaction between S. epidermidis and pathogens on the skin remains to be investigated.
+      The immune response to S. epidermidis during infection possibly is even less well understood. In chronic, biofilm-associated infection it is difficult to distinguish between effects of shear agglomeration and those mediated by specific cell surface components. During sepsis, the nature and role of pro-inflammatory cytokines and inflammation pathways in response to S. epidermidis remains equally poorly defined. Elucidation of these mechanisms will also provide more information on the question why neonates are particularly susceptible to S. epidermidis infection. Progress that has been made regarding molecular biology tools for S. epidermidis and CoNS in general will be of great help in these endeavors and especially assist in differentiating between direct and secondary effects. Clearly, a deeper understanding of the host immune response to these infections will be critical to the development of S. epidermidis vaccines and novel therapies.
+    
+    
+      Author contributions
+      TN and MO wrote the manuscript. MP and TN prepared figures.
+      
+        Conflict of interest statement
+        The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+      
+    
+  
+
+    
+      This study was supported by the Intramural Research Program of the National Institute of Allergy and Infectious Diseases (NIAID), U.S. National Institutes of Health (NIH), project number ZIA AI001080.
+    
+    
+      References
+      
+        BearmanG. M.WenzelR. P. (2005). Bacteremias: a leading cause of death. Arch. Med. Res.
+36, 646–659. 10.1016/j.arcmed.2005.02.00516216646
+      
+      
+        BelkaidY.TamoutounourS. (2016). The influence of skin microorganisms on cutaneous immunity. Nat. Rev. Immunol.
+16, 353–366. 10.1038/nri.2016.4827231051
+      
+      
+        BjörkqvistM.JurstrandM.BodinL.FredlundH.SchollinJ. (2004). Defective neutrophil oxidative burst in preterm newborns on exposure to coagulase-negative staphylococci. Pediatr. Res.
+55, 966–971. 10.1203/01.pdr.0000127018.44938.8915155865
+      
+      
+        BloomB.SchelonkaR.KueserT.WalkerW.JungE.KaufmanD.. (2005). Multicenter study to assess safety and efficacy of INH-A21, a donor-selected human staphylococcal immunoglobulin, for prevention of nosocomial infections in very low birth weight infants. Pediatr. Infect. Dis. J.
+24, 858–866. 10.1097/01.inf.0000180504.66437.1f16220082
+      
+      
+        BrinkmannV.ReichardU.GoosmannC.FaulerB.UhlemannY.WeissD. S.. (2004). Neutrophil extracellular traps kill bacteria. Science
+303, 1532–1535. 10.1126/science.109238515001782
+      
+      
+        CercaN.JeffersonK. K.OliveiraR.PierG. B.AzeredoJ. (2006). Comparative antibody-mediated phagocytosis of Staphylococcus epidermidis cells grown in a biofilm or in the planktonic state. Infect. Immun
+74, 4849–4855. 10.1128/IAI.00230-0616861673
+      
+      
+        CheungG. Y.JooH. S.ChatterjeeS. S.OttoM. (2014). Phenol-soluble modulins–critical determinants of staphylococcal virulence. FEMS Microbiol. Rev.
+38, 698–719. 10.1111/1574-6976.1205724372362
+      
+      
+        CheungG. Y.OttoM. (2010). Understanding the significance of Staphylococcus epidermidis bacteremia in babies and children. Curr. Opin. Infect. Dis.
+23, 208–216. 10.1097/QCO.0b013e328337fecb20179594
+      
+      
+        CheungG. Y.RigbyK.WangR.QueckS. Y.BraughtonK. R.WhitneyA. R.. (2010). Staphylococcus epidermidis strategies to avoid killing by human neutrophils. PLoS Pathog
+6:e1001133. 10.1371/journal.ppat.100113320949069
+      
+      
+        CogenA. L.YamasakiK.SanchezK. M.DorschnerR. A.LaiY.MacLeodD. T.. (2010). Selective antimicrobial action is provided by phenol-soluble modulins derived from Staphylococcus epidermidis, a normal resident of the skin. J. Invest. Dermatol.
+130, 192–200. 10.1038/jid.2009.24319710683
+      
+      
+        DarouicheR. O. (2004). Treatment of infections associated with surgical implants. N. Engl. J. Med.
+350, 1422–1429. 10.1056/NEJMra03541515070792
+      
+      
+        DeJongeM.BurchfieldD.BloomB.DuenasM.WalkerW.PolakM.. (2007). Clinical trial of safety and efficacy of INH-A21 for the prevention of nosocomial staphylococcal bloodstream infection in premature infants. J. Pediatr.
+151, 260–265, 265.e1. 10.1016/j.jpeds.2007.04.06017719934
+      
+      
+        FerreirinhaP.Pérez-CabezasB.CorreiaA.MiyazawaB.FrancaA.CarvalhaisV.. (2016). Poly-N-Acetylglucosamine production by Staphylococcus epidermidis cells increases their in vivo proinflammatory effect. Infect. Immun.
+84, 2933–2943. 10.1128/IAI.00290-1627481237
+      
+      
+        FredheimE. G.GransloH. N.FlaegstadT.FigenschauY.RohdeH.SadovskayaI.. (2011). Staphylococcus epidermidis polysaccharide intercellular adhesin activates complement. FEMS Immunol. Med. Microbiol.
+63, 269–280. 10.1111/j.1574-695X.2011.00854.x22077230
+      
+      
+        GransloH. N.KlingenbergC.FredheimE. A.AcharyaG.MollnesT. E.FlaegstadT. (2013). Staphylococcus epidermidis biofilms induce lower complement activation in neonates as compared with adults. Pediatr. Res.
+73, 294–300. 10.1038/pr.2012.19323232670
+      
+      
+        GriceE. A.KongH. H.ConlanS.DemingC. B.DavisJ.YoungA. C.. (2009). Topographical and temporal diversity of the human skin microbiome. Science
+324, 1190–1192. 10.1126/science.117170019478181
+      
+      
+        HajjarA. M.O'MahonyD. S.OzinskyA.UnderhillD. M.AderemA.KlebanoffS. J.. (2001). Cutting edge: functional interactions between toll-like receptor (TLR) 2 and TLR1 or TLR6 in response to phenol-soluble modulin. J. Immunol.
+166, 15–19. 10.4049/jimmunol.166.1.1511123271
+      
+      
+        HanzelmannD.JooH. S.Franz-WachtelM.HertleinT.StevanovicS.MacekB.. (2016). Toll-like receptor 2 activation depends on lipopeptide shedding by bacterial surfactants. Nat. Commun.
+7:12304. 10.1038/ncomms1230427470911
+      
+      
+        HashimotoM.TawaratsumidaK.KariyaH.KiyoharaA.SudaY.KrikaeF.. (2006). Not lipoteichoic acid but lipoproteins appear to be the dominant immunobiologically active compounds in Staphylococcus aureus. J. Immunol.
+177, 3162–3169. 10.4049/jimmunol.177.5.316216920954
+      
+      
+        HeinzelmannM.HerzigD. O.SwainB.Mercer-JonesM. A.BergaminiT. M.PolkH. C.. (1997). Phagocytosis and oxidative-burst response of planktonic Staphylococcus epidermidis RP62A and its non-slime-producing variant in human neutrophils. Clin. Diagn. Lab. Immunol.
+4, 705–710. 9384293
+      
+      
+        HigakiS.MorohashiM.YamagishiT.HasegawaY. (1999). Comparative study of staphylococci from the skin of atopic dermatitis patients and from healthy subjects. Int. J. Dermatol.
+38, 265–269. 10.1046/j.1365-4362.1999.00686.x10321941
+      
+      
+        HonK. L.LamM. C.LeungT. F.KamW. Y.LiM. C.IpM.. (2005). Clinical features associated with nasal Staphylococcus aureus colonisation in Chinese children with moderate-to-severe atopic dermatitis. Ann. Acad. Med. Singap.
+34, 602–605. 16382244
+      
+      
+        HonK. L.TsangY. C.PongN. H.LeungT. F.IpM. (2016). Exploring Staphylococcus epidermidis in atopic eczema: friend or foe?
+Clin. Exp. Dermatol.
+41, 659–663. 10.1111/ced.1286627416972
+      
+      
+        HonK. L.WangS. S.LeeK. K.LeeV. W.LeungT. F.IpM. (2012). Combined antibiotic/corticosteroid cream in the empirical treatment of moderate to severe eczema: friend or foe?
+J. Drugs Dermatol.
+11, 861–864.22777230
+      
+      
+        IwaseT.UeharaY.ShinjiH.TajimaA.SeoH.TakadaK.. (2010). Staphylococcus epidermidis Esp inhibits Staphylococcus aureus biofilm formation and nasal colonization. Nature
+465, 346–349. 10.1038/nature0907420485435
+      
+      
+        KloosW. E.MusselwhiteM. S. (1975). Distribution and persistence of Staphylococcus and Micrococcus species and other aerobic bacteria on human skin. Appl. Microbiol.
+30, 381–385. 810086
+      
+      
+        KollmannT. R.CrabtreeJ.Rein-WestonA.BlimkieD.ThommaiF.WangX. Y.. (2009). Neonatal innate TLR-mediated responses are distinct from those of adults. J. Immunol.
+183, 7150–7160. 10.4049/jimmunol.090148119917677
+      
+      
+        KretschmerD.GleskeA. K.RautenbergM.WangR.KöberleM.BohnE.. (2010). Human formyl peptide receptor 2 senses highly pathogenic Staphylococcus aureus. Cell Host Microbe
+7, 463–473. 10.1016/j.chom.2010.05.01220542250
+      
+      
+        KristianS. A.BirkenstockT. A.SauderU.MackD.GotzF.LandmannR. (2008). Biofilm formation induces C3a release and protects Staphylococcus epidermidis from IgG and complement deposition and from neutrophil-dependent killing. J. Infect. Dis.
+197, 1028–1035. 10.1086/52899218419540
+      
+      
+        LaiY.CogenA. L.RadekK. A.ParkH. J.MacleodD. T.LeichtleA.. (2010). Activation of TLR2 by a small molecule produced by Staphylococcus epidermidis increases antimicrobial defense against bacterial skin infections. J. Invest. Dermatol.
+130, 2211–2221. 10.1038/jid.2010.12320463690
+      
+      
+        LaiY.Di NardoA.NakatsujiT.LeichtleA.YangY.CogenA. L.. (2009). Commensal bacteria regulate Toll-like receptor 3-dependent inflammation after skin injury. Nat. Med.
+15, 1377–1382. 10.1038/nm.206219966777
+      
+      
+        LassiterH. A.TannerJ. E.CostK. M.StegerS.VogelR. L. (1991). Diminished IgG, but not complement C3 or C4 or factor B, precedes nosocomial bacterial sepsis in very low birth weight neonates. Pediatr. Infect. Dis. J.
+10, 663–668. 10.1097/00006454-199109000-000081923679
+      
+      
+        MackD.FischerW.KrokotschA.LeopoldK.HartmannR.EggeH.. (1996). The intercellular adhesin involved in biofilm accumulation of Staphylococcus epidermidis is a linear beta-1,6-linked glucosaminoglycan: purification and structural analysis. J. Bacteriol.
+178, 175–183. 10.1128/jb.178.1.175-183.19968550413
+      
+      
+        MahT. F.O'TooleG. A. (2001). Mechanisms of biofilm resistance to antimicrobial agents. Trends Microbiol.
+9, 34–39. 10.1016/S0966-842X(00)01913-211166241
+      
+      
+        MalechH. L.DeLeoF. R.QuinnM. T. (2014). The role of neutrophils in the immune system: an overview. Methods Mol. Biol.
+1124, 3–10. 10.1007/978-1-62703-845-4_124504942
+      
+      
+        NaikS.BouladouxN.LinehanJ. L.HanS. J.HarrisonO. J.WilhelmC.. (2015). Commensal-dendritic-cell interaction specifies a unique protective skin immune signature. Nature
+520, 104–108. 10.1038/nature1405225539086
+      
+      
+        OttoM. (2008). Staphylococcal biofilms. Curr. Top. Microbiol. Immunol.
+322, 207–228. 10.1007/978-3-540-75418-3_1018453278
+      
+      
+        ParviziJ.PawasaratI. M.AzzamK. A.JoshiA.HansenE. N.BozicK. J. (2010). Periprosthetic joint infection: the economic impact of methicillin-resistant infections. J. Arthroplasty
+25, 103–107. 10.1016/j.arth.2010.04.01120570103
+      
+      
+        QinL.DaF.FisherE. L.TanD. C. S.NguyenT. H.FuC. L.. (2017). Toxin mediates sepsis caused by methicillin-resistant Staphylococcus epidermidis. PLoS Pathog.
+13:e1006153. 10.1371/journal.ppat.100615328151994
+      
+      
+        RogersK. L.FeyP. D.RuppM. E. (2009). Coagulase-negative staphylococcal infections. Infect. Dis. Clin. North Am.
+23, 73–98. 10.1016/j.idc.2008.10.00119135917
+      
+      
+        ScharschmidtT. C.VasquezK. S.TruongH. A.GeartyS. V.PauliM. L.NosbaumA.. (2015). A wave of regulatory T cells into neonatal skin mediates tolerance to commensal microbes. Immunity
+43, 1011–1021. 10.1016/j.immuni.2015.10.01626588783
+      
+      
+        SchommerN. N.ChristnerM.HentschkeM.RuckdeschelK.AepfelbacherM.RohdeH. (2011). Staphylococcus epidermidis uses distinct mechanisms of biofilm formation to interfere with phagocytosis and activation of mouse macrophage-like cells 774A.1. Infect. Immun.
+79, 2267–2276. 10.1128/IAI.01142-1021402760
+      
+      
+        ShiauA. L.WuC. L. (1998). The inhibitory effect of Staphylococcus epidermidis slime on the phagocytosis of murine peritoneal macrophages is interferon-independent. Microbiol. Immunol.
+42, 33–40. 10.1111/j.1348-0421.1998.tb01966.x9525777
+      
+      
+        SpiliopoulouA. I.KolonitsiouF.KrevvataM. I.LeontsinidisM.WilkinsonT. S.MackD. (2012). Bacterial adhesion, intracellular survival and cytokine induction upon stimulation of mononuclear cells with planktonic or biofilm phase Staphylococcus epidermidis. FEMS Microbiol. Lett.
+330, 56–65. 10.1111/j.1574-6968.2012.02533.x22360699
+      
+      
+        StevensN. T.SadovskayaI.JabbouriS.SattarT.O'GaraJ. P.HumphreysH.. (2009). Staphylococcus epidermidis polysaccharide intercellular adhesin induces IL-8 expression in human astrocytes via a mechanism involving TLR2. Cell. Microbiol.
+11, 421–432. 10.1111/j.1462-5822.2008.01264.x19016779
+      
+      
+        StrunkT.Power CoombsM. R.CurrieA. J.RichmondP.GolenbockD. T.Stoler-BarakL.. (2010). TLR2 mediates recognition of live Staphylococcus epidermidis and clearance of bacteremia. PLoS ONE
+5:e10111. 10.1371/journal.pone.001011120404927
+      
+      
+        StrunkT.RichmondP.SimmerK.CurrieA.LevyO.BurgnerD. (2007). Neonatal immune responses to coagulase-negative staphylococci. Curr. Opin. Infect. Dis.
+20, 370–375. 10.1097/QCO.0b013e3281a7ec9817609595
+      
+      
+        ViemannD.DubbelG.SchleifenbaumS.HarmsE.SorgC.RothJ. (2005). Expression of toll-like receptors in neonatal sepsis. Pediatr. Res.
+58, 654–659. 10.1203/01.PDR.0000180544.02537.FD16189189
+      
+      
+        VuongC.KocianovaS.YuJ.KadurugamuwaJ. L.OttoM. (2008). Development of real-time in vivo imaging of device-related Staphylococcus epidermidis infection in mice and influence of animal immune status on susceptibility to infection. J. Infect. Dis.
+198, 258–261. 10.1086/58930718491976
+      
+      
+        VuongC.VoyichJ. M.FischerE. R.BraughtonK. R.WhitneyA. R.DeLeoF. R.. (2004). Polysaccharide intercellular adhesin (PIA) protects Staphylococcus epidermidis against major components of the human innate immune system. Cell. Microbiol.
+6, 269–275. 10.1046/j.1462-5822.2004.00367.x14764110
+      
+      
+        WangR.BraughtonK. R.KretschmerD.BachT. H.QueckS. Y.LiM.. (2007). Identification of novel cytolytic peptides as key virulence determinants for community-associated MRSA. Nat. Med.
+13, 1510–1514. 10.1038/nm165617994102
+      
+      
+        XiaX.LiZ.LiuK.WuY.JiangD.LaiY. (2016). Staphylococcal LTA-induced miR-143 inhibits Propionibacterium acnes-mediated inflammatory response in skin. J. Invest. Dermatol.
+136, 621–630. 10.1016/j.jid.2015.12.02426739093
+      
+    
+  

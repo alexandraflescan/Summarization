@@ -1,0 +1,743 @@
+oai:pubmedcentral.nih.gov:53593642017-04-04springeropenpmc-open
+Incomplete reporting of enhanced recovery elements and its impact on achieving quality improvement
+
+    
+      Introduction
+      Enhanced recovery after surgery (ERAS) programmes have proven benefits in mortality and morbidity in a range of settings. ERAS programmes reduce patient length of stay (LOS) and reduce costs.1–3 The implementation of ERAS after upper gastrointestinal surgery has been limited by a number of factors. These include the historically high levels of mortality and morbidity after these types of operations and traditional surgical concerns regarding early feeding and anastomotic leak. The evidence for ERAS in oesophageal surgery is poor; in a recent systematic review, Findlay et al. identified only eight retrospective series with a total of 1127 patients. These were predominantly reports of single surgeon series and open resections.4 In some units, one surgeon but not others have embraced ERAS for oesophageal surgery5, and in other units, only the fittest patients have been included, making the overall benefits hard to establish.6
+
+      The use of minimally invasive oesophagectomy (MIO) is gaining momentum in the UK with 43.2% of resections being either totally minimally invasive or hybrid operations (laparoscopic abdomen and open chest) in the latest national audit.7 To date, very few reports have included patients treated with MIO within an enhanced recovery programme (ERP). The most recent systematic review and pooled analysis of enhanced recovery after oesophagectomy identified 27 cases of MIO in ERPs and 7 for MIO on conventional pathways.8
+
+      Therefore, the aims of this study were to develop, introduce and analyse an enhanced recovery pathway for all patients undergoing upper GI resection, including open, hybrid and totally minimally invasive oesophagectomy.
+    
+    
+      Materials and Methods
+      
+        Enhanced Recovery After Oesophagogastric Surgery (EROS) Programme Development
+        The EROS programme was developed and implemented at University Hospital Southampton (UHS) NHS Foundation Trust, a single centre teaching hospital in the UK and a designated centre for oesophageal and gastric cancer surgery. A draft EROS programme was proposed by the surgical team and subjected to multidisciplinary professional review at a dedicated EROS development day (25/01/2012). This event was attended by Dr Donald Low (Virginia Mason Medical Centre, Seattle), who provided detail of the well-established programme at his centre, on which the UHS EROS programme was based.9 Multiple rounds of protocol revision were utilised to establish a programme that was considered as best practice and applicable to patients being treated in our centre by all key stakeholders (including surgeons, anaesthetists, specialist nurses, ward nurses, physiotherapists, occupational therapists, dieticians and patients (Supplemental document 1)). The fundamental components of the pathway involved pre, peri and post-operative elements including patient, carer and team expectation and education, preoperative carbohydrate loading, optimised anaesthesia, fluid and pain management, early and consistent mobilisation, timely removal of tubes and drains, early oral intake without the routine use of upper GI swallow studies and aggressive goal setting. Full details of the programme, including daily goals can be found in Supplemental document 2. The programme was initially designed for all patients who underwent a primary operation including oesophageal anastomosis (oesophagectomy or total gastrectomy), but in practice was used for all patients who underwent major surgery (including sub-total gastrectomy). The programme also included a previously published risk prediction tool for anastomotic leak and major complications after oesophageal surgery.10 The target time for discharge was set at post-operative day 8, with the goal of discharge to the patient’s home or usual place of residence without any increase in support. The EROS pathway was applied to all patients undergoing major oesophageal and gastric resections from 20/09/2013, with data presented up to 18/09/2015. There were no a priori exclusion criteria. Patients with carcinoma of the oesophagus or stomach were staged and considered for neoadjuvant therapy based on established protocols and underwent surgery as previously described.11
+
+      
+      
+        Outcome Measures
+        Data recorded included demographics, tumour characteristics, type of resection, operative times (defined as knife-to-skin to wound closure), estimated blood loss (calculated from suction bottles and weighed swabs), critical care unit stay, overall hospital stay (defined as day of surgery until day of discharge), histopathologic analysis of the surgical specimen, morbidity and mortality. TNM-7 was used to report tumour stage. Pathologic tumour clearance (‘R’ status) was determined according the Royal College of Pathologists system (&gt;1 mm clearance). Postoperative complications were graded according to the Clavien–Dindo classification12 and were recorded for the entire inpatient stay. Clavien–Dindo grades I and II represent minor complications, whereas grades III and IV represent major complications (grade III requires radiologic endoscopic or surgical intervention; grade IV indicates life-threatening complication requiring intensive care management). An anastomotic leak (AL) was confirmed by radiology (contrast-enhanced multi-detector CT scan or water-soluble contrast studies), endoscopy or during surgical exploration. Elements of EROS were recorded to provide a comprehensive assessment of compliance covering all aspects of the enhanced recovery programme.
+      
+      
+        Statistics
+        Statistical analysis was performed with SPSS® version 21 (SPSS, Chicago, Illinois, USA). A p value &lt;0.05 was considered statistically significant.
+      
+    
+    
+      Results
+      One hundred six consecutive patients underwent major upper GI surgery and a detailed analysis of this cohort is presented in Table 1, including oesophagectomies and gastrectomies shown separately.Table 1Patient, treatment and tumour demographicsVariableWhole cohortOesophagectomyGastrectomyNumber of patientsb
+1068124Median age (years)a
+67 (26–87)66 (40–82)71 (26–81)Sex ratio (M:F)78:2875:2570:30Pre-op median BMIa
+27 (20–39)27 (20–35)26 (21–39)ASA grade I10 (9)8 (10)2 (8) II70 (66)55 (68)15 (63) III25 (24)17 (21)7 (29) IV1 (1)1 (1)Neoadjuvant chemotherapy49 (47)35 (44)14 (58)Neoadjuvant chemoradiotherapy25 (24)25 (31)Surgery only31 (30)20 (25)10 (42)ypT or pT 019 (18)19 (24) IS/HGD4 (4)4 (5) 112 (12)9 (11)3 (13) 29 (9)8 (10)1 (4) 347 (46)38 (48)9 (38) 412 (12)2 (3)10 (42)ypN or pN 058 (56)53 (66)5 (21) 114 (14)11 (14)3 (13) 219 (18)11 (14)8 (33) 312 (12)5 (6)7 (29)ypM or pM 096 (93)76 (95)20 (83) 17 (7)4 (5)3 (13)Tumour type Adenocarcinoma80 (76)58 (72)22 (92) Squamous cell carcinoma18 (17)18 (22) Adenosquamous cell carcinoma1 (1)1 (1) Dysplasia2 (2)2 (2) Basaloid1 (1)1 (1) Leiomyoma/GIST1 (1)1 (4) Neuroendocrine1 (1)1 (1) Benign ulcer1 (1)1 (4)Values in parentheses are percentages unless indicated
+aValues in parentheses are range
+bTotal cohort includes 1 colonic interposition
+
+      
+        Demographics
+        The median age was 67 years with a male predominance (74% male versus 26% female). Patients who underwent gastrectomy were older (median age 71 versus 66 years for oesophagectomy). The majority of patients had adenocarcinoma of the oesophagus or gastro-oesophageal junction and locally advanced disease (T3 in 56%) with lymph node metastasis (N1+ in 65%) on preoperative staging. Neoadjuvant therapy was used in 71% (chemotherapy in 49% and chemoradiotherapy in 24%).
+      
+      
+        Operative Outcomes
+        Operative outcomes for the whole cohort and specifically for oesophagectomy and gastrectomy are presented in Table 2. There were 3 conversions to open procedures, all in the MIO group (n = 3/29 10%). The reasons for conversion were abdominal adhesions in 1 patient and in 2 patients the anaesthetist was unable to isolate the right lung at the beginning of the thoracic stage. Five operations required additional procedures, 2 lung resections (1 concurrent lung lesion of unknown aetiology and 1 concurrent primary lung cancer) and 3 splenectomy. Forty-eight patients (45%) had a feeding jejunostomy placed.Table 2Operative and surgical outcome dataVariableWhole cohortOesophagectomyGastrectomyNumber of patients1068124Extra procedures5 (5)4 (6)1 (4)Feeding jejunostomy48 (45)46 (57)1 (4)Median duration of operation (min)a
+329 (120–530)340 (240–530)210 (139–390)Median blood loss (ml)a
+250 (0–1892)250 (0–1892)150 (50–1400)Median total length of stay (days)a
+9 (4–90)9 (6–90)7 (4–31)Median ITU staya
+0 (0–31)0 (0–31)0 (0–24)Median HDU staya
+4 (0–13)4 (0–13)2 (0–4)Conversions3 (3)3 (4)0 (0)Anastomotic leak5 (5)4 (5)1 (4)Chyle leak8 (8)7 (9)1 (4)Inpatient Clavien Dindo max grade 042 (40)27 (34)15 (63) 17 (7)5 (6)2 (9) 245 (43)39 (48)5 (21) 33 (3)3 (4)0 (0) 48 (8)6 (7)2 (9) 51 (1)1 (1)0 (0)Return to theatre5 (5)4 (5)1 (4)Cardiac complication18 (17)16 (20)1 (4)Respiratory complication29 (27)26 (32)3 (13)30 day mortality0 (0)0 (0)0 (0)90 day mortality4 (4)2 (3)2 (9)Readmission within 30 days of discharge15 (14)14 (17)1 (4)Median nodal yielda
+24 (8–64)26 (8–65)30 (13–57)Resection clearance R094 (89)69 (85)24 (100) R1 (CRM)12 (11)12 (15)0 (0) R1 (Long)0 (0)0 (0)0 (0)Values in parentheses are percentages unless indicated
+aValues in parentheses are range
+
+        A complete microscopic resection (R0) was achieved in 94 patients (89%), with a median lymph node yield of 24 (range 8–64).
+        Overall median length of stay was 9 days for all patients (range 4–90 days) and was 9 days for patients following oesophagectomy (range 6–90). All patients were discharged home (or to their usual place of residence) with no increase in the level of care provided except in 6 cases (5.6%) where increased support was required. Of these 6 patients, 4 experienced major complications and required readmission to intensive care (Clavien–Dindo grade 4). These patients had some of the longest lengths of stay. Of the other 2 patients, 1 had a pre-existing below-knee amputation and required a short-term increase in care and the other was an elderly man with no family support who suffered a post-operative chest infection. There was 1 in-hospital death (1%) at 59 days after a hybrid oesophagectomy. The patient died from multi-organ failure, after an anastomotic leak, having been treated preoperatively with high-dose steroids for concurrent lymphoma. There were three additional outpatient deaths: at 74 days after a hybrid oesophagectomy from rapidly progressive recurrent disease and at 88 and 89 days after palliative gastrectomy from disease progression; (90-day mortality: 4%).
+        Major complications (Clavien–Dindo; CD 3–4) occurred in 11 patients (11%). Anastomotic leak occurred in 5 patients (5%) and chyle leak in 8 patients (8%). Five patients (5%) required a return to theatre and 29 patients (27%) suffered respiratory complications, which were minor (CD &lt;3) in the majority (20 patients). Fifteen patients (14%) were readmitted within 30 days of discharge.
+        A detailed analysis for oesophagectomies only is presented in Supplementary Tables 5 and 6.
+      
+      
+        EROS Pathway Compliance
+        Table 3 shows all major elements of the Southampton EROS pathway assessed for compliance. The EROS pathway documentation was missing for 16 patients and 10 patients were taken off the pathway due to major complications. The target discharge date of 8 days after surgery was achieved in 44% of patients. In total 61% of patients achieved mobilisation of at least 25 m on post-operative day (POD) 1, including 30% of patients who achieved compliance with the POD 1 target mobilisation of 2 × 25 m walks. Similar compliance rates were observed for POD 2–5. Oral intake of fluids was established on POD 4 in 60% of patients and pureed diet was established by POD 6 in 59%. Nasogastric tubes were removed in the majority on POD 2 (54%) and in no patients was reinsertion required.Table 3Enhanced recovery after oesophagogastric surgery milestone compliance dataVariableNumber of patients106Data analysed80 (76)Missing data16 (15)EROS discontinued10 (9)Patient and team expectations Preoperative patient information68 (85) Predicted discharge date recorded3 (4) Admission day of surgery60 (75) Post-operative destination Ward:HDU:ITU1:70:9 Discharged home by POD 835 (44)Analgesia PCA79 (99) Epidural60 (75)Mobilisation Hill-Rom bed utilised53 (71) POD 1  2 walks24 (30)  1 walk25 (31)  4 h sat out44 (56)  2 h sat out14 (18) POD 2  3 walks11 (14)  2 walks29 (36)  1 walk17 (21)  6 h sat out49 (62)  3 h sat out4 (5) POD 3  4 walks13 (16)  3 walks8 (10)  2 walks29 (36)  1 walks16 (20)  6 h sat out49 (63)  3 h sat out17 (22) POD 4  5 walks5 (6)  4 walks6 (8)  3 walks11 (14)  2 walks26 (32)  1 walk19 (24)  6 h sat out50 (64)  3 h sat out15 (19) POD 5  6 walks6 (8)  5 walks1 (1)  4 walks13 (16)  3 walks12 (15)  2 walks15 (19)  1 walk8 (10)  6 h sat out50 (68)  2 h sat out8 (11)Nutrition Preoperative carbohydrate loading65 (81) Day 1 step 180 (100) Day 2 step 243 (54) Day 4 step 348 (60) Day 6 step 447 (59)Tubes and drains TWOC day 453 (66)NG out Day 243 (54) Day 324 (30) Day 410 (13) Day 5+3 (4)Chest drains left removed by POD 454 (78)Chest drains right removed by POD 439 (57)Chest drains right removed by POD 545 (68)Values in parentheses are percentages unless indicated
+POD postoperative day
+
+      
+      
+        Predictors of Discharge by Postoperative Day 8
+        A binary logistic regression analysis identified increasing age and post-operative complications as factors independently associated with missing the predefined target of discharge on POD8 (Table 4). Other factors including operative approach, perioperative outcomes, tumour stage, ASA grade and EROS targets were not associated with this discharge target.Table 4Binary logistic regression analyses of factors affecting discharge by POD 8VariablesUnivariateMultivariateHR95% CI
+p valueHR95% CI
+p valuePatientAgeQuartile 1 (25.5–59 years)1Ref1RefQuartile 2 (59–66.5 years)1.5890.475–5.3100.4521.6480.428–6.3540.468Quartile 3 (66.5–73 years)1.9010.564–6.4100.3002.0070.507–7.9420.321Quartile 4 (73–87 years)3.8701.085–13.812
+0.037
+7.1901.616–31.9950.010Post-operativeMaximum Clavien–Dindo inpatient complicationNo (0)1RefMinor (1–2)4.0501.708–9.602
+0.001
+5.2571.774–15.5750.003Major (3–5)19.8002.324–168.661
+0.006
+28.3812.946–273.3700.004
+
+      
+      
+        Pre-EROS Experience
+        In the calendar year preceding the start of EROS, 72 consecutive patients underwent major upper GI resections (51 oesophagectomies). The overall median length of stay was 11 days (range 4 to 55 days) and 10 days for oesophagectomies (range 6 to 43 days). Major complications occurred in 18% and there were 3 deaths.
+      
+    
+    
+      Discussion
+      This study demonstrated that EROS could be applied to all patients who underwent major upper GI surgery with good outcomes. Enhanced recovery was safe and effective after oesophageal surgery and delivered low levels of morbidity and short lengths of stay.
+      These findings are in line with results from other surgical disciplines. For instance, in colorectal surgery ERAS halves morbidity and significantly reduces length of stay.13 Published results for enhanced recovery after oesophageal surgery have shown more modest improvements, possibly due to reluctance by the clinical teams to progress patients quickly for fear of significant, life-threatening complications. The findings of this study support the application of enhanced recovery for all upper GI patients undergoing major resection, with relatively aggressive targets. No major differences in outcome between different surgical approaches were observed, but the study was not designed to explicitly address this question.
+      The development of the EROS programme took into account the infrastructure and resources of the institute where it was introduced, meaning that it may not be applicable to different hospitals and healthcare systems.14 This could also be considered as a benefit of the programme, as EROS contains the fundamental elements of enhanced recovery tailored to the local environment. Other centres wishing to introduce enhanced recovery can be reassured that adapting existing programmes for use in their own hospitals is possible and leads to good outcomes. Our experience with EROS suggests that the multidisciplinary team begin to see the programme as the default pathway for all patients undergoing major surgery. Anecdotally, mobilisation of all patients has improved and the “STEP” system (supplementary document 1) introduced for oral intake is now applied to all upper GI patients. This has the advantage of removing variation for the junior medical and nursing staff whose shift patterns change regularly.
+      The study had a number of strengths. The cohort was consistent with contemporary clinical practice; the majority of patients had locally invasive, node positive oesophageal adenocarcinoma treated with neoadjuvant therapy. The surgeons involved had significant experience with minimally invasive oesophagectomy11 meaning that the applicability of the results for MIO have not been biased by a “learning-curve” effect. Morbidity data was comprehensively collected by a dedicated data manager and is reported using a validated system.
+      Overall outcomes are satisfactory and comparable with data from the UK National Oesophagogastric Cancer Audit (NOGCA)7 and previously published series.9 An improvement in overall length of stay was observed when compared to the year preceding the introduction of the programme (9 versus 11 days) and our previously published comparison of open and minimally invasive oesophagectomy (9 versus 12 days).11 However, it is important to note that the benefit for oesophagectomies alone when comparing the EROS time period with the preceding year was only 1 day (9 versus 10 days). A potentially more clinically relevant improvement was observed for gastrectomies (7 versus 11 days), but the number of gastrectomies in the EROS cohort was modest (n = 24).
+      Whilst in this study, we have made no attempt to provide a detailed “before and after” analysis of EROS, major morbidity of 10% compares favourably with our experience (18%) in the year preceding the introduction of the programme and with other published series of oesophagectomies performed both on conventional care pathways and within ERPs.5, 9, 11 Reduced morbidity for patients in EROS confirms previous reports from all branches of surgery and may represent the major benefit of enhanced recovery. This is particularly important for oesophageal surgery that has witnessed a dramatic reduction in mortality in recent years, but has struggled to make in-roads into relatively high complications rates.7
+
+      A reduction in pulmonary complications has been reported as a significant benefit of both enhanced recovery and MIO.15, 16 In this series, respiratory complications were observed in 27% of patients. This apparently high level of respiratory complications is in keeping with patients treated on a conventional pathway (29.1%)8 but includes patients with relatively minor deviations to the clinical course (Clavien–Dindo 1 and 2) in the vast majority. When only major respiratory complications are considered, the incidence falls to 6.6%.
+      Considerable concern exists within the surgical community regarding gastric conduit decompression and the relevance of drainage procedures. No pyloroplasties or other drainage procedures were performed in this series and there were no instances of acute conduit distension. It appears feasible and safe to remove nasogastric tubes and recommence oral intake early in the post-operative course (POD 2) without the routine use of upper GI swallow studies.
+      We observed a significant number of readmissions within 30 days of discharge (14%). This may reflect an overly ambitious policy of discharge, but is also related to an “open-door” attitude towards discharged patients and the local geography (the catchment area includes the Isle of Wight and the Channel Islands). Our experience suggests that rather than being viewed as a negative outcome, readmission should be expected in a relatively small proportion of patients as part of the enhanced recovery programme. Further community support for patients and their carers will be required to reduce readmissions and will be a focus for pathway development.
+      Reporting of compliance data in ERPs is poor17 and patients with complications are often removed from ERPs. This makes it impossible to determine the efficacy of different aspects of the ERP and their relative effects on outcome.14 In an attempt to address this, compliance with the major agreed components of EROS was documented and analysed. Age and complications defined by the Clavien–Dindo classification were independently associated with missing the predefined discharge target of 8 days. These factors may not be surprising but offer potential ways to improve the pathway. For example, patients of advanced age should be highlighted in the neoadjuvant or preoperative setting as potentially requiring prehabilitation interventions or increased packages of care to enable them to continue their rehabilitation, in the community. In addition, the focus should shift to preventing minor as well as major complications and this will require a whole multidisciplinary team approach.
+      In this study, compliance with target mobilisation was poor. However, this probably reflects overambitious target setting. The advantage of such target setting is that &gt;60% of patients walked &gt;25 m on POD 1 and an improvement in mobilisation quantity and distance was observed for each post-operative day. Consistent mobilisations early in the post-operative course proved labour intensive and difficult to achieve and we may have overestimated the availability of local resources to deliver this. Future efforts will be focussed on improving compliance in this area and will depend upon the continued development of the multidisciplinary team.
+    
+    
+      Conclusion
+      The experience described in this study with the introduction of EROS demonstrates that enhanced recovery is feasible and safe after major upper gastrointestinal surgery.
+    
+    
+      Electronic Supplementary Material
+      
+        Below is the link to the electronic supplementary material.ESM 1(DOC 95 kb)
+ESM 2(DOC 70 kb)
+ESM 3(DOC 722 kb)
+ESM 4(DOC 174 kb)
+
+      
+    
+  
+
+    
+      
+        Presented in part to the Digestive Disorders Federation Scientific Meeting 2015, London, UK
+      
+      
+        Timothy J. Underwood and F. Noble contributed equally to this work.
+      
+    
+    
+      Acknowledgements
+      We thank Dr Don Low for his advice in protocol development and attendance at the EROS development day.
+    
+    
+      Compliance with Ethical Standards
+      The authors declare that they have no conflict of interest.
+      
+        Author Contributions
+        The idea for the manuscript was conceived jointly by all authors. Data was collected by a dedicated UGI data manager JO, EROS nurse specialist RH, FN and NM. FN analysed the data. FN and TJU wrote the manuscript. TJU/JPB had overall responsibility for the scientific content of the manuscript. All authors reviewed and edited the text.
+      
+      
+        Sources of Support
+        F Noble is supported by a Clinical Research Training Lectureship from Cancer Research UK. T Underwood is supported by an MRC Clinician Scientist Fellowship.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Lemanu
+              DP
+            
+            
+              Singh
+              PP
+            
+            
+              Stowers
+              MD
+            
+            
+              Hill
+              AG
+            
+          
+          A systematic review to assess cost effectiveness of enhanced recovery after surgery programmes in colorectal surgery
+          Colorectal Dis
+          2014
+          16
+          5
+          338
+          46
+          10.1111/codi.12505
+          
+          24283942
+        
+      
+      
+        2.
+        
+          
+            
+              Joliat
+              GR
+            
+            
+              Labgaa
+              I
+            
+            
+              Petermann
+              D
+            
+            
+              Hubner
+              M
+            
+            
+              Griesser
+              AC
+            
+            
+              Demartines
+              N
+            
+            
+          
+          Cost-benefit analysis of an enhanced recovery protocol for pancreaticoduodenectomy
+          Br J Surg
+          2015
+          
+          26492489
+        
+      
+      
+        3.
+        
+          
+            
+              Shewale
+              JB
+            
+            
+              Correa
+              AM
+            
+            
+              Baker
+              CM
+            
+            
+              Villafane-Ferriol
+              N
+            
+            
+              Hofstetter
+              WL
+            
+            
+              Jordan
+              VS
+            
+            
+          
+          Impact of a Fast-track Esophagectomy Protocol on Esophageal Cancer Patient Outcomes and Hospital Charges
+          Ann Surg
+          2015
+          261
+          6
+          1114
+          23
+          10.1097/SLA.0000000000000971
+          
+          25243545
+        
+      
+      
+        4.
+        
+          
+            
+              Findlay
+              JM
+            
+            
+              Gillies
+              RS
+            
+            
+              Millo
+              J
+            
+            
+              Sgromo
+              B
+            
+            
+              Marshall
+              RE
+            
+            
+              Maynard
+              ND
+            
+          
+          Enhanced recovery for esophagectomy: a systematic review and evidence-based guidelines
+          Ann Surg
+          2014
+          259
+          3
+          413
+          31
+          10.1097/SLA.0000000000000349
+          
+          24253135
+        
+      
+      
+        5.
+        
+          
+            
+              Preston
+              SR
+            
+            
+              Markar
+              SR
+            
+            
+              Baker
+              CR
+            
+            
+              Soon
+              Y
+            
+            
+              Singh
+              S
+            
+            
+              Low
+              DE
+            
+          
+          Impact of a multidisciplinary standardized clinical pathway on perioperative outcomes in patients with oesophageal cancer
+          Br J Surg
+          2013
+          100
+          1
+          105
+          12
+          10.1002/bjs.8974
+          
+          23161343
+        
+      
+      
+        6.
+        
+          
+            
+              Gatenby
+              P
+            
+            
+              Shaw
+              C
+            
+            
+              Hine
+              C
+            
+            
+              Scholtes
+              S
+            
+            
+              Koutra
+              M
+            
+            
+              Andrew
+              H
+            
+            
+          
+          Retrospective cohort study of an enhanced recovery programme in oesophageal and gastric cancer surgery
+          Ann R Coll Surg Engl
+          2015
+          97
+          7
+          502
+          7
+          10.1308/003588415X14181254789880
+          
+          26414360
+        
+      
+      
+        7.
+        National Oesophago-Gastric Cancer Audit. NHS Information Centre. 2013.
+      
+      
+        8.
+        
+          
+            
+              Markar
+              SR
+            
+            
+              Karthikesalingam
+              A
+            
+            
+              Low
+              DE
+            
+          
+          Enhanced recovery pathways lead to an improvement in postoperative outcomes following esophagectomy: systematic review and pooled analysis
+          Dis Esophagus
+          2015
+          28
+          5
+          468
+          75
+          10.1111/dote.12214
+          
+          24697876
+        
+      
+      
+        9.
+        
+          
+            
+              Low
+              DE
+            
+            
+              Kunz
+              S
+            
+            
+              Schembre
+              D
+            
+            
+              Otero
+              H
+            
+            
+              Malpass
+              T
+            
+            
+              Hsi
+              A
+            
+            
+          
+          Esophagectomy--it’s not just about mortality anymore: standardized perioperative clinical pathways improve outcomes in patients with esophageal cancer
+          J Gastrointest Surg
+          2007
+          11
+          11
+          1395
+          402
+          10.1007/s11605-007-0265-1
+          
+          17763917
+        
+      
+      
+        10.
+        
+          
+            
+              Noble
+              F
+            
+            
+              Curtis
+              N
+            
+            
+              Harris
+              S
+            
+            
+              Kelly
+              JJ
+            
+            
+              Bailey
+              IS
+            
+            
+              Byrne
+              JP
+            
+            
+          
+          Risk assessment using a novel score to predict anastomotic leak and major complications after oesophageal resection
+          J Gastrointest Surg
+          2012
+          16
+          6
+          1083
+          95
+          10.1007/s11605-012-1867-9
+          
+          22419007
+        
+      
+      
+        11.
+        
+          
+            
+              Noble
+              F
+            
+            
+              Kelly
+              JJ
+            
+            
+              Bailey
+              IS
+            
+            
+              Byrne
+              JP
+            
+            
+              Underwood
+              TJ
+            
+            South Coast Cancer Collaboration O-G
+          
+          A prospective comparison of totally minimally invasive versus open Ivor Lewis esophagectomy
+          Dis Esophagus
+          2013
+          26
+          3
+          263
+          71
+          10.1111/j.1442-2050.2012.01356.x
+          
+          23551569
+        
+      
+      
+        12.
+        
+          
+            
+              Dindo
+              D
+            
+            
+              Demartines
+              N
+            
+            
+              Clavien
+              PA
+            
+          
+          Classification of surgical complications: a new proposal with evaluation in a cohort of 6336 patients and results of a survey
+          Ann Surg
+          2004
+          240
+          2
+          205
+          13
+          10.1097/01.sla.0000133083.54934.ae
+          
+          15273542
+        
+      
+      
+        13.
+        
+          
+            
+              Spanjersberg
+              WR
+            
+            
+              Reurings
+              J
+            
+            
+              Keus
+              F
+            
+            
+              van Laarhoven
+              CJ
+            
+          
+          Fast track surgery versus conventional recovery strategies for colorectal surgery
+          Cochrane Database Syst Rev.
+          2011
+          2
+        
+      
+      
+        14.
+        
+          
+            
+              Maessen
+              J
+            
+            
+              Dejong
+              CH
+            
+            
+              Hausel
+              J
+            
+            
+              Nygren
+              J
+            
+            
+              Lassen
+              K
+            
+            
+              Andersen
+              J
+            
+            
+          
+          A protocol is not enough to implement an enhanced recovery programme for colorectal resection
+          Br J Surg
+          2007
+          94
+          2
+          224
+          31
+          10.1002/bjs.5468
+          
+          17205493
+        
+      
+      
+        15.
+        
+          
+            
+              Biere
+              SS
+            
+            
+              Maas
+              KW
+            
+            
+              Bonavina
+              L
+            
+            
+              Garcia
+              JR
+            
+            
+              van Berge Henegouwen
+              MI
+            
+            
+              Rosman
+              C
+            
+            
+          
+          Traditional invasive vs. minimally invasive esophagectomy: a multi-center, randomized trial (TIME-trial)
+          BMC Surg
+          2011
+          11
+          2
+          10.1186/1471-2482-11-2
+          
+          21226918
+        
+      
+      
+        16.
+        
+          
+            
+              Munitiz
+              V
+            
+            
+              Martinez-de-Haro
+              LF
+            
+            
+              Ortiz
+              A
+            
+            
+              Ruiz-de-Angulo
+              D
+            
+            
+              Pastor
+              P
+            
+            
+              Parrilla
+              P
+            
+          
+          Effectiveness of a written clinical pathway for enhanced recovery after transthoracic (Ivor Lewis) oesophagectomy
+          Br J Surg
+          2010
+          97
+          5
+          714
+          8
+          10.1002/bjs.6942
+          
+          20187171
+        
+      
+      
+        17.
+        
+          
+            
+              Day
+              RW
+            
+            
+              Fielder
+              S
+            
+            
+              Calhoun
+              J
+            
+            
+              Kehlet
+              H
+            
+            
+              Gottumukkala
+              V
+            
+            
+              Aloia
+              TA
+            
+          
+          Incomplete reporting of enhanced recovery elements and its impact on achieving quality improvement
+          Br J Surg
+          2015
+        
+      
+    
+  

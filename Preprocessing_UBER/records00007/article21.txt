@@ -1,0 +1,617 @@
+oai:pubmedcentral.nih.gov:53600942017-04-04sicotjpmc-open
+Randomized controlled trial comparing hyaluronic acid, platelet-rich plasma and the combination of both in the treatment of mild and moderate osteoarthritis of the knee
+
+        Positive results have been uniformly observed by various researchers for platelet-rich plasma (PRP) in early osteoarthritis (OA) knee in the past few years. PRP has clearly demonstrated its supremacy in comparison to hyaluronic acid (HA) and placebo in various clinical trials and is undoubtedly the best option available for symptomatic treatment in early OA. The release of growth factors from PRP occurs immediately and lasts for around three weeks and the clinical effect tends to wane down by the end of the year. Prolonged and sustained release of growth factors from platelets could possibly help in much better biological healing and sustained clinical effects. PRP in combination with biocompatible carriers could be one way of achieving this. Gelatin hydrogel PRP and chitosan PRP seem to be promising based on early in vitro studies and animal studies. PRP in combination with hyaluronic acid also seems to be additive. This article intends to discuss the present status of the PRP, confusions surrounding its use, upcoming trends and ideas for improvising PRP for use early OA knees based on available evidence.
+      
+
+        Early OA knee
+        Platelet-rich plasma
+        Hyaluronic acid
+      
+
+    
+      Introduction
+      Osteoarthritis (OA) of the knee is one of the commonest problems faced by ageing adults and in order to alleviate the pain and morbidity associated with OA, a variety of non-surgical treatment modalities ranging from oral chondroprotectives, intra-articular steroids to viscosupplements have been tried by pain physicians and orthopaedicians worldwide. Platelet-rich plasma (PRP) is evolving into a promising solution for various orthopaedic conditions like tendinopathies, non-union and arthritis of knee. The success of PRP in treating sports injuries in several high-profile sportsmen has contributed to the hype surrounding the PRP therapy, leading to increasing use of PRP for treating OA knees over the last seven years.
+      
+        Mechanism by which PRP works for knee OA
+        Osteoarthritis alters the normal joint metabolism favouring increased catabolism and decreased anabolism. Platelet alpha-granules contain and release numerous growth factors, including hepatocyte growth factor (HGF), vascular endothelial growth factor (VEGF), platelet-derived growth factor (PDGF) and transforming growth factor-b (TGF-b) [1], which could alter the changing joint mileu in OA.
+        PRP acts at various levels to alter the joint homeostasis.
+        In cartilage it decreases catabolism, improves anabolism and promotes chondral remodelling. Higher amounts of collagen II and prostaglandin (PG) synthesis have been documented by Akeda et al. [2] and Pereira et al. [3]. Increasing chondrocyte proliferation and production of matrix molecules have also been documented [4–7].
+        Synoviocytes are influenced by increased hyaluronic acid (HA) secretion [8], creating a more favourable and balanced state of angiogenesis [2, 9], and a decreased interleukin-1 (IL-1)-mediated rise in some matrix metalloproteinases (MMPs) [8, 9].
+        The apoptotic pathway of osteoarthritic chondrocytes is influenced as insulin-like growth factor 1 (IGF-1) in PRP may downregulate the expression of programmed cell death 5 (PDCD5) [10]. Lower levels of apoptosis were detected in in vivo studies by Mifune et al. [11] and the authors suggested that complex interaction of PRP within joint might positively influence chondrocyte apoptosis.
+        An overall downmodulation of the joint inflammation can explain the well-documented pain reduction, which is the most prominent and disabling symptom of knee OA. This could be through the regulation of nuclear factor kappa B (NF-κB) and cyclooxygenase-2 (COX-2), the principal actors of inflammatory cascade [3, 12, 13]. Other factors could be the inhibition of NF-κB transactivation activity mediated by HGF, a key cytokine present in PRP alpha-granules or an anti-inflammatory action by inhibiting monocyte-like cell chemotaxis [13]. Wu et al. [14]. showed that PRP counteracted the inflammatory cascade elicited by IL-1ß and tumor necrosis factor-alpha (TNF-α), showing an inhibition of IL-1ß, COX-2 and MMP-2 gene expression.
+        Lee et al. [15] noticed increase in mRNA levels of cannabinoid receptors CB1 and CB2 (receptors involved in analgesic and anti-inflammatory effects) and this could explain the analgesic effect of PRP.
+      
+      
+        Preparation of platelet-rich plasma
+        PRP is the plasma fraction of autologous blood with platelet concentration above baseline. Platelet counts of 4–5 times of the baseline (1.5–4.5 × 105/μL) label the product as PRP. Autogenous platelet gel, platelet enriched plasma (PeRP) and platelet-rich concentrate (PRC) are the synonyms for PRP.
+        There are various methods of PRP preparation and at least 25–30 ready-to-use kits are commercially available. Initial studies used PRP prepared in the laboratory by different techniques and based on these studies, the commercial kits have evolved. Broadly PRP can be prepared in two ways: “single-spinning” and “double-spinning”. Anitua et al. [16] had prepared PRP in a single-spin technique and open procedure which included micro-pipetting and named the product as EndoRet (plasma rich in growth factors). Patel et al. [17] also prepared PRP by the open technique which involved a single-spin, micro-pipetting and additional white blood cell (WBC) filtration, and their product was leucocyte-poor PRP. Kon et al. [18] have prepared PRP by the double-spin technique and cryopreserved the product and used it at three-weekly intervals.
+        Centrifugal forces and time, as well as the number of spins (double vs single) alter the PRP product in terms of platelet count and leucocyte concentration. Based on the variability in yield, it became necessary to classify PRP in order to compare studies and two classification systems have evolved. One is the Sports Medicine Platelet-Rich Plasma classification system by Mishra et al. [19], which takes into consideration the activation method (activated or not activated) and the leucocyte count (increased or absent) to divide the PRP into four types, with each having two further subtypes A and B based on the platelet concentration. The other international classification system is the PAW classification by DeLong et al. [20], which also takes into consideration the absolute platelet count (P1- low to P4- high), the manner of platelet activation and presence or absence of leucocytes.
+      
+      
+        Platelet activation
+        Platelet activation can be achieved by different activators. Bovine or autologous thrombin is a traditional activator of platelets but there are concerns regarding its tolerability and adverse effects. Calcium chloride is the most common activator used in the majority of clinical studies. Collagen type-1 and batroxobin are some other activators which can be used. Rodeo et al. [21] showed that activated platelets release 70% of their growth factors (GFs) within the first 10 min and release most of the GFs within the next one hour. These growth factors are absorbed by the fibrin gel formed, which subsequently releases the various growth factors in a controlled way. The content of fibrin in the gel is the most important factor controlling subsequent release. Platelet concentration, fibrinogen concentration and the enzymes involved in procoagulant pathway influence the final fibrin content. The above factors regulate the duration of GF release at the injection site.
+        Studies aimed at improving the controlled delivery of GFs from PRP at the target site may bring out better results. Some novel approaches under consideration are the use of chitosan (scaffolds) [22, 23] and gelatin hydrogel as carriers of PRP. In a rabbit OA model, Saito et al. [24] demonstrated that gelatin hydrogel microspheres impregnated with PRP injections markedly suppressed OA progression both morphologically and histologically than the use of PRP alone.
+      
+      
+        Should leucocytes be always filtered out?
+        The type of PRP to be used is another topic of debate. The confusion is between leucocyte-rich and leucocyte-poor PRP. We raised our concern regarding this previously [25]. The initial hypothesis that leucocytes could be proinflammatory inside the joint (due to supposed deleterious effects of proteases and reactive oxygen species released from white cells) has been subsequently corroborated.Pifer et al. [26] showed in an in vivo study that PRP with leucocytes contains MMP-2, -3 and -9, which is released over a period of at least six days, and can be deleterious.Braun et al. [27] compared the effects of leucocyte-rich PRP (LR-PRP), leucocyte-poor PRP (LP-PRP), red blood cell (RBC) concentrate and platelet-poor plasma (PPP) and concluded that “Treatment of synovial cells with LR-PRP and RBCs resulted in significant cell death and proinflammatory mediator production”.Dragoo et al. [28], in a rabbit study, showed that the (LR-PRP) group had more undesirable side effects owing to greater inflammatory reactions following injection at the lesion site than at the LP-PRP group.Filardo et al. [29] – These authors were the only ones to conduct a clinical trial comparing two different PRP preparations: high-concentrate leucocyte-rich PRP versus low concentrate leucocyte-free PRP. They treated 144 patients and evaluated up to 12 months and comparable positive results were obtained in both treatments, with the only difference being that the PRP leucocyte group suffered from more swelling and pain reaction immediately after the injections.
+
+        To add to the confusion, there are some in vivo studies which document some beneficiary effects of leucocyte released products for the OA knee. Cavallo et al. [30] in their in vitro study noticed that chondrocyte proliferation and hyaluronan secretion were more prevalent in L-PRP than in P-PRP. Riboh et al. [31] in a recent meta-analysis compared clinical outcomes and rates of adverse reactions between LP-PRP and LR-PRP for the OA knee. They concluded that both are clinically effective over HA and placebo. LP-PRP and LR-PRP had similar safety profiles, and adverse reactions to PRP may not be directly related to leucocyte concentration.
+        Thus, there is still a need of research on this topic so as to standardize the concentration of leucocytes needed in ideal PRP preparation injected in OA.
+      
+      
+        What specific type of PRP is ideal for Knee OA?
+        Based on the available literature, there are some answers and but more questions which need to be answered.
+        Different PRP preparations – Magalon et al. [32] studied five different commercial PRP preparations in a single donor model and noticed significant biological variation in the PRP product among different preparations and postulated this to be a reason for the variability of results in PRP studies.
+        Intra-individual variations were observed by Mazzocca et al. [33] in the same individual, and there were variations in the PRP yield by the same method in samples drawn at different time periods.
+        In the debate about fresh PRP versus freeze thawed PRP, the fresh PRP appears to be better. Storing platelets in freezing conditions can alter the morphology and decrease the functional properties of platelets by degranulation of alpha-granules [34]. We had expressed our concerns regarding cryopreservation of PRP in our initial work [25]. However, freeze thawing PRP is better in terms of patient compliance as the PRP can be prepared in a single sitting. Roffi et al. [35] studied the effect of freezing/thawing on the PRP molecule release, and its effects on the metabolism of chondrocytes and synoviocytes. They noticed decreased protein level secretion in the freeze thawed PRP but the gene expression in cultured chondroctyes and synoviocytes was similar to that in fresh PRP. They concluded that PRP cryopreservation is a safe procedure, which sufficiently preserves PRP quality and its ability to induce proliferation and the production of Extra Cellular Matrix (ECM) components in chondrocytes and synoviocytes.
+        For knee OA, leucocyte-poor PRP appears to be better than leucocyte-rich PRP.
+      
+      
+        Clinical studies
+        Over 35 clinical trials have been conducted in the past seven years, which reflects the growing interest in exploring PRP as treatment modality in the OA knee. It is surprising to notice that in all previous studies (case series as well as comparative studies), superiority of PRP has been demonstrated in alleviating pain symptoms and improving knee scores.
+        Sanchez et al. established the safety of autologous PRP for intra-articular use in the first PRP trial in 2008 [36]. It was followed by subsequent studies which compared PRP with hyaluronic acid (HA) and demonstrated the safety profile and beneficial effects of PRP in the OA knee. Spakova et al. [37] compared three PRP injections with three hyaluronic acid injections in their randomized control trial (RCT) on 120 patients and concluded the effectiveness and safety of autologous PRP in early osteoarthritis knee (Kellgren and Lawrence Grades 1, 2 or 3 Osteoarthritis). Better Western Ontario and McMaster Universities Arthritis Index (WOMAC) scores and Numerical Rating Scale (NRS) were noted in the autologous PRP group in comparison to the HA group. Cerza et al. [38] in their RCT on 120 patients compared four PRP injections at one-week interval with low molecular weight hyaluronan (LMW-HA) and observed better improvement of WOMAC scores at 24 weeks in the PRP group. They did not find any correlation with the grade of OA.
+        Kon et al. [18] treated 91 patients with three PRP injections at three-week intervals (freeze thawed PRP) and noted improvement at six and 12 months from baseline in International Knee Documentation Committee (IKDC) and visual analogue scale (VAS) scores, with a tendency of worsening between six and 12 months. In a subsequent comparative study, Kon et al. [39] observed better symptom control and sustained effects (better IKDC and EQ-VAS scores) in autologous PRP group (three injections at two-week intervals) compared to high molecular weight hyaluronan (HMW-HA) injections (50 patients) and LMW-HA injections (50 patients). They have established good outcomes (IKDC scores) of intra-articular PRP in early degenerative cartilage lesions. They have quoted on better results in younger patients, low body mass index (BMI) patients and those with less degree of cartilage degeneration. They also followed the same patients for two years and noticed sustained improvement compared to baseline in the PRP group than HA, with a slight worsening after the first year [40]. However in their recent RCT, they found a similar benefit in both HA and PRP groups in early OA [41].
+        Sanchez et al. [42] in their RCT of 176 patients with Ahlbacks grade 1–3 OA compared three PRP injections at one-week intervals (79 patients) with those of HMW-HA (74 patients). The primary outcome measure was the percentage of patients having a 50% decrease in the WOMAC pain subscore. The secondary outcome measures being other WOMAC subscores, Lequesne index and Osteoarthritis Research Society International (OARSI) responders. They noticed better outcomes in the PRP group at 24 weeks in respect to primary outcome. No differences for secondary outcome measures and amount of acetaminophen consumption were observed.
+        Similarly better outcomes were documented in the PRP group in comparison to HA groups at six months by Li et al. [43] and Say et al. [44] in their prospective studies.
+        Patel et al. were the first to compare normal saline (physiological control) with PRP and established the superiority of PRP over placebo as manifested by improved WOMAC scores which were sustained at six months [17]. They noticed that patients were experiencing benefits as early as 18 days and also noted a slight worsening of benefits by six months, based on which they hypothesized that anti-inflammatory role could be the reason for the clinical effect, as for chondral remodelling it would have required much more time and would have given much sustained results [45].
+        There is also a lot of confusion regarding the dosage schedule of PRP for OA knees. Initial studies used three injections at three weekly interval (without any rational though); probably in a bid to compare with HA which is used similarly. The literature is confusing, with studies available which have used two injections, three injections to four injections. The duration between injections is also variable (one week to four weeks). We were the first to compare two different PRP injection groups, and found that single injection was as good as two injections of PRP, shown by similar improvement in WOMAC scores [17]. Recently Görmeli et al. [46] in their double-blind placebo-controlled randomized trial noted a statistically significant improvement in the IKDC and EQ-VAS scores in all the treatment groups compared with the control group (Normal Saline). The knee scores of patients treated with three PRP injections were significantly better than those patients of single PRP and HA groups.
+        Another alternative is to use PRP at yearly intervals or when the patient demands it again after the effect wanes out. Gobbi et al. [47] have used PRP at yearly interval and established the clinical efficacy. A lot more research in this direction needs to be carried out as to how long we can prolong the pain-free status with multiple yearly injections.
+        Hart et al. [48] have used another interesting approach in their trial wherein they compared PRP (50 patients) with 1% mesocaine (50 patients) in knee articular damage grade 2 (fibrillation) and grade 3 (fissuring and fragmentation). The PRP group received a total of nine injections within a year. The first six injections (loading dose) at weekly interval followed by a three-month gap; followed by three injections at three month interval (maintenance dose). They noticed a better improvement of PRP groups at 12 months with respect to IKDC, Tegner, Lysholm and Cincinnati scores. However, no significant influence on cartilage was observed in magnetic resonance imaging (MRI). So, no clear benefit of such PRP loaded procedure could be validated.
+        Hassan et al. [49] looked at 20 patients with mild to moderate OA, giving 5 mL PRP at monthly intervals for six months (six injections); they noticed significant improvement in knee stiffness, IKDC scores and VAS scores compared to baseline. Maximal improvement was obtained in patients with young age, less BMI and short disease duration.
+        Majority of the previous studies have included early OA for PRP therapy and consistently showed benefits in terms of symptomatic improvement. Kon et al. [18, 39] and Hassan et al. [49] have compared early OA with late OA and found better results in early OA. Recently Sánchez et al. [50] and his team have described a novel approach of PRP delivery in severe OA by intraosseous infiltration of PRP in subchondral area of femoral condyle, tibial condyle and patella. They also simultaneously gave intra-articular injections of PRP for addressing synovial and cartilage pathology in OA.
+        Another interesting approach towards PRP administration in OA is the use of photo-activated PRP (PA-PRP). Paterson et al. [51] in a randomized controlled pilot study (23 patients) observed the safety profile and feasibility of use of PA-PRP in OA knee. Better scores were observed in comparison with the HA group. However, studies are required to compare the PA-PRP with PRP to show any additional effect of photo-activation over conventional PRP.
+        There have been a few studies [52–54] demonstrating the PRP efficacy over HA in hip OA. Mei-Dan et al. [55] demonstrated better outcomes in the PRP group at 28 weeks in talar osteochondral lesions.
+        With the availability of commercial PRP kits in market, more and more people can receive the treatment. However, it is advisable for the clinicians to not get carried away with the initial results and to keep track of the patient’s outcome so as to contribute to the existing literature. It is also advisable to look at the yield and the product obtained to classify the PRP type.
+        Anitua et al. [56] had postulated that PRP in combination with HA may be synergistic, by enhancing the migratory potential of fibroblast based on her in vitro studies. The same has also been supported by Marmotti et al. in his in vitro study [57]. Both HA and PRP are biological approaches and their use may be critical in the initial phase of OA environment where tissue healing may benefit. Based on these concepts Andia et al. [58] have expressed that HA+PRP may be better than PRP alone. Dallari et al. [54] in their RCT in hip primary OA compared ultrasound guided injections of PRP, HA and HA+PRP and noticed a significant improvement in WOMAC and Harris Hip score in the PRP group over HA. However, the addition of PRP+HA did not lead to significant improvement in pain symptoms. A recent RCT by Lana et al. [59] compared HA+PRP versus PRP versus HA in mild to moderate knee OA and noticed better outcomes in the HA+PRP combination over HA alone up to one year and over PRP alone up to three months. They also noted better functional outcomes in the first 30 days after treatment in the combination group over HA and PRP alone groups. Clinical studies on combination therapy are limited and further well-designed studies with a larger sample size are required before a definitive comment can made. Several key aspects concerning molecular weight, ideal combination and dosage schedule of both need to be evaluated before conducting clinical trials. HA+PRP definitely seems like a good future option.
+      
+    
+    
+      Conclusion
+      The present state of knowledge holds promise for PRP of certain specifications for pain management in the early OA knee. PRP has consistently been shown by various clinical studies to be superior to HA. Nevertheless, a lot of grey areas remain in our understanding of PRP and OA, and many more focused clinical and in vitro studies are required. HA+PRP seems to be an evolving future trend. Researchers are also focused on developing a better PRP product by combining it with various molecules such as gelatin, chitosan and others. PRP is definitely there to stay for OA therapy use in future.
+    
+    
+      Conflict of interest
+      The authors declare no conflict of interest in relation with this paper.
+    
+  
+
+    
+      
+        1
+        
+Boswell
+SG, Cole
+BJ, Sundman
+EA, et al. (2012) Platelet-rich plasma: a milieu of bioactive factors. Arthroscopy
+28(3), 429–439.22284405
+      
+      
+        2
+        
+Akeda
+K, An
+HS, Okuma
+M, et al. (2006) Platelet-rich plasma stimulates porcine articular chondrocyte proliferation and matrix biosynthesis. Osteoarthritis Cartil
+14(12), 1272–1280.
+      
+      
+        3
+        
+Pereira
+RC, Scaranari
+M, Benelli
+R, et al. (2013) Dual effect of platelet lysate on human articular cartilage: a maintenance of chondrogenic potential and a transient proinflammatory activity followed by an inflammation resolution. Tissue Eng Part A
+19(11–12), 1476–1488.23360471
+      
+      
+        4
+        
+Park
+SI, Lee
+HR, Kim
+S, et al. (2012) Time sequential modulation in expression of growth factors from platelet-rich plasma (PRP) on the chondrocyte cultures. Mol Cell Biochem
+361(1–2), 9–17.21956670
+      
+      
+        5
+        
+Yang
+SY, Ahn
+ST, Rhie
+JW, et al. (2000) Platelet supernatant promotes proliferation of auricular chondrocytes and formation of chondrocyte mass. Ann Plast Surg
+44(4), 405–411.10783097
+      
+      
+        6
+        
+Spreafico
+A, Chellini
+F, Frediani
+B, et al. (2009) Biochemical investigation of the effects of human platelet releasates on human articular chondrocytes. J Cell Biochem
+108(5), 1153–1165.19731249
+      
+      
+        7
+        
+Gaissmaier
+C, Fritz
+J, Krackhardt
+T, et al. (2005) Effect of human platelet supernatant on proliferation and matrix synthesis of human articular chondrocytes in monolayer and three-dimensional alginate cultures. Biomaterials
+26(14), 1953–1960.15576169
+      
+      
+        8
+        
+Sundman
+EA, Cole
+BJ, Karas
+V, et al. (2014) The anti-inflammatory and matrix restorative mechanisms of platelet-rich plasma in osteoarthritis. Am J Sports Med
+42(1), 35–41.24192391
+      
+      
+        9
+        
+Anitua
+E, Sanchez
+M, Nurden
+AT, et al. (2007) Platelet-released growth factors enhance the secretion of hyaluronic acid and induce hepatocyte growth factor production by synovial fibroblasts from arthritic patientsm. Rheumatology (Oxford)
+46(12), 1769–1772.17942474
+      
+      
+        10
+        
+Yin
+Z, Yang
+X, Jiang
+Y, et al. (2013) Platelet-rich plasma combined with agarose as a bioactive scaffold to enhance cartilage repair: an in vitro study. J Biomater Appl
+28(7), 1039–1050.23828781
+      
+      
+        11
+        
+Mifune
+Y, Matsumoto
+T, Takayama
+K, et al. (2013) The effect of platelet-rich plasma on the regenerative therapy of muscle derived stem cells for articular cartilage repair. Osteoarthritis Cartil
+21(1), 175–185.
+      
+      
+        12
+        
+van Buul
+GM, Koevoet
+WL, Kops
+N, et al. (2011) Platelet-rich plasma releasate inhibits inflammatory processes in osteoarthritic chondrocytes. Am J Sports Med
+39(11), 2362–2370.21856929
+      
+      
+        13
+        
+Bendinelli
+P, Matteucci
+E, Dogliotti
+G, et al. (2010) Molecular basis of anti-inflammatory action of platelet-rich plasma on human chondrocytes: mechanisms of NF-jB inhibition via HGF. J Cell Physiol
+225(3), 757–766.20568106
+      
+      
+        14
+        
+Wu
+CC, Chen
+WH, Zao
+B, et al. (2011) Regenerative potentials of platelet-rich plasma enhanced by collagen in retrieving pro-inflammatory cytokine-inhibited chondrogenesis. Biomaterials
+32(25), 5847–5854.21616530
+      
+      
+        15
+        
+Lee
+HR, Park
+KM, Joung
+YK, et al. (2012) Platelet rich plasma loaded hydrogel scaffold enhances chondrogenic differentiation and maturation with up-regulation of CB1 and CB2. J Control Release
+159(3), 332–337.22366523
+      
+      
+        16
+        
+Anitua
+E, Sanchez
+M, Orive
+G, et al. (2007) The potential impact of the preparation rich in growth factors (PRGF) in different medical fields. Biomaterials
+28, 4551–4560.17659771
+      
+      
+        17
+        
+Patel
+S, Dhillon
+MS, Aggarwal
+S, et al. (2013) Treatment with platelet-rich plasma is more effective than placebo for knee osteoarthritis: a prospective, double-blind, randomized trial. Am J Sports Med
+41, 356–364.23299850
+      
+      
+        18
+        
+Kon
+E, Buda
+R, Filardo
+G, et al. (2010) Platelet-rich plasma: intra-articular knee injections produced favorable results on degenerative cartilage lesions. Knee Surg Sports Traumatol Arthrosc
+18, 472–479.19838676
+      
+      
+        19
+        
+Mishra
+A, Harmon
+K, Woodall
+J, et al. (2012) Sports medicine applications of platelet rich plasma. Curr Pharm Biotechnol
+13, 1185–1195.21740373
+      
+      
+        20
+        
+DeLong
+JM, Russell
+RP, Mazzocca
+AD (2012) Platelet-rich plasma: the PAW classification system. J Arthrosc Relat Surg
+28, 998–1009.
+      
+      
+        21
+        
+Arnoczky
+SP, Delos
+D, Rodeo
+SA (2011) What is platelet-rich plasma?
+Oper Tech Sports Med
+19(3), 142–148.
+      
+      
+        22
+        
+Busilacchi
+A, Gigante
+A, Mattioli-Belmonte
+M, et al. (2013) Chitosan stabilizes platelet growth factors and modulates stem cell differentiation toward tissue regeneration. Carbohydr Polym
+98(1), 665–676.23987397
+      
+      
+        23
+        
+Kutlu
+B, Aydın
+RST, Akman
+AC, et al. (2013) Platelet-rich plasma-loaded chitosan scaffolds: preparation and growth factor release kinetics. J Biomed Materials Res Part B: Applied Biomaterials
+101(1), 28–35.
+      
+      
+        24
+        
+Saito
+M, Takahashi
+KA, Arai
+Y, et al. (2009) Intra-articular administration of platelet-rich plasma with biodegradable gelatin hydrogel microspheres prevents osteoarthritis progression in the rabbit knee. Clin Exp Rheumatol
+27(2), 201–207.19473558
+      
+      
+        25
+        
+Dhillon
+M, Patel
+S, Bali
+K (2011) Platelet-rich plasma intra-articular knee injections for the treatment of degenerative cartilage lesions and osteoarthritis. Knee Surg Sports Traumatol Arthrosc
+19, 863–864, author reply 865-866.21161706
+      
+      
+        26
+        
+Pifer
+MA, Maerz
+T, Baker
+KC, et al. (2014) Matrix metalloproteinase content and activity in low-platelet, low-leukocyte and high-platelet, high-leukocyte platelet rich plasma (PRP) and the biologic response to PRP by human ligament fibroblasts. Am J Sports Med
+42(5), 1211–1218.24627579
+      
+      
+        27
+        
+Braun
+HJ, Kim
+HJ, Chu
+CR, et al. (2014) The effect of platelet-rich plasma formulations and blood products on human synoviocytes: implications for intra-articular injury and therapy. Am J Sports Med
+42(5), 1204–1210.24634448
+      
+      
+        28
+        
+Dragoo
+JL, Braun
+HJ, Durham
+JL, et al. (2012) Comparison of the acute inflammatory response of two commercial platelet-rich plasma systems in healthy rabbit tendons. Am J Sports Med
+40(6), 1274–1281.22495144
+      
+      
+        29
+        
+Filardo
+G, Kon
+E, Pereira Ruiz
+MT, et al. (2012) Platelet-rich plasma intra-articular injections for cartilage degeneration and osteoarthritis: single- versus double- spinning approach. Knee Surg Sports Traumatol Arthrosc
+20(10), 2082–2091.22203046
+      
+      
+        30
+        
+Cavallo
+C, Filardo
+G, Mariani
+E, et al. (2014) Comparison of platelet rich plasma formulations for cartilage healing: an in vitro study. J Bone Joint Surg (Am)
+96(5), 5423–5429.
+      
+      
+        31
+        
+Riboh
+JC, Saltzman
+BM, Yanke
+AB, et al. (2016) Effect of leukocyte concentration on the efficacy of platelet-rich plasma in the treatment of knee osteoarthritis. Am J Sports Med
+44(3), 792–800.25925602
+      
+      
+        32
+        
+Magalon
+J, Bausset
+O, Serratrice
+N, et al. (2014) Characterization and comparison of 5 platelet-rich plasma preparations in a single-donor model. Arthroscopy
+30(5), 629–638.24725317
+      
+      
+        33
+        
+Mazzocca
+AD, McCarthy
+MBR, Chowaniec
+DM, et al. (2012) Platelet-rich plasma differs according to preparation method and human variability. J Bone Joint Surg (Am)
+94(4), 308–316.22336969
+      
+      
+        34
+        
+Blajchman
+MA (2001) Novel platelet products, substitutes and alternatives. Transfus Clin Biol
+8, 267–271.11499975
+      
+      
+        35
+        
+Roffi
+A, Filardo
+G, Assirelli
+E, et al. (2014) Does platelet-rich plasma freeze-thawing influence growth factor release and their effects on chondrocytes and synoviocytes?
+Biomed Res Int
+2014, 692913.25136613
+      
+      
+        36
+        
+Sanchez
+M, Anitua
+E, Azofra
+J, et al. (2008) Intra-articular injection of an autologous preparation rich in growth factors for the treatment of knee OA: a retrospective cohort study. Clin Exp Rheumatol
+26, 910–913.19032827
+      
+      
+        37
+        
+Spakova
+T, Rosocha
+J, Lacko
+M, et al. (2012) Treatment of knee joint osteoarthritis with autologous platelet-rich plasma in comparison with hyaluronic acid. Am J Phys Med Rehabil
+91, 411–417.22513879
+      
+      
+        38
+        
+Cerza
+F, Carnì
+S, Carcangiu
+A, et al. (2012) Comparison between hyaluronic acid and platelet-rich plasma, intra-articular infiltration in the treatment of gonarthrosis. Am J Sports Med
+40, 2822–2827.23104611
+      
+      
+        39
+        
+Kon
+E, Mandelbaum
+B, Buda
+R, et al. (2011) Platelet-rich plasma intraarticular injection versus hyaluronic acid viscosupplementation as treatments for cartilage pathology: from early degeneration to osteoarthritis. Arthroscopy
+27, 1490–1501.21831567
+      
+      
+        40
+        
+Filardo
+G, Kon
+E, Buda
+R, et al. (2011) Platelet-rich plasma intra-articular knee injections for the treatment of degenerative cartilage lesions and osteoarthritis. Knee Surg Sports Traumatol Arthrosc
+19, 528–535.20740273
+      
+      
+        41
+        
+Filardo
+G, Di Matteo
+B, Martino
+Di, et al. (2015) Platelet-rich plasma intra-articular knee injections show no superiority versus viscosupplementation: a randomized controlled trial. Am J Sports Med
+43(7), 1575–1582.25952818
+      
+      
+        42
+        
+Sanchez
+M, Fiz
+N, Azofra
+J, et al. (2012) A randomized clinical trial evaluating plasma rich in growth factors (PRGF-Endoret) versus hyaluronic acid in the short-term treatment of symptomatic knee osteoarthritis. Arthroscopy
+28(8), 1070–1078.22840987
+      
+      
+        43
+        
+Li
+M, Zhang
+C, Ai
+Z, et al. (2011) Therapeutic effectiveness of intra-knee-articular injection of platelet-rich plasma on knee articular cartilage degeneration. Zhongguo Xiu Fu Chong JianWai Ke Za Zhi
+25(10), 1192–1196.
+      
+      
+        44
+        
+Say
+F, Gürler
+D, Yener
+K, et al. (2013) Platelet-rich plasma injection is more effective than hyaluronic acid in the treatment of knee osteoarthritis. Acta Chir Ortho Traumatol Cech
+80(4), 278–283.
+      
+      
+        45
+        
+Patel
+S, Dhillon
+MS (2014) The anti-inflammatory and matrix restorative mechanisms of platelet-rich plasma in osteoarthritis: letter to the editor. Am J Sports Med
+30, 42.
+      
+      
+        46
+        
+Görmeli
+G, Görmeli
+CA, Ataoglu
+B, et al. (2015) Multiple PRP injections are more effective than single injections and hyaluronic acid in knees with early osteoarthritis: a randomized, double-blind, placebo-controlled trial. Knee Surg Sports Traumatol Arthrosc, DOI: 10.1007/s00167-015-3705-6.
+      
+      
+        47
+        
+Gobbi
+A, Lad
+D, Karnatzikos
+G (2015) The effects of repeated intra-articular PRP injections on clinical outcomes of early osteoarthritis of the knee. Knee Surg Sports Traumatol Arthrosc
+23(8), 2170–2177.24748286
+      
+      
+        48
+        
+Hart
+R, Safi
+A, Komázk
+M, et al. (2013) Platelet-rich plasma in patients with tibiofemoral cartilage degeneration. Arch Orthop Trauma Surg
+133(9), 1295–1301.23736793
+      
+      
+        49
+        
+Hassan
+AS, El-Shafey
+AM, Ahmed
+HS, et al. (2015) Effectiveness of the intra-articular injection of platelet rich plasma in the treatment of patients with primary knee osteoarthritis. Egypt Rheumatol
+37(3), 119–124.
+      
+      
+        50
+        
+Sánchez
+M, Fiz
+N, Guadilla
+J, et al. (2014) Intraosseous infiltration of platelet-rich plasma for severe knee osteoarthritis. Arthrosc Tech
+3(6), e713–e717.25685680
+      
+      
+        51
+        
+Paterson
+KL, Nicholls
+M, Bennell
+KL, et al. (2016) Intra-articular injection of photo-activated platelet-rich plasma in patients with knee osteoarthritis: a double-blind, randomized controlled pilot study. BMC Musculoskelet Disord
+17, 67.26861957
+      
+      
+        52
+        
+Sanchez
+M, Guadilla
+J, Fiz
+N, et al. (2012) Ultrasound-guided platelet-rich plasma injections for the treatment of osteoarthritis of the hip. Rheumatology
+51, 144–150.22075062
+      
+      
+        53
+        
+Battaglia
+M, Guaraldi
+F, Vannini
+F, et al. (2013) Efficacy of ultrasound-guided intra-articular injections of platelet-rich plasma versus hyaluronic acid for hip osteoarthritis. Orthopedics
+36(12), e1501–e1508.24579221
+      
+      
+        54
+        
+Dallari
+D, Stagni
+C, Rani
+N, et al. (2016) Ultrasound-guided injection of platelet-rich plasma and hyaluronic acid, separately and in combination, for hip osteoarthritis: a randomized controlled study. Am J Sports Med
+44(3), 664–671.26797697
+      
+      
+        55
+        
+Mei-Dan
+O, Carmont
+MR, Laver
+L, et al. (2012) Platelet-rich plasma or hyaluronate in the management of osteochondral lesions of the talus. Am J Sports Med
+40(3), 534–541.22253252
+      
+      
+        56
+        
+Anitua
+E, Sanchez
+M, De la Fuente
+M, et al. (2012) Plasma rich in growth factors (PRGF-Endoret) stimulates tendon and synovial fibroblasts migration and improves the biological properties of hyaluronic acid. Knee Surg Sports Traumatol Arthrosc
+20, 1657–1665.21987365
+      
+      
+        57
+        
+Marmotti
+A, Bruzzone
+M, Bonasia
+DE, et al. (2012) One-step osteochondral repair with cartilage fragments in a composite scaffold. Knee Surg Sports Traumatol Arthrosc
+20, 2590–2601.22349601
+      
+      
+        58
+        
+Andia
+I, Abate
+M(2014) Knee osteoarthritis: hyaluronic acid, platelet-rich plasma or both in association?
+Expert Opin Biol Ther
+14, 635–649.24533435
+      
+      
+        59
+        
+Lana
+JF, Weglein
+A, Sampson
+S, et al. (2016) Randomized controlled trial comparing hyaluronic acid, platelet-rich plasma and the combination of both in the treatment of mild and moderate osteoarthritis of the knee. J Stem Cells Regen Med
+12(2), 69–78.28096631
+      
+    
+    
+      
+        
+Cite this article as: Dhillon MS, Patel S &amp; John R (2017) PRP in OA knee – update, current confusions and future options. SICOT J, 3, 27
+      
+    
+  

@@ -1,0 +1,728 @@
+oai:pubmedcentral.nih.gov:53598532017-04-04jripmc-open
+Comparison of inter- and intra-cycle variability of anti-Mullerian hormone and antral follicle counts
+
+        
+          Background:
+          The aim of the present study was to evaluate the effectiveness of human ovarian vitrification protocol followed with in vitro culture at the morphological and molecular levels.
+        
+        
+          Methods:
+          Ovarian tissues were obtained from 10 normal transsexual women and cut into small pieces and were divided into non-vitrified and vitrified groups and some of the tissues fragments in both groups were randomly cultured for two weeks. The morphological study using hematoxylin and eosin and Masson’s trichrome staining was done. The analysis of mean follicular density, 17-β estradiol (E2) and anti mullerian hormone (AMH), and real-time RT-PCR was down for the evaluation of expression of genes related to folliculogenesis. Data were compared by paired-samples and independent-samples T test. Values of p&lt;0.05 were considered statistically significant.
+        
+        
+          Results:
+          The proportion of normal follicles did not show significant difference between vitrified and non-vitrified groups before and after culture but these rates and the mean follicle density significantly decreased in both cultured tissues (p&lt;0.05). The expression of genes was similar in vitrified and non-vitrified groups but in cultured tissues the expression of GDF9 and FSHR genes increased and the expression of FIGLA and KIT-L genes decreased (p&lt;0.05). An increase in E2 and AMH concentration was observed after 14 days of culture in both groups.
+        
+        
+          Conclusion:
+          In conclusion, the present study indicated that the follicular development and gene expression in vitrified ovarian tissue was not altered before and after in vitro culture, thus this method could be useful for fertility preservation; however, additional studies are needed to improve the culture condition.
+        
+      
+
+        17 beta- Estradiol
+        Anti- mullerian hormone
+        Gene expression
+        Vitrification
+      
+
+    
+      Introduction
+      At present, there are some reliable options for preserving fertility in cancer patients (1). Dysfunction of gonads occurs due to the toxic effects of chemotherapy and radiotherapy. However, some of these methods, such as ovarian tissue cryopreservation are still considered experimental (2–5).
+      Cryopreservation of human ovarian tissue was done at first in 1996 by Hovatta et al., and at now it is performed by slow freezing and vitrification methods (6). This methods are considered complex because of the nature of human ovarian tissue which consists of different cell types. More attempts have focused on improving ovarian tissue cryopreservation by vitrification (7–10). It is an ultra-rapid cooling process that produces a glass-like solidification of cells by high concentration of cryoprotectants.
+      The effects of vitrification on the morphology, ultrastructure and function of human ovarian tissue showed conflicting results (8–12). Also, at the molecular level, there were limited investigations to evaluate the gene expression of human ovarian tissue just after vitrification and warming procedure (13–15). Recently, Shams et al. demonstrated that after vitrification/warming of human ovarian tissue using dimethylsulphoxide (DMSO) and ethylene glycol (EG), the expression of gene related to folliculogenesis did not change (13). Isachenko showed the expression of glyceraldehyde 3-phosphate dehydrogenase (GAPDH) gene in vitrified ovarian tissue was reduced (14). Abdollahi et al. showed that the expression of some genes involved in apoptosis have changed after vitrification and warming of human ovarian tissue (15).
+      In vitro culture of ovarian tissue following the cryopreservation is an alternative method for follicular maturation and also for assessment of safety of cryopreservation technique (15–17).
+      During in vitro culture of ovarian tissue, the follicles are in connection with stromal cells that provide the factors for initiation of growing of follicles (18), although by tissue culture, the normal structure of follicles within the tissue is maintained. Several genes are expressed and they controlled the development of follicles from primordial to ovulatory stage (19–21). Factor in Germ Line alpha (FIGLA) is expressed by oocytes in primordial follicles and it has an important regulatory role in the expression of the zona pellucid (ZP) glycoprotein and the formation of primordial follicles (22). The mice with homozygous mutation in FIGLA genes are unfertile because of defects in the formation of ZP1, ZP2 and ZP3 (23).
+      Growth differentiation factor-9 (GDF9) is a family member of transforming growth factor-ß (TGFβ) and is expressed by oocytes at a primary follicle stage and controls of gene expression in granulosa cells. The mice with mutation in GDF9 have arrest in the primary follicle development (24, 25).
+      Kit ligand (KIT-L) is expressed by granulosa cells and induced proliferation of theca cells and transition of follicle from primordial to primary stage (26). It also increases the mRNA level of several growth factors such as hepatocyte growth factor and keratinocyte growth factor in theca cells (27).
+      The follicle stimulating hormone receptor (FSHR) expression is required for differentiation of granulosa cells and follicular maturation (28). Oktay et al. demonstrated that the FSHR gene was not expressed in any of primordial follicles, while was shown in all of secondary follicles (29).
+      According to our knowledge, there was very limited information regarding evaluation of expression of genes related to follicular development after in vitro culture of cryopreserved human ovarian tissue. Recently, Wang et al. (2016) demonstrated that vitrification down-regulated the mRNA levels of ZP3, CYP11A and anti mullerian hormone (AMH) after short term in vitro culture of isolated follicles derived from cryopreserved human ovarian tissue (30).
+      In vitro culture studies of human ovarian tissue is the best insight into the effects of vitrification/warming procedure on the expression of genes related to folliculogenesis, thus the aim of the present study was to evaluate the effectiveness of human ovarian vitrification protocol using ethylene glycol based solution followed by in vitro culture at the morphological and molecular levels by assessments of the follicular survival and density and the expression of genes related to follicular development. The function of ovarian tissue was evaluated by the level of 17-β estradiol (E2) and AMH.
+    
+    
+      Methods
+      All reagents and materials of this research were obtained from Sigma-Alderich (Germany) except mentioned otherwise.
+      
+        Experimental design:
+        In this study, in order to assess the effect of vitrification and in vitro culture of human ovarian tissue on follicular survival and the growth and expression of some genes related to follicular development, the ovarian fragments were divided into two non-vitrified and vitrified groups and some of the tissues fragments in both groups were randomly cultured for two weeks. The following assessments were done for non-cultured and cultured tissues as the same. The morphology of tissues was evaluated using hematoxylin and eosin (H&amp;E) and Masson’s Trichrome (MTC) staining. The expression of genes related to folliculogenesis (FIGLA, KIT-L, GDF9 and FSHR) was evaluated using real-time RT- PCR before and after two weeks of in vitro culture period. The E2 and AMH assay was done in collected culture media in the beginning and end of the culture period.
+      
+      
+        Ovarian tissue collection:
+        An informed consent was collected from 10 normal transsexual women (female to male) aged 18–35 years old (median 26.1) under a protocol approved by the Ethics Committee of the Faculty of Medical Science of Tarbiat Modares University (Ref. No. 52/883). The ovarian tissue samples during laparoscopic surgery were obtained and then were transferred to the laboratory within 1–2 hr with sterile 50 ml tubes containing 30–50 ml pre-warmed and equilibrated Leibovitz’s L-15 medium supplemented with 10 mg/ml human serum albumin (HSA), 100 IU/ml penicillin and 100 μg/ml streptomycin. The ovarian cortical tissues were cut into small pieces (approximately 2×1×1 mm) under a sterile condition. The tissue taken from each woman was randomly divided into vitrified and non-vitrified groups (n=272 fragments in total).
+      
+      
+        Vitrification protocol:
+        The ovarian cortical fragments were vitrified according to the protocol described earlier by Salehnia et al. with some modifications (31). Vitrification solution named EFS 40% containing 40% ethylene glycol (v/v), 30% ficoll 70 (w/v), and 1 M sucrose was supplemented with 0.21% HSA. The human ovarian tissues were equilibrated in three changes of vitrification solutions for 5 min, and then they were placed into cryovials containing 100 μl vitrification solution. The cryovials were put on the nitrogen vapor phase for 30 s, immersed and stored in liquid nitrogen until assessment after one month.
+      
+      
+        Warming of vitrified tissue:
+        The fragments were warmed by immersing the cryovials in 37°C water bath with gentle agitation until melting the samples. Then, they were washed serially in 1, 0.5, 0.25 M sucrose and phosphate buffer I (PBI) containing 10 mg/ml human serum albumin at room temperature for 5 min. The samples were equilibrated in α–minimum essential medium (α-MEM) culture media for 30 min. In vitrified group (n=136 fragments in total), 68 fragments (from 10 women) were considered as non-cultured tissues. Among these tissues, 50 fragments were fixed in Bouin’s solution for histological evaluation, and 18 fragments (from 6 women) were stored at −80°C for molecular assessments. The 68 remaining vitrified fragments (from 10 women) were cultured in vitro for two weeks. The non-vitrified samples were also considered for histological and molecular assessments, in the same as vitrified group.
+      
+      
+        Ovarian tissue culture:
+        Non-vitrified and vitrified tissue fragments were cultured (n=136 fragments in total) individually in 96-well V-bottomed culture plates for 2 weeks in 300 μl of α-MEM supplemented with 5 mg/ml HSA, 0.1 mg/ml penicillin G, 0.1 mg/ml streptomycin, 10 μg/ml insulin transferrin selenium (ITS), 0.5 IU/ml human recombinant follicle stimulating hormone (rFSH) at 37°C in humidified air with 5% CO2.
+        At 48 hr intervals, the half of culture media (150 μl) was removed and replaced with fresh medium. The collected media were stored at −20°C for subsequent E2 and AMH hormonal analysis. After 2 weeks, the cultured tissues (100 fragments from 10 women in both groups) were fixed in Bouin’s solution for histological evaluation and the others were stored at −80°C for subsequent molecular assessment.
+      
+      
+        Tissue evaluation:
+        After fixation of tissue fragments, they were dehydrated in ascending concentrations of ethanol (70–100%) and embedded in paraffin wax. Five micrometer thickness serial sections were cut and the sections were mounted on glass slides and stained with H&amp;E. Then each section was examined for follicular counting.
+        Another set of serial sections was stained with MTC staining and observed under light microscope for evaluation of stromal tissue (32).
+      
+      
+        Follicules counting:
+        The follicles were counted at different developmental stages field by field under ×10 objective lense of the light microscope according to the classification described by Gougeon (33). To avoid counting the follicles more than once, only those with an obvious nucleus of oocytes were counted.
+        The follicles containing a single layer of flattened granulosa cells were considered as primordial, those having cuboidal granulosa cells in a single layer identified as primary and those having two or more layers of granulosa cells identified as growing follicles (those having two or more layers of granulosa cells). Atretic follicles had oocyte with a pyknotic nucleus of oocyte and granulosa cells and shrunken ooplasm.
+      
+      
+        Assessment of mean ovarian follicle density per mm3:
+        The photomicrographs of each tissue section were prepared and imported into Image J software (National Institutes of Health, Bethesda). Then the area of each section was measured in units of pixels and converted to millimeters based on the conversion determined by measuring the image of the calibrated millimeter. Tissue volume was calculated as the sum of the area in mm2 of all tissue sections analyzed per patient, multiplied by 0.005 mm (the thickness of each section) to give a value in mm3. The number of follicles in each histological fragment was categorized according to their stage of development as previously described (33). Then, mean follicle density was determined by dividing the total number of follicles per patient by the volume of tissue analyzed and expressing this value as follicles per cubic millimeter.
+      
+      
+        RNA extraction and cDNA synthesis:
+        Total RNA was extracted from non-vitrified and vitrified groups before and after culture, using Trizol reagent (Invitrogen, USA) according to the manufacturer’s instructions. The RNA samples were treated with DNase to remove any genomic DNA contamination prior to proceeding with the cDNA synthesis. Then, the RNA concentration was determined by spectrophotometry and adjusted to a concentration of 250 ng/ml. Finally, 1000 ng of the extracted RNA was used for cDNA synthesis by the commercial Kit (Thermo Scientific, EU) according to the manufacturer’s instructions. Using Oligo dT, RNA was reverse transcribed by Maloney murine leukemia virus reverse transcriptase. The cDNA synthesis reaction was performed at 42°C for 60 min and terminated the reaction by heating at 70°C for 5 min, and the obtained cDNA was stored at −80°C until utilized.
+      
+      
+        Real-time RT-PCR:
+        The primers (Table 1) for realtime RT-PCR were newly designed using Gen Bank (http://.ncbi.nlm.nih.gov) and online software (primer3), synthesized by Generary Biotech co (China).
+        
+          Table 1.
+          
+            The characteristics of primers used for real-time RT-PCR assays
+          
+          
+            
+              
+                
+                  Accession number
+                
+                
+                  Target gene
+                
+                
+                  Primer sequence
+                
+                
+                  Product size (bp)
+                
+              
+            
+            
+              
+                
+                  NM_001101.3
+                
+                β-actin
+                Forward: 5′ –TCAGAGCAAGAGAGGCATCC- 3′Reverse: 5′ –GGTCATCTTCTCACGGTTGG- 3′
+                187
+              
+              
+                
+                  NM_001004311.3
+                
+                Figla
+                Forward: 5′ –TCGTCCACTGAAAACCTCCAG- 3′Reverse: 5′ –TTCTTATCCGCTCACGCTCC- 3′
+                76
+              
+              
+                
+                  NM_000899.4
+                
+                Kit ligand
+                Forward: 5′ –AATCCTCTCGTCAAAACTGAAGG- 3′Reverse: 5′ –CCATCTCGCTTATCCAACACTGA- 3′
+                163
+              
+              
+                
+                  NM_001288828.2
+                
+                Gdf9
+                Forward: 5′ – GAAGTGGGCTGACTGGGTG - 3′Reverse: 5′ – TGCAAAGCTCTGGAGTCTGG - 3′
+                166
+              
+              
+                
+                  NM_181446.2
+                
+                Fshr
+                Forward: 5′ –CTGGCAGAAGAGAATGAGTCC- 3′Reverse: 5′ –TGAGGATGTTGTACCCGATGATA- 3′
+                157
+              
+            
+          
+        
+        After extraction of total RNA and cDNA synthesis, one-step RT-PCR was performed on the Applied Biosystems (UK) real-time thermal cycler according to Quanti Tect SYBR Green RT-PCR kit (Applied Biosystems, UK, Lot No:1201416). Real-time thermal condition included holding step at 95°C for 5 min, cycling step at 95°C for 15 s, 60°C for 30 s and it was continued by a melt curve step at 95°C for 15 s, 60°C for 1 min, and 95°C for 15 s. Then, relative quantification of target genes was determined using the Pfaffle method (34). These experiments were repeated at least three times.
+      
+      
+        Hormonal assay:
+        To evaluate the endocrine function of ovarian tissue, the concentration of E2 and AMH were measured in the collected media derived from cultured ovarian fragments on day 2 and 14 of culture period. The levels of E2 were measured by a Microplate Enzyme Immunoassay kit (Monobind, USA, sensitivity=6.5 pg/ml) and AMH by an Enzyme-Linked Immunosorbent Assay (Ultra-sensitive AMH/MIS, USA, sensitivity= 4.4±0.9 pg/ml).
+      
+      
+        Statistical analysis:
+        Statistical analysis was carried out using the SPSS 19.0 software. Quantitative variables were expressed as mean±SEM. The results of follicular counting, E2 and AMH concentration and real-time RT-PCR data were compared by paired-samples and independent-samples T test. Values of p≤0.05 were considered statistically significant.
+      
+    
+    
+      Results
+      
+        Histological evaluation:
+        The morphology of non-cultured and cultured ovarian cortical sections in both vitrified and non-vitrified groups is shown in figures 1 and 2. The morphology of follicles and stromal cells in vitrified tissues was similar to non-vitrified group. The oocytes were in close contact with the surrounding granulosa cells. No pyknotic nuclei or any sign of shrinkage or swelling were seen in granulosa cells.
+        
+          Figure 1.
+          
+            Light microscopic images of human ovarian cortical tissue after hematoxylin and eosin (A and B) and Masson Trichrome (C and D) staining before in vitro culture. A and C: non-vitrified group; B and D: vitrified group. The normal morphology of primary follicles was indicated in A, B and D
+          
+          
+        
+        
+          Figure 2.
+          
+            Light microscopic images of human ovarian cortical tissue after hematoxylin and eosin (A and B) and Masson Trichrome (C and D) staining after in vitro culture. A and C: non-vitrified group; Band D: vitrified group. The primary follicle has normal morphology in A, B and D and degenerating secondary follicle was indicated in C
+          
+          
+        
+        The light microscopic photomicrographs obtained by Masson’s Trichrome staining showed that ovarian stromal tissue after vitrification was similar to that of non-vitrified one (Figure 1 and 2).
+      
+      
+        The percentage of normal follicle before in vitro culture of ovarian tissue:
+        A total of 885 follicles were counted and analyzed in both vitrified and non-vitrified fragments (443 follicles in the non-vitrified fragments and 450 follicles in the vitrified fragments). Overall, 89.22% of the follicles in non-vitrified group and 84.60% in vitrified group showed normal morphology after warming (Table 2). In non-vitrified group, the percentage of primordial, primary and secondary follicles were 68.64%, 28.69% and 3.62% and these rates in vitrified group were 67.82%, 29.44% and 2.70%, respectively (Table 2). There was no significant difference in the percentage of normal follicles at different developmental stages between two groups.
+        
+          Table 2.
+          
+            The number of different follicles at developmental stages in all groups of study
+          
+          
+            
+              
+                
+                  Groups
+                
+                
+                  Total follicles
+                
+                
+                  Normal F. (Mean%±SE)
+                
+                
+                  Degenerated F. (Mean%±SE)
+                
+                
+                  Various primordial F. (Mean%±SE)
+                
+                
+                  Primary F. (Mean%±SE)
+                
+                
+                  Growing F. (Mean%±SE)
+                
+              
+            
+            
+              
+                
+                  Non –vitrified
+                
+                443
+                383(89.22±4.5)
+                60(10.76±1.52)
+                263(68.64±1.60)
+                110(28.69±1.72)
+                10(3.62±0.66)
+              
+              
+                
+                  Vitrified
+                
+                450
+                378(84.60±4.01)
+                72(15.38±2.30)
+                258(67.82±3.71)
+                112(29.44±3.51)
+                8(2.70±1.20)
+              
+              
+                
+                  Cultured non-vitrified
+                
+                366
+                305(83.25±2.23)a
+                61(16.73±0.23)a
+                78(25.33±1.40)a
+                180(58.89±0.75)a
+                47(15.76±1.55)a
+              
+              
+                
+                  Cultured Vitrified
+                
+                347
+                269(77.29±1.40)b
+                78(22.70±0.40)b
+                71(26.79±1.22)b
+                156(58.24±0.67)b
+                42(15.54±1.34)b
+              
+            
+          
+          
+            
+              a:
+              Significant differences between cultured non-vitrified and non-vitrified group in the same column (p&lt;0.05)
+            
+            
+              b:
+              Significant differences between cultured vitrified and vitrified group in the same column (p&lt;0.05)
+            
+          
+        
+      
+      
+        Normal follicles assessment after in vitro culture of ovarian tissue:
+        After 14 days of in vitro culture, the percentage of the morphological normal follicles at different developmental stages in non-vitrified and vitrified groups were compared and summarized in table 2. Overall, 83.25% of the follicles in non-vitrified group and 77.29% in vitrified group had normal morphology. In non-vitrified ovarian tissue, the percentages of primordial, primary and secondary follicle were 25.33%, 58.89% and 15.76%, respectively. These rates in the vitrified group were 26.19%, 58.24% and 15.54%, respectively. There was no significant difference in the percentage of normal follicles at different developmental stages between these two groups at the end of culture period.
+        In both the in vitro cultured groups, the percentage of normal follicles significantly decreased in comparison with non-cultured groups (p&lt;0.05). However, the percentage of secondary follicles increased in both cultured tissues groups in comparison to their respected non-cultured groups (p&lt;0.05).
+      
+      
+        The follicular density in ovarian biopsies:
+        The follicular densities in non-vitrified and vitrified groups before culturing were 26.59 and 25.54 follicles per mm3 and after two weeks of in vitro culture, the follicular densities significantly decreased to 22.98 and 20.80 follicles per mm3 respectively (p&lt;0.05). There was no significant difference between non-vitrified and vitrified groups.
+      
+      
+        The growing index in ovarian biopsies:
+        The ratio of primary and secondary follicles to primordial follicles was considered as the growing index and in non-vitrified and vitrified groups before culturing, these indexes were 0.47 and 0.46 and after two weeks of in vitro culture, they were 2.94 and 2.81 respectively. There was no significant difference between non-vitrified and vitrified groups but these indexes significantly increased in both cultured tissues than their non-cultured respective groups (p&lt;0.05).
+      
+      
+        Gene expression in ovarian tissue:
+        As the results demonstrated (Table 3), among the studied genes, the ratios of expression of GDF-9, FIGLA, KIT-L and FSHR genes to β-actin gene in non-vitrified group before culturing were 24.5×10−4, 65×10−4, 61×10−4, 17.8×10−4 and in vitrified group were 22.8×10−4, 60×10−4, 58×10−4, 15.8×10−4, respectively. In non-vitrified group after in vitro culture, the ratio expression of previous genes were 171×10−4, 35×10−4, 37×10−4, 28×10−4 and in the vitrified group were 169×10−4, 34.5×10−4, 34.3×10−4, 25×10−4, respectively. There was no significant difference between the expression of all examined genes in vitrified and non-vitrified groups. However, in both cultured tissues in comparison with non-cultured tissues, the level of GDF-9 and FSHR mRNA significantly increased and the level of FIGLA and KIT-L mRNA significantly decreased (p&lt;0.05).
+        
+          Table 3.
+          
+            The relative expression ratio of GDF-9, FIGLA, KIT-Land FSHR to β-actin in non-vitrified and vitrified human ovarian
+          
+          
+            
+              
+                
+                  Gene
+                
+                
+                  Non-vitrified
+                
+                
+                  Vitrified
+                
+                
+                  Cultured non-vitrified
+                
+                
+                  Cultured vitrified
+                
+              
+            
+            
+              
+                
+                  GDF-9
+                
+                24.5×10−4
+                22.80×10−4
+                18.3×10−4
+a
+                18×10−4
+a
+              
+              
+                
+                  FIGLA
+                
+                65×10−4
+                60×10−4
+                34×10−4
+a
+                33.4×10−4
+a
+              
+              
+                
+                  KIT-L
+                
+                61×10−4
+                58×10−4
+                32.9×10−4
+a
+                29.7×10−4
+a
+              
+              
+                
+                  FSHR
+                
+                17.8×10−4
+                15.8×10−4
+                28.4×10−4
+a
+                25.7×10−4
+a
+              
+            
+          
+          
+            
+              a:
+              Significant differences with non-cultured group in the same group (p&lt;0.05)
+            
+          
+        
+      
+      
+        Hormone assay:
+        The concentrations of E2 in collected media at the beginning and end of culture period were shown and compared in table 4 in studied groups. A significant increase in E2 concentration was observed in both cultured groups (51.86±0.63 and 47±1.15 pg/ml) in comparison to day 2 of culture (32.5±0.76 pg/ml and 31.53± 0.85 pg/ml), respectively (p&lt;0.05). There was no significant difference between vitrified and non-vitrified groups in this regard.
+        
+          Table 4.
+          
+            The concentration of 17-β estradiol and anti mullerian hormones (AMH) in supernatants of non-vitrified and vitrified groups during two weeks of in vitro culture (pg/ml)
+          
+          
+            
+              
+                
+                  Hormone
+                
+                
+                  Non-vitrified
+                
+                
+                  Vitrified
+                
+                
+                  Cultured non-vitrified
+                
+                
+                  Cultured vitrified
+                
+              
+            
+            
+              
+                
+                  17-β stradiol
+                
+                32.5±0.76
+                31.53±0.85
+                251.86±0.52
+                247±0.57*
+              
+              
+                
+                  AMH
+                
+                0.15±0.0057
+                0.15±0.0057
+                0.160±0.0057*
+                0.158±0.0057*
+              
+            
+          
+          
+            
+              *
+              Significant difference with day 2 (p&lt;0.05)
+            
+          
+        
+        An increase in AMH level was observed after 14 days of in vitro culture in both non-vitrified and vitrified groups (0.160±0.01 and 0.158±0.01 pg/ml) respectively in comparison with day 2 of culture (0.15 pg/ml). There was no significant difference between vitrified and non-vitrified groups in this regard.
+      
+    
+    
+      Discussion
+      In the present study, morphological observation showed that the normality rate of follicles is similar in vitrified and non-vitrified groups not only before culture but also after culturing period. In addition, our results demonstrated that the vitrified samples have follicular development such as non-vitrified tissue. Optimization of vitrification method for human ovarian tissue using cryoprotectants with low toxicity effects is an important subject in the field of cryobiology. In several studies, it was shown that ethylene glycol is a permeable cryoprotectant and had the best results in terms of survival of tissue (35–38). The adequacy of the EFS40 which mainly composed of ethylene glycol in the preservation of follicles has been shown in various studies (9, 31, 36, 38).
+      From another point of view, our morphological observations using MTC staining showed that the stromal tissues were preserved normally in vitrified tissue similar to the non-vitrified samples. It is concluded that the cryoprotectants solution which was used in this study had no harmful effects on the integrity of stromal tissue and the stromal cells and tissue were well preserved. Similar to our results, Fabbri et al. (39) showed that after vitrification/warming, the stromal compartment maintained morphological and ultra-structural features similar to the fresh tissue.
+      The stromal cells play an important role in the proliferation and differentiation of the granulosa cells so their preservation during cryopreservation procedure is critical. The interaction between stromal and follicular cells and the integrity of these components for normal ovarian function is important (40).
+      Moreover, in other parts of the present study, it was demonstrated that the proportion of normal follicles did not significantly decline after two weeks of in vitro culture in comparison with the non-cultured tissue. In addition, the growing index increased in both cultured groups. It seems that the culture media which have been used in this study could sufficiently support the activation and development of primordial follicles. Different in vitro culture systems were introduced for follicular development and these systems have showed different results (41–44). However, the supplementation of culture media with PTEN inhibitor could activate the follicular development in the present study. Similar reports showed that PTEN inhibitor affects human ovarian follicle development by promoting the initiation of follicle growth and development to the secondary stage (45–48).
+      Our molecular analysis by real time RT-PCR showed that the profile of gene expression related to development of follicles was similar in vitrified and non-vitrified ovarian tissue and also during two weeks of in vitro culture, this pattern was not changed in comparison with non-vitrified group. This observation is parallel to data obtained from developmental potential of vitrified samples than non-vitrified ones. It is concluded that vitrification of human ovarian tissue using EFS40 solution either has no remarkable effect on the morphology and follicular development and on the expression of developmental genes related to primordial, primary and secondary follicles during in vitro culture. In addition, at the end of in vitro culture period, the expression of GDF9 and FSHR increased and the expression of FIGLA and KIT-L genes was reduced in comparison with non-cultured samples. As mentioned before, the expression of FIGLA and KIT-L genes is related to primordial follicles and GDF9 and FSHR genes correspond to primary and secondary follicles, thus this data revealed an increase in the number of growing follicles from primordial to primary and secondary stages.
+      In addition, studies on the effects of long-term culture period on the gene expression of vitrified human ovarian tissue were limited.
+      The level of E2 as a marker for ovarian function during in vitro culture was analyzed and our results showed that an increase in the level of E2 at the end of culture period in comparison with the beginning of culture is correlated with the increase in the proportion of growing follicles during culturing period. The estradiol hormone was produced mainly by the granulosa cells; however, the stromal cells could contribute to steroid production (49).
+      For the first time, the level of AMH was measured in collected media at the beginning and end of in vitro culture to show if this hormone could be a suitable indicator for demonstration of follicular development and reserve within the cultured tissue or not. However, the level of this hormone showed the slight changes during in vitro culture and this data may be related to small number of pre-antral and small antral follicles within cultured ovarian tissue because AMH is expressed in granulosa cells of growing follicles in the ovary and the high level of AMH expression is related to granulosa cells of pre-antral and small antral follicles (50–52).
+      In another part of this study, the changes in the follicular density of human ovarian tissue were evaluated during in vitro culture in comparison with non-cultured groups. The results revealed that the decline in the follicular density was observed in both vitrified and non-vitrified samples. This reduction may be due to the insufficient culture condition to provide essential factors for survival and development of follicles. Other suggestion is that ischemic damages or other types of cell death may take place. Thus, additional studies for improvement of in vitro culture condition are needed.
+    
+    
+      Conclusion
+      In conclusion, the present study indicated that the follicular development and gene expression in vitrified ovarian tissue were not altered before and after in vitro culture, thus this method could be useful for fertility preservation; however, additional studies are needed to improve the culture condition.
+    
+  
+
+    
+      Acknowledgement
+      This study was part of the Anatomy Act of Tarbiat Modarres University and is completed with the financial support of the university.
+    
+    
+      
+        
+          Conflict of Interest
+        
+        There is no conflict of interest.
+      
+    
+    
+      References
+      
+        1.
+        LorenAWManguPBBeckLNBrennanLMagdalinskiAJPartridgeAH
+Fertility preservation for patients with cancer: American Society of Clinical Oncology clinical practice guideline update. J Clin Oncol. 2013;31(19):2500–10.23715580
+      
+      
+        2.
+        Skaznik-WikielMEGilbertSBMeachamRBKondapalliLA.
+Fertility Preservation Options for Men and Women With Cancer. Rev Urol. 2015;17(4): 211–9.26839518
+      
+      
+        3.
+        AndersenCYKristensenSGGreveTSchmidt KT.
+Cryopreservation of ovarian tissue for fertility preservation in young female oncological patients. Future Oncol. 2012;8(5):595–608.22646773
+      
+      
+        4.
+        GrynbergMPoulainMSebag-PeyrelevadeSle ParcoSFanchinRFrydmanN.
+Ovarian tissue and follicle transplantation as an option for fertility preservation. Fertil Steril. 2012;97(6):1260–8.22656306
+      
+      
+        5.
+        JeongKAslanEOzkayaESonmezerMOktayK.
+Ovarian cryopreservation. Minerva Med. 2012; 103(1):37–46.22278067
+      
+      
+        6.
+        HovattaOSilyeRKrauszTAbirRMargaraRTrewG
+Cryopreservation of human ovarian tissue using dimethylsulphoxide and propanediol-sucrose as cryoprotectants. Hum Reprod. 1996;11 (6):1268–72.8671438
+      
+      
+        7.
+        GandolfiFPaffoniAPapasso BrambillaEBonettiSBreviniTARagniG.
+Efficiency of equilibrium cooling and vitrification procedures for the cryopreservation of ovarian tissue: comparative analysis between human and animal models. Fertil Steril. 2006;85
+Suppl 1:1150–6.16616087
+      
+      
+        8.
+        SheikhiMHultenbyKNiklassonBLundqvistMHovattaO.
+Clinical grade vitrification of human ovarian tissue: an ultrastructural analysis of follicles and stroma in vitrified tissue. Hum Reprod. 2011;26 (3):594–603.21217141
+      
+      
+        9.
+        AmorimCADavidAVan LangendoncktADolmansMMDonnezJ.
+Vitrification of human ovarian tissue: effect of different solutions and procedures. Fertil Steril. 2011;95(3):1094–7.21168134
+      
+      
+        10.
+        SalehniaMSheikhiMPourbeiranvandSLundqvistM.
+Apoptosis of human ovarian tissue is not increased by either vitrification or rapid cooling. Reprod Biomed Online. 2012;25(5):492–9.22999557
+      
+      
+        11.
+        BandeiraFTCarvalhoAACastroSVLimaLFVianaDAEvangelistaJS
+Two methods of vitrification followed by in vitro culture of the ovine ovary: evaluation of the follicular development and ovarian extracellular matrix. Reprod Domest Anim. 2015;50(2):177–85.25545956
+      
+      
+        12.
+        YoumHWLeeJRLeeJJeeBCSuhCSKimSH.
+Optimal vitrification protocol for mouse ovarian tissue cryopreservation: effect of cryoprotective agents and in vitro culture on vitrified-warmed ovarian tissue survival. Hum Reprod. 2014;29(4): 720–30.24365801
+      
+      
+        13.
+        Shams MofaraheZGhaffari NovinMJafarabadiMSalehniaMNoroozianMGhorbanmehrN.
+Effect of Human Ovarian Tissue Vitrification/Warming on the Expression of Genes Related to Folliculogenesis. Iran Biomed J. 2015;19(4):220–5.26175108
+      
+      
+        14.
+        IsachenkoVLapidusIIsachenkoEKrivokharchenkoAKreienbergRWoriedhM
+Human ovarian tissue vitrification versus conventional freezing: morphological, endocrinological, and molecular biological evaluation. Reproduction. 2009; 138(2):319–27.19439559
+      
+      
+        15.
+        AbdollahiMSalehniaMSalehpourSGhorbanmehrN.
+Human ovarian tissue vitrification/warming has minor effect on the expression of apoptosis-related genes. Iran Biomed J. 2013;17(4):179–86.23999713
+      
+      
+        16.
+        WangXCattSPangestuMTemple-SmithP.
+Successful in vitro culture of pre-antral follicles derived from vitrified murine ovarian tissue: oocyte maturation, fertilization, and live births. Reproduction. 2011;141(2):183–91.21075829
+      
+      
+        17.
+        KhosraviFReidRLMoiniAAbolhassaniFValojerdiMRKanFW.
+In vitro development of human primordial follicles to preantral stage after vitrification. J Assist Reprod Genet. 2013;30(11): 1397–406.24254400
+      
+      
+        18.
+        LiuJVan Der ElstJVan Den BroeckeRDumortierFDhontM.
+Maturation of mouse primordial follicles by combination of grafting and in vitro culture. Biol Reprod. 2000;62(5):1218–23.10775169
+      
+      
+        19.
+        McGeeEAHsuehAJ.
+Initial and cyclic recruitment of ovarian follicles. Endocr Rev. 2000;21(2): 200–14.10782364
+      
+      
+        20.
+        EdsonMANagarajaAKMatzukMM.
+The mammalian ovary from genesis to revelation. Endocr Rev. 2009;30(6):624–712.19776209
+      
+      
+        21.
+        AdhikariDLiuK.
+Molecular mechanisms underlying the activation of mammalian primordial follicles. Endocr Rev. 2009;30(5):438–64.19589950
+      
+      
+        22.
+        JohnsonJCanningJKanekoTPruJKTillyJL.
+Germline stem cells and follicular renewal in the postnatal mammalian ovary. Nature. 2004;428 (6979):145–50.15014492
+      
+      
+        23.
+        LinRSJimenez-MovillaMDeanJ.
+Figla-Cre transgenic mice expressing myristoylated EGFP in germ cells provide a model for investigating perinatal oocyte dynamics. PLoS One. 2014;9(1): e84477.24400092
+      
+      
+        24.
+        McNattyKPJuengelJLReaderKLLunSMyllymaaSLawrenceSB
+Bone morphogenetic protein 15 and growth differentiation factor 9 co-operate to regulate granulosa cell function. Reproduction. 2005;129(4):473–80.15798022
+      
+      
+        25.
+        OronGFischBAoAZhangXYFarhiJBen-HaroushA
+Expression of growth-differentiating factor 9 and its type 1 receptor in human ovaries. Reprod Biomed Online. 2010;21(1):109–17.20427239
+      
+      
+        26.
+        CarlssonIBLaitinenMPScottJELouhioHVelentzisLTuuriT
+Kit ligand and c-Kit are expressed during early human ovarian follicular development and their interaction is required for the survival of follicles in long-term culture. Reproduction. 2006;131(4):641–9.16595715
+      
+      
+        27.
+        TuckARRobkerRLNormanRJTilleyWDHickeyTE.
+Expression and localisation of c-kit and KITL in the adult human ovary. J Ovarian Res. 2015;8:31.26008799
+      
+      
+        28.
+        AnjaliGKaurSLakraRTanejaJKalseyGSNagendraA
+FSH stimulates IRS-2 expression in human granulosa cells through cAMP/SP1, an inoperative FSH action in PCOS patients. Cell Signal. 2015;27(12):2452–66.26388164
+      
+      
+        29.
+        OktayKBriggsDGosdenRG.
+Ontogeny of follicle-stimulating hormone receptor gene expression in isolated human ovarian follicles. J Clin Endocrinol Metab. 1997;82(11):3748–51.9360535
+      
+      
+        30.
+        WangTRYanJLuCLXiaXYinTLZhiX
+Human single follicle growth in vitro from cryopreserved ovarian tissue after slow freezing or vitrification. Hum Reprod. 2016;31(4):763–73.26851603
+      
+      
+        31.
+        SalehniaMAbbasian MoghadamERezazadeh VelojerdiM.
+Ultrastructure of follicles after vitrification of mouse ovarian tissue. Fertil Steril. 2002; 78(3):644–5.12215351
+      
+      
+        32.
+        DruryRABWallingtonEA.
+Carleton’s histological technique. 5th ed.
+UK: Oxford University Press; 1980 p. 183–5.
+      
+      
+        33.
+        GougeonA.
+Regulation of ovarian follicular development in primates: facts and hypotheses. Endocr Rev. 1996;17(2):121–55.8706629
+      
+      
+        34.
+        PfafflMW.
+A new mathematical model for relative quantification in real-time RT-PCR. Nucleic Acids Res. 2001;29(9):e45.11328886
+      
+      
+        35.
+        SheikhiMHultenbyKNiklassonBLundqvistMHovattaO.
+Preservation of human ovarian follicles within tissue frozen by vitrification in a xeno-free closed system using only ethylene glycol as a permeating cryoprotectant. Fertil Steril. 2013; 100(1):170–7.23566598
+      
+      
+        36.
+        ZengYCTangHRZengLPChenYWangGPWuRF.
+Assessment of the effect of different vitrification solutions on human ovarian tissue after short-term xenotransplantation onto the chick embryo chorioallantoic membrane. Mol Reprod Dev. 2016;83(4):359–69.26924442
+      
+      
+        37.
+        SanfilippoSCanisMSmitzJSionBDarchaCJannyL
+Vitrification of human ovarian tissue: a practical and relevant alternative to slow freezing. Reprod Biol Endocrinol. 2015;13:67.26109179
+      
+      
+        38.
+        TianTZhaoGHanDZhuKChenDZhangZ
+Effects of vitrification cryopreservation on follicular morphology and stress relaxation behaviors of human ovarian tissues: sucrose versus trehalose as the non-permeable protective agent. Hum Reprod. 2015;30(4):877–83.25662812
+      
+      
+        39.
+        FabbriRVicentiRMaccioccaMPasquinelliGParadisiRBattagliaC
+Good preservation of stromal cells and no apoptosis in human ovarian tissue after vitrification. Biomed Res Int. 2014; 2014:673537.24804230
+      
+      
+        40.
+        OrisakaMTajimaKTsangBKKotsujiF.
+Oocyte-granulosa-theca cell interactions during preantral follicular development. J Ovarian Res. 2009; 2(1):9.19589134
+      
+      
+        41.
+        IsachenkoVMontagMIsachenkoEvan der VenKDornCRoesingB
+Effective method for in-vitro culture of cryopreserved human ovarian tissue. Reprod Biomed Online. 2006;13(2):228–34.16895638
+      
+      
+        42.
+        TelferEEMcLaughlinMDingCThongKJ.
+A two-step serum-free culture system supports development of human oocytes from primordial follicles in the presence of activin. Hum Reprod. 2008;23 (5):1151–8.18326514
+      
+      
+        43.
+        HovattaOWrightCKrauszTHardyKWinstonRM.
+Human primordial, primary and secondary ovarian follicles in long-term culture: effect of partial isolation. Hum Reprod. 1999;14(10):2519–24.10527981
+      
+      
+        44.
+        HovattaO.
+Cryopreservation and culture of human primordial and primary ovarian follicles. Mol Cell Endocrinol. 2000;169(1–2):95–7.11155962
+      
+      
+        45.
+        McLaughlinMKinnellHLAndersonRATelferEE.
+Inhibition of phosphatase and tensin homologue (PTEN) in human ovary in vitro results in increased activation of primordial follicles but compromises development of growing follicles. Mol Hum Reprod. 2014;20(8):736–44.24830779
+      
+      
+        46.
+        MorohakuKHoshinoYSasadaHSatoE.
+Incorporation of phosphatase inhibitor in culture prompts growth initiation of isolated non-growing oocytes. PLoS One. 2013;8(11):e77533.24223714
+      
+      
+        47.
+        SmitzJECortvrindtRG.
+The earliest stages of folliculogenesis in vitro. Reproduction. 2002;123 (2):185–202.11866686
+      
+      
+        48.
+        LiJKawamuraKChengYLiuSKleinCLiuS
+Activation of dormant ovarian follicles to generate mature eggs. Proc Natl Acad Sci USA. 2010;107(22):10280–4.20479243
+      
+      
+        49.
+        SchmidtKLByskovAGNyboe AndersenAMüllerJYding AndersenC.
+Density and distribution of primordial follicles in single pieces of cortex from 21 patients and in individual pieces of cortex from three entire human ovaries. Hum Reprod. 2003;18(6):1158–64.12773440
+      
+      
+        50.
+        CarlssonIBScottJEVisserJARitvosOThemmenAPHovattaO.
+Anti-Müllerian hormone in hibits initiation of growth of human primordial ovarian follicles in vitro. Hum Reprod. 2006;21(9): 2223–7.16720622
+      
+      
+        51.
+        La MarcaABroekmansFJVolpeAFauserBCMacklonNS.
+Anti-Mullerian hormone (AMH): what do we still need to know?
+Hum Reprod. 2009;24(9):2264–75.19520713
+      
+      
+        52.
+        van DisseldorpJLambalkCBKweeJLoomanCWEijkemansMJFauserBC
+Comparison of inter- and intra-cycle variability of anti-Mullerian hormone and antral follicle counts. Hum Reprod. 2010;25(1):221–7.19840990
+      
+    
+  

@@ -1,0 +1,36 @@
+oai:pubmedcentral.nih.gov:53598512017-04-04jripmc-open
+Article 50 million: an estimate of the number of scholarly articles in existence
+
+    The end of the industrial era began from the middle of the twentieth century and the world has entered a new era of information and communication. The rapid developments in science and technology were the driving force of this transformation. In the 21st century, the need for qualitative and quantitative changes in access to information and knowledge resources is quite evident. Without a doubt, one of the most important resources for quick and easy access to updated research and scientific contents for researchers and scientists is academic journals. These journals contribute to the quantitative and qualitative development and evolution of research and they are very important tools for solving underlying problems in the field of sciences and community and also the transfer of knowledge between scientists and the community. The development of universities, institutes and research centers led to increased scientific findings and subsequently the increase in the number and diversity of academic journals. Currently, scientific journals are highly specialized in various topics. In each topic, over tens to hundreds of specialty and subspecialty journals are published. Therefore, the need for ranking and separating high-quality journals from poor-quality journals is quite evident and necessary. Although the content of human scientific findings is growing with incredible speed, the issue of concern is accelerating the publication of academic journals on the scientific contents and findings of researchers.
+    According to data published in Scientometrics journal (2010), growth rate of publication of scholarly journals is more than 5.6% per year; therefore, the number of journals was doubled in the period of 10–15 years. The growth was in such a way that the number of scholarly journals in the year 1950 was estimated about 60,000 and according to above growth rate, 50 years later in 2000, it reached to about 1,000,000 (1). Recently, the number is estimated to be 2,000,000 with reference to the double increase during the previous 10–15 years. However, it seems that this estimation of growth rate and total numbers is not a correct calculation and far from reality.
+    On the other hand, the STM report about the occasion on celebrating the 350th anniversary of scientific and scholarly journals has revealed that the number of active scholarly peer-reviewed journals was 28100 in English language and 6450 in other languages in 2014 (2).
+    In addition, the research of Arif Jinha at Ottawa University declared that the number of scholarly articles passed 50 million in 2009 (3).
+    It is estimated that 2.5 million articles will be added in this collection annually (2).
+    If the last two above numbers (50 and 2.5 million articles) are taken into account, it seems that the number of about 35000 is more similar to reality for scholarly journals and two or even one million are too far from reality.
+    Despite the crucial role of academic journals in the development and dissemination of science and knowledge, especially high quality journals, a lot of scholarly journals do not have minimum quality requirements. Unfortunately, as the number of publishing journals increases, the number of fake and low quality journals also rises. The growth rate of scholarly journals is estimated to be about 3.5% per year; however, this rate for published articles is less than 3% (2). This led to intense competition among the journals to get top quality articles; therefore, it is obvious that the journals with lower quality and discipline are inevitable losers in this competition.
+    Moreover, although open access strategy of many scholarly journals is an excellent policy for free access of scientists, researchers and students to updated research and knowledge, but this makes the suppliers to receive the journal’s cost from students, research centers and universities and transfer it to the authors of articles. As a result, a lot of journals for meeting their expenses are forced to accept low quality papers. All of us as researchers, who have at least a few articles published in qualified journals, are witness of this struggle and competition between journals when we receive various and frequent e-mails to supply their expenses.
+    Therefore, a systematic review on journals’ outline including their establishment, identity of owner, identity of publisher, financing, supplying, evaluation and publication of articles, and finally quality assessment and condition of journals should be performed by the scientific community and professional societies.
+    Actually, the scientific community is a wanderer in a real forest of scholarly journals in which the absence of a roadmap and full attention will thus lead to deviation from the main road.
+  
+
+    
+      References
+      
+        1.
+        LarsenPOvon InsM.
+The rate of growth in scientific publication and the decline in coverage provided by Science Citation Index. Scientometrics. 2010;84(3):575–603.20700371
+      
+      
+        2.
+        WareMMabeM.
+The STM Report: An overview of scientific and scholarly journal publishing. 4th ed.
+Netherlands: International Association of Scientific, Technical and Medical Publishers; 2015
+180 p.
+      
+      
+        3.
+        JinhaAE.
+Article 50 million: an estimate of the number of scholarly articles in existence. Learn Publ. 2010;23(3):258–63.
+      
+    
+  

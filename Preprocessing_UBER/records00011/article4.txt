@@ -1,0 +1,625 @@
+oai:pubmedcentral.nih.gov:53626472017-04-04springeropenpmc-open
+Three-arm phase III trial comparing cisplatin plus 5-FU (CF) versus docetaxel, cisplatin plus 5-FU (DCF) versus radiotherapy with CF (CF-RT) as preoperative therapy for locally advanced esophageal cancer (JCOG1109, NExT study)
+
+    
+      Introduction
+       In basic Japanese concept of multimodal treatment of esophageal cancer, radical surgery plays the main role in loco-regional control, and wide range of thorough lymphadenectomy is believed to be mandatory. The three-field lymphadenectomy is accepted as the standard procedure for this purpose [1]. On the other hand, thoracoscopic esophagectomy is rapidly prevailing in Japan. About 30% of esophagectomy in Japan is performed as thoracoscopic surgery [2, 3]. Thoracoscopic esophagectomy is generally regarded and accepted as a minimally invasive surgery in western countries [4, 5]. However, most of thoracoscopic surgeons in Japan try to perform thoracoscopic esophagectomy as radical as their own open surgery and think that thoracoscopic esophagectomy is even advantageous in accomplishing meticulous radical surgery [6, 7]. The purpose of this study was to clarify whether such high radicality was maintained and whether the value of three-field lymphadenectomy had been changed with the introduction of thoracoscopic surgery.
+    
+    
+      Materials and method
+      A total of 419 consecutive patients who underwent curative radical esophagectomy with three-field lymphadenectomy for thoracic squamous cell esophageal cancers during 1998–2013 were first extracted for this study. Ninety patients who underwent neoadjuvant chemoradiotherapy (NACRT) were excluded because NACRT, which was applied to patients with bulky T3 or suspicious T4 tumors including metastatic lymph nodes, seemed to be the largest bias between the groups of patients with open surgery (NACRT: 85) and thoracoscopic surgery (NACRT: 5). Consequently, subjects of the study were 329 patients, 201 in open thoracotomy group (O group), and 117 in video-assisted (=thoracoscopic) surgery group (V group). The open esophagectomy with three-field lymphadenectomy was performed as had been described by Akiyama [8]. The video-assisted esophagectomy was done with essentially similar technique to what had been described by Osugi [9]. The video-assisted esophagectomy was started in September of 2006. Survivals according to TNM Stages and Efficacy index [10] (EI: metastatic rate % × 5-y survival% × 1/100) were analyzed. The characteristics of the 329 subjects are listed in Table 1. The sixth edition of TNM classification [11] was applied in clinical TNM evaluation because number of clinically positive lymph nodes in preoperative staging was not available in patients before 2009. Pathological TNM staging was done according to the seventh edition of TNM [12]. The analysis on individual lymph node stations was done according to the latest classification by Japan Esophageal Society [13].Table 1Characteristics of the subjectsSubjects329 patientsInterval1998–2013DiagnosisThoracic esophageal squamous cell carcinomaNeoadjuvant Tx.None or chemotherapy (CRT excluded)OperationThree-field lymphadenectomy, R0 resectionGroupO (open)V (video-assisted)
+P valueNumber212117Age62.3 ± 8.562.4 ± 8.3.937**Sex Male/female190/22103/14.713Location U/M/L29/127/5623/66/28.360*Preoperative treatment None/Chemo166/4649/68&lt;.001cT (TNM6th) 1a/1b/2/3/43/68/42/95/45/38/39/34/1.009*cN (TNM6th) 0/162/15043/74.175cM (TNM6th) 0/1a/1b175/8/29107/2/8.087*cSt (TNM6th) I/IIA/IIB/III/IVA/IVB39/23/42/71/8/2927/16/40/24/2/8.006*pT (TNM7th) 0/1a/1b/2/3/4a/4b1/15/71/20/100/5/00/15/46/25/31/0/0.001*pN (TNM7th) 0/1/2/379/62/43/2841/46/24/6.066*pM (TNM7th) 0/1173/39102/15.216pSt (TNM7th) IA/IB/IIA/IIB/IIIA/IIIB/IIIC/IV41/10/26/30/31/22/13/3919/9/10/30/25/7/2/15.023*Hospital death4 (1.9%)0.301In pT(TNM7th) column, ypT0 is listed as T0In pSt(TNM7th) column, ypT0N0M0 is included in IA, and ypT0N1M0 is included in IBStatistical significance * Pearson’s Chi-square test, ** t test, others Fisher’s exact test
+
+      Pearson’s Chi-square test, Fisher’s exact test, and t test were used for distributional and numerical comparison. The survival curves were estimated according to the Kaplan–Meier method, and overall survival distributions were compared by use of the log-rank test. Cox proportional hazards model, forward stepwise method by likelihood ratio with the condition of .05 for addition and .1 for deletion, was applied to investigate prognostic factors. IBM SPSS Statistics 23® was used for data analysis.
+    
+    
+      Results
+      Hospital death rates of O/V were 1.9/0% (Table 1). Survivals according to cTNM6th Stages at first presentation of the patients were not statistically different between the two groups except among cSt III patients where V group showed better survival (Table 2, upper). The backgrounds of the 2 groups in this stage are not the same. Preoperative treatment was significantly different (None/Chemo of O was 55/16, while that of V was 5/19.), though preoperative treatment was not a significant prognostic factor in univariate analysis (Table 3). There was no significantly different distribution in other factors (data not shown). V group tended to show better survival in almost every pTNM7th stage though without statistical significance (Table 2, middle). Table 2 shows that V group had better survival than O group in TNM7th pN0 patients, the similar tendency in pN1, but did not in pN2 and pN3.Table 2Five-year survival of O group and V group according to TNM factorsO (%)V (%)
+P (Log rank)5y.s. (S.E.)5y.s. (S.E.)TNM6th cStage I86.9 (5.5)89.3 (7.5).594 IIA65.2 (9.9)78.7 (11.0).409 IIB78.6 (6.3)83.5 (6.9).370 III50.9 (6.0)73.0 (10.5).026 IVA25.0 (15.3)– (–).685 IVB64.4 (9.0)70.0 (18.2).836TNM7th pStage IA92.9 (4.1)100 (–).239 IB80.0 (12.6)100 (–).194 IIA72.7 (8.8)100 (–).081 IIB73.3 (8.1)86.1 (7.7).266 IIIA67.0 (8.6)61.8 (10.8).701 IIIB57.1 (10.8)75.0 (21.7).290 IIIC27.7 (13.5)0 (–).300 IV35.9 (7.7)70.0 (12.8).125TNM7th pN 084.8 (4.1)100 (–).011 164.0 (6.1)74.2 (8.0).083 259.5 (7.6)73.5 (9.4).179 323.2 (8.2)25.0 (20.4).796
+Table 3Results of univariate Cox regression modelCovariateBSE
+P
+HRV/O
+−.837
+
+.261
+
+.001
+
+.433
+Period (L/F)−.336.213.116.715PreTx. CT/NO.001.208.9951.001Location.339U/M.161.268.5481.175L/M.307.210.1451.359
+Age (+1)
+
+.032
+
+.012
+
+.008
+
+1.032
+Sex(M/F).424.347.2221.528
+cT (TNM6th)
+
+.000
+
+T1a/T2
+
+−1.141
+
+1.020
+
+.263
+
+.320
+
+T1b/T2
+
+−.480
+
+.279
+
+.085
+
+.619
+
+T3/T2
+
+.456
+
+.235
+
+.052
+
+1.577
+
+T4/T2
+
+1.487
+
+.614
+
+.015
+
+4.424
+
+cN (TNM6th)
+
+N1/N0
+
+.749
+
+.226
+
+.001
+
+2.114
+
+cM (TNM6th)
+
+.004
+
+M1a/M0
+
+1.207
+
+.393
+
+.002
+
+3.343
+
+M1b/M0
+
+.417
+
+.265
+
+.116
+
+1.517
+
+pT (TNM7th)
+*1
+
+.000
+
+T1a/T2
+
+−.500
+
+.548
+
+.362
+
+.607
+
+T1b/T2
+
+−.119
+
+.367
+
+.745
+
+.887
+
+T3/T2
+
+.841
+
+.340
+
+.013
+
+2.320
+
+T4a/T2
+
+1.970
+
+.550
+
+.000
+
+7.171
+
+pN (TNM7th)
+
+.000
+
+N1/N0
+
+.918
+
+.274
+
+.001
+
+2.504
+
+N2/N0
+
+1.188
+
+.289
+
+.000
+
+3.279
+
+N3/N0
+
+2.199
+
+.301
+
+.000
+
+9.019
+
+pM (TNM7th)
+
+M1/M0
+
+1.021
+
+.210
+
+.000
+
+2.777
+
+B regression coefficient, SE standard error, HR hazard ratio = Exp(B)
+Period F operated before we introduced video-assisted esophagectomy
+Period L operated after we introduced video-assisted esophagectomyThe bold values indicate that the factors are statistically significant in univariate analyses and will be included in the next multivariate analyses* 1 One pT0 patient in O group after chemotherapy is excluded to maintain appropriate statistical analysis
+
+      Twelve clinicopathological factors were examined as univariates for Cox proportional hazard model and found to be statistically significant except preoperative treatment, period of operation, tumor location, and sex (Table 3). Therefore, we decided that 8 factors with statistical significances should be included in the multivariate analysis. Because cTNM6th factors and pTNM7th factors should have strong correlation, Cox proportional hazards model was applied to the data set of 5 patient characteristics including cTNM6th factors but excluding pTNM7th factors. This pointed out that V/O status, cT, cM, and age were significant prognostic factors (Table 4, upper). When the same analysis was done to the data set of 5 patient characteristics including pTNM7th information but excluding cTNM6th pointed out that V/O status, pT, pN, and age were significant prognostic factors (Table 4, lower).Table 4Covariates in the equation of the Cox regression modelCovariateBSEPHRStudy with cTNM6th factors V/O−.788.265.003.455 cT6th.000 T1a/T2−.9041.021.376.405 T1b/T2−.577.281.041.562 T3/T2.334.239.1641.396 T4/T21.445.618.0194.240 cM6th.46 M1a/M0.986.400.0132.690 M1b/M0.050.273.8591.052 Age (+1).036.012.0031.036Study with pTNM7th factors*1
+ V/O−.629.269.019.533 pT7th.011 T1a/T2−.066.562.907.936 T1b/T2−.162.370.662.850 T3/T2.578.345.0941.782 T4a/T2.939.579.1052.557 pN7th.000 N1/N0.920.281.0012.510 N2/N01.062.303.0002.891 N3/N02.143.334.0008.526 Age (+1).052.012.0001.053
+B regression coefficient, SE standard error, HR hazard ratio = Exp(B)* 1: One pT0 patient in O group after chemotherapy is excluded to maintain appropriate statistical analysis
+
+      Number of dissected mediastinal nodes was significantly less in V group (O/V: 42.4/36.0) (Table 5, upper). Evident decrease in number of dissected lymph nodes in the station 106pre, which had the least EI value of .30, was observed (Table 5, lower). The number of bilateral mediastinal paratracheal nodes dissected was a little more in V group, though not statistically significant, and the number of bilateral cervical paratracheal nodes was significantly less in V (Table 5, lower). The percentage of paratracheal recurrent nerve chain nodes dissected from the mediastinal side in both groups is shown in Table 6. The percentage was higher on both sides in V group.Table 5Average numbers of dissected lymph nodes in O group and V groupFieldOV
+P (t test) Cervical45.2 ± 16.242.9 ± 14.9.189 Mediastinal42.4 ± 13.436.0 ± 12.3&lt;.001. Abdominal29.1 ± 11.629.2 ± 11.6.973 3 fields116.6 ± 28.8108.0 ± 28.4.010StationOVP 106pre6.1 ± 5.12.4 ± 2.8&lt;.001. 101(R + L)6.3 ± 4.05.3 ± 4.1.033 106rec(R + L)9.9 ± 4.910.9 ± 5.6.098
+Table 6Percentage of paratracheal lymph nodes dissected from the mediastinal side in O group and V groupSideO (%)V (%)
+P (t test)Right58.5 ± 26.566.4 ± 25.1.009Left63.8 ± 23.869.9 ± 23.1.024Bilateral61.2 ± 19.867.8 ± 17.4.003Percentage of paratracheal lymph nodes dissected from the mediastinal side = number of 106rec nodes/(number of 106rec nodes + number of 101 nodes)
+
+      EI value of mediastinal paratracheal node station (106rec) was higher in V than in O. This was more evident on the left side (Table 7). The EI’s in both O and V groups for cervical, mediastinal, and abdominal lymphadenectomy were all very high, and no decrease in EI of cervical lymphadenectomy from O group to V group was observed (Table 8).Table 7EI’s of paratracheal (recurrent nerve chain) lymph node stations in O group and V groupStationO or VMet. r (%)5-y s (%)Efficacy index101RO10.4
+P = .031*45.04.7V3.466.72.3106recRO22.251.111.3V22.262.213.8101LO6.650.03.3V5.183.34.2106recLO10.4
+P = .005*52.55.5V22.271.515.8* Fisher’s exact test
+Table 8EI’s of the three fields in O group and V groupFieldO or VMet. r (%)5-y s (%)Efficacy indexCervicalO17.167.311.5V25.546.211.8MediastinalO47.651.524.5V52.167.535.2AbdominalO38.2
+P = .021*46.617.8V25.667.417.3* Fisher’s exact test
+
+    
+    
+      Discussion
+      Thoracoscopic esophagectomy, which is regarded as minimally invasive surgery in other countries, is being accepted in Japan very rapidly. According to the NCD report, about 30% of all esophagectomies performed in Japan in 2011 were done as video-assisted surgery. However, most Japanese surgeons performing video-assisted esophagectomy have the impression that the largest advantage of video-assisted esophagectomy is not its less invasiveness but the expectation of more thorough and meticulous lymphadenectomy. In our series, most of the analyses on prognosis showed tendency of improvement with video-assisted surgery. Taking the large bias of this study design into account, we feel at least we can conclude that the introduction of video-assisted surgery has not worsened the prognosis of our radical esophagectomy.
+      Bilateral paratracheal lymph nodes, which are also known as recurrent nerve chain nodes, are most important nodes to be dissected in radical esophagectomy for thoracic esophageal cancer. They are uninterruptedly located from the mediastinum to the cervical area. Our data showed that more paratracheal lymph nodes tend to be dissected from mediastinal side and fewer nodes were dissected from the cervical side in thoracoscopic esophagectomy. Consequently, EI’s of mediastinal paratracheal lymph node stations are higher in V group than in O group. The large increase in EI of the station 106recL from O to V might show not only the fact that more 106recL nodes including nodes in more cervical location can be dissected but also that more complete lymph node dissection of this station can be achieved in thoracoscopic surgery.
+      Although more nodes in cervical paratracheal station (101) can be dissected from the mediastinal side as 106rec in thoracoscopic esophagectomy, high EI value of cervical lymph node dissection is still maintained because of better 5-year survival of cervical node-positive patients in V group. It might mean that the combination of video-assisted mediastinal dissection + cervical lymphadenectomy be superior to the combination of conventional open mediastinal dissection + cervical lymphadenectomy in terms of completeness. At least we can say that three-field lymphadenectomy remains as the standard operative procedure even in the era of video-assisted surgery and multimodal treatment.
+      Because this study is a retrospective study, it should contain biases. The largest limitations are that V group was operated later than 2005 and that the distribution of clinical and pathological factors of the patients in both groups was different. The latter can be adjusted to some extent by stratifying patients according to these clinical and pathological factors. However, the former bias cannot be adjusted. We are looking forward to the coming results of JCOG1409, the phase III study among thoracoscopic esophagectomy and open esophagectomy.
+      Neoadjuvant chemoradiotherapy followed by surgery for resectable advanced thoracic esophageal cancer is widely accepted in all over the world. On the other hand, preoperative chemotherapy followed by surgery is regarded as standard in Japan. This strategy has yielded very good prognostic result as shown here. In this study, patients with NACRT were excluded because it was strongly associated with advanced T-stage, poorer prognosis, and open surgery. There is no direct evidence to compare NACRT and neoadjuvant chemotherapy particularly when the surgery includes Japanese-style extended lymphadenectomy. Japan Esophageal Oncology Group is executing a three-armed randomized controlled trial, JCOG1109 [14], to give answer to this question.
+    
+    
+      Conclusion
+       Japanese-style three-field lymphadenectomy pursuing best loco-regional control by surgery is feasibly and safely performed as thoracoscopic surgery. Thoracoscopic esophagectomy, which is regarded as minimally invasive surgery in other countries, has ability to realize more thorough and radical lymphadenectomy. This phenomenon was observed in the area along the recurrent laryngeal nerves. This increased radicality seems to improve long-term survival of the patients operated thoracoscopically. However, clear evidence of superiority of thoracoscopic surgery to conventional open surgery cannot be obtained until a phase III trial on this issue such as JCOG 1409 becomes available.
+    
+  
+
+    
+      Compliance with ethical standards
+      
+        Ethical Statement
+        We authors of this manuscript, “Re-evaluation of the role of thoracoscopic esophagectomy as a Japanese-style radical surgery” declare that our work conforms to the guidelines set forth in the Helsinki Declaration of 1975, as revised in 2000 and 2008, concerning Human and Animal Rights and that we followed out policy concerning Informed Consent as shown on Springer.com. (http://www.springer.com/gp/authors-editors/journal-author/journal-author-helpdesk/before-you-start).
+      
+      
+        Conflict of interest
+        There are no financial or other relations that could lead to a conflict of interest.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Udagawa
+              H
+            
+            
+              Akiyama
+              H
+            
+          
+          Surgical treatment of esophageal cancer: Tokyo experience of the three-field technique
+          Dis Esophagus
+          2001
+          14
+          110
+          114
+          10.1046/j.1442-2050.2001.00166.x
+          
+          11553219
+        
+      
+      
+        2.
+        
+          
+            
+              Takeuchi
+              H
+            
+            
+              Miyata
+              H
+            
+            
+              Gotoh
+              M
+            
+            
+          
+          A risk model for esophagectomy using data of 5354 patients included in a Japanese nationwide web-based database
+          Ann Surg
+          2014
+          260
+          259
+          266
+          10.1097/SLA.0000000000000644
+          
+          24743609
+        
+      
+      
+        3.
+        
+          
+            
+              Tachimori
+              Y
+            
+            
+              Ozawa
+              S
+            
+            
+              Numasaki
+              H
+            
+            
+          
+          Comprehensive registry of esophageal cancer in Japan, 2009
+          Esophagus
+          2016
+          13
+          110
+          137
+          10.1007/s10388-016-0531-y
+          
+          27110229
+        
+      
+      
+        4.
+        
+          
+            
+              Perry
+              Y
+            
+            
+              Fernando
+              HC
+            
+          
+          Three-field minimally invasive esophagectomy: current results and technique
+          J Thorac Cardiovasc Surg
+          2012
+          144
+          S63
+          S66
+          10.1016/j.jtcvs.2012.06.002
+          
+          22743173
+        
+      
+      
+        5.
+        
+          
+            
+              Biere
+              SS
+            
+            
+              van Berge Henegouwen
+              MI
+            
+            
+              Maas
+              KW
+            
+            
+          
+          Minimally invasive versus open oesophagectomy for patients with oesophageal cancer: a multicentre, open-label, randomised controlled trial
+          Lancet
+          2012
+          379
+          1887
+          1892
+          10.1016/S0140-6736(12)60516-9
+          
+          22552194
+        
+      
+      
+        6.
+        
+          
+            
+              Udagawa
+              H
+            
+            
+              Ueno
+              M
+            
+            
+              Kinoshita
+              Y
+            
+          
+          Rationale for video-assisted radical esophagectomy
+          Gen Thorac Cardiovasc Surg.
+          2009
+          57
+          127
+          131
+          10.1007/s11748-008-0362-4
+          
+          19280307
+        
+      
+      
+        7.
+        
+          
+            
+              Ninomiya
+              I
+            
+            
+              Osugi
+              H
+            
+            
+              Fujimura
+              T
+            
+            
+          
+          Thoracoscopic esophagectomy with extended lymph node dissection in the left lateral position: technical feasibility and oncologic outcomes
+          Dis Esophagus
+          2014
+          27
+          159
+          167
+          10.1111/dote.12071
+          
+          23551804
+        
+      
+      
+        8.
+        
+          
+            
+              Akiyama
+              H
+            
+          
+          Squamous cell carcinoma of the thoracic esophagus. Surgery for Cancer of the Esophagus
+          1990
+          Baltimore
+          Williams &amp; Wilkins
+          19
+          42
+        
+      
+      
+        9.
+        
+          
+            
+              Osugi
+              H
+            
+            
+              Takemura
+              M
+            
+            
+              Lee
+              S
+            
+            
+          
+          Thoracoscopic esophagectomy for intrathoracic esophageal cancer
+          Ann Thorac Cardiovasc Surg
+          2005
+          11
+          221
+          227
+          
+          16148867
+        
+      
+      
+        10.
+        
+          
+            
+              Sasako
+              M
+            
+            
+              McCulloch
+              P
+            
+            
+              Kinoshita
+              T
+            
+            
+          
+          New method to evaluate the therapeutic value of lymph node dissection for gastric cancer
+          Br J Surg
+          1995
+          82
+          346
+          351
+          10.1002/bjs.1800820321
+          
+          7796005
+        
+      
+      
+        11.
+        
+          
+            International Union Against Cancer
+          
+          
+            
+              Sobin
+              LH
+            
+            
+              Wittekind
+              C
+            
+          
+          Oesophagus
+          TNM classification of malignant tumours
+          2002
+          6
+          Hoboken
+          Wiley-Lis
+          60
+          64
+        
+      
+      
+        12.
+        
+          
+            International Union Against Cancer
+          
+          
+            
+              Sobin
+              LH
+            
+            
+              Gospodarowicz
+              MK
+            
+            
+              Wittekind
+              C
+            
+          
+          Oesophagus including oesophagogastric junction
+          TNM classification of malignant tomours
+          2009
+          7
+          Hoboken
+          Wiley-Blackwell
+          66
+          72
+        
+      
+      
+        13.
+        
+          
+            Japan Esophageal Society
+          
+          Japanese classification of esophageal cancer, tenth edition: part I
+          Esophagus
+          2009
+          6
+          1
+          25
+          10.1007/s10388-009-0169-0
+        
+      
+      
+        14.
+        
+          
+            
+              Nakamura
+              K
+            
+            
+              Kato
+              K
+            
+            
+              Igaki
+              H
+            
+            
+          
+          Three-arm phase III trial comparing cisplatin plus 5-FU (CF) versus docetaxel, cisplatin plus 5-FU (DCF) versus radiotherapy with CF (CF-RT) as preoperative therapy for locally advanced esophageal cancer (JCOG1109, NExT study)
+          Jpn J Clin Oncol
+          2013
+          43
+          752
+          755
+          10.1093/jjco/hyt061
+          
+          23625063
+        
+      
+    
+  

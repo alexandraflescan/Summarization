@@ -1,0 +1,579 @@
+oai:pubmedcentral.nih.gov:53593102017-04-04frontplantscipmc-open
+Aboveground net primary productivity of a beech (Fagus moesiaca) forest: a case study of Naousa forest, northern Greece
+
+        Increasing CO2 concentrations are strongly controlled by the behavior of established forests, which are believed to be a major current sink of atmospheric CO2. There are many models which predict forest responses to environmental changes but they are almost exclusively carbon source (i.e., photosynthesis) driven. Here we present a model for an individual tree that takes into account the intrinsic limits of meristems and cellular growth rates, as well as control mechanisms within the tree that influence its diameter and height growth over time. This new framework is built on process-based understanding combined with differential equations solved by numerical method. Our aim is to construct a model framework of tree growth for replacing current formulations in Dynamic Global Vegetation Models, and so address the issue of the terrestrial carbon sink. Our approach was successfully tested for stands of beech trees in two different sites representing part of a long-term forest yield experiment in Germany. This model provides new insights into tree growth and limits to tree height, and addresses limitations of previous models with respect to sink-limited growth.
+      
+
+        tree growth
+        vegetation modeling
+        sink limitation
+        source limitation
+        height growth
+      
+
+    
+      1. Introduction
+      Forests are an important component of the global carbon cycle and are currently thought to be a major sink of atmospheric CO2 (Bonan, 2008; Pan et al., 2011). Being able to predict the future responses of forests is therefore of great interest. Many models have been used to address this issue, but they are almost exclusively carbon source-driven, with plants at any particular location treated as a pool, or pools, of carbon mainly driven by photosynthesis (e.g., Cramer et al., 2001; Anav et al., 2013; Friend et al., 2014). However, it is likely that many other factors, such as the intrinsic limits of meristems and cellular growth rates, as well as control mechanisms within the tree, have large influences on forest responses (Körner, 2003; Fatichi et al., 2014). A few research groups have addressed the issue of sink-limited growth in a modeling context with respect to carbon sequestration. The potential for sink-limited growth to affect carbon storage and treeline position was addressed by Leuzinger et al. (2013) using a global vegetation model. However, their approach was highly empirical and only addressed temperature limitations. A more mechanistic approach was presented by Schiestl-Aalto et al. (2015), in which a tree-level carbon balance model was constructed with both carbon source and sink parameterizations. The sink parameterizations were based on thermal-time and included different ontogenetic effects between tissue types and xylogenetic processes for secondary growth. However, while this paper makes a significant contribution, the various parameterizations were very simply incorporated, with no effect of moisture on wood growth, fixed durations for xylem enlargement, and no overall tree growth across years. Gea-Izquierdo et al. (2015) also presented a tree-level model parameterization that addressed the effect of growth processes independently of photosynthesis, and in this case looked particularly at soil moisture effects. However, they did not explicitly treat meristem growth, but instead used modified allocation coefficients depending on temperature and soil water.
+      Grossman and DeJong (1994) examined the consequences of explicit consideration of sink-limited growth for growth partitioning through the growing season in fruit trees. Sink growth was parameterized using a priority order and as a function of carbohydrate supply up to potential rates for different tissues, which were modulated by daily temperature and season. It was concluded that source and sink limit at different times of the year, with carbohydrate supply limiting stem growth during the spring and autumn periods, presumably related to the total sink strength being maximal at those times. Derived from this type of approach, a number of so-called “Functional-Structural Plant Models” (FSPMs) have been developed which typically explicitly consider both source and sink functions (Allen et al., 2005). While the emphasis of these models has been on allocation to plant form, the focus on sinks makes them relevant for the sink-source debate, and potentially useful tools to address it. However, as far as we know they have not been directly used for this purpose. The LIGNUM model (Perttunun, 2009), for example, computes stem growth using available photosynthate in order to conform to the pipe model, based on foliage area. The tree grows as a coordinated whole, and storage is not considered. It has primarily been used to study the three-dimensional aspects of crown shape and light capture.
+      Most of the published growth and yield models that are routinely applied to forest ecosystem management and scenario analyses are based on statistical relationships between tree growth and environmental conditions (Pretzsch et al., 2007). Thus, they inherently consider the sink aspect of growth, in terms of parameterized resource-growth relationships, more than the source approach. Examples are the individual tree models TASS (Purves et al., 2008), SILVA (Pretzsch et al., 2002), PROGNAUS (Sterba and Monserud, 1997), SORTIE (Pacala and Deutschman, 1995), MELA (Hynynen, 2002), and HEUREKA (Wikström et al., 2011). They represent successful but maybe too exclusively sink-oriented models, in which new knowledge of tree responses to environmental conditions is difficult to integrate due to their empirical nature. In contrast, the generation of mainly source-driven models such as BALANCE (Grote and Pretzsch, 2002), TREEDYN (Bossel, 1991), and 3PG (Landsberg and Waring, 1997) represent hypotheses about biogeoeco-physiological mechanisms, but so far are little established beyond scientific applications. This is mainly due to the lack of evaluation and comparison with empirical growth and yield records. In response to this current one-sided focus on modeling either taking the sink or the source aspect into account, an integration of both seems most promising for taking forward understanding and prognosis of tree and stand growth.
+      Here we present a new framework for addressing tree growth responses to environmental change, building on knowledge of tree physiology to develop approaches for predicting the development of an individual tree, and thereby enabling a better understanding of forest responses to environmental change than purely source-driven models can achieve, as well as addressing the limitations of previous sink-limited approaches. Our aim is to derive an approach that can be applied in global models, specifically Dynamic Global Vegetation Models (DGVMs). Therefore, we seek the minimal level of detail necessary in order to compute behavior at the global scale, and to be compatible with the other highly aggregated process representation in DGVMs.
+      In this paper we suggest that this objective can be realized using differential models, that is to say growth models using differential equations. We propose here a first differential model taking into account control mechanisms and the intrinsic limits of meristems and cellular growth within trees together with the carbon balance, as well as direct environmental controls on meristematic activity. The paper is presented as follows. First we make several hypotheses concerning physiological considerations, then we give a description of the model. We show how the model is used to predict tree height and stem volume in two sets of three different stands of beech trees. Finally, we discuss the results and the behavior of the model in several situations.
+    
+    
+      2. Model and framework
+      
+        2.1. General considerations
+        To describe the development of the tree, we suppose that it has two types of meristems, apical and lateral, and that the apical meristem increases the height through sustaining primary growth, while the lateral meristem (i.e., the vascular cambium) increases the radius through sustaining secondary growth. We recognize that trees will usually have many separate apical meristems distributed across many branches, but for convenience we treat these together as one apical meristem; we also ignore apical root growth for now. We further assume that the stem can be represented by a cylinder and that the crown (i.e., the branches and foliage) occupies a cylindrical volume and has dimensions that are proportional to the stem dimensions, i.e., the crown depth is proportional to the height of the tree stem and its radius to the radius of the tree stem. In this way we need only obtain information about the radius r and the height h of the stem to describe the growth of the tree. Future developments will include introducing other crown and stem shapes, as well as root meristems. Here our objective is to keep the model as simple as possible in order to explore the realism of its fundamental assumptions.
+        In order to derive the dynamics of r and h we need three types of equations:
+        
+          
+            constitutive equations—related to the structure of the tree;
+          
+          
+            control equations—representation(s) of the intrinsic controls that the tree has on itself;
+          
+          
+            carbon balance equations—related to the balance of carbon between the tree and its environment, and the balance within the tree.
+          
+        
+      
+      
+        2.2. Constitutive equations: allometric relationships
+        Physiologically, plant growth is sustained by meristems producing new cells which subsequently enlarge and increase in mass (Aloni, 1987). We suppose that for each type of meristem, growth is proportional to its volume, that is to say that the mass of carbon allocated to a meristematic region will depend proportionally on the volume of meristem, which determines the maximum potential production rate of new cells.
+        We also suppose that a tree controls the activities of the meristems and therefore the relative demand for carbon between the meristematic regions: it can favor either height or diameter growth in this way, depending on environmental signals. Moreover, we suppose that this is the only control the tree has on its growth. With this hypothesis we soon get:
+(1)dhh=2α2drr
+where α2 is the ratio of activities between the apical and lateral meristems, i.e., when the activity of the lateral meristem produces 1 g of carbon growth, α2 g of carbon growth occurs from the apical meristem. It is the control parameter.
+        Note that we suppose here that the volume of the apical meristem is proportional to the top surface area of the (cylindrical) stem and that the volume of the lateral meristem is proportional to the lateral surface area of the stem. This hypothesis is used as it is more realistic than assuming that the volume of the lateral and apical meristems are proportional to the volume of the tree, i.e., that the thickness of the lateral meristem area increases proportionally with the radius and the thickness of apical meristem increases proportionally with height. Although even under this alternative hypothesis we would get the same type of equation with α2 being the proportion of growth per unit of volume of apical meristem relative to proportional lateral growth, only adding a numerical coefficient in front of α2.
+        Knowing the definition of the volume and integrating we get the following constitutive equations:
+(2)h=γr2α2
+(3)Mc=g1r2h
+        We recognize Equation (2) as the usual allometric relationship where γ is a constant. As it is true for any time t, it can be expressed as h0/r02α2, with h0 and r0 the height and radius at some time origin t = 0.
+        Equation (3) is simply the definition of the volume of the stem plus canopy (containing the branches and leaves) in relation to its mass, Mc. We assume naturally that branches, stem, and leaves have different densities, but for each of them we suppose that their mass is proportional to r2 × h with potentially a geometrical coefficient. That implies that the general mass is proportional to r2 × h, and in Equation (3), g1 is the global proportionality coefficient. Therefore, g1 takes into account the density of the stem, the density of the branches and foliage, their contribution to the mass of the tree, and geometric factors. g1 can therefore be found using the proportionality coefficients we assumed between crown radius and stem radius and crown height and stem height, and their relative densities. Or if we call a the geometrical factors and d the densities: g1 = afoliagedfoliage + abranchesdbranches + astemdstem. Here a takes into account the geometry and the volume of each element.
+      
+      
+        2.3. Control mechanism of the tree
+        We want now to take into account the intrinsic control that the tree has on itself, parameterized in our model by α2, the ratio between the activities of the apical and lateral meristems. For this we need to consider what happens physiologically (for convenience we use teleological terminology): the tree uses internal controls to be able to adapt its shape and physiology to the surrounding environment, for instance other competing trees (e.g., Ritchie, 1997), through phytohormonal signaling networks (Brackmann and Greb, 2014; Aloni, 2015). Many behaviors could be taken into account, but here we focus on the behavior of a tree competing for light by trying to grow taller faster than its competitors by increasing α2. The modeled tree is assumed to detect the presence of surrounding trees by sensing the ratio of downwelling red radiation (i.e., wavelengths between 655 and 665 nm) to downwelling far-red radiation (i.e., wavelengths between 725 and 735 nm). A low ratio signals potentially more neighboring trees and therefore a potential threat of shading. In that case the tree reacts by increasing the activity of the apical meristem relative to the lateral meristem, while a higher ratio potentially means no threat and so the tree reacts by balancing the activities of the two meristems as it needs to compete less for light (Franklin, 2008). We hypothesize that this reaction can be modeled as:
+(4)α2=α0exp(−α3Ra)
+        Where α0 is the highest limit for α2 beyond which the tree breaks due to mechanical failure, and Ra is the ratio of received downwelling red:far-red ratio. α3 is a scaling parameter such that α0 exp(−α3) is the value of α2 when the tree is unshaded (i.e., when it detects no other tree around).
+        This approach is based on the findings of several studies (e.g., Morgan and Smith, 1976; Franklin, 2008). In particular, Morgan and Smith (1976) observed the laboratory behavior of two similar young trees grown for 21 days with the same intensity of photosynthetically active radiation (PAR), but different red:far-red ratios. They experimentally obtained a relationship which, extended by limited development for short trees, is coherent with the relationship we give in Equation (4).
+        A potential limitation to our approach is that we may not have access to direct measurements of Ra. For a lone tree this would not be a real problem: the allometric relationship would be constant in our model and the red:far-red ratio maximal. For individual trees growing in a stand in a forest, however, the situation is different as the trees shade each other.
+        Finding a dependency rule of the red:far-red ratio for trees in a stand is therefore a challenge that does not seem to be overcome yet. Because of this and our desire to keep the model simple1, when we do not have access to measurements of the red:far-red ratio we make the assumption that α2 is constant for each stand, as it would be for a lone tree. When the value of this constant is required, it will be estimated as a typical value consistent with the empirical allometric relationship. This is likely to be our most limiting factor as we are here trying to model the internal control that the tree has on itself, which is probably the most complicated phenomenon to take into account, and likely the least-well understood component of our model (cf. Li et al., 2011; Aloni, 2015). Although the model seems to work realistically, further work may require a more precise dependency of the red:far red ratio.
+      
+      
+        2.4. Carbon balance
+        The variation of carbon in the tree over time can be written as the sum of the carbon used for volume growth and the carbon stored:
+(5)dMtotdt=dMcdt+d((S−S1)g1(1+S1)πhr2)dt
+where Mc is the carbon used for volume growth, Sc=Sg1(1+S1)πhr2 the carbon stored, S is defined as carbon stored per unit volume of stem, Sc0=(S-S1)g1(1+S1)πhr2 is the carbon stored above the storage limit S1 under which the tree is considered in danger. This distinction has a physical interpretation and therefore in this model the density of the tree can then be seen as a standard density related to the carbon used for growth plus an increase of density due to the storage.
+        We also know that the variation of carbon is given by:
+(6)dMtotdt=A(Q1,Cg,T,ψ,h,r)−C1hr2−C2(1+S1)g1πSc
+where A is the carbon assimilation due to gross photosynthesis minus a foliage respiration part proportional to photosynthesis, while C1 is a constant grouping a part of the respiration and a litter component proportional to the volume, together with the geometrical factor g1π (such that C1/g1π is the respiration and litter component constant). We assume here that there is no other litter component, that is to say that litter is completely proportional to the volume of the stem. We note that this also means that the litter is proportional to the volume of the crown with our previous assumptions. Also we assumed here that we are dealing with trees where the living volume can be approximated as proportional to the total volume. This is an approximation and further work could include a variable corrective coefficient, however this is a secondary issue compared to the main advance of this model concerning sink-limited growth. Finally, C2 is the same type of constant but for the carbon storage. A is assumed to depend on PAR (Q1), the concentration of CO2 in the atmosphere (Cg), temperature (T), water potential (ψ), and the dimensions of the tree (h and r).
+        Therefore:
+(7)dMcdt+dSc0dt=A(Q1,Cg,T,ψ,h,r)−Chr2−C2(1+S1)g1πSc
+        The system is so far incomplete as there needs to be a relationship that controls which part of the carbon is allocated to growth and which part is allocated to storage. Also, the volume growth of the tree is sustained by meristematic cell division and enlargement, with a maximal rate determined by intrinsic physiological limits or environmental controls.
+        We assume that the tree grows in volume as much as it can, as long as it keeps enough storage to avoid being in danger, such as for repairing damage and surviving poor growing seasons. We assume that there is one tree specific storage pool, although we acknowledge that localized storage with various turnover times are more realistic (Sprugel et al., 1991; Palacio et al., 2014; Richardson et al., 2015). Therefore, if there is enough carbon assimilation then the rate of growth is equal to the meristem-sustained growth-rate limit and the storage can increase using the difference of these two. Also, if the carbon assimilation rate becomes too low but there is enough storage, then the storage delivers carbon to the meristematic region to maintain a rate of growth equal to its maximal sustainable rate. Then density decreases as the carbon of the storage is used to maintain the volume growth. This is likely to occur for instance when buds appear while photosynthesis is not yet high enough to support the maximal growth potential due to meristem reactivation (note that bud-burst and other seasonal phenological phenomena are not yet treated by the model). However, if there is not enough carbon assimilation or storage then the rate of growth is equal to the carbon assimilation rate and the storage per unit volume remains constant.
+        This behavior can be translated into evolution equations. As growth occurs at a cellular level we can assume that the maximal meristem growth is proportional to the volume of meristems. We denote this maximal meristem-sustained growth per volume by Rmax, the volume of the meristems by Vme.
+        If there is enough photosynthesis or storage, i.e.,
+(8)if A(Q1,Cg,T,ψ,h,r)−Chr2−C2Shr2&gt;RmaxVme or S&gt;S1
+then:
+(9)dMcdt=RmaxVme1+(S−S1)(1+S1)
+(10)d((S−S1)πg1(1+S1)hr2)dt=A(Q1,Cg,T,ψ,h,r)−Chr2                                          −C2Shr2−dMcdt
+(11)but if A(Q1,Cg,T,ψ,h,r) − Chr2− C2Shr2≤RmaxVme                                               and S = S1
+then
+(12)dMcdt=A(Q1,Cg,T,ψ,h,r)−Chr2−C2Shr2
+(13)dSdt=0
+        Note that the case where for some reason the carbon assimilation by photosynthesis is insufficient even to cover the cost of maintenance is treated by Equations (8–10). In that case there will be a depletion of storage to sustain the maintenance cost until the storage reaches a critical level or until the photosynthesis rate increases sufficiently.
+      
+      
+        2.5. Modeling photosynthesis
+        We assume the following dependencies of photosynthesis on water potential, atmospheric CO2 concentration (Cg), PAR (Q1), temperature, radius, and height:
+        
+          
+            Photosynthesis increases with CO2 concentration and PAR exponentially and tends to saturate:
+(14)A α (1−exp(−CgCr))
+(15)A α (1−exp(−Q1Qr))
+            Cr and Qr refers to the critical constants.
+          
+          
+            As a first approximation photosynthesis of each leaf decreases linearly with a reduction in soil water potential. We also suppose that water potential and hence photosynthesis decreases linearly with height (Friend, 1993):
+(16)Aleaf α h1−hh1
+
+            Where:
+(17)h1=(ψsoil−ψlim)Rh
+            With ψsoil the water potential in the soil and ψlim the limit water potential below which any photosynthesis cannot be performed due to a lack of turgor pressure in the leaves and increased probability of xylem cavitation. Rh is the hydraulic resistance per unit length. Overall for the whole canopy we suppose a dependency of the form:
+(18)A α (h1−βhh1)h
+            In particular this means that there are two antagonist effects: one that tend to increase photosynthesis with the depth of the canopy due to more leaves and another that tends to make photosynthesis decrease with height due to the decline in water potential. Note that β is a numerical coefficient that depends on the ratio between the crown depth and the height. We assumed in our simulations that β = 3/4. Also, the dependency of both height and water potential is given above.
+          
+          
+            We assume a dependency with temperature given by an asymmetric parabola:
+(19)A α (1−(|T−Topt|Ti)2)
+            With Ti being 21°C if T &gt; Topt and 25°C otherwise. We set here Topt = 18°C. These values are inspired by previous studies (e.g., Precht et al., 1973).
+          
+          
+            We suppose that photosynthesis is proportional to the surface area of the crown, and so proportional to r2.
+          
+        
+        Overall we get:
+(20)A=Amax(1−e−CgCr)(1−e−Q1Qr)(1−(|T−Topt|Ti)2)                (h1−3h/4h1)r2h
+      
+      
+        2.6. Maximal meristem-sustained growth
+        Intuitively, as meristem-sustained growth occurs at a cellular level, we assume that the limit to meristem-sustained growth per volume increases with temperature up to a certain temperature and increases with water potential (cf. Deleuze and Houllier, 1998). Therefore, we assume the following dependencies:
+        
+          
+            Themeristem-sustained growth limit decreases with height as: Rmax α (h2−h)h2
+(21)h2=(ψsoil−ψlim2)Rh
+            With ψsoil the water potential in the soil and ψlim2 the limit water potential below which meristem-sustained growth cannot occur. Physically this gives us a maximal height h2 due to the limit on meristematic growth.
+            We define therefore Rmax0 the reference maximal meristem-sustained growth per volume independant of water potential by: Rmax=Rmax0(h2-h)h2
+            We could also suppose that the limit to meristem-sustained growth per volume increases with temperature using a standard Q10 formulation: Rmax α Q10T-T210. However, seen the difficulty to know precisely Q10 and in order to keep the model as simple as possible we assumed that Rmax0 remains constant with time.
+          
+          
+            As stated previously, we suppose that the volume of meristems is expressed as: Vme=(t1πr2+2πrht2), where t1 is the effective thickness of the apical meristem and t2 is the effective thickness of the lateral meristem.
+          
+        
+      
+      
+        2.7. Final evolution equations
+        Using the previous elements we finally get:
+(22)dMcdt=Rmax0(h2−hh2)Vme1+(S−S1)(1+S1)
+(23)dSc0dt=(Amax(1−e−CgCr)(1−e−Q1Qr)(1−(|T−Top|Ti)2)                      (h1−3h/4h1)−C)hr2−C2Shr2−dMcdt
+or
+(24)dMcdt=(Amax(1−e−CgCr)(1−e−Q1Qr)(1−(|T−Top|Ti)2)                     (h1−3h/4h1)−C)r2h−C2Shr2
+(25)dSdt=0
+depending on whether carbon supply from photosynthesis plus storage is sufficient to meet demand for growth (Equations 22 and 23) or not (Equations 24 and 25).
+      
+      
+        2.8. Deriving the values of the parameters
+        So far we need to know the values of the following physiological parameters to use the model (Table 1):
+Amax, g1,C, C1, C2, S1, Cr, Qr, h1, h2, t2Rmax0
+        
+          Table 1
+          
+            Numeric values of the parameters used in the model.
+          
+          
+            
+              
+                
+                  Symbol
+                
+                
+                  Value
+                
+                
+                  Quantity
+                
+              
+            
+            
+              
+                
+                  g
+                  1
+                
+                365 kg.m−3
+                Density of carbon of the equivalent cylinder representing the tree
+              
+              
+                C/π
+                73 kg.m−3.y−1
+                Respiration and litter coefficient
+              
+              
+                C2/π
+                73 kg.m−3.y−1
+                Respiration coefficient for the storage
+              
+              
+                t2Rmax0/g1
+                0.0201 m.y−1 corresponds to a maximal radius expansion of 1.5 cm.y−1
+                Reference maximal meristem-sustained lateral growth per area independent of water potential
+              
+              
+                t2/t1
+                1
+                Ratio between lateral and apical meristem thickness
+              
+              
+                βh1
+                67.5 m
+                Limit height of occurrence for photosynthesis
+              
+              
+                
+                  h
+                  2
+                
+                47 m
+                Limit height of occurrence for meristem-sustained growth
+              
+              
+                
+                  S
+                  1
+                
+                0.2
+                Critical value of the storage per unit mass
+              
+              
+                Amax/π
+                206 kg.m−3.y−1
+                Maximal assimilation of carbon per unit volume by photosynthesis
+              
+              
+                
+                  Q
+                  
+                    r
+                  
+                
+                1000 W.m−2
+                Characteristic PAR dependency
+              
+              
+                α2
+                0.34–0.43
+                Ratio of meristematic activity
+              
+              
+                
+                  C
+                  
+                    r
+                  
+                
+                500 ppm
+                Characteristic CO2 mixing ratio dependency
+              
+              
+                β
+                3/4
+                Geometrical integrand for h1
+              
+              
+                
+                  T
+                  opt
+                
+                18°C
+                Optimal temperature for carbon assimilation
+              
+            
+          
+        
+        The most accessible are probably Cr and Qr. These are usually well known and can be obtained from the curve of photosynthesis activity as a function of atmospheric CO2 mixing ratio (in ppmv) or as a function of PAR, respectively.
+        Amax can be obtained by direct measurements of the carbon exchange at a given height, ambient CO2 concentration, temperature, PAR, and compensating for respiration as in Campioli et al. (2011). Acting similarly and measuring litter with litter traps gives access to C. These values can also be deduced from net primary production and gross primary production and the typical litter flux rates. Note that here we use data coming from forest stands, although in the model we suppose that we have an individual tree without shading because data for lone standing trees are seldom available. This means that we may underestimate the growth of isolated trees, but at the same time the values of Amax and C obtained enable to take into account the shading effect by neighbors of a forest with the same density, which is a hidden parameter of this model (i.e., not explicitly taken into account). Also, depending on the typical time length of the study, we choose a model timestep and therefore we use averaged values of the parameters on this timestep. In this analysis, we chose 1 year as the timestep although smaller timesteps could be considered.
+        Finding h1 is equivalent to finding the minimal water potential that can sustain photosynthesis. h2 is its equivalent with respect to growth. Combined, these two parameters take into account all water potential-dependant limits in trees such as cavitation in the xylem conduits, minimal turgor potential to maintain the shape of the leaf and enable stomatal opening, etc. While h1 (or equivalently ψmax1) has been extensively studied (e.g., Friend, 1993; Koch et al., 2004; Du et al., 2008), and is believed to be equal to around 90 m for redwood trees (Koch et al., 2004), h2 seems to be less known. However, knowing h1 and the other parameters, as well as the effective limit height for the considered species, h2 can be estimated by assuming that it is the limiting parameter in regions with very good conditions for photosynthesis. Therefore, looking at the effective limit height would give access to h2 for these particular regions. Using Equation (22) and regressing on the water potential we would have access to ψlim and Rh and therefore we would be able to estimate h2 in any region from a measure of ψsoil.
+        We can find Rmax0, at least approximately, by looking at the tree rings of many trees across several geographical locations and assuming that the largest ones correspond to the maximal increment dr achievable in a year, which is directly linked to Rmax0, the maximal meristem-sustained growth rate under perfect water potentials. Then we can deduce the value of Rmax0, or at least its order of magnitude.
+      
+    
+    
+      3. Results
+      The model described above is ordinary, first order, non-linear, and has no widely known explicit analytical solution in the case where 2α2 is not an integer. Therefore, it was solved numerically by the Runge-Kutta-Fehlberg (RK45) method (Dormand and Prince, 1980). Coherence both with the analytical solution in simplified cases and with other solving methods (i.e., the trapezoidal rule and numerical differentiation formula) was tested.
+      As some parameters can depend, a priori, on the considered species, we derived the parameters explained previously for beech trees from the data provided in Campioli et al. (2011) and Zianis and Mencuccini (2005). Beech trees were chosen because of their importance in European forests, especially in Germany where they represent more than 15% of the forest and in France where they comprise 15% of the non-conifer forest. Therefore, a great number of studies have focussed on beech trees, enabling easier comparisons with our current study.
+      As the computation of the parameters is based on independent measurements that have sometimes a non-negligible margin of error, we allowed the parameters thus obtained to vary with a 20% margin to account for this error, and to allow a small adaptation of the model (as it is only a simplification of reality) by fitting them with reference measurements of a standard beech tree stand in Fabrikschleichach, Germany that we refer to as “first stand” in the following. As Rmax0 was more coarsely estimated we allowed it a variation of 50% in order to maintain the right order of magnitude. Also, as no precise data on the soil water potentials over the tested period A.D. 1870–2010 were available for these stands, we allowed a 50% variation of h2, the height where meristem-sustained growth cannot occur due to cell turgor limits. We obtained then a final vector of parameters for our model using a non-linear least-square method (trust-region-reflective algorithm: http://uk.mathworks.com/help/optim/ug/equation-solving-algorithms.html).
+      We then used our model to predict the time variation of height and volume of an average tree in other stands of beech trees. It should be emphasized that there is a substantial difference between fitting and prediction. Fitting a model to some data gives a partial understanding of the data but does not usually enable prediction for another tree or even for future data points as the fitting is done on a restricted set of measurements. Prediction, on the other hand, is much harder to achieve as it supposes the use of previously-derived parameters and environmental information (e.g., air temperature, soil moisture, CO2 concentration, etc.) to predict the measurements. Usually most models are fitted rather than predicting as it is much harder to predict anything without any fitting, although when it works it gives much more information: a better understanding and a reliable way to deduce future measurements before they occur even for other trees (e.g., height or volume prediction).
+      On these stands the model was tested without any additional fitting. In that sense it is, at least partially, a prediction. Of course a fitting on these stands would give a better result than the (still good) results we obtain, however it is not the goal of our approach. This is the reason why in the figures, to emphasize the difference of treatment between the standard stand and the others, two labels appear: “partial fit” and “prediction.”
+      We first considered three stands of beech trees that are part of a long-term experiment on forest yield science performed by the Chair of Forest Growth and Yield Science at the Technische Universität München. The stands are in southern Germany, about 60 km from Würzburg in the heart of the Steigerwald, a richly forested hillside, near a small village named Fabrikschleichach (49.9 °N; 10.5 °E). They cover roughly 0.37 ha, are located within immediate proximity of each other (i.e., they have experienced the same environmental conditions), and differ only in silvicultural management, especially thinning with consequences for the development of stem densities during the experiment. The beech trees were planted and then measured at irregular intervals averaging 8 ± 3 (mean ± standard deviation) years from an age of 48 y in A.D. 1870 to 188 y in A.D. 2010. For each stand we considered the average height of the 100 trees with the largest stem diameter at breast height. The first stand was the reference stand used to partially fit the parameters (within the 20% margin). As the model needs initial values for both h0 and r0, and as measurements only started at an age of 48 y, all the computations were run starting at an age of 48 y as can be seen in Figure 1.
+      
+        Figure 1
+        
+          Size of the modeled tree with age at the first site (Fabrikschleichach). Continuous curves are computed with the model while circles correspond to experimental measurements. (A) Represents the results of the partial fit on the reference stand. (B,C) Represent the results of the prediction with the parameters obtained by partial fitting.
+        
+        
+      
+      As expected, our partially fitted model agrees well with the measurements from this stand (Figure 1A; R2 = 0.924). Predictions with the model were then performed for the two other stands (Figures 1B,C).
+      The results give a very good prediction for the second stand (R2 &gt; 0.925), and a small, although non-negligible, error for the third one (R2 = 0.89). However, this could be at least partially explained by the change in the density of trees during the 120 y due to different rates of thinning in the different stands (i.e., from 3,500 tree ha−1 to 200 tree ha−1 in the first stand, 6,400 tree ha−1 to 200 tree ha−1 in the second, and 2,400 tree ha−1 to 200 tree ha−1 in the third). Therefore, the red:far-red radiation ratio changes with time in the real forest while it was assumed constant in our model.
+      To complete the analysis by testing the model thus calibrated on another site where the conditions may be different, it was also used to predict the height of dominant trees in three other stands at a different site in the Spessart, Hain (50.0 °N; 9.3 °E), a low wooded mountain range in central Germany, located approximately 100 km from the first site where the beech trees were also planted and then measured from an age of 48 y in A.D. 1870 to 188 y in A.D. 2010 (Figure 2). As data were missing concerning the water potential during the growth period from A.D. 1870 to compare with the first stand, we allowed the model to adapt its value of h2 within 20% by keeping the calibration derived previously and fitting only this one parameter on the first of the three new stands. Then the new calibration was used to predict the heights of the three stands according to the model. To avoid the potential error induced by the different variations of the red:far-red ratios within the stands, we restrict our analysis to data when the density was lower than 1,000 tree ha−1 and started the simulations from these ages. As before, the predictions are in strong accordance with the observations for all three stands, with a nearly exact correspondence with the measurements (R2 = 0.99, R2 = 0.92, R2 = 0.99 respectively), except for the second stand.
+      
+        Figure 2
+        
+          Plot of the size of the tree with age at the second site (Hain). Continuous curves are computed with the model and start when the tree density is lower than 1,000 tree ha−1, while circles correspond to experimental measurements. Parameters for beech trees are obtained from the first site and h2 was allowed to vary up to 20% to compensate for the lack of data concerning water potential from A.D. 1870 on the two sites. Panels (A–C) represent, respectively, the results for stands 1–3.
+        
+        
+      
+      We should note that the correspondence is very close but not exact, and that the data we have might limit the accuracy: firstly, from our equations we can see that there is a propagation of error from the initial conditions. An error on the initial height of 1 m could imply an error of the predicted height of up to 2.5 m after 50 years even if the model were perfect. Also, no data were available for the difference of water potentials between the stands on a same site, while it seems logical that for a certain density of trees, the stands with higher density will have less water available per tree. Therefore, this could induce a small error in h2 and h1 that could be corrected if we knew the average water potential during the growth period in each stand.
+      To exam the sensitivity of the model to the initial condition, we investigated how this impacts its predicting potential. Figure 3A shows predictions by the model for the second stand of the first site (Fabrikschleichach) when we add an error on the initial condition for r0 between −20% and +20% (in blue) with an increment of 4%. We also show the effect of combining this error on r0 with a −20% error on h0 (in cyan) and a +20% error on h0 (in magenta). Experimental measurements are represented in red. In Figure 3B we show the result of the model with a full range of error for r0 and h0 between −20% and +20% with an increment of 4%, while the experimental measurements are again represented in red. In these simulations some knowledge on the experimental measurement is still necessary as we need to known the allometric relationship a priori. However, we could avoid this assumption by estimating it for instance using the allometric relationship of the first stand used for partial fitting. Figure 3B would not change much: the result of this procedure is given in Figure 3C. Of course the prediction is likely to be more precise if we knew more than the single initial point. The existing but small dispersion of the model prediction due to variation in the initial condition as demonstrated by the panels in Figure 3, is encouraging. It appears that the sensitivity or our model to the initial condition is not a significant concern regarding the ability of the model to reproduce actual behavior.
+      
+        Figure 3
+        
+          Plot of the size of the tree with age at the second stand of the first site (Fabrikschleichach) when some error is added to the initial conditions. On every plot the error on r0 ranges between −20 and +20%, while the error on h0 depends on the plot. (A) Three groups of initial conditions are represented: no error on h0 (blue), -20% error on h0 (magenta), +20% error on h0 (cyan). (B) Error on h0 ranges between −20% (cyan) and +20% (magenta) with a 4% increment. (C) Same as the previous but, in addition, allometric relationship of the stand is assumed unknown.
+        
+        
+      
+      Finally, mortality is not addressed by the model, although the model does produce cessation of growth under stressful circumstances. Therefore, tree mortality due to critical events (e.g., disturbance, pathogens, etc.) other than a limit on growth due to the external conditions, can create discontinuities in the data which are not captured by the model. Although the continual use of the 100 trees with largest DBHs tends to average this discontinuity (as the probability that a large change in those 100 trees occurs in 1 year is low), this might have created another limit to the accuracy. For instance, we note that we have observed in the 2010 measurements, i.e., after 188 years, the death of several of the 100 trees with the largest DBHs, which seems to have caused a decline of the average height of the 100 living trees with the largest DBHs as taller trees were replaced by smaller trees in this group, which is a result of size-related mortality dynamics (cf. Holzwarth et al., 2013).
+      If we wanted to address further this question, especially if we wanted to simulate many individual trees that interact together in a forest, we could multiply the height h by a random process M(t) that would be equal to 1 when the tree is alive and 0 when the tree is dead. Then the probability p(M(t) = 0|M(s&lt;t) = 1) of transition between a living tree and a dead tree could be derived using experimental measurements and even be a function of the size of the tree. So far, though, this doesn't seem to be needed in the present application.
+      So far, the only things we assumed to be known for predicting the height are the external variables (i.e., temperature, water potential, PAR, and CO2 concentration), the species of the tree, and the allometric relationships for each stand. No other knowledge about the trees was used to perform the predictions. Measurements in themselves were used to compare our predictions with reality.
+      We chose to predict height as there is usually a relatively small error of measurement in height compared to other variables. It should be noted that the same procedure is possible taking instead the stem volume as the quantity to predict. However, the results would be less precise because they will be susceptible to cumulative measurement errors of the radius and the stem height, among other reasons, but they would still be accurate (the highest error is around 25% after 75 years) and are presented in Figure 4. As in Figure 1, we find again between 168 and 188 years that the effect of thinning reduces the precision and explains the apparently strange experimental values. Also, we chose to predict height instead of radius or diameter as the measurements performed on the radius were the DBH which might be different from the equivalent cylindrical diameter, especially for the 100 trees with the largest DBH, and this would have added an artificial error of measurement.
+      
+        Figure 4
+        
+          Plot of the stem volume with age at the first site (Fabrikschleichach). Continuous curves are computed with the model and start when the tree density is lower than 1,000 tree ha−1, while circles correspond to experimental measurements. Panel (A) represents the partial fit on the reference stand. Panels (B) and (C) represent the results of the prediction with the parameters obtained by partial fitting.
+        
+        
+      
+      
+        3.1. Notable behavior
+        The results of this model are very encouraging and are not limited to predicting the height of dominant trees but show notable qualitative behaviors in other respects.
+        Firstly, it is known that forest stand growth dynamics have significantly changed since 1870, as shown in Pretzsch et al. (2014), and many experiments have been conducted to measure the impact of climate and CO2 change on forests. Climate and CO2 change also shows an impact on this individual tree model, as the model depends on external conditions such as temperature and soil moisture, as well as CO2 concentration. For instance, using the model with a constant CO2 concentration (from 1870) rather than the actual CO2 concentrations gives biased results and a slower growth of trees (Figure 5)2. This seems coherent with both the idea that atmospheric CO2 had an impact on forest stand growth and that present forest stands are growing more rapidly than comparable stands before.
+        
+          Figure 5
+          
+            Comparison of simulations with and without increasing atmospheric CO2.
+          
+          
+        
+        Also, if we consider a small tree in a forest, shaded by the canopy above, it would receive only a small amount of light. Therefore, the model would predict a very limited maximum height and the tree would remain near this height with very small growth until a big tree nearby falls. Then the light received would be higher and enough for the tree to grow taller very quickly. If the tree were very close to the dead big tree then the aperture is large enough and the tree would reach the canopy. If not, and if the tree is still significantly partially shaded compared to the rest of the trees, then its limit height would be lower than the forest height and it would reduce its growth progressively until it were close to this height. This behavior would seem to be qualitatively in accordance with reality Nagel et al. (2007), but due to a lack of data we have not been able test this quantitatively.
+        Finally, we have examined the response of our model to a wide range of maximal carbon assimilation parameter values (Amax) in order to investigate the conditions under which sink-limited growth dominates (Figure 6). Under the reference simulation, the growth of the tree was source-limited when young, but switched to being sink-limited when it reached 84 y old (this simulation is equivalent to that presented in Figure 1B, with Amax obtained after a partial fit on the first stand from the value in Table 1. At low values of Amax (i.e., approximately &lt;80% of the reference value), the tree remained source-limited to maturity, whereas at high values it was sink-limited for most of its life.
+        
+          Figure 6
+          
+            Effect of maximal carbon assimilation (Amax) and time on simulated tree height. Also shown is the limiting process for growth: source or sink. Amax is normalized to 1 at its value in Table 1.
+          
+          
+        
+        To examine further the idea of the importance of considering the sink limit in this model we performed a similar simulation but we switched off the sink limit, letting photosynthesis being the only limiting factor. We then computed the difference of the two simulations. This difference is shown in Figure 7. As we can see for regions where Amax is large, the difference in tree heights between the two simulations can reach around 40 m after several 100 years.
+        
+          Figure 7
+          
+            Difference in height growth with Figure 6 when sink-limited growth is switched off.
+          
+          
+        
+      
+    
+    
+      4. Discussion
+      Our aim in developing this model has been to provide a means of representing realistic tree growth and forest/vegetation dynamics at the global scale. To simulate individual tree competition our preferred method is to use a gap model of succession. Our global gap-model, HYBRID (Friend and White, 2000), computes individual-level photosynthesis and allocates photosynthate to leaves, stems, and roots, without consideration of sink limitations. All other DGVMs do something similar (Fatichi et al., 2014), usually at the big-leaf level (i.e., they do not consider individuals at all). The motivation of the new model described here is to explore a framework for introducing, in DGVMs, sink-limited growth. We have suggested as simple a scheme as possible to avoid reaching the point where we can no longer simulate dynamics at the global scale due to limited computing resources. The approach to modeling photosynthesis in DGVMs is similar to ours, in that the whole canopy is typically simulated as one leaf, and so it seems appropriate to simulate the meristems with a similar approach. We have chosen two meristem types—apical and lateral, in order to simulate the essential properties of height and diameter growth. Our new model is a major advance over current global models, and we expect that it could have significant consequences for our understanding of the historical and future global terrestrial carbon sink.
+      Our model starts from physiological considerations about trees and several hypotheses to derive differential equations that are solved over time to obtain the growth of a tree and predict its size. Although the model is fairly simple and far from taking every possible parameter of the tree into account, it seems to obtain very good results and predictions which agree closely with observations from different stands of trees with different environmental conditions.
+      Interestingly, our approach gives rise to two limiting tree heights: h1, the limit height above which photosynthesis cannot occur, and h2, the height above which growth is limited by the capacity of the meristematic regions themselves to grow at low water potential. These two heights represent different processes: h1 includes the factors that limit photosynthesis such as minimal turgor potential and possible xylem cavitation (i.e., source limitations), whereas h2 takes into account intrinsic meristem factors such as the physiological limits of cell division and growth limits such as cell wall extension when the water potential is too low (i.e., sink limitations).
+      While h1 (and, more generally, source processes) is often considered as the only limiting height to explain the maximal height of trees (e.g., Koch et al., 2004), under some external conditions of light and temperature it could be that h2 (i.e., sink activity) becomes limiting (cf. Friend, 1993). Although in this model, water potential is still the critical factor which limits the height of trees, the amount of light received and the temperature during the growth period also play roles that could produce one or other limit and influence its value. Hence, our approach could give a new and more complete understanding of the limits of tree height, and growth more generally, through a balanced consideration of both source and sink limitations.
+      Concerning the derivation of the results, we could have avoided assuming known allometric relationships for each stand and tried to estimate them as described in Section 2.3 (“Control mechanism of the tree"). Another way to estimate the allometric relationship on the second and third stand could be to estimate it close to the allometric relathionship of the first stand used for partial fitting. In that case we would still get good results with R2 around 0.8 − 0.9. The small difference of accuracy between this case and the previous one is mainly due to the model becoming more sensitive to measurement error when we estimate the allometric relationship, and also to the estimated allometric relationship being a constant as explained in Section 2.3, whereas the allometric relationship in reality changes with changes in tree density and therefore time. Lastly, our model for α2 is probably too simple as we also explained in Section 2.3. Nevertheless, we can note that the accuracy of the results is still very good considering that we try here to predict the heights of three stands without knowing anything but the species, the CO2 concentration, the temperature, the soil moisture, the PAR, the number of trees per ha, and the initial tree dimensions. This last point also underscores an additional motivation to build such a relatively simple model: collecting data about the external variables can be difficult. Therefore, data can be limiting and in order to be practical the model should stay as simple as it can relative to the required data, provided that it can still give accurate results.
+      As a first dynamic model for an individual tree using such considerations about control mechanism and the maximal meristem-sustained limited rate of growth, improvements could probably be made by introducing additional parameters, especially taking the roots into account explicitly, and improving the function of the red:far-red ratio. Nevertheless, the model already gives very good results while being relatively simple, allowing its wider use such as through allowing many trees to interact with each other via shading, water potential, etc., and obtaining a model for the whole forest. So far the partial fitting of the parameters within bounds of 20% takes less than 120 s on a desk-top computer, and computing height over 100 y less than 0.1 s, which suggests that its use as a growth simulator within a forest model could be achieved with today's computer resources.
+      Our model makes the interesting prediction that under standard conditions/parameterization, trees shift from being source- to sink-limited as they mature. This behavior is consistent with field and experimental evidence for a lack of stem growth response to elevated CO2 in mature trees, despite increased photosynthesis (e.g., Körner, 2005; van der Sleen et al., 2014), whereas young fast growing trees show significant responses (e.g., Norby et al., 1999). In our model, the cause of the change in growth limitation as trees grow appears to be a combination of the effect of the limiting height for meristem activity, h2, and the dependency of the balance of photosynthesis and respiration on height.
+      The relative simplicity of the model and its extremely encouraging results should stimulate further use of similar differential models in the future. Starting from physiological considerations to derive differential equations and an individual tree model as a cornerstone for simulating a whole forest may considerably improve our understanding of forest behavior, including, but not limited to, the prediction of overall responses of forests to increasing CO2 concentrations in order to address the future terrestrial carbon sink.
+      A number of other models have the potential to address the issues considered in this paper. For example, the L-PEACH FSPM (Allen et al., 2005) contains a number of features that make it applicable to the source-sink debate, including carbohydrate storage dynamics, product inhibition of photosynthesis, a transport-resistance framework for sugar partitioning, a sink growth control from available carbon, a direct effect of water supply, and an intrinsic size limit. The pipe model constraint is used, making overall growth a strong function of leaf growth, which itself is determined by carbon supply. However, it is not clear the extent to which this model would predict either source- or sink-limitations under different environmental conditions and/or timescales. This would be a very interesting exercise. FSPMs are also relevant to the calculation of canopy red:far red ratios as they explicitly treat light interception throughout the canopy. In fact, some herbaceous crop models already compute the canopy red:far red ratio distribution and its influence on morphogenesis (e.g., Chelle et al., 2007). Such approaches could be simplified for implementing dynamic red:far red ratio responses in our model.
+      To conclude, we have proposed a differential model for modeling tree growth over time under external conditions such as temperature, soil moisture, and CO2 concentration. This model takes into account not only photosynthesis and the carbon balance but also meristem behavior and cellular growth limits. We established a procedure to parametrize the model with measurable quantities and reference measurements. This model seems not only to fit data very well but also to give accurate predictions for tree height and tree volume.
+    
+    
+      Author contributions
+      AH executed the study designed by AF with input from AH-P and TR. HP provided data for model evaluation. AH initially wrote the manuscript and all authors commented on and edited the manuscript.
+    
+    
+      Funding
+      AH wishes to thank the Cambridge Faculty of Mathematics for support via the PMP scheme.
+      
+        Conflict of interest statement
+        The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+      
+    
+  
+
+    
+      All authors thank those involved in the measurements of the plot data at the two experimental sites.
+    
+    
+      
+        1Variation of α2 could strongly increase the complexity of the equations as α is an exponent in our model.
+      
+      
+        2The three last experimental points are likely to be decreasing because of the thinning.
+      
+    
+    
+      References
+      
+        AllenM. T.PrusinkiewiczP.DeJongT. M. (2005). Using L-systems for modeling source-sink interactions, architecture and physiology of growing trees: the L-PEACH model. New Phytol.
+166, 869–880. 10.1111/j.1469-8137.2005.01348.x15869648
+      
+      
+        AloniR. (1987). Differentiation of Vascular Tissues. Ann. Rev. Plant Physiol.
+38, 179–204. 10.1146/annurev.pp.38.060187.001143
+      
+      
+        AloniR. (2015). Ecophysiological implications of vascular differentiation and plant evolution. Trees
+29, 1–16. 10.1007/s00468-014-1070-6
+      
+      
+        AnavA.FriedlingsteinP.KidstonM.BoppL.CiaisP.CoxP. (2013). Evaluating the land and ocean components of the global carbon cycle in the CMIP5 earth system models. J. Clim.
+26, 6801–6843. 10.1175/JCLI-D-12-00417.1
+      
+      
+        BonanG. B. (2008). Forests and climate change: forcings, feedbacks, and the climate benefits of forests. Science
+320, 1444–1449. 10.1126/science.115512118556546
+      
+      
+        BosselH. (1991). Modelling forest dynamics: moving from description to explanation. For. Ecol. Manage.
+42, 129–142. 10.1016/0378-1127(91)90069-8
+      
+      
+        BrackmannK.GrebT. (2014). Long- and short-distance signaling in the regulation of lateral plant growth. Physiol. Plant.
+151, 134–141. 10.1111/ppl.1210324053438
+      
+      
+        CampioliM.GielenB.GöckedeM.PapaleD.BouriaudO.GranierA. (2011). Temporal variability of the NPP-GPP ratio at seasonal and interannual time scales in a temperate beech forest. Biogeosciences
+8, 2481–2492. 10.5194/bg-8-2481-2011
+      
+      
+        ChelleM.EversJ. B.CombesD.Varlet-GrancherC.VosJ.AndrieuB. (2007). Simulation of the three-dimensional distribution of the red: far-red ratio within crop canopies. New Phytol.
+176, 223–234. 10.1111/j.1469-8137.2007.02161.x17803651
+      
+      
+        CramerW.BondeauA.WoodwardF. I.PrenticeI. C.BettsR. A.BrovkinV. (2001). Global response of terrestrial ecosystem structure and function to CO2 and climate change: results from six dynamic global vegetation models. Global Change Biol.
+7, 357–373. 10.1046/j.1365-2486.2001.00383.x
+      
+      
+        DeleuzeC.HoullierF. (1998). A simple process-based xylem growth model for describing wood microdensitometric profiles. J. Theor. Biol.
+193, 99–113. 10.1006/jtbi.1998.0689
+      
+      
+        DormandJ.PrinceP. (1980). A family of embedded Runge-Kutta formulae. J. Comput. Appl. Math.
+6, 19–26. 10.1016/0771-050X(80)90013-3
+      
+      
+        DuN.FanJ.ChenS.LiuY. (2008). A hydraulic, Äìphotosynthetic model based on extended HLH and its application to Coast redwood (Sequoia sempervirens). J. Theor. Biol.
+253, 393–400. 10.1016/j.jtbi.2008.03.01618440559
+      
+      
+        FatichiS.LeuzingerS.KörnerC. (2014). Moving beyond photosynthesis: from carbon source to sink-driven vegetation modeling. New Phytol.
+201, 1086–1095. 10.1111/nph.1261424261587
+      
+      
+        FranklinK. A. (2008). Shade avoidance. New Phytol.
+179, 930–944. 10.1111/j.1469-8137.2008.02507.x18537892
+      
+      
+        FriendA. D. (1993). The prediction and physiological significance of tree height, in Vegetation Dynamics and Global Change, eds SolomonA. M.ShugartH. H. (Springer), 101–115. 10.1007/978-1-4615-2816-6_5
+      
+      
+        FriendA. D.LuchtW.RademacherT. T.KeribinR.BettsR.CaduleP.. (2014). Carbon residence time dominates uncertainty in terrestrial vegetation responses to future climate and atmospheric CO2. Proc. Natl. Acad. Sci. U.S.A.
+111, 3280–3285. 10.1073/pnas.122247711024344265
+      
+      
+        FriendA. D.WhiteA. (2000). Evaluation and analysis of a dynamic terrestrial ecosystem model under preindustrial conditions at the global scale. Global Biogeochem. Cycles
+14, 1173–1190. 10.1029/1999GB900085
+      
+      
+        Gea-IzquierdoG.GuibalF.JoffreR.OurcivalJ. M.SimioniG.GuiotJ. (2015). Modelling the climatic drivers determining photosynthesis and carbon allocation in evergreen Mediterranean forests using multiproxy long time series. Biogeosciences
+12, 3695–3712. 10.5194/bg-12-3695-2015
+      
+      
+        GrossmanY. L.DeJongT. M. (1994). PEACH: a simulation model of reproductive and vegetative growth in peach trees. Tree Physiol.
+14, 329–345. 10.1093/treephys/14.4.32914967690
+      
+      
+        GroteR.PretzschH. (2002). A model for individual tree development based on physiological processes. Plant Biol.
+4, 167–180. 10.1055/s-2002-25743
+      
+      
+        HolzwarthF.KahlA.BauhusJ.WirthC. (2013). Many ways to die - partitioning tree mortality dynamics in a near-natural mixed deciduous forest. J. Ecol.
+101, 220–230. 10.1111/1365-2745.12015
+      
+      
+        HynynenJ. (ed.). (2002). Models for Predicting Stand Development in MELA System. Number 835 in Metsäntutkimuslaitoksen Tiedonantoja. Vantaa: Vantaa Research Center. OCLC: 248970310.
+      
+      
+        KochG. W.SillettS. C.JenningsG. M.DavisS. D. (2004). The limits to tree height. Nature
+428, 851–854. 10.1038/nature0241715103376
+      
+      
+        KörnerC. (2003). Carbon limitation in trees. J. Ecol.
+91, 4–17. 10.1046/j.1365-2745.2003.00742.x
+      
+      
+        KörnerC. (2005). Carbon flux and growth in mature deciduous forest trees exposed to elevated CO2. Science
+309, 1360–1362. 10.1126/science.111397716123297
+      
+      
+        LandsbergJ.WaringR. (1997). A generalised model of forest productivity using simplified concepts of radiation-use efficiency, carbon balance and partitioning. For. Ecol. Manage.
+95, 209–228. 10.1016/S0378-1127(97)00026-1
+      
+      
+        LeuzingerS.ManuschC.BugmannH.WolfA. (2013). A sink-limited growth model improves biomass estimation along boreal and alpine tree lines. Global Ecol. Biogeogr.
+22, 924–932. 10.1111/geb.12047
+      
+      
+        LiJ.LiG.WangH.Wang DengX. (2011). Phytochrome signaling mechanisms. Arabidopsis Book
+9:e0148. 10.1199/tab.014822303272
+      
+      
+        MorganD. C.SmithH. (1976). Linear relationship between phytochrome photoequilibrium and growth in plants under simulated natural radiation. Nature
+262, 210–212. 10.1038/262210a0
+      
+      
+        NagelT. A.LevanicT.DiaciJ. (2007). A dendroecological reconstruction of disturbance in an old-growth Fagus-Abies forest in Slovenia. Ann. For. Sci.
+64, 891–897. 10.1051/forest:2007067
+      
+      
+        NorbyR. J.WullschlegerS. D.GundersonC. A.JohnsonD. W.CeulemansR. (1999). Tree responses to rising CO2 in field experiments: implications for the future forest. Plant Cell Environ.
+22, 683–714. 10.1046/j.1365-3040.1999.00391.x
+      
+      
+        PacalaS. W.DeutschmanD. H. (1995). Details that matter: the spatial distribution of individual trees maintains forest ecosystem function. Oikos
+74:357
+10.2307/3545980
+      
+      
+        PalacioS.HochG.SalaA.KörnerC.MillardP. (2014). Does carbon storage limit tree growth?
+New Phytol.
+201, 1096–1100. 10.1111/nph.1260224172023
+      
+      
+        PanY.BirdseyR. A.FangJ.HoughtonR.KauppiP. E.KurzW. A.. (2011). A large and persistent carbon sink in the world's forests. Science
+333, 988–993. 10.1126/science.120160921764754
+      
+      
+        PerttununJ. (2009). The LIGNUM Functional-Structural Tree Model. Ph.D. thesis, Aalto University.
+      
+      
+        PrechtH.ChristophersenJ.HenselH.LarcherW. (1973). Temperature and Life. New York; Heidelberg; Berlin: Springer-Verlag.
+      
+      
+        PretzschH.BiberP.SchützeG.UhlE.RötzerT. (2014). Forest stand growth dynamics in Central Europe have accelerated since 1870. Nat. Commun.
+5:4967. 10.1038/ncomms596725216297
+      
+      
+        PretzschH.BiberP.ĎursýJ. (2002). The single tree-based stand simulator SILVA: construction, application and evaluation. For. Ecol. Manage.
+162, 3–21. 10.1016/S0378-1127(02)00047-6
+      
+      
+        PretzschH.GroteR.ReinekingB.RotzerT.SeifertS. (2007). Models for forest ecosystem management: a European perspective. Ann. Bot.
+101, 1065–1087. 10.1093/aob/mcm24617954471
+      
+      
+        PurvesD. W.LichsteinJ. W.StrigulN.PacalaS. W. (2008). Predicting and understanding forest dynamics using a simple tractable model. Proc. Natl. Acad. Sci. U.S.A.
+105, 17018–17022. 10.1073/pnas.080775410518971335
+      
+      
+        RichardsonA. D.CarboneM. S.HuggettB. A.FurzeM. E.CzimczikC. I.WalkerJ. C.. (2015). Distribution and mixing of old and new nonstructural carbon in two temperate trees. New Phytol.
+206, 590–597. 10.1111/nph.1327325558814
+      
+      
+        RitchieG. A. (1997). Evidence for red:far red signaling and photomorphogenic growth response in Douglas-fir (Pseudotsuga menziesii) seedlings. Tree Physiol.
+17, 161–168. 10.1093/treephys/17.3.16114759870
+      
+      
+        Schiestl-AaltoP.KulmalaL.MäkinenH.NikinmaaE.MäkeläA. (2015). CASSIA - a dynamic model for predicting intra-annual sink demand and interannual growth variation in Scots pine. New Phytol.
+206, 647–659. 10.1111/nph.1327525616175
+      
+      
+        SprugelD.HinckleyT.SchaapW. (1991). The theory and practise of branch autonomy. Ann. Rev. Ecol. Systemat.
+22, 309–334. 10.1146/annurev.es.22.110191.001521
+      
+      
+        SterbaH.MonserudR. A. (1997). Applicability of the forest stand growth simulator prognaus for the Austrian part of the Bohemian Massif. Ecol. Model.
+98, 23–34. 10.1016/S0304-3800(96)01934-5
+      
+      
+        van der SleenP.GroenendijkP.VlamM.AntenN. P. R.BoomA. (2014). No growth stimulation of tropical trees by 150 years of CO2 fertilization but water-use efficiency increased. Nat. Geosci.
+8, 24–28. 10.1038/ngeo2313
+      
+      
+        WikströmP.EdeniusL.ElfvingB.ErikssonL. O.LämåsT.SonessonJ. (2011). The heureka forestry decision support system: an overview. Mathematical and computational forestry &amp; natural-resource sciences (MCFNS). Math. Comput. For. Nat. Resour. Sci.
+3, 87–94.
+      
+      
+        ZianisD.MencucciniM. (2005). Aboveground net primary productivity of a beech (Fagus moesiaca) forest: a case study of Naousa forest, northern Greece. Tree Physiol.
+25, 713–722. 10.1093/treephys/25.6.71315805091
+      
+    
+  

@@ -1,0 +1,1378 @@
+oai:pubmedcentral.nih.gov:53626602017-04-04springeropenpmc-open
+Validity of self-report for fractures among a multiethnic cohort of postmenopausal women: results from the Women’s Health Initiative observational study and clinical trials
+
+    
+      Background
+      Diabetes and osteoporosis are two disease entities that significantly contribute to disease burden among elderly population. Prevalence of diabetes is nearly seven times higher in subjects over 60 than in the age group of 20–39 years [1]. Diabetes is estimated to affect approximately 10.9 million (ca. 26.9 %) people over 65 years of age in the USA [2], and 25–30 % of patients from that age group in Poland [3]. Owing to disease duration and associated complications, medical costs of care for diabetic patients are over two times higher as compared to healthy subjects [4].
+      Osteoporosis is also one of the main diseases characteristic for old age. Based on the WHO criteria, it has been diagnosed in 22 million women and 5.5 million men, aged 50–84 years, in the European Union [5]. These numbers will presumably rise considerably due to population aging. Low-energy fractures, the most significant clinical feature of osteoporosis, are often associated with severe disability and increased mortality. Available data say that the risk of death in a woman after hip fracture increases by 10-20 % when compared to her healthy counterpart [6].
+      Until recently, type 2 diabetes and osteoporosis have not been linked despite their co-occurrence in people over 50 years of age, especially in postmenopausal women, due to several reasons. There is no clear notion that would jointly describe bone pathology in diabetes. In type 1 diabetes absolute insulin deficiency leads to reduced bone mass density (BMD), what partly explains increased susceptibility to fractures. Meanwhile, type 2 diabetes is usually characterized by hyperinsulinemia and this difference appears to determine the quality of bone in the two subtypes of the disease. Recently, it has become apparent that patients with type 2 diabetes have increased bone mineral density [7–9]. However, many [10, 11]—but not all [12, 13]—observations in these patients report, paradoxically, an increased number of vertebral, hip, distal radius, tibia and other fractures. Therefore, the issue of low-energy fracture risk in diabetics is complex—BMD alone appears not to be the key determinant. Obesity, usually accompanying type 2 diabetes, in some ways has a protective effect on bone density, whereas low body weight has been linked to higher fracture risk [14]. Thus, determining whether type 2 diabetes contributes to increased bone fragility and should it be incorporated into the fracture risk calculator, seems to be of importance, as it may contribute to a more effective antifracture intervention.
+      Owing to the fact that considerable amount of new data on that topic has become available since the last published meta-analysis, we decided to answer the question whether in postmenopausal women coexistence of type 2 diabetes increases the risk of low-energy fractures, vertebral and non-vertebral, particularly of the hip.
+    
+    
+      Materials and methods
+      
+        Search strategy
+        Two reviewers (JD and MM) performed the search on the association between type 2 diabetes and fracture risk independently. We limited the database search to studies carried out in humans, written in English, and published as full text before September 2013. The scope of the search included available papers from the period between 1967 and 2013. The qualified papers were assessed independently by the authors between September and November 2013.
+        We included observational clinical studies searched in the following medical databases: Medline (using the PubMed website), Web of Science, and Cochrane Collaboration. Potentially relevant studies were identified using the following keywords: ‘diabetes type 2’, ‘fracture risk’, ‘osteoporosis’.
+      
+      
+        Eligibility criteria
+        The studies were considered eligible if they evaluated women, aged &gt;50, diagnosed with type 2 diabetes, regardless of the treatment (diet, oral drugs or insulin). We arbitrarily assumed that the time limit of menopause would be 50 years of age. Thus, we decided not to include papers with younger subjects. If a whole study cohort was separated into age groups, we selected the one that included patients &gt;50 years of age. Studies on men only, men and women analyzed jointly, and type 1 and 2 diabetes cases analyzed jointly were not considered for inclusion.
+        Diabetes was diagnosed on the basis of medical records, patient self-reports, or the fact of taking hypoglycemic medication or insulin. We wished to exclude patients with type 1 diabetes from the analysis that is why we did not analyze papers where authors incorporated subjects with diabetes from the age of 18. If possible, we analyzed disease duration and excluded papers with disease onset before the age of 18.
+        Studies were included only if there was a comparison group so that we could calculate odds ratios and mean differences in the outcomes between the groups. Similarly, if the control group comprised diabetics treated in a different way than the study group, such a study was also not included. When the authors of a given paper separated subgroups of type 2 diabetics into insulin and other treatments, we took into account these groups as total.
+        In cases where data repeated in articles published by the same authors in different journals, the work with the largest study group was taken into account.
+        The fractures were confirmed by medical records (reports from GPs, trained adjudicators, discharge cards), radiographs and self-reports. Vertebral and hip fractures were analyzed separately. If a study provided history of prevalent fractures and the number of fractures in prospective observation, we included data on incident fractures. Where incidence density was given, we converted it into incidence rate.
+      
+      
+        Data extraction
+        Two reviewers (JD and MM) independently screened the titles for relevance. Only titles that were mutually deemed ‘irrelevant’ were excluded. Abstracts and full-text articles were then screened for inclusion/exclusion criteria. Disagreements between the reviewers were resolved by means of a discussion. Furthermore, we supplemented the electronic search by hand-searching reference lists of relevant articles and reviews. One author was contacted personally.
+        In case of each paper we extracted data on the surname of the first author, year of publication, country, study design, number of exposed and unexposed subjects, mean age of subjects and controls.
+      
+      
+        Statistical analysis
+        The analysis was performed using the STATA software, version 13.1 (StataCorp LP, USA). Random-effects model described by DerSimonian and Laird was used to aggregate the study data. In case of zero outcome events, continuity correction was performed by adding a correction factor of 0.5. Meta-analysis was conducted in accordance with the guidelines formulated in the Cochrane Handbook for Systematic Reviews of Interventions [15]. The authors followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) guidelines for systematic reviews and meta-analyses. Fracture risk analysis was performed using the odds ratio (OR). Statistical heterogeneity between the studies was evaluated with the Cochrane’s Q statistics and the I
+2 statistics, which demonstrated contribution of heterogeneity relative to the whole in case of each study. The significance level was established at P &lt; 0.10.
+        The random effect model was used due to great I
+2 statistics value for the analyzed studies considering both, vertebral and hip fractures. The publication bias was explored by visual inspection of funnel plots and formally—with Egger’s regression asymmetry test [16, 17]. Furthermore, sensitivity analysis was performed for parameters showing significant heterogeneity.
+      
+    
+    
+      Results
+      
+        Characteristics of the study group
+        Figure 1 shows a flow diagram describing the study selection process. In the 15 included studies, a total of 738.121 patients were analyzed: 263.006 subjects with DMT2 and 502.115 controls (numbers without [27], as data were repeated in [28]). Patient characteristics are shown in Table 1. Out of these 15 studies, 4 studies were cross-sectional and 11 were cohort. Majority of them (except for one [20]) used incidence rate ratios as a relative risk measure; we used unadjusted measures. Five studies were conducted in the USA, 1 in Canada, 6 in Europe (Austria, Spain, Sweden, Italy), and 3 in Asia (South Korea, Japan, Taiwan). Thirteen papers provided information on the incidence of hip fractures [7, 10, 12, 13, 18–21, 24–26, 28] (in case of Schwartz et al. [27] more recent data on the same population [28] were taken into account). In seven papers there were data on vertebral ones [7, 10, 12, 21–23, 27].Fig. 1PRISMA flow diagram for inclusion of relevant studies
+Table 1Characteristics of the analyzed studiesStudyDMT2ControlType of studyDMT2ControlHip fractureVertebral fracture
+n
+Hip fractureVertebral fracture
+n
+Mean age (years)RegionForsen (1999)69–8251112–17516Cohort&gt;50&gt;50EuropeNicodemus (2001)38–1682452–30377Cohort62.361.5North AmericaSchwartz (2001)48b
+23657501b
+3658997Cohort71.671.7North AmericaGerdhem (2005)327448461058Cross-sectional7575Europede Liefde (2005)28–483137–3481Cohort73.8a
+68.8a
+EuropeBonds (2006)1289952851531133688120Cohort64.963.5North AmericaDobnig (2006)41–58369–1081Cohort84.382.8EuropeJanghorbani (2006)125–83481255–101343Cohort61.755.9North AmericaLipscombe (2007)48–527180–10276Cohort≥66≥66North AmericaChen (2008)8992–2381295110–238417Cohort&gt;45&gt;45AsiaSosa (2008)151110591Cross-sectional71.769.9EuropeYamamoto (2009)–43137–155622Cross-sectional65.967.5AsiaSchwartz (2011)84–7701117–8679Cohort73.673.4North AmericaGaudio (2012)–840–340Cross-sectional63.762.1EuropeJung (2012)2035126812311014Cohort60.661.4AsiaDMT2—type 2 diabetes mellitus
+n—all patients in the given category (diabetes/controls)
+aMean age is given for the whole study group, both men and women
+bHip fractures were not taken into meta-analysis since updated data were given in Schwartz 2011
+
+      
+      
+        Vertebral fractures
+        Figure 3 presents individual study results and the overall study result for papers on vertebral fracture frequency in females with type 2 diabetes. It shows that the risk of these fractures is not different than in healthy ones OR = 1.134 (95 % CI (confidence interval) (0.936–1.374). Out of the 7 included studies, one [7] showed a difference in vertebral fracture incidence in the studied cohort when compared to the healthy females (OR = 1.240, 95 % CI (1.009–1.524). As it comprised the largest study sample, it had the greatest weight. Four studies showed lower OR when compared to controls, although the difference was not statistically significant. The range of individual risks was 0.611-3.083.
+        The results of the funnel plot and the Egger’s test (P = 0.733) show that the analysis for vertebral fractures has no publication bias (Fig. 2a). In addition, the studies appear to be homogeneous (Q = 6.96, P = 0.325, I
+2 = 13.7 %) (Fig. 3).Fig. 2Funnel plot for vertebral (a) and hip (b) fracture studies
+Fig. 3Meta-analysis for vertebral fractures
+
+        The subgroup meta-analysis by study design shows that the summary estimate remains insignificant when it is calculated separately for cohort and cross-sectional studies (Table 2).Table 2Meta-analysis for hip/vertebral fractures by study design and geographic regionSubgroupNo. of studiesSummary OR95 % CIHeterogeneity
+Q
+
+P
+
+I
+2 (%)Hip fracture Geographic area  Asia21.7901.729–1.8540.630.4280.0  Europe51.3081.084–1.5791.680.7940.0  North America51.1970.973–1.47314.490.00672.4 Study design  Cohort101.3041.072–1.58674.70.00087.9  Cross-sectional21.0070.330–3.0750.350.5560.0Vertebral fracture Geographic area  Asia21.1400.753–1.7271.730.18942.1  Europe31.1390.439–2.9582.920.23331.4  North America21.0840.765–1.5362.310.12856.7 Study design  Cohort31.0580.818–1.3693.190.20237.4  Cross-sectional41.3150.889–1.9443.110.3763.4
+P—P for heterogeneity
+
+      
+      
+        Hip fractures
+        Out of the 12 studies on type 2 diabetes and hip fracture, five [7, 20, 24–26] found a statistically significant association and 7 found no link [10, 12, 13, 18, 19, 21, 28]. The odds ratio among the studies varied from 0.82 to 2.48 (Fig. 4). When all 12 studies were analyzed, diabetes was demonstrated to increase the risk of hip fractures by 29.6 % (95 % CI (1.069–1.571) (P = 0.008).Fig. 4Meta-analysis for hip fractures
+
+        However, a significant heterogeneity between the studies (Q = 75.68, df(Q) = 11, P = 0.000 p &lt; 0.0001, I
+2 = 85.5 %) was observed. The sensitivity analysis showed that papers by Schwartz et al. [28] and Chen [20] contributed to heterogeneity the most. After exclusion of both papers, the association between type 2 diabetes and hip fractures was shown to increase [OR = 1.314, 95 % CI (1.193–1.448)] and the heterogeneity was no longer significant (P = 0.904, I
+2 = 0,0 %).
+        For the hip fracture studies, the funnel plot suggested an existing bias and their importance was checked by the Egger’s test, which appeared to be significant (P = 0.009) (Fig. 2b).
+        We also conducted subgroup meta-analysis by geographical region and study design (cohort vs cross-sectional) (Table 2). The analysis revealed that the higher risk of hip fracture was attributable to cohort studies only (OR = 1.304, 95 % CI (1.072–1. 586). The cohort studies were shown to be heterogenous (P = 0.00; I
+2 = 87.9 %). Moreover, the highest risk of hip fracture was shown in studies conducted in Asia [OR = 1.790; 95 %CI (1.729–1.854)]. For European studies the OR was 1.308 [95 % CI (1.084–1.579)].
+      
+    
+    
+      Discussion
+      The results of our meta-analysis which included 15 observational studies showed that women with type 2 diabetes aged &gt;50 are at a higher (by ca. 30 %) risk of osteoporotic hip fracture (OR = 1.296; 95 % CI (1.069–1.571), when compared to their healthy peers. In case of vertebral fractures, diabetes did not increase the risk (OR = 1.134, 95 % CI (0.936–1.374). However, there was significant heterogeneity in case of hip fracture studies. In the subgroup meta-analysis, American origin was identified as a potential source of such heterogeneity.
+      Although 2 published meta-analyses revealed the risk of fracture in diabetics to be elevated by approximately 20 % [29, 30], from the scientific and clinical point of view it seems substantial to separate a particular subgroup of patients in the calculations—namely postmenopausal women. They constitute the group of the highest prevalence of osteoporosis and, owing to clinical consequences of fractures, postmenopausal women should be the actual target of antifracture intervention. At the same time, type 2 diabetes and osteoporosis often coexist in these patients, sharing some of the risk factors (immobility, age). Similarily to our observations, Vestergaard et al., showed that both men and women with type 2 diabetes are at an increased risk of hip and wrist fracture, but not spinal fracture [30]. However, the same study showed the risk of any low-energy fracture in people with diabetes of both sexes was not different than in controls. Janghorbani et al., in their meta-analysis provided data on hip fracture risk in females with type 2 diabetes and the risk ratio (RR) was 2.1 (95 % CI 1.6–2.7). RR calculated cumulatively for men and women with type 2 diabetes, regardless of age, was 1.7 (95 % CI 1.3–2.2) for hip fracture, and 1.2 (95 % CI = 1.01–1.5) for any fracture [31].
+      One of the studies that made heterogeneity significant in hip fracture studies was the paper by Schwartz et al., which took three observational studies into account—Study of Osteoporotic Fractures (SOF), Osteoporotic Fractures in Men (MrOS), and Health, Aging and Body Composition Study (Health ABC) [28]. Due to eligibility criteria, we did not include MrOS data. However, risk estimates were lower in this study (OR 0.829, (95 % CI = 0.655–1.049). Lower fracture incidence might have resulted from inclusion of Afro-Americans in the Health ABC study (ca. 50 % females)—there are data on lower fracture rates in Afro-American women when compared to white females [32]. This issue is more complex, as recent studies show that relative risk of non-skull fractures in Afro-American subjects with diabetes is actually higher (HR = 1.87) than in Whites with diabetes (HR = 1.22) [33]. By contrast, Schwartz et al. in separate analysis of Health ABC data did not observe an effect of type 2 diabetes on the rate of bone loss for black women at the femoral neck or total hip [34]. The role of ethnic differences in fracture incidence is open to debate. This also applies to Asian studies, which influenced hip fracture risk estimates in our meta-analysis. Given the paucity of data on low-energy fractures in Asian population, there have been no such subgroup analyses in previously published meta-analyses.
+      There are several complex pathways by which type 2 diabetes might influence bone health. One explanation may be the rate of bone loss or bone turnover in diabetes, which remains the topic of much heated debate. Contrary to previously cited Health ABC study, other authors demonstrated slower bone loss at the spine [35]. Lower activity of bone formation markers in patients diagnosed with diabetes was also reported [12, 36], although the data are inconsistent.
+      Moreover, there are reports showing that in type 2 diabetes trabecular bone structure is intact or enhanced, whereas it is the cortical bone that is preferentially compromised [37]. This finding is relevant as the cortical bone builds 80 % of the skeleton and fractures in diabetes most often occur in sites rich in cortical bone [38].
+      The underlying mechanisms whereby type 2 diabetes leads to increased likelihood of fracture are plentiful. Much attention has been given to advanced glycation end products (AGEs) and their receptors (RAGE), whose interaction causes pathological cross-linking in organic bone matrix, rendering the bone more fragile and brittle [39]. Urine calcium loss resulting from hyperglycemia has a detrimental effect on bone density. Negative calcium balance and—contrary to what one might expect—subsequent secondary hypoparathyroidism also play a role in the process [40]. At the same time, diabetic nephropathy itself leads to calcium/phosphorus metabolic disturbances. It is also suggested that microangiopathy contributes to impaired blood supply to the bone and that hyperglycemia worsens bone healing [41]. Besides these alterations, type 2 diabetes subjects are known to be more prone to vitamin D deficiency than their healthy peers [42]. Last but not least, falls (most often preceding fractures) are more frequent in described patients, among other things due to coexisting neuropathy, retinopathy and episodes of hypoglycemia [43].
+      The idea of incorporating type 2 diabetes into the fracture risk calculator seems appealing, however, according to expert opinions—premature. To evaluate clinical utility of fracture risk calculation in patients with type 2 diabetes, Schwartz et al., estimated the sensitivity of FRAX in fracture prediction in that particular group [28]. Analyzing three study cohorts (SOF, MrOs and HealthABC), they showed that the same value of a 10-year risk in women with diabetes corresponds with the T score of about 0.5 units higher than T score in healthy counterparts. In other words, women with type 2 diabetes tend to fracture at higher T score. That is one of the reasons why clinicians intuitively believe that DXA parameters alone do not reflect the complexity of bone pathology in diabetes. Potential mechanisms that impair bone competence and cause alterations in bone microarchitecture might be assessed by means of diverse methods (e.g. cortical thickness, trabecular bone volume, quantitative computed tomography of the bone), although the vast majority of them have not yet entered everyday clinical practice. Recently, reports on the use of bone microindentation testing have been published. Technological advancement has allowed to make this method minimally invasive [44, 45]. This technique evaluates the ability of bone to resist crack generation and propagation by measuring indentation distances performed via in vivo testing. Subsequently, bone material strength (BMS) is calculated. Studies showed BMS is affected in hip fracture patients [46].
+      Although our findings support the hypothesis that type 2 diabetes increases hip fracture risk, it must be considered within the context of strengths and weaknesses. One cannot exclude that patients with type 1 diabetes or LADA were taken as type 2 and vice versa—type 2 diabetes might have been undiagnosed which would, respectively, overestimate and underestimate the risk. In incorporated papers we tried to critically verify the type of diabetes in the included patients. However, the distinction between type 1 and 2 is not as clear as it was 10 or 20 years ago. We also decided to incorporate studies that relied on self-reported diabetes [28], or used old diagnostic criteria [18], which altogether might be subject to potential disease misclassification bias. Secondly, there was relatively small amount of data on vertebral fractures—which might result from underestimation of that type of fractures in general. Moreover, some papers relied on self-reports for fractures, which for vertebral ones—contrary to other types—were shown to have relatively low (51 %) validity [47]. One study [29] took all fractures—not only low-energy ones—into account.
+    
+    
+      Conclusions
+      Our meta-analysis supports the association between type 2 diabetes and increased hip fracture risk in postmenopausal women. The results, however, should be interpreted with caution due to large heterogeneity of studies. Possibly, they does not answer all questions on bone fragility in patients suffering with type 2 diabetes but implies thinking about low-energy fracture probability in a growing number of postmenopausal women with coexisting type 2 diabetes but implies. Further studies are needed to elucidate the complexity of bone pathology in diabetes.
+    
+  
+
+    
+      Compliance with ethical standards
+      
+        Conflict of interest
+        The authors declare that they had no conflict of interest.
+      
+      
+        Statement of human and animal rights
+        This article does not contain any studies with human participants or animals performed by any of the authors.
+      
+      
+        Informed consent
+        For this type of study formal consent is not required.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Shaw
+              JE
+            
+            
+              Sicree
+              RA
+            
+            
+              Zimmet
+              PZ
+            
+          
+          Global estimates of the prevalence of diabetes for 2010 and 2030
+          Diabetes Res Clin Pract
+          2010
+          7
+          4
+          14
+          10.1016/j.diabres.2009.10.007
+        
+      
+      
+        2.
+        Centers for Disease Control and Prevention. National Diabetes Statistics Report, 2014. [Internet]. Atlanta, GA; 2014 [cited]. Available from: http://www.cdc.gov/diabetes/pubs/statsreport14/national-diabetes-report-web.pdf. Accessed 28 Aug 2015
+      
+      
+        3.
+        International Diabetes Federation. Diabetes Atlas, 2015. [Internet]. Belgium, Brussels. Available from: http://www.diabetesatlas.org/across-the-globe.html. Accessed 23 Mar 2016
+      
+      
+        4.
+        
+          
+            
+              Yang
+              W
+            
+            
+              Dall
+              TM
+            
+            
+              Halder
+              P
+            
+            
+          
+          American diabetes association. economic costs of diabetes in the U.S. in 2012
+          Diabetes Care
+          2013
+          36
+          1033
+          1046
+          10.2337/dc12-2625
+          23468086
+        
+      
+      
+        5.
+        
+          
+            
+              Ström
+              O
+            
+            
+              Borgström
+              F
+            
+            
+              Kanis
+              JA
+            
+            
+          
+          Osteoporosis: burden, health care provision and opportunities in the EU: a report prepared in collaboration with the International Osteoporosis Foundation (IOF) and the European Federation of Pharmaceutical Industry Associations (EFPIA)
+          Arch Osteoporos
+          2011
+          6
+          59
+          155
+          10.1007/s11657-011-0060-1
+          
+          22886101
+        
+      
+      
+        6.
+        
+          
+            
+              Abrahamsen
+              B
+            
+            
+              van Staa
+              T
+            
+            
+              Ariely
+              R
+            
+            
+          
+          Excess mortality following hip fracture: a systematic epidemiological review
+          Osteoporos Int
+          2009
+          20
+          1633
+          1650
+          10.1007/s00198-009-0920-3
+          
+          19421703
+        
+      
+      
+        7.
+        
+          
+            
+              Bonds
+              DE
+            
+            
+              Larson
+              JC
+            
+            
+              Schwartz
+              AV
+            
+            
+          
+          Risk of fracture in women with type 2 diabetes: the Women’s Health Initiative Observational Study
+          J Clin Endocrinol Metab
+          2006
+          91
+          3404
+          3410
+          10.1210/jc.2006-0614
+          
+          16804043
+        
+      
+      
+        8.
+        
+          
+            
+              Melton
+              LJ
+            
+            
+              Riggs
+              BL
+            
+            
+              Leibson
+              CL
+            
+            
+          
+          A bone structural basis for fracture risk in diabetes
+          J Clin Endocrinol Metab
+          2008
+          93
+          4804
+          4809
+          10.1210/jc.2008-0639
+          
+          18796521
+        
+      
+      
+        9.
+        
+          
+            
+              Kao
+              WH
+            
+            
+              Kammerer
+              CM
+            
+            
+              Schneider
+              JL
+            
+            
+          
+          Type 2 diabetes is associated with increased bone mineral density in Mexican-American women
+          Arch Med Res
+          2003
+          34
+          399
+          406
+          10.1016/j.arcmed.2002.07.001
+          
+          14602507
+        
+      
+      
+        10.
+        
+          
+            
+              Jung
+              JK
+            
+            
+              Kim
+              HJ
+            
+            
+              Lee
+              HK
+            
+            
+          
+          Fracture incidence and risk of osteoporosis in female type 2 diabetic patients in Korea
+          Diabetes Metab J
+          2012
+          36
+          144
+          150
+          10.4093/dmj.2012.36.2.144
+          
+          22540051
+        
+      
+      
+        11.
+        
+          
+            
+              van Daele
+              PL
+            
+            
+              Stolk
+              RP
+            
+            
+              Burger
+              H
+            
+            
+          
+          Bone density in non-insulin-dependent diabetes mellitus. The Rotterdam Study
+          Ann Intern Med
+          1995
+          122
+          409
+          414
+          10.7326/0003-4819-122-6-199503150-00002
+          
+          7856988
+        
+      
+      
+        12.
+        
+          
+            
+              Gerdhem
+              P
+            
+            
+              Isaksson
+              A
+            
+            
+              Akesson
+              K
+            
+            
+          
+          Increased bone density and decreased bone turnover, but no evident alteration of fracture susceptibility in elderly women with diabetes mellitus
+          Osteoporos Int
+          2005
+          16
+          1506
+          1512
+          10.1007/s00198-005-1877-5
+          
+          15824889
+        
+      
+      
+        13.
+        
+          
+            
+              Dobnig
+              H
+            
+            
+              Piswanger-Sölkner
+              JC
+            
+            
+              Roth
+              M
+            
+            
+          
+          Type 2 diabetes mellitus in nursing home patients: effects on bone turnover, bone mass, and fracture risk
+          J Clin Endocrinol Metab
+          2006
+          91
+          3355
+          3363
+          10.1210/jc.2006-0460
+          
+          16735485
+        
+      
+      
+        14.
+        
+          
+            
+              De Laet
+              C
+            
+            
+              Kanis
+              JA
+            
+            
+              Odén
+              A
+            
+            
+          
+          Body mass index as a predictor of fracture risk: a meta-analysis
+          Osteoporos Int
+          2005
+          16
+          1330
+          1338
+          10.1007/s00198-005-1863-y
+          
+          15928804
+        
+      
+      
+        15.
+        Higgins JPT, Green S. Cochrane Collaboration. Cochrane handbook for systematic reviews of interventions. http://www.cochrane.org/training/cochrane-handbook. Accessed 15 Nov 2014
+      
+      
+        16.
+        
+          
+            
+              Egger
+              M
+            
+            
+              Davey Smith
+              G
+            
+            
+              Schneider
+              M
+            
+            
+          
+          Bias in meta-analysis detected by a simple, graphical test
+          BMJ
+          1997
+          315
+          629
+          634
+          10.1136/bmj.315.7109.629
+          
+          9310563
+        
+      
+      
+        17.
+        
+          
+            
+              Sterne
+              JAC
+            
+            
+              Egger
+              M
+            
+            
+              Smith
+              GD
+            
+          
+          Investigating and dealing with publication and other biases in meta-analysis
+          BMJ
+          2001
+          323
+          101
+          105
+          10.1136/bmj.323.7304.101
+          
+          11451790
+        
+      
+      
+        18.
+        
+          
+            
+              de Liefde
+              II
+            
+            
+              van der Klift
+              M
+            
+            
+              de Laet
+              CEDH
+            
+            
+          
+          Bone mineral density and fracture risk in type-2 diabetes mellitus: the Rotterdam Study
+          Osteoporos Int
+          2005
+          16
+          1713
+          1720
+          10.1007/s00198-005-1909-1
+          
+          15940395
+        
+      
+      
+        19.
+        
+          
+            
+              Lipscombe
+              LL
+            
+            
+              Jamal
+              SA
+            
+            
+              Booth
+              GL
+            
+            
+          
+          The risk of hip fractures in older individuals with diabetes: a population-based study
+          Diabetes Care
+          2007
+          30
+          835
+          841
+          10.2337/dc06-1851
+          
+          17392544
+        
+      
+      
+        20.
+        
+          
+            
+              Chen
+              HF
+            
+            
+              Ho
+              CA
+            
+            
+              Li
+              CY
+            
+          
+          Increased risks of hip fracture in diabetic patients of Taiwan: a population-based study
+          Diabetes Care
+          2008
+          31
+          75
+          80
+          10.2337/dc07-1072
+          
+          17947342
+        
+      
+      
+        21.
+        
+          
+            
+              Sosa
+              M
+            
+            
+              Saavedra
+              P
+            
+            
+              Jódar
+              E
+            
+            GIUMO Study Group
+            
+          
+          Bone mineral density and risk of fractures in aging, obese post-menopausal women with type 2 diabetes. The GIUMO Study
+          Aging Clin Exp Res
+          2009
+          21
+          27
+          32
+          10.1007/BF03324895
+          
+          19225266
+        
+      
+      
+        22.
+        
+          
+            
+              Yamamoto
+              M
+            
+            
+              Yamaguchi
+              T
+            
+            
+              Yamauchi
+              MM
+            
+            
+          
+          Diabetic patients have an increased risk of vertebral fractures independent of BMD or diabetic complications
+          J Bone Miner Res
+          2009
+          24
+          702
+          709
+          10.1359/jbmr.081207
+          
+          19049338
+        
+      
+      
+        23.
+        
+          
+            
+              Gaudio
+              A
+            
+            
+              Privitera
+              F
+            
+            
+              Battaglia
+              K
+            
+            
+          
+          Sclerostin levels associated with inhibition of the Wnt/β-catenin signaling and reduced bone turnover in type 2 diabetes mellitus
+          J Clin Endocrinol Metab
+          2012
+          97
+          3744
+          3750
+          10.1210/jc.2012-1901
+          
+          22855334
+        
+      
+      
+        24.
+        
+          
+            
+              Forsén
+              L
+            
+            
+              Meyer
+              HE
+            
+            
+              Midthjell
+              K
+            
+            
+          
+          Diabetes mellitus and the incidence of hip fracture: results from the Nord-Trøndelag Health Survey
+          Diabetologia
+          1999
+          42
+          920
+          925
+          10.1007/s001250051248
+          
+          10491750
+        
+      
+      
+        25.
+        
+          
+            
+              Nicodemus
+              KK
+            
+            
+              Folsom
+              AR
+            
+            Iowa Women’s Health Study
+          
+          Type 1 and type 2 diabetes and incident hip fractures in postmenopausal women
+          Diabetes Care
+          2001
+          24
+          1192
+          1197
+          10.2337/diacare.24.7.1192
+          
+          11423501
+        
+      
+      
+        26.
+        
+          
+            
+              Janghorbani
+              M
+            
+            
+              Hu
+              FB
+            
+            
+              Willett
+              WC
+            
+            
+          
+          Prospective study of type 1 and type 2 diabetes and risk of stroke subtypes: the Nurses’ Health Study
+          Diabetes Care
+          2007
+          30
+          1730
+          1735
+          10.2337/dc06-2363
+          
+          17389335
+        
+      
+      
+        27.
+        
+          
+            
+              Schwartz
+              AV
+            
+            
+              Sellmeyer
+              DE
+            
+            
+              Ensrud
+              KE
+            
+            
+          
+          Older women with diabetes have an increased risk of fracture: a prospective study
+          J Clin Endocrinol Metab
+          2001
+          86
+          32
+          38
+          10.1210/jcem.86.1.7139
+          
+          11231974
+        
+      
+      
+        28.
+        
+          
+            
+              Schwartz
+              AV
+            
+            
+              Vittinghoff
+              E
+            
+            
+              Bauer
+              DC
+            
+            
+          
+          Study of Osteoporotic Fractures (SOF) Research Group; Osteoporotic Fractures in Men (MrOS) Research Group; Health, Aging, and Body Composition (Health ABC) Research Group. Association of BMD and FRAX score with risk of fracture in older adults with type 2 diabetes
+          JAMA
+          2011
+          305
+          2184
+          2192
+          10.1001/jama.2011.715
+          
+          21632482
+        
+      
+      
+        29.
+        
+          
+            
+              Pritchard
+              JM
+            
+            
+              Giangregorio
+              LM
+            
+            
+              Ioannidis
+              G
+            
+            
+          
+          Ankle fractures do not predict osteoporotic fractures in women with or without diabetes
+          Osteoporos Int
+          2012
+          23
+          957
+          962
+          10.1007/s00198-011-1648-4
+          
+          21562874
+        
+      
+      
+        30.
+        
+          
+            
+              Vestergaard
+              P
+            
+          
+          Discrepancies in bone mineral density and fracture risk in patients with type 1 and type 2 diabetes–a meta-analysis
+          Osteoporos Int
+          2007
+          18
+          427
+          444
+          10.1007/s00198-006-0253-4
+          
+          17068657
+        
+      
+      
+        31.
+        
+          
+            
+              Janghorbani
+              M
+            
+            
+              Van Dam
+              RM
+            
+            
+              Willett
+              WC
+            
+            
+          
+          Systematic review of type 1 and type 2 diabetes mellitus and risk of fracture
+          Am J Epidemiol
+          2007
+          166
+          495
+          505
+          10.1093/aje/kwm106
+          
+          17575306
+        
+      
+      
+        32.
+        
+          
+            
+              Litwic
+              A
+            
+            
+              Edwards
+              M
+            
+            
+              Cooper
+              C
+            
+            
+          
+          Geographic differences in fractures among women
+          Womens Health
+          2012
+          8
+          673
+          684
+        
+      
+      
+        33.
+        
+          
+            
+              Looker
+              AC
+            
+            
+              Eberhardt
+              MS
+            
+            
+              Saydah
+              SH
+            
+          
+          Diabetes and fracture risk in older U.S. adults
+          Bone
+          2016
+          82
+          9
+          15
+          10.1016/j.bone.2014.12.008
+          
+          25576672
+        
+      
+      
+        34.
+        
+          
+            
+              Schwartz
+              AV
+            
+            
+              Ewing
+              SK
+            
+            
+              Porzig
+              AM
+            
+            
+          
+          Diabetes and change in bone mineral density at the hip, calcaneus, spine, and radius in older women
+          Front Endocrinol (Lausanne)
+          2013
+          4
+          62
+          23755040
+        
+      
+      
+        35.
+        
+          
+            
+              Khalil
+              N
+            
+            
+              Sutton-Tyrrell
+              K
+            
+            
+              Strotmeyer
+              ES
+            
+            
+          
+          Menopausal bone changes and incident fractures in diabetic women: a cohort study
+          Osteoporos Int
+          2011
+          22
+          1367
+          1376
+          10.1007/s00198-010-1357-4
+          
+          20658126
+        
+      
+      
+        36.
+        
+          
+            
+              Kanazawa
+              I
+            
+            
+              Yamaguchi
+              T
+            
+            
+              Tada
+              Y
+            
+            
+          
+          Serum osteocalcin level is positively associated with insulin sensitivity and secretion in patients with type 2 diabetes
+          Bone
+          2011
+          48
+          720
+          725
+          10.1016/j.bone.2010.12.020
+          
+          21185419
+        
+      
+      
+        37.
+        
+          
+            
+              Burghardt
+              AJ
+            
+            
+              Issever
+              AS
+            
+            
+              Schwartz
+              AV
+            
+            
+          
+          High-resolution peripheral quantitative computed tomographic imaging of cortical and trabecular bone microarchitecture in patients with type 2 diabetes mellitus
+          J Clin Endocrinol Metab
+          2010
+          95
+          5045
+          5055
+          10.1210/jc.2010-0226
+          
+          20719835
+        
+      
+      
+        38.
+        
+          
+            
+              Leslie
+              WD
+            
+            
+              Rubin
+              MR
+            
+            
+              Schwartz
+              AV
+            
+            
+          
+          Type 2 diabetes and bone
+          J Bone Miner Res
+          2012
+          27
+          2231
+          2237
+          10.1002/jbmr.1759
+          
+          23023946
+        
+      
+      
+        39.
+        
+          
+            
+              Goh
+              SY
+            
+            
+              Cooper
+              ME
+            
+          
+          The role of advanced glycation end products in progression and complications of diabetes
+          J Clin Endocrinol Metab
+          2008
+          93
+          1143
+          1152
+          10.1210/jc.2007-1817
+          
+          18182449
+        
+      
+      
+        40.
+        
+          
+            
+              Gregorio
+              F
+            
+            
+              Cristallini
+              S
+            
+            
+              Santeusanio
+              F
+            
+            
+          
+          Osteopenia associated with non-insulin-dependent diabetes mellitus: what are the causes?
+          Diabetes Res Clin Pract
+          1994
+          23
+          43
+          54
+          10.1016/0168-8227(94)90126-0
+          
+          8013262
+        
+      
+      
+        41.
+        
+          
+            
+              Mao
+              L
+            
+            
+              Kawao
+              N
+            
+            
+              Tamura
+              Y
+            
+            
+          
+          Plasminogen activator inhibitor-1 is involved in impaired bone repair associated with diabetes in female mice
+          PLoS One
+          2014
+          9
+          e92686
+          10.1371/journal.pone.0092686
+          
+          24651693
+        
+      
+      
+        42.
+        
+          
+            
+              Pittas
+              AG
+            
+            
+              Dawson-Hughes
+              B
+            
+            
+              Li
+              T
+            
+            
+          
+          Vitamin D and calcium intake in relation to type 2 diabetes in women
+          Diabetes Care
+          2006
+          29
+          650
+          656
+          10.2337/diacare.29.03.06.dc05-1961
+          
+          16505521
+        
+      
+      
+        43.
+        
+          
+            
+              Roman de Mettelinge
+              T
+            
+            
+              Cambier
+              D
+            
+            
+              Calders
+              P
+            
+            
+          
+          Understanding the relationship between type 2 diabetes mellitus and falls in older adults: a prospective cohort study
+          PLoS One
+          2013
+          8
+          e67055
+          10.1371/journal.pone.0067055
+          
+          23825617
+        
+      
+      
+        44.
+        
+          
+            
+              Diez-Perez
+              A
+            
+            
+              Güerri
+              R
+            
+            
+              Nogues
+              X
+            
+            
+          
+          Microindentation for in vivo measurement of bone tissue mechanical properties in humans
+          J Bone Miner Res
+          2010
+          25
+          1877
+          1885
+          10.1002/jbmr.73
+          
+          20200991
+        
+      
+      
+        45.
+        
+          
+            
+              Farr
+              JN
+            
+            
+              Drake
+              MT
+            
+            
+              Amin
+              S
+            
+            
+          
+          In vivo assessment of bone quality in postmenopausal women with type 2 diabetes
+          J Bone Miner Res
+          2014
+          29
+          787
+          795
+          10.1002/jbmr.2106
+          
+          24123088
+        
+      
+      
+        46.
+        
+          
+            
+              Güerri-Fernández
+              RC
+            
+            
+              Nogués
+              X
+            
+            
+              Quesada Gómez
+              JM
+            
+            
+          
+          Microindentation for in vivo measurement of bone tissue material properties in atypical femoral fracture patients and controls
+          J Bone Miner Res
+          2013
+          28
+          162
+          168
+          10.1002/jbmr.1731
+          
+          22887720
+        
+      
+      
+        47.
+        
+          
+            
+              Chen
+              Z
+            
+            
+              Kooperberg
+              C
+            
+            
+              Pettinger
+              MB
+            
+            
+          
+          Validity of self-report for fractures among a multiethnic cohort of postmenopausal women: results from the Women’s Health Initiative observational study and clinical trials
+          Menopause
+          2004
+          11
+          264
+          274
+          10.1097/01.GME.0000094210.15096.FD
+          
+          15167305
+        
+      
+    
+  

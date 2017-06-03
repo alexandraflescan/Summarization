@@ -1,0 +1,957 @@
+oai:pubmedcentral.nih.gov:53593662017-04-04springeropenpmc-open
+Calibration of atomic-force microscope tips
+
+    
+      Background
+      Understanding how cells behave at material interfaces holds wide importance for key biological applications such as cell–material surface interactions [1], mechanobiology [2], and advanced cell analysis [3]. Among such applications, one of the most practical and widely methods used across the biological sciences is cell fixation, which is an essential process for histological analyses in clinical diagnosis. Typically, when cells are degraded or dehydrated, essential cell components, such as protein, membrane, and intracellular structures will also be altered or degraded [4]. The surface structure of these cells may also collapse and diffuse away during antibody incubation and washing steps. Cell fixation aims to maintain cells or cellular components in life-like state, preventing unexpected changes by preserving essential chemical and physical characteristics of cells for further observation. Furthermore, cell fixation provides an effective approach for immunostaining by allowing the antibodies to access intracellular structures [5].
+      Among various fixation agents for cross-linking cell membrane and cytoplasmic protein, paraformaldehyde (PFA) is one of the most widely used chemical agents for cell and tissue samples [4–6]. PFA causes covalent cross-links between molecules, effectively gluing them together into an insoluble meshwork that alters the mechanical properties of the cell surface. Previous studies report that the cell surface hardens after fixative treatment [7–10]. Compared to an unfixed cell, the mechanical properties of a fixed cell are more uniform across the entire cell surface [11]. However, there is no systematic assessment of correlation between changes in mechanical properties of live and fixed cells. Indeed, little is known about how the mechanical properties of cells depend on the PFA concentration. Furthermore, it has been revealed that subtle adjustment in fixation conditions with, e.g., PFA condition, can have dramatic effects on the immobilization of molecules within cellular membranes [12]. Understanding the detailed process of cell fixation in various states from living cells to completely fixed cells provides an opportunity to optimize cell fixation protocols and to gain useful knowledge about the living cell fixation process.
+      To address this outstanding question, we investigated the mechanical properties of cell surface structures as a function of the concentration of PFA (C
+PFA) by using atomic force microscopy (AFM) and scanning ion conductance microscopy (SICM). These methods allow us to measure the elastic modulus and the surface fluctuation amplitude, respectively, of cells in both living and fixed states [13–16]. These measurement approaches can be applied to living cells to investigate cell mechanical changes in response to the PFA concentration, C
+PFA. We found that both cell stiffness and cell surface fluctuation underwent a transition around C
+PFA = 10−1–4%, and these quantities were unchanged at a higher C
+PFA (&gt;4%), indicating that the cell fixation is stabilized at C
+PFA = ca. 4%, which is consistent with the empirical concentration of cell fixation optimized in biological protocols.
+    
+    
+      Results and discussion
+      
+        Topographical imaging of live and fixed L929 cells with SICM
+        Figure 1c, d show the topography of a single L929 cell imaged by SICM before and after treating with 4% PFA, which is the conventional PFA concentration for cell fixation. Whereas no clear difference between the untreated and treated cells was observed for the cell height, a small difference in cell shape was apparent. The live cell shows a maximum height of 2.5 µm (Fig. 1e), and the corresponding height in the 4% PFA treated cell appears around 2.5 µm (Fig. 1f). However, the PFA-treated cells are slightly shrunken so that the cell adhesive area and the cell volume were lower than those of the untreated cell, which is in good agreement with anecdotal observations in the biology field [17]. The measured cell area and volumes are 908.12 µm2 and 774.11 µm3 in the live cell and 876.85 µm2 (3.5% lower) and 716.54 µm3 (7.4% lower) in 4% PFA treated cell. Furthermore, we found that the roughness of cell surface is larger in treated cells. This is probably due to crosslinking of proteins that react with PFA, resulting in aggregation and cell shrinkage.Fig. 1Schematic view of principle of SPM techiques and L929 cell surface images using SICM. a In AFM, the attractive or repulsive force between the tip and the sample causes deflection of the cantilever. As the cantilever deflects, the angle of the reflected laser beam changes angle and strikes a different part of the photodiode. The signals from the four quadrants of the detector are compared to calculate the deflection signal. Using this signal, the system (computer) generates a topography of the sample surface. b In SICM, a nano-pipette filled with electrolyte is brought in proximity to the sample of interest. A bias applied between an electrode in the pipette and another electrode in the bulk solution generates an ion current, which can be used in feedback control to prevent direct contact between the nano-pipette and the sample. c Height image and 3-dimensional image of live single L929 fibroblast cell surface using SICM hopping mode, d height image and 3-dimensional image of fixed fibroblast cell surface. The size of all images are 50 × 50 µm, after imaging of live cell (c), fixed with PFA, fixed cell imaging (d) was performed. e, f Indicates line profile of each image. Imaging time of each image is around 30 min
+
+      
+      
+        Surface fluctuations of cells with PFA treatment
+        We measured the I–D curves of SICM as applied to cell surfaces at various C
+PFA. To estimate cell surface fluctuations, the measurement time of the I–D curve was checked against a known standard [16, 18, 19]. Figure 2b shows the representative I–D curves for L929 cells with different CPFA’s. In the solid substrate (petri dish), I–D curve exhibits the steepest slope, while in the untreated condition, I–D curve exhibits the broadest slope. In the PFA-treastd cells, the I–D curves exists in between. Note that the cell treated with 4% PFA was almost the same I–D curve as the solid substrate I–D curves. The I–D curves in Fig. 2b were fitted to Eq. (1), and the RMS displacement of cell surface fluctuations on treatment of different C
+PFA are shown in Fig. 3. The estimated RMS displacement of surface fluctuations (am) is approximately 12 nm on the 4% CPFA treated cell. However, it increases gradually depending on the lower concentration of PFA. In the live cell, displacements was around 43 nm. The chemically fixation caused no difference on cell surface topography (Fig. 1e, f) however, the surface dynamics was drastically varied. It means that the live L929 cell had more active movement compare to the PFA treated cell. Smaller surface fluctuations in PFA treated cell can be explained by the PFA treatment effect that results in cross-linking of proteins between the membrane and cytoplasmic proteins.Fig. 2
+a Schematic view of the cell surface fluctuation setting by SICM. To investigate fluctuation levels, the nano-pipette was positioned on the apex of the single cell. b Typical ion current–distance curves of the solid substrate (black), a fixed cell (red), a 1% PFA treated cell (green), a 0.1% PFA treated cell (blue) and a live cell (sky blue). For the solid substrate (petri dish), there was no change. In the fixed cell, a much broader curve range was observed. For the live cell, the broadness of the curve range was greatest
+Fig. 3RMS displacements of cell surface fluctuations. The displacements are approximately 12 nm on a fixed cell, but much larger on a live cell surface (43 nm). The live cell shows more active movement than fixed cell (N = 60)
+
+      
+      
+        Young’s modulus of cells with PFA treatment
+        To investigate the effect of PFA treatment on cell surface stiffness, the force-separation curve measurements were performed on live and PFA treated cells (Fig. 4a). Figure 4b shows typical force-separation curve for live cells, 4% PFA treated cells and solid substrate (petri dish). Clearly, the 4% PFA treated cell exhibits a much steeper force curve slope than a live cell. In addition, the required force for surface indentation is also larger for treated cells than for live cells. Figure 5 shows the averaged Young’s modulus, E, values as a function of CPFA. Compared to live cells (3.5 kPa), the stiffness of PFA treated cells (4% C
+PFA treated cell is 18 kPa) gradually increases with higher C
+PFA.Fig. 4
+a Optical image of AFM tips positioning on the target cell. b Typical force-separation curve for a fixed cell (4% PFA-treated cell), live cell, and solid substrate. Compared to live cells, the slope of fixed cells approach curve is steeper, indicating a significantly larger Young’s modulus for fixed cells
+Fig. 5Young’s modulus for varying PFA concentrations in fibroblast cells. As expected, higher concentrations resulted in a higher Young’s modulus: approximately 3.5 kPa on live cells, and 18 kPa on fixed cells (N = 50)
+
+        The cell stiffness measured with AFM is strongly affected by the actin filamentous structures. PFA treatment affects the cross-linking of cell surface proteins, including F-actin filaments [5, 9, 17, 20, 21]. Taken together, we concluded that the stiffening of cells directly results in the cross-linking of proteins. Specifically, it is assumed that the PFA fixation caused an increase of the cell stiffness depending on the available number of randomly distributed crosslinking sites on the cell surface. As shown in Fig. 5, Young’s modulus does not increase linearly with the C
+PFA which suggests saturation in the number of available sites for surface protein cross-linking. Below the 10−1% of C
+PFA treatment, in lower concentration, there is no significant effect on cell stiffness, but it gradually increases because the crosslinking is occurred randomly. In the intermediate CPFA (10−1%), a percolation of the crosslinking occurs, so that the stiffness undergoes a transition. When treated with higher concentrations of PFA (over 10−1%), it produces dramatic changes in cell stiffness. In this case, the stiffness remains unchanged, indicating the percolation is completed around CPFA = 4%. Interestingly, the elastic modulus begins to increase before the membrane fluctuation amplitude decreases, suggesting that cells can tolerate some degree of protein cross-linking while maintaining normal function. Such findings are in excellent agreement with previous observations that molecules in cellular membranes can remain mobile under certain, relatively mild PFA fixation conditions [12].
+        To corroborate these findings, cell viability experiments were conducted at different PFA concentrations. Figure 6a shows live and dead cells as distinguished via the staining kit. Green color represents live cells, and red color represents dead cells. As shown in this figure, from control to 0.1% PFA treatment, most of the cell culture is live. PFA treatment over 1% shows a large increase in red cells, indicating widespread cell death. Also, Fig. 6b shows the quantitative analysis of live and dead ratio from staining data after PFA treatment. Between 0.1 and 1% C
+PFA appears to be the critical concentration for live cell to dead cell ratio inversion. This agreement between cell surface fluctuation, Young’s modulus and cell viability assay data supports the statement that range encompassing 0.1–1% C
+PFA can trigger sufficient surface protein cross-linking, and in particular that a critical density of cross-linking events occurs in this PFA concentration range whereby cellular function is irreversibly impaired and likely related to changes in membrane mobility as well. In other words, this PFA concentration range is critical for to influencing the available number of crosslinking sites on the cell surface, and with that, cell viability.Fig. 6Evaluation of PFA-mediated cytotoxicity on L929 cells. a Fluorescence microscope images for assessment of live and dead cell ratio dependent on titration of C
+PFA. Green fluorescence represents live cells and red fluorescence represents dead cell, scale bar 50 μm. b Percentage graph of live/dead cell ratio dependent on the titration of C
+PFA. Data is presented as the mean ± standard deviation, with t test results indicating p &lt; 0.05
+
+      
+    
+    
+      Conclusions
+      Herein, we have demonstrated a fundamental mechanical comparison between live cells and cells that were fixed with various concentrations of PFA. AFM and SICM measurements showed that the apparent surface fluctuation amplitude and elastic modulus of cells underwent transition when exposed to PFA concentrations between 0.1 and 4%. After complete PFA fixation, cell surface fluctuation decreased to 71% of live cell, while the Young’s modulus increased by fivefold compared to that of live cells. These results provide a deeper understanding of how cells react to chemical treatment with PFA that takes into account not only the traditional chemical understanding of PFA’s effect upon the cell, but now also the cell’s surface-based mechanical properties that were targeted in this study. It is now apparent that PFA fixation enables the opening of distributed proteins across the cell surface, a critical process that facilitates widespread crosslinking. Cell membranes that are typically flexible and variable. But in a certain situation, such as chemical treatment, biological functions are changed, and morphological changes also occur. This is the reason why studying cell surface fluctuations are crucial for the understanding of cell function about cell dynamics. Given the general nature of these physicochemical mechanisms, we expect that similar effects of PFA treatment on the elastic modulus and membrane fluctuations would also be expected although the specific magnitudes and responses conferred upon PFA treatment might vary on an absolute scale. We have confidence in that the SPM techniques could well serve as a promising tool for quantitative studies of both fixed cells and live cells in order to further explore this exciting topic at the convergence of biology and nanotechnology.
+    
+    
+      Methods
+      
+        Cell sample
+        We used mouse fibroblast L929 cells (ATCC, USA) cultured in Dulbecco’s modified eagle medium (DMEM; Invitrogen Life Technique, US) supplemented with 10% fetal bovine serum (Thermo Fisher Scientific, US) and 1% penicillin/streptomycin (Invitrogen Life Technique, USA) at 37 °C in a humidified atmosphere containing 5% CO2. The cell samples with cell densities of 1 × 104/mL on a 35 mm diameter cell culture petri dish (NUNC, Denmark), were washed with phosphate buffered saline (PBS, Sigma-Aldrich, US) three times and then treated with different PFA solutions (C
+PFA = 10−5, 10−4, 10−1, 1, 4, 8 and 10%) for 5 min. Before AFM and SICM experiments, the treated cell samples were again washed three times with PBS.
+      
+      
+        SPM apparatus
+        A commercial SPM system (NX-Bio, Park Systems, South Korea) equipped with an inverted optical microscopy (Nikon Corp., Japan) which is designed specifically for biological applications was employed in this study. The SPM system not only achieved a soft material sample such as cell surface information using SICM, but it also obtained mechanical properties of a sample using AFM. All experiments using live cells were performed in a customized live cell chamber (Live Cell Instrument, South Korea). The live cell chamber was adjusted to 37 °C with 5% CO2 and 95% humidity, readily providing the specific environmental conditions needed to sustain cell cultures. Within this environment, live cell SICM imaging or AFM experiment was conducted for extended timeframes via optical monitoring methods, including optical phase contrast and digital image correlation microscopy.
+        
+          SICM measurement for cell imaging and fluctuation analysis
+          The operation of SICM relies on an ion current that flows between an electrode inside a nano-pipette and an electrode located in an external bath solution. This ion current provides a feedback signal used to maintain the tip-sample distance and allow for the nano-pipette to scan topographical information (Fig. 1b). In spite of low lateral resolution (10–20 nm) [22], SICM offers useful topographical measurement without applying any mechanical force onto the sample surface.
+          SICM imaging and ion current-distance (I–D) curve experiments were performed using customized SPM system with 100 nm inner diameter nano-pipette fabricated from borosilicate capillaries (inner diameter 0.6 mm, outer diameter 1.0 mm, World Precision Instruments, USA) using a CO2-laser pipette puller (Sutter Instruments, USA). The cell topographic images were obtained with the so-called hopping mode [23], in which the nano-pipette approached sample surfaces with the pre-set threshold of 1.2%.
+          The apparent fluctuation amplitude of cell apical surfaces, a
+m, was estimated from the I–D curve of SICM measurement [16, 19]. The measured ion current with cell apical surface fluctuation was assumed to be a convolution of the non-fluctuation-based ion-current relation, I
+0, and the existing probability of cell surface position at z, P(z).1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\left\langle I( {z - z_{0} ,\delta z^{2}_{s} }) \right\rangle = \mathop \smallint \limits_{ - \infty }^{\infty } I_{0} \left( {z - z_{0} } \right) P\left( {z_{s} - z_{0} , \delta z^{2}_{s} } \right) {\text{d}}z_{s}.$$\end{document}I(z-z0,δzs2)=∫-∞∞I0z-z0Pzs-z0,δzs2dzs.
+
+          The z and z
+s are the position of the pipette and the sample, respectively. The \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$z_{0}$$\end{document}z0 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta z^{ 2}_{s}$$\end{document}δzs2 are the time-average position of cell surface and the deviation of the sample fluctuation. The non-fluctuation ion-current relation is approximately expressed as the following form [19]:2\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{0} \left( {z - z_{0} } \right) = I_{sat} \left( {1 + \frac{\zeta }{{z - z_{0} }}} \right)^{ - 1} ,$$\end{document}I0z-z0=Isat1+ζz-z0-1,where I
+sat is the reference current when the pipette is far enough from the sample surface, and ζ is a constant from the pipette geometry. It is here assumed that the cell fluctuation obeys the Gaussian distribution,3\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$P\left( {z_{s} - z_{0} , \delta z^{2}_{s} } \right) = \frac{1}{{\delta z_{s} \sqrt {2\pi } }}\exp \left( { - \frac{1}{2}\left( {\frac{{z_{s} - z_{0} }}{{\delta z_{s} }}} \right)^{2} } \right).$$\end{document}Pzs-z0,δzs2=1δzs2πexp-12zs-z0δzs2.
+
+          The I–D curves measured at around the cell center were fitted to the Eq. (1) to estimate the apparent fluctuation deviation \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\delta z^{ 2}_{s}$$\end{document}δzs2
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{sat}$$\end{document}Isat and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\zeta$$\end{document}ζ were determined experimentally to be \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$I_{sat}$$\end{document}Isat = 1 nA and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\zeta$$\end{document}ζ = 4.9 × 10−2 nm, respectively, which were estimated from the SICM measurement on a glass substrate [16]. According to Eq. (3), the fluctuation amplitude of apical cell membrane, a
+m is defined as the Gaussian distribution, P, with the root mean square (RMS) displacement of cell surface fluctuation, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\langle \delta z^{2}_{s} \rangle^{{\frac{1}{2}}}$$\end{document}⟨δzs2⟩12.
+        
+        
+          AFM measurements for Young’s modulus of cells
+          The force curve measurements of AFM were performed to estimate Young’s modulus of cells. We used a commercial AFM cantilever (Biolever mini, Olympus, Japan) with less than 0.09 N/m of a nominal spring constant. Because a cantilever with a small spring constant makes a relatively large deflection for a small force, the cantilever used in this study provides reliable data of the cell surface structure. The spring constant of the AFM cantilever was calibrated using the thermal vibration method [24]. AFM cantilever was cleaned using ethanol and exposed to UV light for 30 min to remove contamination on the AFM cantilever and tip. We measured more than 50 force curves with 512 data points. The force curves were analyzed with a Hertz model using a commercial SPM data analysis program (Park Systems, South Korea). We assumed the AFM tip shape is four-sided pyramid with a half cone angle α, so that the force on cantilever F is expressed as.4\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$F = \frac{E}{{1 - v^{2} }}\frac{\tan \alpha }{\sqrt 2 }\delta^{2} ,$$\end{document}F=E1-v2tanα2δ2,where E is the Young’s moduls, ν is the Poisson’s ratio and δ is the indentation (depth). ν and alpha were set to be 0.5° and 35°, respectively. The scan rate of the AFM cantilever and the maximum loading force were set to be 1–2 µm/s and 3–8 nN, respectively.
+        
+      
+      
+        Cell viability assay
+        To evaluate the viability of cells with PFA treatment, we used a LIVE/DEAD® Viability/Cytotoxicity Kit (L3224; Invitrogen life technique, USA). Briefly, the PFA-treated cells were immediately incubated using the live and dead stain fluorescence dye for 10 min. Then the final 2 µM calcein AM and 4uM EtD-1 mixture solution were added to the PFA-treated cell sample. A commercial fluorescence microscope (Nikon Corp., Japan) was used to obtain fluorescence images of cells where green and red colors represented live and dead cells, respectively.
+      
+    
+  
+
+    
+      
+        Seong-Oh Kim and Joonhui Kim contributed equally to this work
+      
+    
+    
+      Authors’ contributions
+      SOK and NJC designed the study; SOK conducted all experiments and performed data analysis; JK, TO and NJC assisted with data analysis; SOK, TO and NJC wrote the manuscript. All authors read and approved the final manuscript.
+      
+        Acknowledgements
+        The authors would like to thank the Japan Society for the Promotion of Science, the National University of Singapore, and Nanyang Technological University promoting collaborative science project across Singapore and Japan.
+      
+      
+        Competing interests
+        The authors declare that they have no competing interests.
+      
+      
+        Availability of data and materials
+        Available upon request.
+      
+      
+        Funding
+        This work was supported by the JSPS-NUS/NTU Joint Research Project Grant Call (M4081560).
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Minami
+              K
+            
+            
+              Kasuya
+              Y
+            
+            
+              Yamazaki
+              T
+            
+            
+              Ji
+              Q
+            
+            
+              Nakanishi
+              W
+            
+            
+              Hill
+              JP
+            
+            
+              Ariga
+              K
+            
+          
+          Highly ordered 1-D fullerene crystals for concurrent control of macroscopic cellular orientation and differentiation toward large-scale tissue engineering
+          Adv. Mater.
+          2015
+          27
+          27
+          4020
+          4026
+          10.1002/adma.201501690
+          26033774
+        
+      
+      
+        2.
+        
+          
+            
+              Ariga
+              K
+            
+            
+              Minami
+              K
+            
+            
+              Ebara
+              M
+            
+            
+              Nakanishi
+              J
+            
+          
+          What are the emerging concepts and challenges in NANO? Nanoarchitectonics, hand-operating nanotechnology and mechanobiology
+          Polym. J.
+          2016
+          48
+          4
+          371
+          389
+          10.1038/pj.2016.8
+        
+      
+      
+        3.
+        
+          
+            
+              Kikuchi
+              K
+            
+          
+          19F MRI Probes with tunable switches and highly sensitive 19F MRI nanoprobes
+          Bull. Chem. Soc. Jpn.
+          2015
+          88
+          4
+          518
+          521
+          10.1246/bcsj.20140392
+        
+      
+      
+        4.
+        
+          
+            
+              Fox
+              CH
+            
+            
+              Johnson
+              FB
+            
+            
+              Whiting
+              J
+            
+            
+              Roller
+              PP
+            
+          
+          Formaldehyde fixation
+          J histochem Cytochem
+          1985
+          33
+          8
+          845
+          853
+          10.1177/33.8.3894502
+          3894502
+        
+      
+      
+        5.
+        
+          
+            
+              Lanier
+              L
+            
+            
+              Warner
+              N
+            
+          
+          Paraformaldehyde fixation of hematopoietic cells for quantitative flow cytometry (FACS) analysis
+          J. Immunol. Methods
+          1981
+          47
+          1
+          25
+          30
+          10.1016/0022-1759(81)90253-2
+          7310138
+        
+      
+      
+        6.
+        
+          
+            
+              Hopwood
+              D
+            
+          
+          Cell and tissue fixation, 1972–1982
+          The Histochem J
+          1985
+          17
+          4
+          389
+          442
+          10.1007/BF01003203
+          3930430
+        
+      
+      
+        7.
+        
+          
+            
+              Braet
+              F
+            
+            
+              Rotsch
+              C
+            
+            
+              Wisse
+              E
+            
+            
+              Radmacher
+              M
+            
+          
+          Comparison of fixed and living liver endothelial cells by atomic force microscopy
+          Appl. Phys. A Mater. Sci. Process.
+          1998
+          66
+          S575
+          S578
+          10.1007/s003390051204
+        
+      
+      
+        8.
+        
+          
+            
+              Hoh
+              JH
+            
+            
+              Schoenenberger
+              C-A
+            
+          
+          Surface morphology and mechanical properties of MDCK monolayers by atomic force microscopy
+          J. Cell Sci.
+          1994
+          107
+          5
+          1105
+          1114
+          7929621
+        
+      
+      
+        9.
+        
+          
+            
+              Hutter
+              J
+            
+            
+              Chen
+              J
+            
+            
+              Wan
+              W
+            
+            
+              Uniyal
+              S
+            
+            
+              Leabu
+              M
+            
+          
+          Atomic force microscopy investigation of the dependence of cellular elastic moduli on glutaraldehyde fixation
+          J. Microsc.
+          2005
+          219
+          2
+          61
+          68
+          10.1111/j.1365-2818.2005.01497.x
+          16159341
+        
+      
+      
+        10.
+        
+          
+            
+              Wu
+              H
+            
+            
+              Kuhn
+              T
+            
+            
+              Moy
+              V
+            
+          
+          Mechanical properties of L929 cells measured by atomic force microscopy: effects of anticytoskeletal drugs and membrane crosslinking
+          Scanning
+          1998
+          20
+          5
+          389
+          397
+          10.1002/sca.1998.4950200504
+          9737018
+        
+      
+      
+        11.
+        
+          
+            
+              Yamane
+              Y
+            
+            
+              Shiga
+              H
+            
+            
+              Haga
+              H
+            
+            
+              Kawabata
+              K
+            
+            
+              Abe
+              K
+            
+            
+              Ito
+              E
+            
+          
+          Quantitative analyses of topography and elasticity of living and fixed astrocytes
+          J. Electron Microsc.
+          2000
+          49
+          3
+          463
+          471
+          10.1093/oxfordjournals.jmicro.a023830
+        
+      
+      
+        12.
+        
+          
+            
+              Tanaka
+              KA
+            
+            
+              Suzuki
+              KG
+            
+            
+              Shirai
+              YM
+            
+            
+              Shibutani
+              ST
+            
+            
+              Miyahara
+              MS
+            
+            
+              Tsuboi
+              H
+            
+            
+              Fujiwara
+              TK
+            
+          
+          Membrane molecules mobile even after chemical fixation
+          Nat. Methods
+          2010
+          7
+          11
+          865
+          866
+          10.1038/nmeth.f.314
+          20881966
+        
+      
+      
+        13.
+        
+          
+            
+              Binnig
+              G
+            
+            
+              Quate
+              CF
+            
+            
+              Gerber
+              C
+            
+          
+          Atomic force microscope
+          Phys. Rev. Lett.
+          1986
+          56
+          9
+          930
+          10.1103/PhysRevLett.56.930
+          10033323
+        
+      
+      
+        14.
+        
+          
+            
+              Cappella
+              B
+            
+            
+              Dietler
+              G
+            
+          
+          Force-distance curves by atomic force microscopy
+          Surf. Sci. Rep.
+          1999
+          34
+          1
+          1
+          104
+          10.1016/S0167-5729(99)00003-5
+        
+      
+      
+        15.
+        
+          
+            
+              Korchev
+              YE
+            
+            
+              Bashford
+              CL
+            
+            
+              Milovanovic
+              M
+            
+            
+              Vodyanoy
+              I
+            
+            
+              Lab
+              MJ
+            
+          
+          Scanning ion conductance microscopy of living cells
+          Biophys. J.
+          1997
+          73
+          2
+          653
+          10.1016/S0006-3495(97)78100-1
+          9251784
+        
+      
+      
+        16.
+        
+          
+            
+              Mizutani
+              Y
+            
+            
+              Choi
+              M-H
+            
+            
+              Cho
+              S-J
+            
+            
+              Okajima
+              T
+            
+          
+          Nanoscale fluctuations on epithelial cell surfaces investigated by scanning ion conductance microscopy
+          Appl. Phys. Lett.
+          2013
+          102
+          17
+          173703
+          10.1063/1.4803469
+        
+      
+      
+        17.
+        
+          
+            
+              Kiernan
+              JA
+            
+          
+          Formaldehyde, formalin, paraformaldehyde and glutaraldehyde: what they are and what they do
+          Microsc Today
+          2000
+          1
+          5
+          8
+          12
+        
+      
+      
+        18.
+        
+          
+            
+              Gorelik
+              J
+            
+            
+              Shevchuk
+              AI
+            
+            
+              Frolenkov
+              GI
+            
+            
+              Diakonov
+              IA
+            
+            
+              Kros
+              CJ
+            
+            
+              Richardson
+              GP
+            
+            
+              Korchev
+              YE
+            
+          
+          Dynamic assembly of surface structures in living cells
+          Proc. Natl. Acad. Sci.
+          2003
+          100
+          10
+          5819
+          5822
+          10.1073/pnas.1030502100
+          12721367
+        
+      
+      
+        19.
+        
+          
+            
+              Nitz
+              H
+            
+            
+              Kamp
+              J
+            
+            
+              Fuchs
+              H
+            
+          
+          A combined scanning ion-conductance and shear-force microscope
+          Probe microsc
+          1998
+          1
+          187
+          200
+        
+      
+      
+        20.
+        
+          
+            
+              Crawford
+              C
+            
+            
+              Barer
+              R
+            
+          
+          The action of formaldehyde on living cells as studied by phase-contrast microscopy
+          J. Cell Sci.
+          1951
+          3
+          20
+          403
+          452
+        
+      
+      
+        21.
+        
+          
+            
+              Targosz-Korecka
+              M
+            
+            
+              Daniel Brzezinka
+              G
+            
+            
+              Danilkiewicz
+              J
+            
+            
+              Rajfur
+              Z
+            
+            
+              Szymonski
+              M
+            
+          
+          Glutaraldehyde fixation preserves the trend of elasticity alterations for endothelial cells exposed to TNF-α
+          Cytoskeleton
+          2015
+          72
+          3
+          124
+          130
+          10.1002/cm.21217
+          25786919
+        
+      
+      
+        22.
+        
+          
+            
+              Rheinlaender
+              J
+            
+            
+              Geisse
+              NA
+            
+            
+              Proksch
+              R
+            
+            
+              Schäffer
+              TE
+            
+          
+          Comparison of scanning ion conductance microscopy with atomic force microscopy for cell imaging
+          Langmuir
+          2010
+          27
+          2
+          697
+          704
+          10.1021/la103275y
+          21158392
+        
+      
+      
+        23.
+        
+          
+            
+              Novak
+              P
+            
+            
+              Li
+              C
+            
+            
+              Shevchuk
+              AI
+            
+            
+              Stepanyan
+              R
+            
+            
+              Caldwell
+              M
+            
+            
+              Hughes
+              S
+            
+            
+              Korchev
+              YE
+            
+          
+          Nanoscale live-cell imaging using hopping probe ion conductance microscopy
+          Nat. Methods
+          2009
+          6
+          4
+          279
+          282
+          10.1038/nmeth.1306
+          19252505
+        
+      
+      
+        24.
+        
+          
+            
+              Hutter
+              JL
+            
+            
+              Bechhoefer
+              J
+            
+          
+          Calibration of atomic-force microscope tips
+          Rev. Sci. Instrum.
+          1993
+          64
+          7
+          1868
+          1873
+          10.1063/1.1143970
+        
+      
+    
+  

@@ -1,0 +1,1274 @@
+oai:pubmedcentral.nih.gov:53626632017-04-04springeropenpmc-open
+Recurrent intrapelvic cyst complicating metal-on-metal cemented total hip arthroplasty
+
+    
+      Introduction
+      G.K. McKee and J Watson-Farrar developed a metal on metal (MoM) hip joint prosthesis for total hip replacement (THR) in the 1960s [1–4]. Large numbers of these metal-on-metal (MoM) implants were implanted but they eventually fell out of favour when superior outcomes were reported with the low-friction Charnley metal on polyethylene (MoP) prosthesis. It was noted that McKee-Farrar (MF) hip replacements had a high rate of aseptic loosening in the first 10 years; McKee stopped using the all-metal system in 1972 [1]. Failure of MF implants was thought to be due mainly to poor implant design [1, 5]. The stem of the femoral component was curved with narrow medial and lateral borders and had multiple sharp corners [1, 6]. These features resulted in areas of high localised stress within the cement mantle; the broad neck of the MF femoral component was also prone to impingement against the metal rim of the acetabular component. The original surgical technique for implantation did not include reaming and routine deepening of the acetabulum, and, as a result, the components did not have adequate lateral bone cover [1, 6]. Despite these shortcomings, some MF hip replacements have shown impressive survival outcomes with several lasting more than 20 years [5–10].
+      The relative success of some MF and other first-generation MoM implant designs stimulated the drive to develop second- and third-generation MoM hip implants [11]. The modern MoM implants are composed of a cobalt-chrome molybdenum alloy similar to that used in the MF implant. Although some second and third-generation MoM designs have performed reasonably, a number have been associated with implant failure [12–14]. This is considered to be due in large measure to the pathobiological response to deposition of cobalt–chrome (Co–Cr) wear particles in periprosthetic tissues in which extensive necrosis an innate and foreign body macrophage response to Co–Cr wear is often seen as well as prominent lymphoid infiltrate which is characteristically perivascular in distribution; this has been termed ALVAL (aseptic lymphocyte-dominated vasculitis-associated lesion) and is believed to reflect the adaptive immune response to Co–Cr wear in periprosthetic tissues [13, 15–21].
+      There are relatively few reports on the histopathology of failed MF hip implants; some of these noted pathological changes similar to those reported in second- and third-generation MoM hip implants [22–27]. With one exception [22], these studies examined only a handful of cases. In this study, we have analysed histopathological findings in periprosthetic tissues around twenty failed MF hip implants with regard to the inflammatory and necrotic changes known to be associated with second- and third-generation MoM hip implants. Our aim has been to determine whether Co-Cr particles from MF implants induced a similar pathobiological response in periprosthetic tissues, particularly with regard to the necrotic and inflammatory changes that reflect the innate (non-specific) and adaptive (specific) host immune response to deposition of Co–Cr wear particles.
+    
+    
+      Materials and methods
+      Periprosthetic tissue histology from twenty cases of failed MF hip implants undergoing revision arthroplasty for aseptic loosening were obtained from the files of the Histopathology Department, Nuffield Orthopaedic Centre, Oxford. The cases studied included 15 females and 5 males; the age range of the patients was 55 to 84 years. The original hip arthroplasty procedure was carried out between 1968 and 1974 and revision surgery was carried out between 1975 and 2008. There was limited clinical information and radiology for most cases was not available. Implant duration was 2 to 41 years. Clinical information provided on the pathology forms noted that the specimens were associated with “failure” of an MF hip implant: eleven of the cases referred to “loosening” of an MF implant. Two cases of sepsis were excluded. Details of patient age and implant duration are shown in Table 1.Table 1Case details and pathological findings in 20 failed McKee–Farrar hip implantsCase detailsPathological findingsCase No.SexAge at revisionImplant duration (year)NecrosisMacrophageOxford ALVAL score1F7333332F7133333M3933304F4443335F6343306F8442217F6853218F7253339F83532110F85723211M62733112F70933213M73933314M551431015F842533116F612733117F782833118M683033119F573333120F7441332
+
+      The tissues analysed were the joint capsule in all cases and the femoral and/or acetabular membrane in 10 cases. The tissues were fixed in 10% formalin, embedded in paraffin wax, sectioned and stained with haematoxylin-eosin. Tissue necrosis and the extent of the inflammatory cell infiltrate in MoM periprosthetic tissues was assessed semi-quantitatively by histology as previously described [16, 17]. The number of macrophages was scored as 0 (absent), 1+ (few), 2+ (many), 3+ (abundant); necrosis was scored as 0 (absent), 1+ (scattered small necrotic areas), 2+ (frequent small or large necrotic areas: up to 25% tissue involvement), 3+ (extensive necrosis: more than 25% tissue involvement). The perivascular lymphoid infiltrate was graded using the Oxford ALVAL scoring system [16], this has been shown to correlate well with the Campbell scoring system [28]. In the Oxford System, grade 0 = no evidence of perivascular lymphocyte infiltrate; grade 1 = little evidence of a perivascular lymphocytic infiltrate, with lymphocyte cuffing of vessels being fewer than five cells in thickness; grade 2 = several perivascular lymphoid aggregates, with lymphocytic cuffing of vessels being five to ten cells in thickness; and grade 3 = numerous large perivascular lymphoid aggregates, with lymphocyte cuffing around vessels being more than ten cells in thickness.
+      Immunohistochemistry was carried out using an indirect immunoperoxidase technique to determine the antigenic phenotype of phagocytic macrophages and lymphoid cells in the inflammatory infiltrate of periprosthetic tissues. The list of monoclonal antibodies used in this study and their antigen specificity is shown in Table 2.Table 2Antigen specificity of monoclonal antibodies used in this studyAntibody (clone)Antigen specificitySourceF7.2.38CD3: T cellsDakopattsNCL-L-CD4-368CD4: T helper cellsNovocastraCR/144BCD8: T suppressor cellsDakopattsCD14-223CD14: monocytes macrophagesNovocastraL26CD20: B cellsDakopattsKP1CD68: monocytes macrophagesDakopattsCR3/43HLA-DRDakopatts124BCL-2 oncoprotein: apoptosisDakopattsNCL-CD163CD163: macrophagesNovocastra
+
+    
+    
+      Results
+      The most notable feature seen in the joint capsule and periprosthetic fibrous tissue membrane of all MF implant failures was a variable but generally extensive degree of surface tissue necrosis associated with an underlying heavy foreign body macrophage infiltrate (Fig. 1a). The tissues had a prominent zone of surface necrosis in which there were viable macrophages and occasional giant cells containing Co-Cr particles; some macrophages showed changes of apoptosis such as nuclear pyknosis (Fig. 1b). Beneath this zone there was a prominent macrophage infiltrate. Viable macrophages had vesicular nuclei and discrete plump cytoplasm which contained granular brown or black particles, indicating Co–Cr wear particle phagocytosis (Fig. 2a). On the surface, there was macrophage necrosis and apoptosis, evident as loss of cytoplasmic outline, nuclear pyknosis and release of wear particles into the degenerate tissue matrix (Fig. 2b). Histological findings regarding the extent of necrosis and macrophage infiltration are summarised in Table 1. A heavy eosinophil polymorph infiltrate was noted in two specimens. A few neutrophil polymorphs (less than 1 per high power field on average) were noted in two specimens.Fig. 1
+a Histology of periprosthetic fibrous tissue membrane from a failed MF implant showing necrosis on the surface with underlying foreign body macrophage infiltrate. b High power view of area of surface necrosis in 1a. showing a viable giant cell and macrophages with vesicular nuclei (some marked by thick arrows); phagocytosed aggregates of metal wear particles are evident as a black dot in the cytoplasm. There are also apoptotic macrophages with pyknotic nuclei (some marked by thin arrows)
+Fig. 2Histology of periprosthetic tissue from a failed MF implant showing: a viable macrophages with phagocytosed (brown-black) Co–Cr wear particles of variable size (some arrowed) b necrotic and apoptotic macrophages with released wear particles (some arrowed) (color figure online)
+
+      In all but two of the cases, the sampled periprosthetic tissues contained a scattered, focally heavy lymphocyte infiltrate (Table 1); plasma cells were seen in three cases. Eight cases (some of which were associated with relatively short implant duration) had a moderate or heavy lymphocyte infiltrate with Grade 2/3 Oxford ALVAL scores (Fig. 3). In nine cases the Oxford ALVAL score was Grade 1. There were three cases in which The Oxford ALVAL score was 0; in these cases, specimens of the capsule were composed entirely of necrotic tissue with only a few scattered macrophages and no obvious lymphocyte infiltrate.Fig. 3Histology of periprosthetic tissue membrane from a failed MF implant showing: a a zone of surface necrosis beneath which there are several perivascular lymphoid aggregates (some arrowed). b High power view of lymphoid aggregates in 3a
+
+      Immunohistochemistry showed that the mononuclear phagocytic cells containing metal wear particles strongly expressed the monocyte/macrophage markers CD14, CD68 (Fig. 4a) and CD163; these cells also strongly expressed HLA-DR. Lymphocytes in the perivascular lymphoid aggregates expressed the T-cell marker CD3 (Fig. 4b). A few cells also expressed the B-cell marker CD20. Most CD3+ T cells also expressed CD4, a marker of T-helper cells, with a minority of cells weakly expressing CD8, which is characteristic of T-cytotoxic/suppressor cells. Weak expression of the apoptosis marker bcl-2 was noted in macrophages and some lymphoid cells.Fig. 4Immunohistochemistry of periprosthetic tissue membrane from a failed MF implant showing a staining of foreign body macrophages for CD68 (pan-macrophage marker) and b staining of perivascular lymphocytes for CD3 (T cell marker)
+
+    
+    
+      Discussion
+      Although the MoM MF total hip prosthesis was characterised by a higher rate of early- and intermediate-term aseptic loosening than the MoP Charnley implant, a few studies reported similar rates of long-term implant loosening. Jacobsson et al. [9] reported a 20 year implant survival of 77% in 107 consecutive MF arthroplasties; this compared with 73% for a similar population with the Charnley prosthesis. Brown et al. [29] reported a 28 year MF implant survivorship of 74% and noted that the reported survival of MoM total hip arthroplasties was 53–89% at 10 to 15 years while that of the Charnley arthroplasty was 75–84% over 20 to 30 years. A review of short-term outcomes of the first 100 cases that received a MF hip implant in Oxford reported good or excellent results in 90% of cases [30]. A subsequent review comparing results of the MF and the Charnley total hip prosthesis in over 200 cases reported superior clinical outcomes and fewer complications with the Charnley implant [31]. Amstutz and Grigoris reviewed the clinical results of MF and other first- generation MoM hip implants and noted, as in the present study, some impressive outcomes [1].
+      The main cause of early MF hip implant failure was aseptic loosening. This complication was ascribed mainly to the MF implant being biomechanically at a disadvantage compared with the Charnley implant in design terms [1, 2, 5, 6]. A number of reports, however, noted pathological changes in periprosthetic tissues that were proposed as contributory factors to the development of implant loosening. Evans et al. [24] reported necrosis of bone and capsular tissue around MoM hip implants and noted a correlation with the severity and extent of obliterative changes in vessels; it was suggested that these changes occurred as a result of a sensitivity reaction to Co-Cr ions derived from metal wear particles. Winter [27] described necrosis in tissues around retrieved MoM hip replacements with particles deposited in acellular collagen and in phagocytic cells Jones et al. [26] also reported necrosis of bone and capsular tissue from retrieved first-generation MoM prostheses and attributed this to a toxic and hypersensitivity reaction to cobalt which he suggested caused an avascular phenomenon. The study of Brown et al. [22] noted significant tissue necrosis and a chronic inflammatory cell infiltrate in soft tissue and bone; metallic debris within cells and a prominent lymphocytic infiltrate with occasional plasma cells were also identified. Doorn et al. [23] and Howie et al. [25] also noted tissue necrosis and the presence of lymphocytes in retrieved periprosthetic tissues around MF and other first-generation MoM hip implants. Willert et al. [32], investigating (non-MF) failed first-generation MoM total hip arthroplasties, also noted a lymphocyte response in peri-implant tissues. Other studies allude to the presence of macrophages and giant cells, but do not mention tissue necrosis or a lymphoid infiltrate [7, 33–35].
+      The MF hip implant was composed of a similar Co–Cr alloy to that used in second- and third-generation MoM implants. In this study we show that periprosthetic tissues around MF implants exhibit similar pathological changes to those reported around modern MoM implants. Cell and tissue necrosis, a heavy infiltrate of macrophages in response to Co–Cr wear particles and ALVAL-like lymphoid aggregates, commonly seen in failed modern MoM hip implants [15–20, 36, 37], were also noted in failed MF hip implants with approximately 40% of cases exhibiting a Grade 2/3 ALVAL response.
+      The MoM articulation tends to produce less volumetric wear than other implant combinations such as MoP; however, the number of wear particles generated is an order of magnitude higher, the particles being much smaller and therefore much more numerous per unit volume [38, 39]. The nanometre-size Co–Cr particles induce a profound innate and adaptive immune response. Macrophage phagocytosis of metal wear particles is probably the major factor in causing the extensive necrosis in MoM periprosthetic tissues. Co–Cr particles are subject to corrosion and produce high levels of metal ions which are cytotoxic, causing apoptosis and necrosis of macrophages that release lysosomal enzymes into the tissues. Metal ions can also act as haptens, combining with cell and tissue proteins to induce a specific cell-mediated delayed hypersensitivity immune response. This is evidenced histologically in MoM implants by the presence of a predominantly T lymphocyte infiltrate which is often perivascular in nature [17, 36, 37]. T cells predominated in the lymphoid aggregates seen in failed MF cases, suggesting that the adaptive immune response to metal wear is similar.
+      The presence of profound necrotic and inflammatory changes in the MF periprosthetic tissues would indicate that Co–Cr wear particle-induced hypersensitivity and cytotoxicity are likely to have contributed, at least in part, to implant failure. A major limitation of our study is that, due to the many years that have elapsed, we do not have full clinical and radiological information on the cases we have analysed. Pseudotumours have been strongly associated with failure of modern MoM hip implants [15, 16, 19, 20] and, though not seen in our cases, there are two reports of probable pseudotumour-like lesions associated with MF implant failure [23, 40].
+    
+  
+
+    
+      Acknowledgements
+      We would like to thank Sarah Turton for typing the manuscript, and Professor G Bentley and Professor J. Kenwright for helpful discussions on the cases included in this study. The authors acknowledge the support of the Rosetrees Trust and NIHR Biomedical Research Unit.
+    
+    
+      
+        Conflict of interest
+        N.A.A. has provided expert medicolegal opinion in arthroplasty-related cases. The other authors declare that they have no competing interests.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Amstutz
+              HC
+            
+            
+              Grigoris
+              P
+            
+          
+          Metal on metal bearings in hip arthroplasty
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S11
+          34
+          10.1097/00003086-199608001-00003
+        
+      
+      
+        2.
+        
+          
+            
+              Cuckler
+              JM
+            
+          
+          The rationale for metal-on-metal total hip arthroplasty
+          Clin Orthop Relat Res
+          2005
+          441
+          132
+          6
+          10.1097/01.blo.0000193809.85587.f8
+          16330995
+        
+      
+      
+        3.
+        
+          
+            
+              Knight
+              SR
+            
+            
+              Aujla
+              R
+            
+            
+              Biswas
+              SP
+            
+          
+          Total hip arthroplasty - over 100 years of operative history
+          Orthop Rev (Pavia)
+          2011
+          3-2
+          e16
+          10.4081/or.2011.e16
+        
+      
+      
+        4.
+        
+          
+            
+              McKee
+              GK
+            
+            
+              Watson-Farrar
+              J
+            
+          
+          Replacement of arthritic hips by the McKee-Farrar prosthesis
+          J Bone Joint Surg Br
+          1966
+          48-2
+          245
+          59
+        
+      
+      
+        5.
+        
+          
+            
+              Schmalzried
+              TP
+            
+            
+              Szuszczewicz
+              ES
+            
+            
+              Akizuki
+              KH
+            
+            
+              Petersen
+              TD
+            
+            
+              Amstutz
+              HC
+            
+          
+          Factors correlating with long term survival of McKee-Farrar total hip prostheses
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S48
+          59
+          10.1097/00003086-199608001-00005
+        
+      
+      
+        6.
+        
+          
+            
+              Walker
+              PS
+            
+            
+              Salvati
+              E
+            
+            
+              Hotzler
+              RK
+            
+          
+          The wear on removed McKee-Farrar total hip prostheses
+          J Bone Joint Surg Am
+          1974
+          56-1
+          92
+          100
+          10.2106/00004623-197456010-00011
+        
+      
+      
+        7.
+        
+          
+            
+              Clarke
+              MT
+            
+            
+              Darrah
+              C
+            
+            
+              Stewart
+              T
+            
+            
+              Ingham
+              E
+            
+            
+              Fisher
+              J
+            
+            
+              Nolan
+              JF
+            
+          
+          Long-term clinical, radiological and histopathological follow-up of a well-fixed Mckee-Farrar metal-on-metal total hip arthroplasty
+          J Arthroplasty
+          2005
+          20-4
+          542
+          6
+          10.1016/j.arth.2004.09.063
+        
+      
+      
+        8.
+        
+          
+            
+              Jacobsson
+              SA
+            
+            
+              Djerf
+              K
+            
+            
+              Wahlstrom
+              O
+            
+          
+          A comparative study between McKee-Farrar and Charnley arthroplasty with long-term follow-up periods
+          J Arthroplasty
+          1990
+          5-1
+          9
+          14
+          10.1016/S0883-5403(06)80003-3
+        
+      
+      
+        9.
+        
+          
+            
+              Jacobsson
+              SA
+            
+            
+              Djerf
+              K
+            
+            
+              Wahlstrom
+              O
+            
+          
+          Twenty-year results of McKee-Farrar versus Charnley prosthesis
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S60
+          8
+          10.1097/00003086-199608001-00006
+        
+      
+      
+        10.
+        
+          
+            
+              Jantsch
+              S
+            
+            
+              Schwagerl
+              W
+            
+            
+              Zenz
+              P
+            
+            
+              Semlitsch
+              M
+            
+            
+              Fertschak
+              W
+            
+          
+          Long-term results after implantation of McKee-Farrar total hip prostheses
+          Arch Orthop Trauma Surg
+          1991
+          110-5
+          230
+          7
+          10.1007/BF00572878
+        
+      
+      
+        11.
+        
+          
+            
+              Amstutz
+              HC
+            
+            
+              Campbell
+              P
+            
+            
+              McKellop
+              H
+            
+            
+              Schmalzreid
+              TP
+            
+            
+              Gillespie
+              WJ
+            
+            
+              Howie
+              D
+            
+            
+              Jacobs
+              J
+            
+            
+              Medley
+              J
+            
+            
+              Merritt
+              K
+            
+          
+          Metal on metal total hip replacement workshop consensus document
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S297
+          303
+          10.1097/00003086-199608001-00027
+        
+      
+      
+        12.
+        
+          
+            
+              de Steiger
+              RN
+            
+            
+              Hang
+              JR
+            
+            
+              Miller
+              LN
+            
+            
+              Graves
+              SE
+            
+            
+              Davidson
+              DC
+            
+          
+          Five-year results of the ASR XL acetabular system and the ASR hip resurfacing system: an analysis from the Australian orthopaedic association national joint replacement registry
+          J Bone Joint Surg Am
+          2011
+          93-24
+          2287
+          93
+          10.2106/JBJS.J.01727
+        
+      
+      
+        13.
+        
+          
+            
+              Langton
+              DJ
+            
+            
+              Jameson
+              SS
+            
+            
+              Joyce
+              TJ
+            
+            
+              Gandhi
+              JN
+            
+            
+              Sidaginamale
+              R
+            
+            
+              Mereddy
+              P
+            
+            
+              Lord
+              J
+            
+            
+              Nargol
+              AV
+            
+          
+          Accelerating failure rate of the ASR total hip replacement
+          J Bone Joint Surg Br
+          2011
+          93-8
+          1011
+          6
+          10.1302/0301-620X.93B8.26040
+        
+      
+      
+        14.
+        
+          
+            
+              Langton
+              DJ
+            
+            
+              Jameson
+              SS
+            
+            
+              Joyce
+              TJ
+            
+            
+              Hallab
+              NJ
+            
+            
+              Natu
+              S
+            
+            
+              Nargol
+              AV
+            
+          
+          Early failure of metal-on-metal bearings in hip resurfacing and large-diameter total hip replacement: a consequence of excess wear
+          J Bone Joint Surg Br
+          2010
+          92-1
+          38
+          46
+          10.1302/0301-620X.92B1.22770
+        
+      
+      
+        15.
+        Bauer T. What does the histology tell us? In: Jones LC, Greenwold AS, Haggard WO, editors. Metal-on-metal bearing. A clinical practicum. New York, Springer; 2013. P. 153–62.
+      
+      
+        16.
+        
+          
+            
+              Grammatopoulos
+              G
+            
+            
+              Pandit
+              H
+            
+            
+              Kamali
+              A
+            
+            
+              Maggiani
+              F
+            
+            
+              Glyn-Jones
+              S
+            
+            
+              Gill
+              HS
+            
+            
+              Murray
+              DW
+            
+            
+              Athanasou
+              N
+            
+          
+          The correlation of wear with histological features after failed hip resurfacing arthroplasty
+          J Bone Joint Surg Am
+          2013
+          95-12
+          e81
+          10.2106/JBJS.L.00775
+        
+      
+      
+        17.
+        
+          
+            
+              Mahendra
+              G
+            
+            
+              Pandit
+              H
+            
+            
+              Kliskey
+              K
+            
+            
+              Murray
+              D
+            
+            
+              Gill
+              HS
+            
+            
+              Athanasou
+              N
+            
+          
+          Necrotic and inflammatory changes in metal-on-metal resurfacing hip arthroplasties
+          Acta Orthop
+          2009
+          80-6
+          653
+          9
+          10.3109/17453670903473016
+        
+      
+      
+        18.
+        
+          
+            
+              Natu
+              S
+            
+            
+              Sidaginamale
+              RP
+            
+            
+              Gandhi
+              J
+            
+            
+              Langton
+              DJ
+            
+            
+              Nargol
+              AV
+            
+          
+          Adverse reactions to metal debris: histopathological features of periprosthetic soft tissue reactions seen in association with failed metal on metal hip arthroplasties
+          J Clin Pathol
+          2012
+          65-5
+          409
+          18
+          10.1136/jclinpath-2011-200398
+        
+      
+      
+        19.
+        
+          
+            
+              Pandit
+              H
+            
+            
+              Glyn-Jones
+              S
+            
+            
+              McLardy-Smith
+              P
+            
+            
+              Gundle
+              R
+            
+            
+              Whitwell
+              D
+            
+            
+              Gibbons
+              CL
+            
+            
+              Ostlere
+              S
+            
+            
+              Athanasou
+              N
+            
+            
+              Gill
+              HS
+            
+            
+              Murray
+              DW
+            
+          
+          Pseudotumours associated with metal-on-metal hip resurfacings
+          J Bone Joint Surg Br
+          2008
+          90-7
+          847
+          51
+          10.1302/0301-620X.90B7.20213
+        
+      
+      
+        20.
+        
+          
+            
+              Campbell
+              P
+            
+            
+              Ebramzadeh
+              E
+            
+            
+              Nelson
+              S
+            
+            
+              Takamura
+              K
+            
+            
+              De Smet
+              K
+            
+            
+              Amstutz
+              HC
+            
+          
+          Histological features of pseudotumour-like tissues from metal-on-metal hips
+          Clin Orthop Relat Res
+          2010
+          468
+          2321
+          7
+          10.1007/s11999-010-1372-y
+          20458645
+        
+      
+      
+        21.
+        
+          
+            
+              Watters
+              TS
+            
+            
+              Cardona
+              DM
+            
+            
+              Menon
+              KS
+            
+            
+              Vinson
+              EN
+            
+            
+              Bolognesi
+              MP
+            
+            
+              Dodd
+              LG
+            
+          
+          Aseptic lymphocyte-dominated vasculitis-associated lesion: a clinicopathologic review of an underrecognized cause of prosthetic failure
+          Am J Clin Pathol
+          2010
+          134-6
+          886
+          93
+          10.1309/AJCPLTNEUAH8XI4W
+        
+      
+      
+        22.
+        
+          
+            
+              Brown
+              GC
+            
+            
+              Lockshin
+              MD
+            
+            
+              Salvati
+              EA
+            
+            
+              Bullough
+              PG
+            
+          
+          Sensitivity to metal as a possible cause of sterile loosening after cobalt-chromium total hip-replacement arthroplasty
+          J Bone Joint Surg Am
+          1977
+          59-2
+          164
+          8
+          10.2106/00004623-197759020-00004
+        
+      
+      
+        23.
+        
+          
+            
+              Doorn
+              PF
+            
+            
+              Mirra
+              JM
+            
+            
+              Campbell
+              PA
+            
+            
+              Amstutz
+              HC
+            
+          
+          Tissue reaction to metal on metal total hip prostheses
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S187
+          205
+          10.1097/00003086-199608001-00017
+        
+      
+      
+        24.
+        
+          
+            
+              Evans
+              EM
+            
+            
+              Freeman
+              MA
+            
+            
+              Miller
+              AJ
+            
+            
+              Vernon-Roberts
+              B
+            
+          
+          Metal sensitivity as a cause of bone necrosis and loosening of the prosthesis in total joint replacement
+          J Bone Joint Surg Br
+          1974
+          56-B-4
+          626
+          42
+        
+      
+      
+        25.
+        
+          
+            
+              Howie
+              DW
+            
+          
+          Tissue response in relation to type of wear particles around failed hip arthroplasties
+          J Arthroplasty
+          1990
+          5-4
+          337
+          48
+          10.1016/S0883-5403(08)80093-9
+        
+      
+      
+        26.
+        
+          
+            
+              Jones
+              DA
+            
+            
+              Lucas
+              HK
+            
+            
+              O’Driscoll
+              M
+            
+            
+              Price
+              CH
+            
+            
+              Wibberley
+              B
+            
+          
+          Cobalt toxicity after McKee hip arthroplasty
+          J Bone Joint Surg Br
+          1975
+          57-3
+          289
+          96
+        
+      
+      
+        27.
+        
+          
+            
+              Winter
+              G
+            
+          
+          Tissue recation to metallic wear and corrosion products in human patients
+          J Biomed Materials Res
+          1974
+          8
+          11
+          26
+          10.1002/jbm.820080304
+        
+      
+      
+        28.
+        
+          
+            
+              Phillips
+              EA
+            
+            
+              Klein
+              GR
+            
+            
+              Cates
+              HE
+            
+            
+              Kurtz
+              SM
+            
+            
+              Steinbeck
+              M
+            
+          
+          Histological characterization of periprosthetic tissue responses for metal-on-metal hip replacement
+          J Long Term Eff Med Implants
+          2014
+          24
+          13
+          23
+          10.1615/JLongTermEffMedImplants.2014010275
+          24941402
+        
+      
+      
+        29.
+        
+          
+            
+              Brown
+              SR
+            
+            
+              Davies
+              WA
+            
+            
+              DeHeer
+              DH
+            
+            
+              Swanson
+              AB
+            
+          
+          Long-term survival of McKee-Farrar total hip prostheses
+          Clin Orthop Relat Res
+          2002
+          402
+          157
+          63
+          10.1097/00003086-200209000-00013
+        
+      
+      
+        30.
+        Somerville EW, Bentley GJ. McKee-Farrar total hip replacement arthroplasty. a review of the first 100 cases at the nuffield orthopaedic centre. Orthopaedics Oxford 1970;3:73–7.
+      
+      
+        31.
+        
+          
+            
+              Bentley
+              G
+            
+            
+              Duthie
+              RB
+            
+          
+          A comparative review of the McKee-Farrar and Charnley total hip prostheses
+          Clin Orthop Relat Res
+          1973
+          95
+          127
+          42
+        
+      
+      
+        32.
+        
+          
+            
+              Willert
+              HG
+            
+            
+              Buchhorn
+              GH
+            
+            
+              Gobel
+              D
+            
+            
+              Koster
+              G
+            
+            
+              Schaffner
+              S
+            
+            
+              Schenk
+              R
+            
+            
+              Semlitsch
+              M
+            
+          
+          Wear behavior and histopathology of classic cemented metal on metal hip endoprostheses
+          Clin Orthop Relat Res
+          1996
+          329 Suppl
+          S160
+          86
+          10.1097/00003086-199608001-00016
+        
+      
+      
+        33.
+        
+          
+            
+              Higuchi
+              F
+            
+            
+              Inoue
+              A
+            
+            
+              Semlitsch
+              M
+            
+          
+          Metal-on-metal CoCrMo McKee-Farrar total hip arthroplasty: characteristics from a long-term follow-up study
+          Arch Orthop Trauma Surg
+          1997
+          116-3
+          121
+          4
+          10.1007/BF00426058
+        
+      
+      
+        34.
+        
+          
+            
+              Schmalzried
+              TP
+            
+            
+              Peters
+              PC
+            
+            
+              Maurer
+              BT
+            
+            
+              Bragdon
+              CR
+            
+            
+              Harris
+              WH
+            
+          
+          Long-duration metal-on-metal total hip arthroplasties with low wear of the articulating surfaces
+          J Arthroplasty
+          1996
+          11-3
+          322
+          31
+          10.1016/S0883-5403(96)80085-4
+        
+      
+      
+        35.
+        
+          
+            
+              Zahiri
+              CA
+            
+            
+              Schmalzried
+              TP
+            
+            
+              Ebramzadeh
+              E
+            
+            
+              Szuszczewicz
+              ES
+            
+            
+              Salib
+              D
+            
+            
+              Kim
+              C
+            
+            
+              Amstutz
+              HC
+            
+          
+          Lessons learned from loosening of the McKee-Farrar metal-on-metal total hip replacement
+          J Arthroplasty
+          1999
+          14-3
+          326
+          32
+          10.1016/S0883-5403(99)90059-1
+        
+      
+      
+        36.
+        
+          
+            
+              Davies
+              AP
+            
+            
+              Willert
+              HG
+            
+            
+              Campbell
+              PA
+            
+            
+              Learmonth
+              ID
+            
+            
+              Case
+              CP
+            
+          
+          An unusual lymphocytic perivascular infiltration in tissues around contemporary metal-on-metal joint replacements
+          J Bone Joint Surg Am
+          2005
+          87-1
+          18
+          27
+        
+      
+      
+        37.
+        
+          
+            
+              Willert
+              HG
+            
+            
+              Buchhorn
+              GH
+            
+            
+              Fayyazi
+              A
+            
+            
+              Flury
+              R
+            
+            
+              Windler
+              M
+            
+            
+              Koster
+              G
+            
+            
+              Lohmann
+              CH
+            
+          
+          Metal-on-metal bearings and hypersensitivity in patients with artificial hip joints. A clinical and histomorphological study
+          J Bone Joint Surg Am
+          2005
+          87-1
+          28
+          36
+        
+      
+      
+        38.
+        
+          
+            
+              Hallab
+              NJ
+            
+            
+              Jacobs
+              JJ
+            
+          
+          Biological effects of implant debris
+          Bull NYU Hospit Jt Dis
+          2009
+          67
+          182
+          8
+        
+      
+      
+        39.
+        
+          
+            
+              Athanasou
+              NA
+            
+          
+          The pathobiology and pathology of aseptic implant failure
+          Bone Joint Res
+          2016
+          162
+          162
+          8
+          10.1302/2046-3758.55.BJR-2016-0086
+        
+      
+      
+        40.
+        
+          
+            
+              Madan
+              S
+            
+            
+              Jowett
+              RL
+            
+            
+              Goodwin
+              MI
+            
+          
+          Recurrent intrapelvic cyst complicating metal-on-metal cemented total hip arthroplasty
+          Arch Orthop Trauma Surg
+          2000
+          120-9
+          508
+          10
+          10.1007/s004020000171
+        
+      
+    
+  

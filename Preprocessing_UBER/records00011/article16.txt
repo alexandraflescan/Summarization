@@ -1,0 +1,705 @@
+oai:pubmedcentral.nih.gov:53626612017-04-04springeropenpmc-open
+Background coloration of squamous epithelium in esophago-pharyngeal squamous cell carcinoma: what causes the color change?
+
+    
+      Introduction
+      Endoscopic resection (ER) can offer patients a curative and low-invasive treatment for superficial squamous cell carcinomas (SESCCs) [1]. Predicting invasion depth of SESCCs is crucial for determining the precise indication for endoscopic resection (ER) because the lymph node metastasis rate increases in proportion to the invasion depth of the SESCC [1–3]. According to the Japanese guidelines for diagnosis and treatment of esophageal cancer, T1a-EP or T1a-LPM SCC is considered an absolute indication for ER; T1a-MM or T1b-SM1, a relative indication; and T1b-SM2, an investigative stage (functionally speaking, a contraindication) [4, 5]. Subclassification of invasion depth of SESCC, the rate of lymph node metastasis, and the precise indication of ER are listed in Table 1 based on previous studies [1–5].Table 1Relationships among subclassification of invasion depth of SESCC, the rate of lymph node metastasis, and the precise indication of ERTumor depth of superficial esophageal squamous cell carcinomaLymph node metastasis rate (%)Indication of endoscopic resectionT1a, Tumor invades mucosa (M)EPCarcinoma in situ (Tis)0–3.3AbsoluteLPMTumor invades lamina propria mucosa (LPM)MMTumor invades lamina muscularis mucosa (MM)0–12.2RelativeT1b, Tumor invades submucosa (SM)SM1Tumor invades the submucosa to a depth of 200 µm or less from the muscularis mucosa8–26.5SM2Tumor invades the submucosa to a depth more than 200 µm22–61 %Investigative stagea
+
+aA contraindication
+
+      Endoscopic prediction of the depth of invasion is essential in making decisions regarding the indication for ER in SESCCs. Although predicting the invasion depth of SESCC is possible by conventional endoscopy, magnifying endoscopy provides a more accurate prediction of the tumor depth, in particular for superficial and flat-type SESCCs [6]. Inoue et al. [7–9] and Arima et al. [10–12] proposed magnifying endoscopic classifications based upon microvascular morphology and reported their diagnostic utility in predicting the histological invasion depth of SESCC as well as in deciding precise indications for ER. However, there are concerns that the multiplicity of classifications involving complicated criteria might confuse general endoscopists.
+      Hence, the committee of the Japan Esophageal Society (JES) developed a simplified classification for the magnifying endoscopic diagnosis (characterization and predicting invasion depth) of SESCC [13, 14] based on the Inoue and Arima classifications [7–12]. Subsequently, we, the committee members, conducted a prospective multicenter study to evaluate the JES classification for predicting the invasion depth of SESCC.
+    
+    
+      Methods
+      
+        The JES classification
+        Mainly focused on the abnormal microvessels, this magnifying endoscopic classification offers simplified criteria not only for characterization but also for prediction of the invasion depth of SESCC [14]. This is essential for developing a treatment strategy for SESCC, in particular the indication for ER. Therefore, in this classification, morphological types of microvessels are classified into two categories of non-cancerous [normal epithelium, inflammation, and low grade intraepithelial neoplasia (LGIN)] and cancerous [high grade intraepithelial neoplasia (HGIN) and invasive SCC] lesions. The cancerous types of microvessels corresponding to histology of HGIN or invasive SCC are subclassified into three groups based upon an indication for ER as follows: an absolute indication type (HGIN, T1a-EP or T1a-LPM), a relative indication type (T1a-MM or T1b-SM1), and a contraindication type (T1b-SM2).
+        Diagnostic criteria of the JES classification are based on the degree of microvascular irregularity in the target lesion observed by magnifying endoscopy. Intrapapillary capillary loops (IPCL) are a basic unit of microvasculature in the squamous mucosal surface. The microvascular irregularity is evaluated for the presence or absence of each of the following morphological factors: weaving (i.e., tortuosity), dilatation, irregular caliber, and different shape (i.e., various shapes) [7, 8].
+        Microvessels are classified as type A if they have three or fewer factors and type B if they have all four. Type B is then subclassified into B1, B2, and B3 based on the running pattern or degree of dilatation of severely irregular microvessels. The JES classification criteria are summarized in Table 2 and mentioned in detail as follows:Table 2Summary and schema of the criteria of the JES magnifying endoscopic classificationType of vesselsSchemaDefinitionsInvasion depthHistologyA
+
+Normal IPCL or abnormal microvessels without severe irregularitya
+No invasionNormal epithelium, inflammation, and LGINB1
+
+Abnormal microvessels with severe irregularity or highly dilated abnormal vesselsType B vessels with a loop-like formationb
+T1a-EP or T1a-LPMHGIN and invasive SCCB2
+
+Type B vessels without a loop-like formationT1a-MM or T1b-SM1B3
+
+Highly dilated vessels which calibers appear to be more than three times that of usual B2 vesselsc
+T1b-SM2 or deeper
+EP epithelium, LPM lamina propria mucosae, MM muscularis mucosae, SM submucosa, LGIN low grade intraepithelial neoplasia, HGIN high grade intraepithelial neoplasia, SCC squamous cell carcinoma
+aThe caliber of type A vessels is about 7–10 μm [15]
+bThe caliber of B1 vessels is around 20 μm [15]
+cThe caliber of B3 vessels is often larger than 60 μm [15]
+
+        Type A: Normal IPCL (Fig. 1a) or abnormal microvessels without severe irregularity (Fig. 1b).Fig. 1
+a Type A vessels of normal intrapapillary capillary loops. b Type A vessels of abnormal microvessels without severe irregularity
+
+        Type B: Abnormal microvessels with severe irregularity or highly dilated abnormal vessels.
+        B1 is defined as type B vessels with a loop-like formation (Fig. 2a, b). The B1 vessels normally appear as dot-like microvessels in a target area (e.g., a brownish area) under NBI endoscopic observation with low or no magnification.Fig. 2
+a, b Type B1 vessels with a loop-like formation
+
+        B2 is defined as type B vessels without a loop-like formation that have a stretched and markedly elongated transformation. The B2 vessels often show a multilayered arrangement or an irregularly branched/running pattern (Fig. 3a, b).Fig. 3
+a, b Type B2 vessels without a loop-like formation (white arrows and inside a white circle)
+
+        B3 is defined as highly dilated abnormal vessels whose caliber appears to be more than three times that of the usual B2 vessels and the B3 vessels often appear green in color (Fig. 4a, b) [15].Fig. 4
+a, b Type B3 of highly dilated abnormal vessels (white arrows) whose caliber will be more than three times that of the B2 vessels around the B3 vessels
+
+        When target lesions have only type B1 vessels, the histological invasion depth is predicted as T1a-EP or T1a-LPM. When B2 and B3 vessels are seen in target lesions, the histological invasion depth is predicted as T1a-MM or T1b-SM1 and T1b-SM2 or deeper, respectively.
+      
+      
+        Auxiliary criteria of the JES classification
+        
+          Avascular area (AVA)
+          AVA was originally defined as a low or no vascularity area surrounded by stretched irregular vessels such as B2 or B3 vessels [11, 12]. The definition of AVA does not include the stretched irregular vessels in this classification. Thus, AVA is surrounded by all subtypes of type B microvessels including B1 vessels. [14]. Since a diameter of AVA is positively correlated with the histological invasion depth of SESCC, the AVA was categorized into three types as follows: AVA-small (smaller than 0.5 mm in diameter: Fig. 5), AVA-middle (0.5 mm or between 0.5 and 3 mm; Fig. 6), and AVA-large (3 mm or larger; Fig. 7) [11, 12]. Any types of AVA (small, middle, and large) surrounded by B1 vessels are suggestive of T1a-EP or T1a-LPM SCC. AVA-middle and AVA-large surrounded by B2 or B3 vessels are suggestive of T1a-MM or T1b-SM1 and T1b-SM2 invasive SCC, respectively [14].Fig. 5
+a Small-sized avascular area (AVA-small). b Middle-sized avascular area (AVA-middle). c Large-sized avascular area (AVA-large). Typical AVAs are shown by white dotted lines
+
+Fig. 6Reticular pattern vessels (Type R)
+
+        
+        
+          Reticular pattern (Type R)
+          Reticular pattern vessels are defined as plexiform microvessels (Fig. 6) [11, 12]. This vascular pattern is often found in invasive SCC or non-SCC types of malignant epithelial neoplasms (e.g., basaloid (-squamous) carcinoma, adenosquamous carcinoma, and endocrine cell carcinoma) with an infiltrative growth pattern (i.e., INFc) composed of single cells, small tumor nests, or a trabecular arrangement of tumor cells.
+        
+        
+          Intervascular background coloration
+          Brownish epithelium between microvessels in a brownish area visualized by NBI-ME was defined as intervascular background coloration [16, 17].
+        
+      
+      
+        A prospective multicenter study on the predictive value of type B vessels for invasion depth of SESCC
+        From January to August 2011, we prospectively enrolled 211 consecutive patients with SESCC lesions scheduled for ER in five high-volume centers (Table 3). Prior to enrollment, we used pretreatment imaging (CT and/or MRI) to confirm no findings of lymph node metastasis or distant metastasis of SESCC among any of the 211 patients. The depth of tumor invasion of the all lesions was estimated prior to treatment using a magnifying endoscope (GIF-H260Z or GIF-Q240Z; Olympus Corporation, Tokyo, Japan) combined with NBI. The estimation of tumor invasion depth by magnifying endoscopy was made based upon type B vessels in the JES classification and recorded in case report form. The aim of this study was to evaluate the diagnostic values of type B vessels in the pretreatment estimation of invasion depth of SESCC.Table 3Participating high-volume centersParticipated institutionsNumber of patientsSaku Central Hospital Advanced Care Center31Saitama Cancer Center40Osaka Medical Center for Cancer and Cardiovascular Diseases71Niigata University Medical and Dental Hospital41Sendai City Medical Center28
+
+        Informed consent was obtained from all participants. The informed consent includes information about the possible risks, benefits, and limits of the endoscopic procedure and treatment. We provided all patients with information about the possibility that additional treatments such as surgery or chemoradiotherapy will be required particularly if ER specimens would show SESCC invading the muscularis mucosa or deeper which is associated with increased risks of lymph node metastasis and distant metastasis. Especially for the patients with pretreatment NBI-ME diagnosis of B3 vessels, we provided the patients with sufficient explanation as follows: (1) B3 vessels will be a suggestive finding of tumor invasion of T1b-SM2 or deeper, (2) T1b-SM2 tumor are basically contraindication for ER because of considerably high risk of lymph node metastasis and distant metastasis, (3) additional therapy such as esophagectomy and chemoradiotherapy will be required if histology from ER would show tumor depth of T1b-SM2 or deeper.
+        We performed ER on all enrolled patients. The lesions were removed by endoscopic mucosal resection or endoscopic submucosal dissection. Using the resected specimens, the histological tumor invasion depth was established by pathologists in each center with expertise in gastrointestinal cancer, according to the Japanese classification of esophageal cancer [4]. None of the pathologists were aware of any endoscopic findings. We evaluated the diagnostic utility of the JES classification in predicting histological depth of invasion by comparing the pretreatment NBI-ME diagnosis with the histology from resected specimens.
+      
+    
+    
+      Results
+      All of the SESCC tumors enrolled in this study had type B vessels. The numbers of SESCC tumors subclassified as T1a-EP or T1a-LPM, T1a-MM or T1b-SM1, and T1b-SM2 were 163, 28, and 20, respectively.
+      The relationships between histology and pretreatment NBI-ME diagnosis of tumor invasion depth are listed in Table 4. One hundred fifty-nine (97.5 %) of the 163 T1a-EP or T1a-LPM tumors were accurately diagnosed by pretreatment NBI-ME, and four (2.5 %) were overestimated as T1a-MM or T1b-SM1. Twenty-one of 28 (75 %) T1a-MM or T1b-SM1 tumors were accurately diagnosed, and seven (25 %) were underestimated as T1a-EP or T1a-LPM. None of the T1a-EP or T1a-LPM/T1a-MM or T1b-SM1 tumors were overestimated as T1b-SM2. Eleven of 20 (55 %) T1b-SM2 tumors were accurately diagnosed. Six (30 %) and three (15 %) were underestimated as T1a-EP or T1a-LPM and T1a-MM or T1b-SM1, respectively. The overall accuracy of NBI-ME based upon the JES classification was 90.5 % (95 % confidence interval, 85.7–94.1 %).Table 4Relationships between histology and pretreatment ME-NBI diagnosis of depth of invasion of superficial squamous cell carcinomasNBI-ME diagnosisHistological invasion depth, n
+T1a-EP or T1a-LPMT1a-MM or T1b-SM1T1b-SM2B1 (T1a-EP or T1a-LPM)15976B2 (T1a-MM or T1b-SM1)4213B3 (T1b-SM2)0011
+NBI-ME Narrow Band Imaging magnifying endoscopy, EP epithelium, LPM lamina propria mucosae, MM muscularis mucosae, SM submucosa, n Number of lesions
+
+      Table 5 shows the diagnostic values of B1, B2, and B3 vessels for estimating the depth of invasion of T1a-EP or T1a-LPM, T1a-MM or T1b-SM1, and T1b-SM2 tumors, respectively. The sensitivity/specificity/positive predictive value (PPV) and negative predictive value (NPV) of B1, B2, and B3 vessels were 97.5 %/72.9 %/92.4 % and 89.7 %; 75.0 %/96.2 %/75.0 % and 96.2 %; and 55 %/100 %/100 % and 95.5 %, respectively.Table 5Diagnostic values of type B vessels for estimating invasion depth of superficial squamous cell carcinomasNBI-ME diagnosisSensitivity (95 % CI)Specificity (95 % CI)PPV (95 % CI)NPV (95 % CI)Accuracy (95 % CI)B1 (T1a-EP or T1a-LPM)97.5 (93.8–99.3)72.9 (58.2–84.7)92.4 (87.4–95.9)89.7 (75.8–97.1)91.9 (87.4–95.2)B2 (T1a-MM or T1b-SM1)75.0 (55.1–89.3)96.2 (92.3–98.4)75.0 (55.1–89.3)96.2 (92.3–98.4)93.4 (89.1–96.3)B3 (T1b-SM2)55.0 (31.5–76.9)100 (98.1–100)100 (71.5–100)95.5 (91.6–97.9)95.9 (92.1–98.0)
+NBI-ME Narrow Band Imaging magnifying endoscopy, EP epithelium, LPM lamina propria mucosae, MM muscularis mucosae, SM submucosa, CI confidence interval, PPV positive predictive value, NPV negative predictive value
+
+    
+    
+      Discussion
+      Endoscopic estimation of invasion depth is a key factor in deciding the treatment policy of SESCCs. We, the JES committee members, have developed a simplified magnifying endoscopic diagnosis classification (i.e., the JES classification). We conducted a prospective multicenter study focused on evaluating the diagnostic values of type B vessels in the classification for predicting the depth of invasion of SESCC.
+      The overall accuracy rate of the type B1, B2, and B3 microvessels was 90.5 %, which is of sufficiently high accuracy for clinical use. No T1a-EP or T1a-LPM or T1a-MM or T1b-SM1 tumor was overestimated as T1b-SM2. Although 45 % (9/20) of SM2 tumors did not have B3 vessels, B3 vessels may be highly suggestive of T1b-SM2 tumors because the PPV of B3 vessels was 100 %.
+      The sensitivity and PPV of B1 vessels for T1a-EP or T1a-LPM tumors were 97.5 and 92.4 %, respectively. Thus, B1 vessels will provide optimal decision-making regarding the indication for ER. In contrast, the sensitivity and PPV of B2 vessels for T1a-MM or T1b-SM1 tumors were both a suboptimal 75.0 %, while the diagnostic accuracy of white light endoscopy showed a lower value at 66–74 % [18]. Previous studies have indicated that T1a-MM or T1b-SM1 tumors without lymphovascular invasion had a significantly lower risk of lymph node metastasis and a good prognosis [19–21]. Therefore, T1a-MM or T1b-SM1 tumors are potential candidates for curative treatment by ER. Esophagectomy involves severe problems related to its high mortality rate and a decrease in quality of life after surgery [22]. Further study on the definition of B2 vessels is warranted to reduce the risk of unnecessary surgery for patients with T1a-MM or T1b-SM1 tumors.
+      In the JES classification, we partially modified definitions of AVA, which will be useful to predict invasion depth of SESCC as previous studies showed [11, 12]. Although AVA was not assessed in this study, we intend to investigate the predictive values of AVA and whether evaluation of AVA has a positive effect on the predictive value based upon type B vessels (especially for B2 vessels) in an upcoming study.
+      Arima et al. reported that reticular pattern (Type R) vessels were characteristic vascular structure reflecting a histologic infiltrative growth (i.e., INFc) of invasive SCC tumors or non-SCC types of malignant epithelial neoplasms. This study did not included non-SCC types of malignant epithelial neoplasms and the type R vessels were not seen in invasive SCC tumors included in this study. A validation study on type R vessels in predicting the histologic features of SCC and non-SCC tumors is warranted.
+      Intervascular background coloration will be useful for predicting histology of HGIN and invasive SCC [16, 17]. A recent study indicated that intervascular background coloration might be caused by an extravascular component of hemoglobin that is produced within tumor cells [23]. The other study showed that intervascular background coloration might be related to the thinning of the keratinous layer or the epithelium caused by neoplastic cell proliferation [17]. In this study, we did not evaluated diagnostic value of intervascular background coloration to predict HGIN and invasive SCC. The diagnostic validity and reliability of intervascular background coloration should be assessed in further multicenter studies.
+      This study had several limitations. First, the number of T1a-MM or T1b-SM1 and T1b-SM2 tumors was relatively small and no tumor resected by surgery was included. Further study including greater or adequate numbers of these tumors should be conducted to validate the results of the current study. Second, a central review on both the magnifying endoscopic findings and the histology was not conducted in this study. The endoscopic diagnosis and histology were left to each endoscopist and each pathologist in their respective hospitals. Thus, this study may lack diagnostic standardization in magnifying endoscopy and histology. Third, the endoscopists involved in this study are all experts. Additional study involving non-experts is needed to determine whether the results of this study on diagnostic values are applicable in general. Fourth, the reliability or reproducibility of the JES classification was not assessed in this study. It would be desirable to investigate inter- or intra-observer agreements in future studies.
+    
+    
+      Conclusions
+      The newly developed JES classification is proposed to be useful in estimating invasion depth of SESCCs. Modification of the definition of B2 vessels will be necessary, and further studies are required to validate these study results as well as to improve the diagnostic utility of the JES classification.
+    
+  
+
+    
+      The authors would like to thank Drs. Misao Yoshida and Hiroyasu Makuuchi for their guidance and Dr. Akiko Takahashi for her contribution as a secretary.
+    
+    
+      Compliance with ethical standards
+      
+        Ethical Statement
+        All procedures followed were in accordance with the ethical standards of the responsible committee on human experimentation (institutional and national) and with the Helsinki Declaration of 1964 and later versions. Informed consent or substitute for it was obtained from all patients for being included in the study.
+      
+      
+        Conflict of interest
+        Oyama T, Momma K, Inoue H, Arima M, Goda K, Omori T, Ishihara R, Hirasawa D, Takeuchi M, and Tomori A declare that they have no conflicts of interest.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Kodama
+              M
+            
+            
+              Kakegawa
+              T
+            
+          
+          Treatment of superficial cancer of the esophagus: a summary of the responses to a questionnaire on superficial cancer of the esophagus in Japan
+          Surgery.
+          1998
+          123
+          432
+          439
+          10.1016/S0039-6060(98)70165-5
+          
+          9551070
+        
+      
+      
+        2.
+        
+          
+            
+              Endo
+              M
+            
+            
+              Yoshino
+              K
+            
+            
+              Kawano
+              T
+            
+            
+          
+          Clinicopathologic analysis of lymph node metastasis in surgically resected superficial cancer of the thoracic esophagus
+          Dis Esophagus
+          2000
+          13
+          125
+          129
+          10.1046/j.1442-2050.2000.00100.x
+          
+          14601903
+        
+      
+      
+        3.
+        
+          
+            
+              Araki
+              K
+            
+            
+              Ohno
+              S
+            
+            
+              Egashira
+              A
+            
+            
+          
+          Pathologic features of superficial esophageal squamous cell carcinoma with lymph node and distal metastasis
+          Cancer
+          2002
+          94
+          570
+          575
+          10.1002/cncr.10190
+          
+          11900242
+        
+      
+      
+        4.
+        Japan Esophageal Society. Japanese classification of esophageal cancer. 10th English edn. Tokyo: Kanehara &amp; Co Ltd; 2008.
+      
+      
+        5.
+        
+          
+            
+              Kuwano
+              H
+            
+            
+              Nishimura
+              Y
+            
+            
+              Otsu
+              A
+            
+            
+          
+          Guidelines for diagnosis and treatment of carcinoma of esophagus April 2007 edition: Part I edited by the Japan Esophageal Society
+          Esophagus.
+          2008
+          5
+          61
+          73
+          10.1007/s10388-008-0151-2
+        
+      
+      
+        6.
+        
+          
+            
+              Goda
+              K
+            
+            
+              Tajiri
+              H
+            
+            
+              Ikegami
+              M
+            
+            
+          
+          Magnifying endoscopy with narrow band imaging for predicting the invasion. Depth of superficial esophageal squamous cell carcinoma
+          Dis Esophagus
+          2009
+          22
+          453
+          460
+          10.1111/j.1442-2050.2009.00942.x
+          
+          19222533
+        
+      
+      
+        7.
+        
+          
+            
+              Inoue
+              H
+            
+            
+              Honda
+              T
+            
+            
+              Yoshida
+              T
+            
+            
+          
+          Ultra-high magnification endoscopy of the normal esophageal mucosa
+          Dig Endosc.
+          1996
+          8
+          134
+          138
+          10.1111/j.1443-1661.1996.tb00429.x
+        
+      
+      
+        8.
+        
+          
+            
+              Inoue
+              H
+            
+            
+              Honda
+              T
+            
+            
+              Nagai
+              K
+            
+            
+          
+          Ultra-high magnification endoscopic observation of carcinoma in situ of the esophagus
+          Dig Endosc.
+          1997
+          9
+          16
+          18
+          10.1111/j.1443-1661.1997.tb00453.x
+        
+      
+      
+        9.
+        
+          
+            
+              Inoue
+              H
+            
+          
+          Magnification endoscopy in the esophagus and stomach
+          Dig Endosc.
+          2001
+          13
+          40
+          41
+          10.1046/j.1443-1661.2001.0130s1S40.x
+        
+      
+      
+        10.
+        
+          
+            
+              Arima
+              H
+            
+          
+          Magnified observation of esophageal mucosa
+          Gastroenterol Endosc.
+          1998
+          40
+          1125
+          1137
+        
+      
+      
+        11.
+        
+          
+            
+              Arima
+              M
+            
+            
+              Tada
+              M
+            
+            
+              Arima
+              H
+            
+          
+          Evaluation of microvascular patterns of superficial esophageal cancers by magnifying endoscopy
+          Esophagus.
+          2005
+          2
+          191
+          197
+          10.1007/s10388-005-0060-6
+        
+      
+      
+        12.
+        
+          
+            
+              Arima
+              M
+            
+            
+              Arima
+              H
+            
+            
+              Tada
+              M
+            
+          
+          Diagnosis of the invasion depth of early esophageal carcinoma using magnifying endoscopy with FICE
+          Stomach Intest.
+          2010
+          45
+          1515
+          1525
+        
+      
+      
+        13.
+        
+          
+            
+              Oyama
+              T
+            
+            
+              Momma
+              K
+            
+          
+          A new classification of magnified endoscopy for superficial esophageal squamous cell carcinoma
+          Esophagus.
+          2011
+          8
+          247
+          251
+          10.1007/s10388-011-0301-9
+        
+      
+      
+        14.
+        
+          
+            
+              Oyama
+              T
+            
+            
+              Momma
+              K
+            
+            
+              Makuuchi
+              H
+            
+          
+          Japan esophageal society classification of superficial esophageal squamous cell carcinoma
+          Endosc Dig.
+          2012
+          24
+          466
+          468
+          10.1111/j.1443-1661.2012.01312.x
+        
+      
+      
+        15.
+        
+          
+            
+              Santi
+              EGR
+            
+            
+              Inoue
+              H
+            
+            
+              Ikeda
+              H
+            
+            
+          
+          Microvascular caliber changes in intramucosal and submucosally invasive esophageal cancer
+          Endoscopy.
+          2013
+          45
+          585
+          588
+          10.1055/s-0033-1344228
+          
+          23801316
+        
+      
+      
+        16.
+        
+          
+            
+              Minami
+              H
+            
+            
+              Inoue
+              H
+            
+            
+              Ikeda
+              H
+            
+            
+          
+          Usefulness of background coloration in detection of esophago-pharyngeal lesions using NBI magnification
+          Gastroenterol Res Pract.
+          2012
+          2012
+          529782
+          10.1155/2012/529782
+          
+          22927837
+        
+      
+      
+        17.
+        
+          
+            
+              Kanzaki
+              H
+            
+            
+              Ishihara
+              R
+            
+            
+              Ishiguro
+              S
+            
+            
+          
+          Histological features responsible for brownish epithelium in squamous neoplasia of the esophagus by narrow band imaging
+          J Gastroenterol Hepatol
+          2013
+          28
+          274
+          278
+          10.1111/jgh.12059
+          
+          23190157
+        
+      
+      
+        18.
+        
+          
+            
+              Chino
+              O
+            
+            
+              Makuuchi
+              H
+            
+            
+              Shimada
+              H
+            
+            
+          
+          Diagnosis of the invasion depth of superficial esophageal carcinoma
+          Gastroenterol Endosc.
+          2015
+          57
+          1243
+          1253
+        
+      
+      
+        19.
+        
+          
+            
+              Oyama
+              T
+            
+            
+              Miyata
+              Y
+            
+            
+              Shimatani
+              S
+            
+            
+          
+          Lymph nodal metastasis of m3, sm1 esophageal cancer
+          Stomach Intest.
+          2002
+          37
+          71
+          74
+        
+      
+      
+        20.
+        
+          
+            
+              Katada
+              C
+            
+            
+              Muto
+              M
+            
+            
+              Momma
+              K
+            
+            
+          
+          Clinical outcome after endoscopic mucosal resection for esophageal squamous cell carcinoma invading the muscularis mucosae—a multicenter retrospective cohort study
+          Endoscopy.
+          2007
+          39
+          779
+          783
+          10.1055/s-2007-966761
+          
+          17703385
+        
+      
+      
+        21.
+        
+          
+            
+              Yamashina
+              T
+            
+            
+              Ishihara
+              R
+            
+            
+              Nagai
+              K
+            
+            
+          
+          Long-term outcome and metastatic risk after endoscopic resection of superficial esophageal squamous cell carcinoma
+          Am J Gastroenterol
+          2013
+          108
+          544
+          551
+          10.1038/ajg.2013.8
+          
+          23399555
+        
+      
+      
+        22.
+        
+          
+            
+              Tachibana
+              M
+            
+            
+              Kinugasa
+              S
+            
+            
+              Shibakita
+              M
+            
+            
+          
+          Surgical treatment of superficial esophageal cancer
+          Langenbecks Arch Surg.
+          2006
+          391
+          304
+          321
+          10.1007/s00423-006-0063-3
+          
+          16830151
+        
+      
+      
+        23.
+        
+          
+            
+              Minami
+              H
+            
+            
+              Isomoto
+              H
+            
+            
+              Nakayama
+              T
+            
+            
+          
+          Background coloration of squamous epithelium in esophago-pharyngeal squamous cell carcinoma: what causes the color change?
+          PLoS One
+          2014
+          9
+          e85553
+          10.1371/journal.pone.0085553
+          
+          24489662
+        
+      
+    
+  

@@ -1,0 +1,6258 @@
+oai:pubmedcentral.nih.gov:53626672017-04-04springeropenpmc-open
+Ly6C hi monocytes in the inflamed colon give rise to proinflammatory effector cells and migratory antigen-presenting cells
+
+    
+      Introduction
+      The mammalian intestine is a complex environment for the immune system. On one hand, it must maintain tolerance to a vast array of antigens derived from food and the dense, but largely harmless, commensal microbiota. On the other, it must be ever ready to respond to potentially life-threatening pathogens that aim to colonise via the oral route. Failure to achieve this knife-edge balance between tolerance and responsiveness can lead to mortality or life-limiting morbidity, as occurs in inflammatory bowel disease (IBD).
+      For ongoing homeostasis to be achieved in the gut, interrelated highly specialised structural and cellular strategies have, thus, evolved to support this immunologic balancing act. All the time allowing the tissue to perform its primary physiologic function—absorption of nutrients, water and electrolytes. These structures include a mucus layer that creates a physical barrier to keep bacteria away from the epithelium, a single-cell thick epithelial layer and a specialised immune network enriched in the epithelial layer and lamina propria.
+      Resulting from their phagocytic capacity, functional plasticity and capability to integrate and interpret diverse food-derived, commensal-derived, pathogen-derived and host-derived signals in their environment, gut-resident macrophages are well established as a keystone immune population in barrier homeostasis in health. Moreover, following initiation of an inflammatory response, inflammation-elicited (inflammatory) macrophages (derived from circulating blood monocytes called into the affected tissue) in tandem with their resident partners play crucial roles in control of infection. Thus, in the face of the myriad challenges that the intestine will face over a lifetime, the dynamic regulation of the intestinal macrophage pool is at the centre of long-term health.
+      Macrophage biology is a field that has seen explosive growth in recent years, particularly in the gut. A large number of studies, including our work, have begun to establish how the ontogeny and differentiation of these cells is tailored by, and to, the gut environment. In this article, we will discuss these findings and particularly explore the unique mechanisms governing resident and recruited inflammatory gut macrophage function.
+      
+        Location and functions of resident macrophages in the healthy gut
+        The largest population of resident macrophages in the body is present in the steady-state intestine [42, 56]. They are found along the entire length of the intestine, from the proximal small intestine to the distal large intestine, and are enriched in the lamina propria (LP) close to the epithelial layer (see Fig. 1) [42]. There is also a morphologically distinct population present in the smooth muscle layers [21]. Along the length of the gut, the number of macrophages varies, with the highest density found in the colon of both humans and rodents [16, 70].Fig. 1Development and functions of resident intestinal macrophages. In the healthy gut, Ly6Chi monocytes are constantly recruited from the blood into the gut to replenish the resident macrophage pool. Ly6Chi monocytes transit through a series of phenotypically defined stages to eventually become mature CX3CR1hiMHCIIhiLy6Clow macrophages in the lamina propria and muscularis. These macrophages are hyporesponsive to bacterial ligands, constitutively produce IL-10 and have multiple crucial functions in gut homeostasis including Treg expansion, epithelial maintenance, luminal sampling and bacterial killing
+
+        As in most tissues, a key role of macrophages in the gut is to perform housekeeping functions such as tissue remodelling and removal of senescent or dying cells [14, 70, 78]. In line with this function, they have high expression of scavenger receptors, including CD36, that are able to support apoptotic cell uptake [95]. They are also able to produce soluble factors that can help to support epithelial barrier integrity such as the lipid mediator prostaglandin E2 (PGE2) [25]. Additionally, macrophages located in the muscularis and serosa are important in interacting with nerves to support peristalsis, ensuring ongoing movement of ingested material along the intestine [69].
+        However, alongside these homeostatic functions, macrophages in the gut are also important immune sentinels and effector populations. The positioning of LP macrophages in close apposition to the epithelial layer means that they are able to rapidly uptake and respond to any material breaching this barrier [42]. These resident macrophages are highly phagocytic and have bactericidal properties [96]. They can also produce chemokines to recruit effector cells from the blood into the tissue when required [95]. Intriguingly, unlike other studied macrophage populations in the body, although gut macrophages can respond to bacteria, they do not induce classic pro-inflammatory responses [4, 96]. This is a critical feature to prevent aberrant inflammation towards the high commensal bacterial load [118]. For example, ingestion of bacteria does not lead to enhanced respiratory burst activity [80], and ligation of toll-like receptors (TLRs) or nucleotide-binding oligomerisation domain (NOD)-like receptors (NLRs) does not result in increased TNF-α or IL-6 production [34, 96]. Despite this hyporesponsive phenotype towards bacteria, intestinal macrophages are not completely unresponsive in their cytokine-producing capacity, and they constitutively produce the anti-inflammatory cytokine IL-10 and low levels of TNF-α [4]. Although this production of TNF-α may at first seem counterintuitive (due to its inflammatory capacity), TNF-α can impact enterocyte growth [61] as well as modulating production of matrix metalloproteinases from intestinal mesechymal cells [75], actions which are suggested to allow gut macrophages to support the maintenance of barrier homeostasis [3].
+        An important component of the gut immune system that is critical in establishing tolerance towards the high burden of food and commensal antigens is the forkhead box protein 3 (Foxp3)+ T regulatory cell (Treg) network [65]. Since gut macrophages are able to uptake orally acquired antigens and also express high levels of major histocompatibility complex class II (MHCII) [4, 65], it is not surprising that they are suggested to play a key role in supporting development of this network. Of note, Hadis et al. demonstrated that following their priming in the lymph node, antigen-specific Foxp3+ Tregs that had trafficked to the LP were maintained at this site by macrophages [32]. A similar role for macrophages in contributing to the tissue-resident Treg pool has also been suggested in the lung [98].
+        It is possible that gut macrophages may play roles in supporting maintenance of other T cell subsets in the gut. In particular, macrophages can produce IL-1β following TLR stimulation, and this has been suggested to support Th17 cell development in the healthy gut [93]. Along these lines, recruited macrophages have also been shown to support generation of commensal-specific Th17 cells [74]. Although gastrointestinal-resident Th17 cells are key mediators of barrier defence [113], dysregulated Th17 responses are a driver of colitogenic pathology, and in settings of gastrointestinal inflammation, macrophages have been shown to support amplification of Th17 responses [58]. Further studies will be required to establish whether macrophage education of gastrointestinal T cell populations requires cognate MHCII-T cell receptor interactions or whether the cytokine milieu established by macrophages is the major factor. Moreover, the influence of macrophages on other gastrointestinal-resident lymphocyte populations during steady state requires further assessment, especially in the light of reports detailing macrophage-innate lymphoid cell (ILC) interactions which are key to support gastrointestinal immune homeostasis and reinforce barrier integrity [63, 68, 88].
+        Another way in which gut macrophages may be able to support development of the gut T cell network in an indirect manner is by transfer of soluble antigen from the lumen to gut dendritic cells (DCs) [65]. These DCs then drain to the mesenteric lymph nodes to prime T cell responses [85]. It is still not entirely clear how LP macrophages acquire these luminal antigens, but one possibility is that they can extend transepithelial dendrites across the epithelium [10, 72]. However, this idea remains controversial with original reports disagreeing on which parts of the small intestine these transepithelial dendrites were present in and the necessity for TLR signalling, and subsequent studies unable to identify them [10, 51, 72].
+        An issue that has confounded functional studies of gut macrophages has been the complexities of identifying this population using flow cytometry [3, 8, 41]. Initially, this problem largely arose due to the assumption that CD11c and MHCII were markers of gut DCs. In the gut, LP macrophages express high levels of CD11c as well as MHCII and thus in many studies were assumed to be DCs [6, 10]. Unlike macrophages, DC constantly drain from tissue to lymph nodes where their major role is to prime naïve T cells [85]. More recently, the fractalkine receptor CX3CR1 has been used to distinguish gut macrophages from gut DC [6, 85, 111]. Notably, resident gut macrophages express high levels of CX3CR1; however, some subsets of gut DC also express this marker (albeit at an intermediate level), which may be the basis of more recent contradictory findings regarding DC and macrophage function [3, 8, 41].
+        One problem with using high expression of CX3CR1 as a marker of gut macrophages is that this can currently only be established using CX3CR1-GFP transgenic mice and not by antibody staining [46]. A more useful strategy for identifying gut macrophages by multicolour flow cytometry (that can be used in non CX3CR1-GFP expressing animals) came from large-scale genomic datasets alongside more targeted studies [2, 4, 23, 104]. Together, these publications have identified that CD64 (FcγRI), F4/80 and MHCII used in combination with Ly6C and lineage exclusion markers (e.g. for lymphocytes and granulocytes) can reliably define these cells. CD11c expression was found to be of particular relevance to distinguish LP macrophages (CD11chi) from those in the serosa and muscularis (CD11clow) [6]. When isolated by fluorescence-activated cell sorting (FACS), these cells exhibit characteristic macrophage morphology and cannot be found draining to the mesenteric lymph nodes [2, 41]. Moreover, their development is critically dependent on colony stimulating factor 1 receptor (CSF1R) (also known as macrophage colony-stimulating factor receptor (MCSFR)) [82, 83] but independent of the DC growth factor FMS-like tyrosine kinase 3 ligand (FLT3L) [104]. Altogether, these findings suggest that CD64 and F4/80 are bona fide markers of gut-resident macrophages and will support researchers in specifically determining gut macrophage functions in future studies.
+      
+      
+        The unusual ontogeny of resident gut macrophages
+        When the mononuclear phagocyte system (MPS) was first described just over 50 years ago, it was proposed that tissue macrophages were the terminal differentiation stage of blood monocytes after recruitment into tissue [110]. However, in more recent years, a number of studies have been published that demonstrate that the majority of tissue macrophages are able to exist independently of blood monocyte precursors [33, 38, 39]. Frequently these derive from foetal liver precursors although some, including the microglia of the central nervous system (CNS), come from the yolk sac [24, 38, 39, 116]. These cells seed tissues prenatally and then are maintained by local proliferation. Resident macrophages include those of the lung alveoli [116], the Kuppfer cells of the liver [87] and epidermal Langerhans cells [39].
+        The adult intestinal macrophage pool is a major exception to this rule (along with the dermis [103] and more controversially the heart [18, 66]) fitting the original MPS model, requiring constant replenishment from blood monocytes (see Fig. 1) [2, 4, 6, 119]. Blood monocytes are a heterogeneous circulating population in both humans and mice that originate in the bone marrow (BM). In mice, there is a subset that expresses high levels of Ly6C and CCR2 termed “classical” monocytes (the equivalent of human CD14hi monocytes [43]) that are the precursors to the adult intestinal macrophages [2, 4, 6, 119]. Although at birth, there are embryonically derived macrophages present in the gut, around the time of weaning these are replaced by cells derived from an influx of CCR2-dependent Ly6Chi monocytes [2].
+        A number of studies investigating macrophage differentiation in the healthy gut have been instrumental in defining the phenotypic and transcriptional profile of classical (Ly6Chi) blood monocytes transitioning into mature gut macrophages. Initially using an adoptive transfer approach in healthy gut, it was shown that Ly6Chi monocytes were able to enter into the colon and mature into CD64+F4/80hiCX3CR1hiMHCII+ macrophages [4]. This developmental process involves a series of identifiable intermediaries in which Ly6C expression is lost while expression of F4/80, CX3CR1, CD163 and CD206 are gained. Due to the visual appearance of this transition moving from Ly6Chi to MHCIIhi or CX3CR1hi on a flow cytometry plot, this has been referred to as the monocyte to macrophage “waterfall” [2, 104]. Differentiation takes approximately 5 days and results in a cell that has increased phagocytic capacity and constitutive IL-10 production and is anergic to TLR stimulation. This rapid differentiation is in line with earlier reports of an approximately 3–5-week half-life for gut-resident macrophages [45]. Although the precise mechanisms governing differentiation cannot be easily established in humans, resident gut macrophages deriving from blood monocytes is implied by a similar waterfall of CD14hi (marker characteristic of classical monocytes [43]) to CD14lowCD209hiCD163hi cells [4].
+        The complex commensal flora is a distinguishing feature of the intestine, and there is a current consensus that it is this feature that is important in regulating the continuous replenishment of resident gut macrophages from blood monocytes [2, 3, 118]. Of note, there is a first accumulation of colonic macrophages between 2 and 3 weeks of age in mice that is concurrent with increased commensal colonisation [2]. Corroborating the importance of the microbiome in this process, at 3 weeks of age, there were fewer mature macrophages in germ-free mice than conventionally housed controls. Moreover, many of these macrophages did not express MHCII further implicating the microbiome in typical differentiation of macrophages as well as recruitment [4, 119].
+        It is worth noting, however, that this was not the first study to investigate colonic macrophage abundancy in germ-free animals, and these studies have reached opposing conclusions [71, 79, 108]. Animals from different sources are now well known to have very different commensal composition [11, 44, 107]. One hypothesis for these differences between studies is that there are unique factors in the gut other than the microbiome that can affect macrophage replacement from blood monocytes but that specific bacterial species present in certain mouse colonies can enhance or decrease the turnover rate.
+        Taken together, the studies to date strongly suggest that in both mice and humans, and in stark contrast to other tissues, resident gut macrophages are continuously replenished from circulating blood monocytes. Whether this information can be used to design strategies to specifically target gut macrophages remains to be explored but suggests that they may be impacted by systemic drug administration in a way that macrophages maintained locally in tissue would not.
+      
+      
+        Instruction of resident gut macrophage function
+        The main cues present in the gut environment that are responsible for monocyte to resident macrophage differentiation are still poorly defined. However, it is likely that there are specific signals or combinations of signals in the gut that induce characteristics not observed at other mucosal sites such as the skin and lung [55, 86, 103, 109].
+        There are a number of important growth factors involved in the establishment of the MPS, notably, FLT3L, CSF1 (MCSF) and CSF2 (granulocyte macrophage colony-stimulating factor). Although FLT3L and CSF2 may have impacts on gut macrophage function [68], they appear to be dispensable for their development [26, 104]. This is in stark contrast to lung macrophages for which CSF2 signalling is extremely important [30, 101]. Two ligands have been identified for CSF1R: CSF1 itself and IL-34 [112]. It seems most likely that development and maintenance of macrophages in the gut are CSF1 dependent as there is a marked reduction of macrophages in mice that have a mutation in the gene that encodes CSF1 (Csf1
+op/op) or following administration of anti-CSF1R antibody [69, 82].
+        One particularly unusual phenotype of resident gut macrophages is their acquisition of high levels of CX3CR1 expression. In the majority of tissues, CX3CR1 is downregulated on macrophages suggesting that there is a factor in the gut responsible for its continued expression. A recent study has suggested that TGF-β, which is established to induce CX3CR1 expression in the brain [9], is also a dominant signal for CX3CR1 expression by gut macrophages [84]. This is in line with the identification of Runx3 as a characteristic transcription factor of gut macrophages that is regulated by TGF-β in T cells [52, 53, 55]. In addition, it is possible that the interaction of CX3CR1 with CX3CL1 (fractalkine) may be important itself in instructing gut macrophage function. For example, it has been suggested that CX3CR1-CX3CL1 interactions are critical for optimal production of IL-10 by macrophages [32].
+        IL-10 signalling is one pathway that has been shown to be crucial for instructing macrophage function in the gastrointestinal (GI) mucosa [94, 117]. Not only do macrophages make IL-10, but IL-10 signals to the macrophage are vital for the appropriate education of intestinal macrophage populations, providing a key cue that safeguards their hyporesponsive phenotype (discussed below). It has long been known that in the absence of IL-10, severe gastrointestinal inflammation results [54]; what is now clear is that IL-10 receptor signalling on macrophages, but not the production of IL-10 itself, is key in restraining this inflammation [94, 117]. When unable to respond to IL-10, gut macrophages produce increased levels of inflammatory cytokines in response to bacterial stimulation [102, 108] and drive development of colitis [40]. More recently, specific deletion of IL-10Rα on CX3CR1-expressing gut macrophages was shown to lead to the development of a spontaneous, and severe, ulcerative colitis-like GI inflammation [117]. Part of this IL-10 conditioning of macrophage function has been reported to include limiting levels of NOS2, PGE2, IL-23 [117], inflammasome components and pro-IL-1β [19, 31, 58]. Thus, IL-10 signals have emerged as a vital restraint against overt macrophage activation. Interestingly, this pathway has also been implicated in early onset IBD, as similar functional alterations to those seen in animal models have been observed in patients with IL-10R mutations [94].
+        As mentioned, another key feature of gut macrophages is their apparent hyporesponsiveness to TLR-mediated activation. Intriguingly, gut-resident macrophages both in humans and mice express a full repertoire of TLR receptors, so it is thought that it is downstream mediators that are responsible for the hyporesponsiveness [4, 97]. Of note, molecules including MyD88, TRAF-6, TRIF and CD14 are downregulated in mature macrophages [96, 97, 119]. Additionally, there may be alternative pathways that impair TLR responsiveness, for example, through increased expression of IRAK-M and IκΒNS [37, 97, 119].
+        An emerging mediator of gut macrophage function is neuroendocrine signals, controlling macrophage survival and phenotype within the highly innervated gastrointestinal mucosa. Neuronal-macrophage interactions are bidirectional with macrophages in the muscularis capable of controlling peristaltic activity. Bone morphogenetic protein 2 (BMP2), produced by macrophages, acts on enteric neurons to control smooth muscle contractions and thus, peristalsis [69]. In return, neuroendocrine signals to macrophages support maintenance of macrophage populations within specific gastrointestinal niches. Bogunovic and colleagues demonstrated that enteric neurons ensure maintenance of macrophages specifically within the muscularis layer of the gastrointestinal tract through production of CSF1 [69] (as discussed a key growth factor in gut macrophage development). This neuroendocrine control of macrophage survival was downstream of commensal bacteria colonisation as microbial-derived signals promoted enteric neuron expression of CSF1. Additional macrophage niche specialisation by neuroendocrine pathways can also be driven by norepinephrine signals from sympathetic neurons. Muscarlis macrophages express β2 adrenergic receptors that, upon binding of norepinephrine released from local active neurons, promote acquisition of a tissue-protective programme in muscularis-resident macrophages during infection [21].
+        Intriguingly, and in line with microbial activation of CSF1 production from enteric neurones [69], it has also been reported that the microbiota controls glial cell homeostasis in the intestine [47]. These supporting cells provide key maintenance and protection for neurons further highlighting the complex integration of microbial, endocrine and immune signals in controlling GI immune homeostasis and inflammation. The very recent focus on neuroendocrine signals in control of immune cell function within the gut [64] will likely yield further insights into tissue training of macrophage function by these signals.
+        In addition to the signals described, there are many other factors expressed in the gut environment that may play important roles on macrophages but as yet have been poorly explored. These factors include thymic stromal lymphopoietin (TSLP), the mucus layer itself that has been shown to modify DC function [92] and retinoic acid. Retinoic acid is particularly intriguing as it is known to have profound effects on DC in the gut and in tandem with TGF-β support induction of Treg [12, 100]. The impact of RA on macrophages has yet to be precisely elucidated.
+      
+      
+        Inflammatory gut macrophages in experimental settings of classical inflammation
+        Infiltration of classical (Ly6Chi) monocytes that differentiate rapidly into effector cells is a common feature following intestinal damage and infection of mice [4, 25, 104, 119] (see Fig. 2). Perhaps the best-studied murine models of this are colitis induced by administration of dextran sodium sulphate (DSS) and T cell transfer colitis [4, 104, 119]. In both of these settings, there is a characteristic reversal in the composition of the macrophage compartment. In particular, CX3CR1hi-resident gut macrophages that dominate in the healthy gut are outcompeted by inflammation-elicited CX3CR1int mononuclear phagocytes (MNPs) that are the progeny of rapidly infiltrating Ly6Chi monocytes [4, 119]. Precise definitions of the functions of this MNP pool are complex, and the cells within this pool are on a differentiation spectrum that likely includes populations with more macrophage-like or DC-like functions [119]. For the rest of this review, focus will be placed on the macrophage-like features of these cells that are present in inflammation that for clarity will be referred to as inflammatory macrophages (although the reader should note, and as will be discussed, that their functional and differentiation potential as well as morphology is very different to resident gut macrophages). These cells have a strong pro-inflammatory signature characterised by the production of factors including TNF-α, IL-1β, IL-6 and inducible nitric oxide synthase (iNOS). Of note, despite their presence in this pro-inflammatory milieu, the resident CX3CR1hi macrophages continue to maintain the largely anti-inflammatory characteristics they exhibit in health [4, 104, 114, 119]. Not surprisingly, given their pro-inflammatory features, there is strong evidence for a pathologic role for the CX3CR1int macrophages in these murine models of colitis. For example, in Ccr2
+−/− mice (which have a paucity of monocyte-derived cells in circulation and tissues due to a failure in classical monocyte release from the bone marrow [89]), or animals depleted of CCR2-expressing cells [119], there is an amelioration of DSS-driven colitic inflammation.Fig. 2Macrophages during gut inflammation. Following epithelial damage or pathogen invasion, classical monocyte-derived effector cells are elicited and enter the now inflamed GI tract. The functions of these populations are poorly defined but likely highly specialised to the precise challenge and may include DC-like activities. Many differentiate into macrophages that are crucial for pathogen control but can also lead to pathology as a result of their potential to produce inflammatory cytokines such as TNF-α. During T. gondii infection, these cells also take on the capacity to suppress neutrophil activation via release of PGE2. Of note, during T. gondii infection, instruction of macrophage function begins in the bone marrow resulting in monocytes entering the tissue in a primed state characterised by their low expression of CX3CR1 and high expression of MHCII. Although monocytes no longer differentiate to resident macrophages (CX3CR1hi
+lamina propria and muscularis macrophages) during inflammation, those present prior to barrier breach remain in the tissue and continue to exhibit anti-inflammatory features
+
+        One intriguing feature of the Ly6Chi monocyte differentiation pathway to inflammatory macrophages during colitis is the apparent concurrent impairment in Ly6Chi monocyte differentiation to resident CX3CR1hi macrophages [4, 104, 119]. Indeed, it has been proposed that this arrest in the differentiation pathway may underlie the ongoing capacity of inflammatory macrophages to respond to TLR stimulation in DSS colitis. The precise mechanisms that result in such changes are currently unknown but are likely due to signals being altered in the local microenvironment that are critical for educating monocytes to become resident anti-inflammatory macrophages.
+        Despite inflammatory macrophages playing immunopathogenic roles during acute colitic-like inflammation, in certain gastrointestinal infections, they are crucial for pathogen protection [17, 25]. Following oral inoculation with the highly type 1 polarising intracellular protozoan parasite Toxoplasma gondii, there is dramatic infiltration of Ly6Chi monocytes into the inflamed small intestine [17, 25]. Once again, the importance of monocytes in this setting can be revealed by the fact that CCR2-deficient mice or those deficient in its ligand CCL2 fail to control the parasite [17, 25], and this can be restored by monocyte transfer [17].
+        Although, this parasite control was initially attributed to the capacity of recently recruited macrophages to produce pro-inflammatory cytokines such as TNF-α and iNOS, their function has since been revealed to be more complex [25]. Our studies demonstrated that in CCR2-deficient animals infected with T. gondii, neutrophils became hyperactivated in the lamina propria of the gut where they produced dramatically increased levels of tissue damaging factors including TNF-α and reactive oxygen species (ROS) [25]. This was associated with increased severity of gastrointestinal pathology that was independent of increases in parasite load. Immunofluorescent imaging revealed that Ly6Chi inflammatory macrophages localised closely with neutrophils in the inflamed gut suggesting that one explanation for their enhanced activity might be direct suppressive actions of Ly6Chi macrophages. Supporting this idea, we found that treatment of neutrophils with factors released from Ly6Chi macrophages isolated from T. gondii-infected guts limited the neutrophils’ capacity to produce pro-inflammatory factors in response to TLR ligands and formyl peptides. Further experiments revealed that this effect was entirely dependent on the release of the lipid mediator PGE2, which is highly expressed by inflammatory macrophages during T. gondii infection [1, 25] (see Fig. 2). This lipid mediator can have complex and opposing roles over the course of an inflammatory response as it can favour inflammatory cell recruitment [48] but is also a potent suppressor of human neutrophil activation [115].
+        Following its initial invasion of the gut, T. gondii infection eventually disseminates systemically and inflammatory macrophages infiltrate lymphoid tissues including the spleen [25]. However, the neutrophil-suppressive activity was only evident in macrophages isolated from the gut. Studies using germ-free (GF) mice revealed that this was critically dependent on commensal-derived ligands. The precise bacteria involved in instructing macrophage function during inflammation are likely very different to those resident macrophages are exposed to in health. Notably, in the context of gut infection, there is tremendous outgrowth of potentially pathogenic commensal populations, specifically γ-proteobacteria such as Escherichia coli [35, 67]. Outgrowth of γ-proteobacteria has also been reported in patients with IBD [15, 59]. Indeed, in vitro treatment of circulating Ly6Chi monocytes from the blood of T. gondii-infected animals with a lysate from a commensal form of E. coli led to rapid PGE2 production. Of course, in vivo, there may be additional gut-specific signals responsible for initiating PGE2 release. For example, stimulated epithelial cells can produce and activate IL-1β [99], a strong driver of PGE2 from macrophages [76], and commensal-derived dietary ligands such as short chain fatty acids (SCFAs) can also augment PGE2 production [13]. It is interesting to speculate that in certain individuals or at defined time points during infection, alterations in the composition of commensal species may be able to favour acquisition of regulatory features by infiltrating monocytes.
+        Another mechanism by which inflammatory macrophages may act to suppress immune cells during inflammation is via actions on T cells. This could be achieved by modifying L-arginine metabolism, as nitric oxide (NO) limits T cell proliferation [5]. Inflammatory macrophages in the GI tract during acute infection and inflammation have been shown to be positive for this immune mediator. In the spleen, during Listeria monocytogenes infection, iNOS+ macrophages suppress antigen-specific T cell responses [90]. Given the prevalence of iNOS+ macrophages in the GI tract during inflammation, these data imply that these cells may well be capable of suppressing effector T cell responses in the GI mucosa. In line with this, a CX3CR1+CD11c+CD11b+ MNP in the GI tract has been shown to be capable of limiting CD4+ T cell proliferation [50]. This required cell-cell contact highlighting another mechanism that could be employed by macrophages to curtail gastrointestinal T cell responses.
+      
+      
+        Macrophages in human gut inflammation
+        Mechanistic understanding of macrophages in human gut inflammation is much more limited than in animal models. One thing that is clear is that CD14hi MNP accumulate in the inflamed gut in settings such as IBD [49], likely in response to elevated levels of the chemokines CCL2 and CCL4 [95]. Indeed, by radiolabelling of autologous blood monocytes, it was demonstrated that the CD14hi cells arise from these circulating precursors [27]. These cells are the human equivalent of the Ly6Chi populations in mice that become dominant during induced colitis and oral T. gondii infection [4, 17, 25, 104, 119]. As with recruited macrophages in the mouse, the CD14hi cells in the inflamed human intestine produce high levels of TNF-α, IL-1β and IL-6 [81] and have ongoing responsiveness to microbe-derived factors [49, 105].
+        In addition to cytokine release, it has also been reported that macrophages in the inflamed mucosa have increased expression of CD40 that may support local interactions with pathology-driving effector T cells [7], again mirroring data from murine models [119]. Given the currently sparse data on human intestinal macrophage function, but their high relevance to disease pathology, this will no doubt be an area for tremendous future scientific study. The already strong similarities between patient samples and murine models suggest that integration of these two investigative strategies may be key to rapidly progressing our knowledge of this area.
+      
+      
+        Long-range instruction of inflammatory gut macrophage function during infection
+        At steady state, much research focus has been placed on the cues present in the gut environment that locally instruct resident gut macrophage differentiation. Based on this model, during gut inflammation, factors at the affected tissue site to which infection-elicited macrophages are exposed have been of primary interest. However, a number of recent findings, including those from our group, suggest that a more holistic approach to understanding macrophage differentiation during inflammation needs to be employed.
+        It is well established that when stressed, tissues such as the gut can send signals to the bone marrow (BM) niche and blood to improve supply of required circulating immune populations [28, 89]. We found that during gut infection, these long-range signals can also instruct for altered functional potential. As early as 4 days after oral infection with T. gondii, Ly6Chi monocytes developing in the BM niche acquired a characteristic CX3CR1lowMHCIIhiSca-1hi phenotype, which was also observed in inflammatory gut macrophages [1] suggesting that instruction of eventual macrophage differentiation may be beginning in the BM. Most importantly, when highly pure BM Ly6Chi monocytes were isolated by FACS from naïve and T. gondii-infected animals and exposed to commensal signals they ultimately would experience in the inflamed gut, they already had enhanced capacity to produce PGE2 prior to BM efflux. As discussed already, we have established PGE2 as a critical recruited gut macrophage-derived factor regulating neutrophil-mediated immunopathology during oral T. gondii infection [25]. Thus, during gut infection, functional priming of inflammatory macrophages can begin in the BM.
+        Although PGE2 production was highlighted, the Ly6Chi monocytes had profound transcriptional changes and also had enhanced capacity to produce anti-inflammatory IL-10 in response to bacterial ligands. These transcriptional changes were at least initiated in the direct proliferative precursor to monocytes, the common monocyte progenitor (cMoP) [36], but earlier progenitors such as the MDP were not investigated due to issues of identification in infection [1].
+        The precise mechanisms that the gut can use to communicate to the BM niche are not understood. During T. gondii infection, we identified a whole organism signalling loop in which a specific subset of gut DC (Batf3+) released the cytokine IL-12 in the serum that was detected by a subset of mature natural killer (NK) cells present in the BM. These NK cells produced IFN-γ locally in the BM in response to the IL-12 signal, which was critical in generating the high PGE2-producing CX3CR1lowMHCIIhiSca-1hi monocytes. Although IFN-γ was a dominant signal, whether additional signals in the BM environment are also altered following T. gondii infection and whether these have specific functional effects on developing monocytes and eventually their gut macrophage progeny remain unknown. One possibility is food-derived ligands such as short-chain fatty acids (SCFAs), as these have previously been shown to modify DC function prior to exit from the BM in an asthma model [106].
+        Intriguingly, during T. gondii infection, our data suggested that perturbations to monocyte-macrophage differentiation capacity might be initiated systemically, as there were dramatic increases in circulating Ly6Chi monocytes with a concurrent loss of Ly6Clow patrolling monocytes (which are suggested to derive from the Ly6Chi population [116]). This bears striking similarity to the proposed block in differentiation of monocytes to resident gut macrophages in colitis [4, 119]. The cytokine IFN-γ was implicated in this process [1], but further work will be needed to confirm whether this is due to an arrest in normal differentiation pathways (rather than, for example, increased BM output of Ly6Chi monocytes) and whether these Ly6Chi monocytes are also unable to differentiate into resident macrophages upon entry into the gut.
+      
+      
+        Resident and inflammatory macrophages in resolution of inflammation
+        Once the infection, or other inflammation-driving factor, has been cleared or becomes tolerated in the gut, there must be a resolution phase to restore homeostasis. If this does not happen, then chronic inflammation may develop.
+        As occurs during inflammation, this resolution phase is also associated with striking alterations to gut macrophage subsets. One example of this is that following resolution of DSS colitis in mice, the augmented CX3CR1int MNP subset returns to baseline levels [119]. Precise reasons for the loss of the CX3CR1int subset are not known, but apoptosis and uptake by resident macrophages seem probable [22]. An alternative possibility, based on the idea that CX3CR1int cells are blocked in their differentiation to resident gut macrophages during inflammation, is that due to alterations in the cytokine milieu, this limitation is removed. As a result, many of the CX3CR1int cells would “disappear” from the gut by differentiating into resident gut macrophages.
+        Whatever the case, it seems that gut monocytes/macrophages are important in gut repair and resolution of inflammation. In particular, there is a delay in DSS colitis resolution in animals that lack TGF-β signalling on monocytes/macrophages (CD68-dnTGFβRII) [78], while deletion of MyD88 signalling in myeloid cells limits gut healing [62].
+        Although not well studied specifically in the gut, one set of factors that are important in restoration of homeostasis in all tissues are pro-resolving lipid mediators [91]. These factors, as well as limiting influx of additional inflammatory cells, can promote the uptake of apoptotic cells by macrophages [20, 29]. Types of lipid mediators include lipoxins, resolvins and protectins that can be produced by multiple cell types including macrophages [91]. One factor that has been demonstrated to favour production of lipoxins is prostaglandins, in particular PGE2. For example, in resolving inflammatory exudates, it has been suggested that PGE2 and PGD2 can stimulate production of a functional enzyme for lipoxin in neutrophils [57]. Based on our studies in T. gondii infection, this raises the intriguing possibility that Ly6Chi monocytes/macrophages not only limit neutrophil activation but also deviate their function towards a lipoxin-producing pro-resolution state. Relating to this, macrophages may also be able to regulate wound healing directly by interacting with epithelial progenitor cells during colonic wound healing [77]. Again, lipid mediators may play a role in this process as COX-2 expression, a critical factor in PGE2 production, has been linked to protection of progenitor populations at other tissue sites during inflammation [60].
+        As well as repairing the barrier, another feature of return to homeostasis is the restoration of the adaptive immune compartment, which can become dramatically perturbed during an inflammatory response [73]. At this time, it is unclear how the mononuclear phagocytes of the gut may act together to support this return, but given their suggested role in expanding Tregs at steady state, it is likely that gut-resident macrophages are important to this process.
+        With the recent advances in technologies for the generation of transgenic murine systems, novel tools for the temporal knockout of specific genes in defined macrophage/monocyte subsets are likely to become increasingly available. This will allow candidate factors identified as being important to resolution to be depleted during this phase of the inflammatory response without impairing initiation of disease. Already, the tamoxifen-inducible Cx3CR1creER mouse that knocks out factors in CX3CR1hi-resident gut macrophages holds much promise for this purpose [116].
+      
+      
+        Concluding remarks
+        Utilising novel transgenic animals alongside cutting-edge cytometric and genomic approaches, recent years have seen an explosion in our understanding of macrophage biology in general and more specifically in the gut. In particular, the field is beginning to better define the diverse functions that these cells play in tissue homeostasis and how they can be manipulated in disease states.
+        With the advent of single-cell RNA sequencing, it will become more straightforward to define functionally distinct macrophage subsets within complex and potentially inflamed tissue environments. One aspect of macrophage biology that has been largely overlooked in recent years is precise localisation within the tissue. For example, in the gastrointestinal tract, there are diverse structural components to the tissue, e.g. muscle, nerves, blood vessels and epithelium. How macrophage function might be tailored to each of these niches is only just beginning to be understood.
+        Another area in the functional diversity arena is to further understand the differential roles of resident macrophages versus inflammatory macrophages in disease states. It is clear that resident macrophages are often maintained in the inflammatory environment but are not acquiring classical activation markers. Whether these cells play a role during the active inflammatory event or in restoring homeostasis post challenge is extremely unclear. This is critical to understand as it would help elucidate specific macrophage factors that can be manipulated at defined time points in the inflammation resolution cycle to alter outcome.
+        Whatever the future of macrophage research holds, given the importance of intestinal macrophages to the maintenance of homeostasis and disease progression, better understanding the development and functions of this cell type will no doubt yield novel strategies that can inform development of therapies to improve patient outcome in inflammatory diseases such as IBD.
+      
+    
+  
+
+    
+      
+        This article is part of the special issue on macrophages in tissue homeostasis in Pflügers Archiv – European Journal of Physiology
+      
+    
+    
+      Acknowledgements
+      Funding is provided to J.R.G. through a Sir Henry Dale Fellowship jointly supported by The Wellcome Trust and The Royal Society (104195/Z/14/Z) and by a Manchester Collaborative Centre for Inflammation Research grant. J.E.K. is supported by a BBSRC-funded Sir David Phillips Fellowship (BB/M025977/1) and by a Manchester Collaborative Centre for Inflammation Research grant.
+    
+    
+      Compliance with ethical standards
+      
+        Conflict of interest
+        The authors declare that they have no conflict of interest.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Askenase
+              MH
+            
+            
+              Han
+              SJ
+            
+            
+              Byrd
+              AL
+            
+            
+              Morais da Fonseca
+              D
+            
+            
+              Bouladoux
+              N
+            
+            
+              Wilhelm
+              C
+            
+            
+              Konkel
+              JE
+            
+            
+              Hand
+              TW
+            
+            
+              Lacerda-Queiroz
+              N
+            
+            
+              Su
+              XZ
+            
+            
+              Trinchieri
+              G
+            
+            
+              Grainger
+              JR
+            
+            
+              Belkaid
+              Y
+            
+          
+          Bone-marrow-resident NK cells prime monocytes for regulatory function during infection
+          Immunity
+          2015
+          42
+          1130
+          1142
+          10.1016/j.immuni.2015.05.011
+          
+          26070484
+        
+      
+      
+        2.
+        
+          
+            
+              Bain
+              CC
+            
+            
+              Bravo-Blas
+              A
+            
+            
+              Scott
+              CL
+            
+            
+              Gomez Perdiguero
+              E
+            
+            
+              Geissmann
+              F
+            
+            
+              Henri
+              S
+            
+            
+              Malissen
+              B
+            
+            
+              Osborne
+              LC
+            
+            
+              Artis
+              D
+            
+            
+              Mowat
+              AM
+            
+          
+          Constant replenishment from circulating monocytes maintains the macrophage pool in the intestine of adult mice
+          Nat Immunol
+          2014
+          15
+          929
+          937
+          10.1038/ni.2967
+          
+          25151491
+        
+      
+      
+        3.
+        
+          
+            
+              Bain
+              CC
+            
+            
+              Mowat
+              AM
+            
+          
+          Macrophages in intestinal homeostasis and inflammation
+          Immunol Rev
+          2014
+          260
+          102
+          117
+          10.1111/imr.12192
+          
+          24942685
+        
+      
+      
+        4.
+        
+          
+            
+              Bain
+              CC
+            
+            
+              Scott
+              CL
+            
+            
+              Uronen-Hansson
+              H
+            
+            
+              Gudjonsson
+              S
+            
+            
+              Jansson
+              O
+            
+            
+              Grip
+              O
+            
+            
+              Guilliams
+              M
+            
+            
+              Malissen
+              B
+            
+            
+              Agace
+              WW
+            
+            
+              Mowat
+              AM
+            
+          
+          Resident and pro-inflammatory macrophages in the colon represent alternative context-dependent fates of the same Ly6Chi monocyte precursors
+          Mucosal Immunol
+          2013
+          6
+          498
+          510
+          10.1038/mi.2012.89
+          
+          22990622
+        
+      
+      
+        5.
+        
+          
+            
+              Bogdan
+              C
+            
+          
+          Nitric oxide and the immune response
+          Nat Immunol
+          2001
+          2
+          907
+          916
+          10.1038/ni1001-907
+          
+          11577346
+        
+      
+      
+        6.
+        
+          
+            
+              Bogunovic
+              M
+            
+            
+              Ginhoux
+              F
+            
+            
+              Helft
+              J
+            
+            
+              Shang
+              L
+            
+            
+              Hashimoto
+              D
+            
+            
+              Greter
+              M
+            
+            
+              Liu
+              K
+            
+            
+              Jakubzick
+              C
+            
+            
+              Ingersoll
+              MA
+            
+            
+              Leboeuf
+              M
+            
+            
+              Stanley
+              ER
+            
+            
+              Nussenzweig
+              M
+            
+            
+              Lira
+              SA
+            
+            
+              Randolph
+              GJ
+            
+            
+              Merad
+              M
+            
+          
+          Origin of the lamina propria dendritic cell network
+          Immunity
+          2009
+          31
+          513
+          525
+          10.1016/j.immuni.2009.08.010
+          
+          19733489
+        
+      
+      
+        7.
+        
+          
+            
+              Carlsen
+              HS
+            
+            
+              Yamanaka
+              T
+            
+            
+              Scott
+              H
+            
+            
+              Rugtveit
+              J
+            
+            
+              Brandtzaeg
+              P
+            
+          
+          The proportion of CD40+ mucosal macrophages is increased in inflammatory bowel disease whereas CD40 ligand (CD154)+ T cells are relatively decreased, suggesting differential modulation of these costimulatory molecules in human gut lamina propria
+          Inflamm Bowel Dis
+          2006
+          12
+          1013
+          1024
+          10.1097/01.mib.0000234135.43336.72
+          
+          17075342
+        
+      
+      
+        8.
+        
+          
+            
+              Cerovic
+              V
+            
+            
+              Bain
+              CC
+            
+            
+              Mowat
+              AM
+            
+            
+              Milling
+              SW
+            
+          
+          Intestinal macrophages and dendritic cells: what’s the difference?
+          Trends Immunol
+          2014
+          35
+          270
+          277
+          10.1016/j.it.2014.04.003
+          
+          24794393
+        
+      
+      
+        9.
+        
+          
+            
+              Chen
+              S
+            
+            
+              Luo
+              D
+            
+            
+              Streit
+              WJ
+            
+            
+              Harrison
+              JK
+            
+          
+          TGF-beta1 upregulates CX3CR1 expression and inhibits fractalkine-stimulated signaling in rat microglia
+          J Neuroimmunol
+          2002
+          133
+          46
+          55
+          10.1016/S0165-5728(02)00354-5
+          
+          12446007
+        
+      
+      
+        10.
+        
+          
+            
+              Chieppa
+              M
+            
+            
+              Rescigno
+              M
+            
+            
+              Huang
+              AY
+            
+            
+              Germain
+              RN
+            
+          
+          Dynamic imaging of dendritic cell extension into the small bowel lumen in response to epithelial cell TLR engagement
+          J Exp Med
+          2006
+          203
+          2841
+          2852
+          10.1084/jem.20061884
+          
+          17145958
+        
+      
+      
+        11.
+        
+          
+            
+              Chudnovskiy
+              A
+            
+            
+              Mortha
+              A
+            
+            
+              Kana
+              V
+            
+            
+              Kennard
+              A
+            
+            
+              Ramirez
+              JD
+            
+            
+              Rahman
+              A
+            
+            
+              Remark
+              R
+            
+            
+              Mogno
+              I
+            
+            
+              Ng
+              R
+            
+            
+              Gnjatic
+              S
+            
+            
+              Amir
+              ED
+            
+            
+              Solovyov
+              A
+            
+            
+              Greenbaum
+              B
+            
+            
+              Clemente
+              J
+            
+            
+              Faith
+              J
+            
+            
+              Belkaid
+              Y
+            
+            
+              Grigg
+              ME
+            
+            
+              Merad
+              M
+            
+          
+          Host-protozoan interactions protect from mucosal infections through activation of the inflammasome
+          Cell
+          2016
+          167
+          444
+          456
+          10.1016/j.cell.2016.08.076
+          
+          27716507
+        
+      
+      
+        12.
+        
+          
+            
+              Coombes
+              JL
+            
+            
+              Siddiqui
+              KR
+            
+            
+              Arancibia-Carcamo
+              CV
+            
+            
+              Hall
+              J
+            
+            
+              Sun
+              CM
+            
+            
+              Belkaid
+              Y
+            
+            
+              Powrie
+              F
+            
+          
+          A functionally specialized population of mucosal CD103+ DCs induces Foxp3+ regulatory T cells via a TGF-beta and retinoic acid-dependent mechanism
+          J Exp Med
+          2007
+          204
+          1757
+          1764
+          10.1084/jem.20070590
+          
+          17620361
+        
+      
+      
+        13.
+        
+          
+            
+              Cox
+              MA
+            
+            
+              Jackson
+              J
+            
+            
+              Stanton
+              M
+            
+            
+              Rojas-Triana
+              A
+            
+            
+              Bober
+              L
+            
+            
+              Laverty
+              M
+            
+            
+              Yang
+              X
+            
+            
+              Zhu
+              F
+            
+            
+              Liu
+              J
+            
+            
+              Wang
+              S
+            
+            
+              Monsma
+              F
+            
+            
+              Vassileva
+              G
+            
+            
+              Maguire
+              M
+            
+            
+              Gustafson
+              E
+            
+            
+              Bayne
+              M
+            
+            
+              Chou
+              CC
+            
+            
+              Lundell
+              D
+            
+            
+              Jenh
+              CH
+            
+          
+          Short-chain fatty acids act as antiinflammatory mediators by regulating prostaglandin E(2) and cytokines
+          World J Gastroenterol
+          2009
+          15
+          5549
+          5557
+          10.3748/wjg.15.5549
+          
+          19938193
+        
+      
+      
+        14.
+        
+          
+            
+              Cummings
+              RJ
+            
+            
+              Barbet
+              G
+            
+            
+              Bongers
+              G
+            
+            
+              Hartmann
+              BM
+            
+            
+              Gettler
+              K
+            
+            
+              Muniz
+              L
+            
+            
+              Furtado
+              GC
+            
+            
+              Cho
+              J
+            
+            
+              Lira
+              SA
+            
+            
+              Blander
+              JM
+            
+          
+          Different tissue phagocytes sample apoptotic cells to direct distinct homeostasis programs
+          Nature
+          2016
+          539
+          565
+          569
+          10.1038/nature20138
+          
+          27828940
+        
+      
+      
+        15.
+        
+          
+            
+              Darfeuille-Michaud
+              A
+            
+            
+              Boudeau
+              J
+            
+            
+              Bulois
+              P
+            
+            
+              Neut
+              C
+            
+            
+              Glasser
+              AL
+            
+            
+              Barnich
+              N
+            
+            
+              Bringer
+              MA
+            
+            
+              Swidsinski
+              A
+            
+            
+              Beaugerie
+              L
+            
+            
+              Colombel
+              JF
+            
+          
+          High prevalence of adherent-invasive Escherichia coli associated with ileal mucosa in Crohn’s disease
+          Gastroenterology
+          2004
+          127
+          412
+          421
+          10.1053/j.gastro.2004.04.061
+          
+          15300573
+        
+      
+      
+        16.
+        
+          
+            
+              Denning
+              TL
+            
+            
+              Norris
+              BA
+            
+            
+              Medina-Contreras
+              O
+            
+            
+              Manicassamy
+              S
+            
+            
+              Geem
+              D
+            
+            
+              Madan
+              R
+            
+            
+              Karp
+              CL
+            
+            
+              Pulendran
+              B
+            
+          
+          Functional specializations of intestinal dendritic cell and macrophage subsets that control Th17 and regulatory T cell responses are dependent on the T cell/APC ratio, source of mouse strain, and regional localization
+          J Immunol
+          2011
+          187
+          733
+          747
+          10.4049/jimmunol.1002701
+          
+          21666057
+        
+      
+      
+        17.
+        
+          
+            
+              Dunay
+              IR
+            
+            
+              Damatta
+              RA
+            
+            
+              Fux
+              B
+            
+            
+              Presti
+              R
+            
+            
+              Greco
+              S
+            
+            
+              Colonna
+              M
+            
+            
+              Sibley
+              LD
+            
+          
+          Gr1(+) inflammatory monocytes are required for mucosal resistance to the pathogen Toxoplasma gondii
+          Immunity
+          2008
+          29
+          306
+          317
+          10.1016/j.immuni.2008.05.019
+          
+          18691912
+        
+      
+      
+        18.
+        
+          
+            
+              Epelman
+              S
+            
+            
+              Lavine
+              KJ
+            
+            
+              Beaudin
+              AE
+            
+            
+              Sojka
+              DK
+            
+            
+              Carrero
+              JA
+            
+            
+              Calderon
+              B
+            
+            
+              Brija
+              T
+            
+            
+              Gautier
+              EL
+            
+            
+              Ivanov
+              S
+            
+            
+              Satpathy
+              AT
+            
+            
+              Schilling
+              JD
+            
+            
+              Schwendener
+              R
+            
+            
+              Sergin
+              I
+            
+            
+              Razani
+              B
+            
+            
+              Forsberg
+              EC
+            
+            
+              Yokoyama
+              WM
+            
+            
+              Unanue
+              ER
+            
+            
+              Colonna
+              M
+            
+            
+              Randolph
+              GJ
+            
+            
+              Mann
+              DL
+            
+          
+          Embryonic and adult-derived resident cardiac macrophages are maintained through distinct mechanisms at steady state and during inflammation
+          Immunity
+          2014
+          40
+          91
+          104
+          10.1016/j.immuni.2013.11.019
+          
+          24439267
+        
+      
+      
+        19.
+        
+          
+            
+              Filardy
+              AA
+            
+            
+              He
+              J
+            
+            
+              Bennink
+              J
+            
+            
+              Yewdell
+              J
+            
+            
+              Kelsall
+              BL
+            
+          
+          Posttranscriptional control of NLRP3 inflammasome activation in colonic macrophages
+          Mucosal Immunol
+          2016
+          9
+          850
+          858
+          10.1038/mi.2015.109
+          
+          26627461
+        
+      
+      
+        20.
+        
+          
+            
+              Freire-de-Lima
+              CG
+            
+            
+              Xiao
+              YQ
+            
+            
+              Gardai
+              SJ
+            
+            
+              Bratton
+              DL
+            
+            
+              Schiemann
+              WP
+            
+            
+              Henson
+              PM
+            
+          
+          Apoptotic cells, through transforming growth factor-beta, coordinately induce anti-inflammatory and suppress pro-inflammatory eicosanoid and NO synthesis in murine macrophages
+          J Biol Chem
+          2006
+          281
+          38376
+          38384
+          10.1074/jbc.M605146200
+          
+          17056601
+        
+      
+      
+        21.
+        
+          
+            
+              Gabanyi
+              I
+            
+            
+              Muller
+              PA
+            
+            
+              Feighery
+              L
+            
+            
+              Oliveira
+              TY
+            
+            
+              Costa-Pinto
+              FA
+            
+            
+              Mucida
+              D
+            
+          
+          Neuro-immune interactions drive tissue programming in intestinal macrophages
+          Cell
+          2016
+          164
+          378
+          391
+          10.1016/j.cell.2015.12.023
+          
+          26777404
+        
+      
+      
+        22.
+        
+          
+            
+              Gautier
+              EL
+            
+            
+              Ivanov
+              S
+            
+            
+              Lesnik
+              P
+            
+            
+              Randolph
+              GJ
+            
+          
+          Local apoptosis mediates clearance of macrophages from resolving inflammation in mice
+          Blood
+          2013
+          122
+          2714
+          2722
+          10.1182/blood-2013-01-478206
+          
+          23974197
+        
+      
+      
+        23.
+        
+          
+            
+              Gautier
+              EL
+            
+            
+              Shay
+              T
+            
+            
+              Miller
+              J
+            
+            
+              Greter
+              M
+            
+            
+              Jakubzick
+              C
+            
+            
+              Ivanov
+              S
+            
+            
+              Helft
+              J
+            
+            
+              Chow
+              A
+            
+            
+              Elpek
+              KG
+            
+            
+              Gordonov
+              S
+            
+            
+              Mazloom
+              AR
+            
+            
+              Ma’ayan
+              A
+            
+            
+              Chua
+              WJ
+            
+            
+              Hansen
+              TH
+            
+            
+              Turley
+              SJ
+            
+            
+              Merad
+              M
+            
+            
+              Randolph
+              GJ
+            
+            
+              Immunological
+              GC
+            
+          
+          Gene-expression profiles and transcriptional regulatory pathways that underlie the identity and diversity of mouse tissue macrophages
+          Nat Immunol
+          2012
+          13
+          1118
+          1128
+          10.1038/ni.2419
+          
+          23023392
+        
+      
+      
+        24.
+        
+          
+            
+              Ginhoux
+              F
+            
+            
+              Greter
+              M
+            
+            
+              Leboeuf
+              M
+            
+            
+              Nandi
+              S
+            
+            
+              See
+              P
+            
+            
+              Gokhan
+              S
+            
+            
+              Mehler
+              MF
+            
+            
+              Conway
+              SJ
+            
+            
+              Ng
+              LG
+            
+            
+              Stanley
+              ER
+            
+            
+              Samokhvalov
+              IM
+            
+            
+              Merad
+              M
+            
+          
+          Fate mapping analysis reveals that adult microglia derive from primitive macrophages
+          Science
+          2010
+          330
+          841
+          845
+          10.1126/science.1194637
+          
+          20966214
+        
+      
+      
+        25.
+        
+          
+            
+              Grainger
+              JR
+            
+            
+              Wohlfert
+              EA
+            
+            
+              Fuss
+              IJ
+            
+            
+              Bouladoux
+              N
+            
+            
+              Askenase
+              MH
+            
+            
+              Legrand
+              F
+            
+            
+              Koo
+              LY
+            
+            
+              Brenchley
+              JM
+            
+            
+              Fraser
+              ID
+            
+            
+              Belkaid
+              Y
+            
+          
+          Inflammatory monocytes regulate pathologic responses to commensals during acute gastrointestinal infection
+          Nat Med
+          2013
+          19
+          713
+          721
+          10.1038/nm.3189
+          
+          23708291
+        
+      
+      
+        26.
+        
+          
+            
+              Greter
+              M
+            
+            
+              Helft
+              J
+            
+            
+              Chow
+              A
+            
+            
+              Hashimoto
+              D
+            
+            
+              Mortha
+              A
+            
+            
+              Agudo-Cantero
+              J
+            
+            
+              Bogunovic
+              M
+            
+            
+              Gautier
+              EL
+            
+            
+              Miller
+              J
+            
+            
+              Leboeuf
+              M
+            
+            
+              Lu
+              G
+            
+            
+              Aloman
+              C
+            
+            
+              Brown
+              BD
+            
+            
+              Pollard
+              JW
+            
+            
+              Xiong
+              H
+            
+            
+              Randolph
+              GJ
+            
+            
+              Chipuk
+              JE
+            
+            
+              Frenette
+              PS
+            
+            
+              Merad
+              M
+            
+          
+          GM-CSF controls nonlymphoid tissue dendritic cell homeostasis but is dispensable for the differentiation of inflammatory dendritic cells
+          Immunity
+          2012
+          36
+          1031
+          1046
+          10.1016/j.immuni.2012.03.027
+          
+          22749353
+        
+      
+      
+        27.
+        
+          
+            
+              Grimm
+              MC
+            
+            
+              Pullman
+              WE
+            
+            
+              Bennett
+              GM
+            
+            
+              Sullivan
+              PJ
+            
+            
+              Pavli
+              P
+            
+            
+              Doe
+              WF
+            
+          
+          Direct evidence of monocyte recruitment to inflammatory bowel disease mucosa
+          J Gastroenterol Hepatol
+          1995
+          10
+          387
+          395
+          10.1111/j.1440-1746.1995.tb01589.x
+          
+          8527703
+        
+      
+      
+        28.
+        
+          
+            
+              Griseri
+              T
+            
+            
+              McKenzie
+              BS
+            
+            
+              Schiering
+              C
+            
+            
+              Powrie
+              F
+            
+          
+          Dysregulated hematopoietic stem and progenitor cell activity promotes interleukin-23-driven chronic intestinal inflammation
+          Immunity
+          2012
+          37
+          1116
+          1129
+          10.1016/j.immuni.2012.08.025
+          
+          23200826
+        
+      
+      
+        29.
+        
+          
+            
+              Gronert
+              K
+            
+            
+              Gewirtz
+              A
+            
+            
+              Madara
+              JL
+            
+            
+              Serhan
+              CN
+            
+          
+          Identification of a human enterocyte lipoxin A4 receptor that is regulated by interleukin (IL)-13 and interferon gamma and inhibits tumor necrosis factor alpha-induced IL-8 release
+          J Exp Med
+          1998
+          187
+          1285
+          1294
+          10.1084/jem.187.8.1285
+          
+          9547339
+        
+      
+      
+        30.
+        
+          
+            
+              Guilliams
+              M
+            
+            
+              De Kleer
+              I
+            
+            
+              Henri
+              S
+            
+            
+              Post
+              S
+            
+            
+              Vanhoutte
+              L
+            
+            
+              De Prijck
+              S
+            
+            
+              Deswarte
+              K
+            
+            
+              Malissen
+              B
+            
+            
+              Hammad
+              H
+            
+            
+              Lambrecht
+              BN
+            
+          
+          Alveolar macrophages develop from fetal monocytes that differentiate into long-lived cells in the first week of life via GM-CSF
+          J Exp Med
+          2013
+          210
+          1977
+          1992
+          10.1084/jem.20131199
+          
+          24043763
+        
+      
+      
+        31.
+        
+          
+            
+              Gurung
+              P
+            
+            
+              Li
+              B
+            
+            
+              Subbarao Malireddi
+              RK
+            
+            
+              Lamkanfi
+              M
+            
+            
+              Geiger
+              TL
+            
+            
+              Kanneganti
+              TD
+            
+          
+          Chronic TLR stimulation controls NLRP3 inflammasome activation through IL-10 mediated regulation of NLRP3 expression and caspase-8 activation
+          Sci Rep
+          2015
+          5
+          14488
+          10.1038/srep14488
+          
+          26412089
+        
+      
+      
+        32.
+        
+          
+            
+              Hadis
+              U
+            
+            
+              Wahl
+              B
+            
+            
+              Schulz
+              O
+            
+            
+              Hardtke-Wolenski
+              M
+            
+            
+              Schippers
+              A
+            
+            
+              Wagner
+              N
+            
+            
+              Muller
+              W
+            
+            
+              Sparwasser
+              T
+            
+            
+              Forster
+              R
+            
+            
+              Pabst
+              O
+            
+          
+          Intestinal tolerance requires gut homing and expansion of FoxP3+ regulatory T cells in the lamina propria
+          Immunity
+          2011
+          34
+          237
+          246
+          10.1016/j.immuni.2011.01.016
+          
+          21333554
+        
+      
+      
+        33.
+        
+          
+            
+              Hashimoto
+              D
+            
+            
+              Chow
+              A
+            
+            
+              Noizat
+              C
+            
+            
+              Teo
+              P
+            
+            
+              Beasley
+              MB
+            
+            
+              Leboeuf
+              M
+            
+            
+              Becker
+              CD
+            
+            
+              See
+              P
+            
+            
+              Price
+              J
+            
+            
+              Lucas
+              D
+            
+            
+              Greter
+              M
+            
+            
+              Mortha
+              A
+            
+            
+              Boyer
+              SW
+            
+            
+              Forsberg
+              EC
+            
+            
+              Tanaka
+              M
+            
+            
+              van Rooijen
+              N
+            
+            
+              Garcia-Sastre
+              A
+            
+            
+              Stanley
+              ER
+            
+            
+              Ginhoux
+              F
+            
+            
+              Frenette
+              PS
+            
+            
+              Merad
+              M
+            
+          
+          Tissue-resident macrophages self-maintain locally throughout adult life with minimal contribution from circulating monocytes
+          Immunity
+          2013
+          38
+          792
+          804
+          10.1016/j.immuni.2013.04.004
+          
+          23601688
+        
+      
+      
+        34.
+        
+          
+            
+              Hedl
+              M
+            
+            
+              Li
+              J
+            
+            
+              Cho
+              JH
+            
+            
+              Abraham
+              C
+            
+          
+          Chronic stimulation of Nod2 mediates tolerance to bacterial products
+          Proc Natl Acad Sci U S A
+          2007
+          104
+          19440
+          19445
+          10.1073/pnas.0706097104
+          
+          18032608
+        
+      
+      
+        35.
+        
+          
+            
+              Heimesaat
+              MM
+            
+            
+              Bereswill
+              S
+            
+            
+              Fischer
+              A
+            
+            
+              Fuchs
+              D
+            
+            
+              Struck
+              D
+            
+            
+              Niebergall
+              J
+            
+            
+              Jahn
+              HK
+            
+            
+              Dunay
+              IR
+            
+            
+              Moter
+              A
+            
+            
+              Gescher
+              DM
+            
+            
+              Schumann
+              RR
+            
+            
+              Gobel
+              UB
+            
+            
+              Liesenfeld
+              O
+            
+          
+          Gram-negative bacteria aggravate murine small intestinal Th1-type immunopathology following oral infection with Toxoplasma gondii
+          J Immunol
+          2006
+          177
+          8785
+          8795
+          10.4049/jimmunol.177.12.8785
+          
+          17142781
+        
+      
+      
+        36.
+        
+          
+            
+              Hettinger
+              J
+            
+            
+              Richards
+              DM
+            
+            
+              Hansson
+              J
+            
+            
+              Barra
+              MM
+            
+            
+              Joschko
+              AC
+            
+            
+              Krijgsveld
+              J
+            
+            
+              Feuerer
+              M
+            
+          
+          Origin of monocytes and macrophages in a committed progenitor
+          Nat Immunol
+          2013
+          14
+          821
+          830
+          10.1038/ni.2638
+          
+          23812096
+        
+      
+      
+        37.
+        
+          
+            
+              Hirotani
+              T
+            
+            
+              Lee
+              PY
+            
+            
+              Kuwata
+              H
+            
+            
+              Yamamoto
+              M
+            
+            
+              Matsumoto
+              M
+            
+            
+              Kawase
+              I
+            
+            
+              Akira
+              S
+            
+            
+              Takeda
+              K
+            
+          
+          The nuclear IkappaB protein IkappaBNS selectively inhibits lipopolysaccharide-induced IL-6 production in macrophages of the colonic lamina propria
+          J Immunol
+          2005
+          174
+          3650
+          3657
+          10.4049/jimmunol.174.6.3650
+          
+          15749903
+        
+      
+      
+        38.
+        
+          
+            
+              Hoeffel
+              G
+            
+            
+              Chen
+              J
+            
+            
+              Lavin
+              Y
+            
+            
+              Low
+              D
+            
+            
+              Almeida
+              FF
+            
+            
+              See
+              P
+            
+            
+              Beaudin
+              AE
+            
+            
+              Lum
+              J
+            
+            
+              Low
+              I
+            
+            
+              Forsberg
+              EC
+            
+            
+              Poidinger
+              M
+            
+            
+              Zolezzi
+              F
+            
+            
+              Larbi
+              A
+            
+            
+              Ng
+              LG
+            
+            
+              Chan
+              JK
+            
+            
+              Greter
+              M
+            
+            
+              Becher
+              B
+            
+            
+              Samokhvalov
+              IM
+            
+            
+              Merad
+              M
+            
+            
+              Ginhoux
+              F
+            
+          
+          C-Myb(+) erythro-myeloid progenitor-derived fetal monocytes give rise to adult tissue-resident macrophages
+          Immunity
+          2015
+          42
+          665
+          678
+          10.1016/j.immuni.2015.03.011
+          
+          25902481
+        
+      
+      
+        39.
+        
+          
+            
+              Hoeffel
+              G
+            
+            
+              Wang
+              Y
+            
+            
+              Greter
+              M
+            
+            
+              See
+              P
+            
+            
+              Teo
+              P
+            
+            
+              Malleret
+              B
+            
+            
+              Leboeuf
+              M
+            
+            
+              Low
+              D
+            
+            
+              Oller
+              G
+            
+            
+              Almeida
+              F
+            
+            
+              Choy
+              SH
+            
+            
+              Grisotto
+              M
+            
+            
+              Renia
+              L
+            
+            
+              Conway
+              SJ
+            
+            
+              Stanley
+              ER
+            
+            
+              Chan
+              JK
+            
+            
+              Ng
+              LG
+            
+            
+              Samokhvalov
+              IM
+            
+            
+              Merad
+              M
+            
+            
+              Ginhoux
+              F
+            
+          
+          Adult Langerhans cells derive predominantly from embryonic fetal liver monocytes with a minor contribution of yolk sac-derived macrophages
+          J Exp Med
+          2012
+          209
+          1167
+          1181
+          10.1084/jem.20120340
+          
+          22565823
+        
+      
+      
+        40.
+        
+          
+            
+              Hoshi
+              N
+            
+            
+              Schenten
+              D
+            
+            
+              Nish
+              SA
+            
+            
+              Walther
+              Z
+            
+            
+              Gagliani
+              N
+            
+            
+              Flavell
+              RA
+            
+            
+              Reizis
+              B
+            
+            
+              Shen
+              Z
+            
+            
+              Fox
+              JG
+            
+            
+              Iwasaki
+              A
+            
+            
+              Medzhitov
+              R
+            
+          
+          MyD88 signalling in colonic mononuclear phagocytes drives colitis in IL-10-deficient mice
+          Nat Commun
+          2012
+          3
+          1120
+          10.1038/ncomms2113
+          
+          23047678
+        
+      
+      
+        41.
+        
+          
+            
+              Houston
+              SA
+            
+            
+              Cerovic
+              V
+            
+            
+              Thomson
+              C
+            
+            
+              Brewer
+              J
+            
+            
+              Mowat
+              AM
+            
+            
+              Milling
+              S
+            
+          
+          The lymph nodes draining the small intestine and colon are anatomically separate and immunologically distinct
+          Mucosal Immunol
+          2016
+          9
+          468
+          478
+          10.1038/mi.2015.77
+          
+          26329428
+        
+      
+      
+        42.
+        
+          
+            
+              Hume
+              DA
+            
+            
+              Perry
+              VH
+            
+            
+              Gordon
+              S
+            
+          
+          The mononuclear phagocyte system of the mouse defined by immunohistochemical localisation of antigen F4/80: macrophages associated with epithelia
+          Anat Rec
+          1984
+          210
+          503
+          512
+          10.1002/ar.1092100311
+          
+          6524692
+        
+      
+      
+        43.
+        
+          
+            
+              Ingersoll
+              MA
+            
+            
+              Spanbroek
+              R
+            
+            
+              Lottaz
+              C
+            
+            
+              Gautier
+              EL
+            
+            
+              Frankenberger
+              M
+            
+            
+              Hoffmann
+              R
+            
+            
+              Lang
+              R
+            
+            
+              Haniffa
+              M
+            
+            
+              Collin
+              M
+            
+            
+              Tacke
+              F
+            
+            
+              Habenicht
+              AJ
+            
+            
+              Ziegler-Heitbrock
+              L
+            
+            
+              Randolph
+              GJ
+            
+          
+          Comparison of gene expression profiles between human and mouse monocyte subsets
+          Blood
+          2010
+          115
+          e10
+          e19
+          10.1182/blood-2009-07-235028
+          
+          19965649
+        
+      
+      
+        44.
+        
+          
+            
+              Ivanov
+              II
+            
+            
+              Atarashi
+              K
+            
+            
+              Manel
+              N
+            
+            
+              Brodie
+              EL
+            
+            
+              Shima
+              T
+            
+            
+              Karaoz
+              U
+            
+            
+              Wei
+              D
+            
+            
+              Goldfarb
+              KC
+            
+            
+              Santee
+              CA
+            
+            
+              Lynch
+              SV
+            
+            
+              Tanoue
+              T
+            
+            
+              Imaoka
+              A
+            
+            
+              Itoh
+              K
+            
+            
+              Takeda
+              K
+            
+            
+              Umesaki
+              Y
+            
+            
+              Honda
+              K
+            
+            
+              Littman
+              DR
+            
+          
+          Induction of intestinal Th17 cells by segmented filamentous bacteria
+          Cell
+          2009
+          139
+          485
+          498
+          10.1016/j.cell.2009.09.033
+          
+          19836068
+        
+      
+      
+        45.
+        
+          
+            
+              Jaensson
+              E
+            
+            
+              Uronen-Hansson
+              H
+            
+            
+              Pabst
+              O
+            
+            
+              Eksteen
+              B
+            
+            
+              Tian
+              J
+            
+            
+              Coombes
+              JL
+            
+            
+              Berg
+              PL
+            
+            
+              Davidsson
+              T
+            
+            
+              Powrie
+              F
+            
+            
+              Johansson-Lindbom
+              B
+            
+            
+              Agace
+              WW
+            
+          
+          Small intestinal CD103+ dendritic cells display unique functional properties that are conserved between mice and humans
+          J Exp Med
+          2008
+          205
+          2139
+          2149
+          10.1084/jem.20080414
+          
+          18710932
+        
+      
+      
+        46.
+        
+          
+            
+              Jung
+              S
+            
+            
+              Aliberti
+              J
+            
+            
+              Graemmel
+              P
+            
+            
+              Sunshine
+              MJ
+            
+            
+              Kreutzberg
+              GW
+            
+            
+              Sher
+              A
+            
+            
+              Littman
+              DR
+            
+          
+          Analysis of fractalkine receptor CX(3)CR1 function by targeted deletion and green fluorescent protein reporter gene insertion
+          Mol Cell Biol
+          2000
+          20
+          4106
+          4114
+          10.1128/MCB.20.11.4106-4114.2000
+          
+          10805752
+        
+      
+      
+        47.
+        
+          
+            
+              Kabouridis
+              PS
+            
+            
+              Lasrado
+              R
+            
+            
+              McCallum
+              S
+            
+            
+              Chng
+              SH
+            
+            
+              Snippert
+              HJ
+            
+            
+              Clevers
+              H
+            
+            
+              Pettersson
+              S
+            
+            
+              Pachnis
+              V
+            
+          
+          Microbiota controls the homeostasis of glial cells in the gut lamina propria
+          Neuron
+          2015
+          85
+          289
+          295
+          10.1016/j.neuron.2014.12.037
+          
+          25578362
+        
+      
+      
+        48.
+        
+          
+            
+              Kalinski
+              P
+            
+          
+          Regulation of immune responses by prostaglandin E2
+          J Immunol
+          2012
+          188
+          21
+          28
+          10.4049/jimmunol.1101029
+          
+          22187483
+        
+      
+      
+        49.
+        
+          
+            
+              Kamada
+              N
+            
+            
+              Hisamatsu
+              T
+            
+            
+              Okamoto
+              S
+            
+            
+              Chinen
+              H
+            
+            
+              Kobayashi
+              T
+            
+            
+              Sato
+              T
+            
+            
+              Sakuraba
+              A
+            
+            
+              Kitazume
+              MT
+            
+            
+              Sugita
+              A
+            
+            
+              Koganei
+              K
+            
+            
+              Akagawa
+              KS
+            
+            
+              Hibi
+              T
+            
+          
+          Unique CD14 intestinal macrophages contribute to the pathogenesis of Crohn disease via IL-23/IFN-gamma axis
+          J Clin Invest
+          2008
+          118
+          2269
+          2280
+          
+          18497880
+        
+      
+      
+        50.
+        
+          
+            
+              Kayama
+              H
+            
+            
+              Ueda
+              Y
+            
+            
+              Sawa
+              Y
+            
+            
+              Jeon
+              SG
+            
+            
+              Ma
+              JS
+            
+            
+              Okumura
+              R
+            
+            
+              Kubo
+              A
+            
+            
+              Ishii
+              M
+            
+            
+              Okazaki
+              T
+            
+            
+              Murakami
+              M
+            
+            
+              Yamamoto
+              M
+            
+            
+              Yagita
+              H
+            
+            
+              Takeda
+              K
+            
+          
+          Intestinal CX3C chemokine receptor 1(high) (CX3CR1(high)) myeloid cells prevent T-cell-dependent colitis
+          Proc Natl Acad Sci U S A
+          2012
+          109
+          5010
+          5015
+          10.1073/pnas.1114931109
+          
+          22403066
+        
+      
+      
+        51.
+        
+          
+            
+              Kim
+              KW
+            
+            
+              Vallon-Eberhard
+              A
+            
+            
+              Zigmond
+              E
+            
+            
+              Farache
+              J
+            
+            
+              Shezen
+              E
+            
+            
+              Shakhar
+              G
+            
+            
+              Ludwig
+              A
+            
+            
+              Lira
+              SA
+            
+            
+              Jung
+              S
+            
+          
+          In vivo structure/function and expression analysis of the CX3C chemokine fractalkine
+          Blood
+          2011
+          118
+          e156
+          e167
+          10.1182/blood-2011-04-348946
+          
+          21951685
+        
+      
+      
+        52.
+        
+          
+            
+              Klunker
+              S
+            
+            
+              Chong
+              MM
+            
+            
+              Mantel
+              PY
+            
+            
+              Palomares
+              O
+            
+            
+              Bassin
+              C
+            
+            
+              Ziegler
+              M
+            
+            
+              Ruckert
+              B
+            
+            
+              Meiler
+              F
+            
+            
+              Akdis
+              M
+            
+            
+              Littman
+              DR
+            
+            
+              Akdis
+              CA
+            
+          
+          Transcription factors RUNX1 and RUNX3 in the induction and suppressive function of Foxp3+ inducible regulatory T cells
+          J Exp Med
+          2009
+          206
+          2701
+          2715
+          10.1084/jem.20090596
+          
+          19917773
+        
+      
+      
+        53.
+        
+          
+            
+              Konkel
+              JE
+            
+            
+              Maruyama
+              T
+            
+            
+              Carpenter
+              AC
+            
+            
+              Xiong
+              Y
+            
+            
+              Zamarron
+              BF
+            
+            
+              Hall
+              BE
+            
+            
+              Kulkarni
+              AB
+            
+            
+              Zhang
+              P
+            
+            
+              Bosselut
+              R
+            
+            
+              Chen
+              W
+            
+          
+          Control of the development of CD8alphaalpha+ intestinal intraepithelial lymphocytes by TGF-beta
+          Nat Immunol
+          2011
+          12
+          312
+          319
+          10.1038/ni.1997
+          
+          21297643
+        
+      
+      
+        54.
+        
+          
+            
+              Kuhn
+              R
+            
+            
+              Lohler
+              J
+            
+            
+              Rennick
+              D
+            
+            
+              Rajewsky
+              K
+            
+            
+              Muller
+              W
+            
+          
+          Interleukin-10-deficient mice develop chronic enterocolitis
+          Cell
+          1993
+          75
+          263
+          274
+          10.1016/0092-8674(93)80068-P
+          
+          8402911
+        
+      
+      
+        55.
+        
+          
+            
+              Lavin
+              Y
+            
+            
+              Winter
+              D
+            
+            
+              Blecher-Gonen
+              R
+            
+            
+              David
+              E
+            
+            
+              Keren-Shaul
+              H
+            
+            
+              Merad
+              M
+            
+            
+              Jung
+              S
+            
+            
+              Amit
+              I
+            
+          
+          Tissue-resident macrophage enhancer landscapes are shaped by the local microenvironment
+          Cell
+          2014
+          159
+          1312
+          1326
+          10.1016/j.cell.2014.11.018
+          
+          25480296
+        
+      
+      
+        56.
+        
+          
+            
+              Lee
+              SH
+            
+            
+              Starkey
+              PM
+            
+            
+              Gordon
+              S
+            
+          
+          Quantitative analysis of total macrophage content in adult mouse tissues. Immunochemical studies with monoclonal antibody F4/80
+          J Exp Med
+          1985
+          161
+          475
+          489
+          10.1084/jem.161.3.475
+          
+          3973536
+        
+      
+      
+        57.
+        
+          
+            
+              Levy
+              BD
+            
+            
+              Clish
+              CB
+            
+            
+              Schmidt
+              B
+            
+            
+              Gronert
+              K
+            
+            
+              Serhan
+              CN
+            
+          
+          Lipid mediator class switching during acute inflammation: signals in resolution
+          Nat Immunol
+          2001
+          2
+          612
+          619
+          10.1038/89759
+          
+          11429545
+        
+      
+      
+        58.
+        
+          
+            
+              Li
+              B
+            
+            
+              Gurung
+              P
+            
+            
+              Malireddi
+              RK
+            
+            
+              Vogel
+              P
+            
+            
+              Kanneganti
+              TD
+            
+            
+              Geiger
+              TL
+            
+          
+          IL-10 engages macrophages to shift Th17 cytokine dependency and pathogenicity during T-cell-mediated colitis
+          Nat Commun
+          2015
+          6
+          6131
+          10.1038/ncomms7131
+          
+          25607885
+        
+      
+      
+        59.
+        
+          
+            
+              Liu
+              Y
+            
+            
+              van Kruiningen
+              HJ
+            
+            
+              West
+              AB
+            
+            
+              Cartun
+              RW
+            
+            
+              Cortot
+              A
+            
+            
+              Colombel
+              JF
+            
+          
+          Immunocytochemical evidence of Listeria, Escherichia coli, and Streptococcus antigens in Crohn’s disease
+          Gastroenterology
+          1995
+          108
+          1396
+          1404
+          10.1016/0016-5085(95)90687-8
+          
+          7729631
+        
+      
+      
+        60.
+        
+          
+            
+              Ludin
+              A
+            
+            
+              Itkin
+              T
+            
+            
+              Gur-Cohen
+              S
+            
+            
+              Mildner
+              A
+            
+            
+              Shezen
+              E
+            
+            
+              Golan
+              K
+            
+            
+              Kollet
+              O
+            
+            
+              Kalinkovich
+              A
+            
+            
+              Porat
+              Z
+            
+            
+              D’Uva
+              G
+            
+            
+              Schajnovitz
+              A
+            
+            
+              Voronov
+              E
+            
+            
+              Brenner
+              DA
+            
+            
+              Apte
+              RN
+            
+            
+              Jung
+              S
+            
+            
+              Lapidot
+              T
+            
+          
+          Monocytes-macrophages that express alpha-smooth muscle actin preserve primitive hematopoietic cells in the bone marrow
+          Nat Immunol
+          2012
+          13
+          1072
+          1082
+          10.1038/ni.2408
+          
+          22983360
+        
+      
+      
+        61.
+        
+          
+            
+              Ma
+              TY
+            
+            
+              Iwamoto
+              GK
+            
+            
+              Hoa
+              NT
+            
+            
+              Akotia
+              V
+            
+            
+              Pedram
+              A
+            
+            
+              Boivin
+              MA
+            
+            
+              Said
+              HM
+            
+          
+          TNF-alpha-induced increase in intestinal epithelial tight junction permeability requires NF-kappa B activation
+          Am J Physiol Gastrointest Liver Physiol
+          2004
+          286
+          G367
+          G376
+          10.1152/ajpgi.00173.2003
+          
+          14766535
+        
+      
+      
+        62.
+        
+          
+            
+              Malvin
+              NP
+            
+            
+              Seno
+              H
+            
+            
+              Stappenbeck
+              TS
+            
+          
+          Colonic epithelial response to injury requires Myd88 signaling in myeloid cells
+          Mucosal Immunol
+          2012
+          5
+          194
+          206
+          10.1038/mi.2011.65
+          
+          22258450
+        
+      
+      
+        63.
+        
+          
+            
+              Manta
+              C
+            
+            
+              Heupel
+              E
+            
+            
+              Radulovic
+              K
+            
+            
+              Rossini
+              V
+            
+            
+              Garbi
+              N
+            
+            
+              Riedel
+              CU
+            
+            
+              Niess
+              JH
+            
+          
+          CX(3)CR1(+) macrophages support IL-22 production by innate lymphoid cells during infection with Citrobacter rodentium
+          Mucosal Immunol
+          2013
+          6
+          177
+          188
+          10.1038/mi.2012.61
+          
+          22854708
+        
+      
+      
+        64.
+        
+          
+            
+              Margolis
+              KG
+            
+            
+              Gershon
+              MD
+            
+            
+              Bogunovic
+              M
+            
+          
+          Cellular organization of neuroimmune interactions in the gastrointestinal tract
+          Trends Immunol
+          2016
+          37
+          487
+          501
+          10.1016/j.it.2016.05.003
+          
+          27289177
+        
+      
+      
+        65.
+        
+          
+            
+              Mazzini
+              E
+            
+            
+              Massimiliano
+              L
+            
+            
+              Penna
+              G
+            
+            
+              Rescigno
+              M
+            
+          
+          Oral tolerance can be established via gap junction transfer of fed antigens from CX3CR1(+) macrophages to CD103(+) dendritic cells
+          Immunity
+          2014
+          40
+          248
+          261
+          10.1016/j.immuni.2013.12.012
+          
+          24462723
+        
+      
+      
+        66.
+        
+          
+            
+              Molawi
+              K
+            
+            
+              Wolf
+              Y
+            
+            
+              Kandalla
+              PK
+            
+            
+              Favret
+              J
+            
+            
+              Hagemeyer
+              N
+            
+            
+              Frenzel
+              K
+            
+            
+              Pinto
+              AR
+            
+            
+              Klapproth
+              K
+            
+            
+              Henri
+              S
+            
+            
+              Malissen
+              B
+            
+            
+              Rodewald
+              HR
+            
+            
+              Rosenthal
+              NA
+            
+            
+              Bajenoff
+              M
+            
+            
+              Prinz
+              M
+            
+            
+              Jung
+              S
+            
+            
+              Sieweke
+              MH
+            
+          
+          Progressive replacement of embryo-derived cardiac macrophages with age
+          J Exp Med
+          2014
+          211
+          2151
+          2158
+          10.1084/jem.20140639
+          
+          25245760
+        
+      
+      
+        67.
+        
+          
+            
+              Molloy
+              MJ
+            
+            
+              Grainger
+              JR
+            
+            
+              Bouladoux
+              N
+            
+            
+              Hand
+              TW
+            
+            
+              Koo
+              LY
+            
+            
+              Naik
+              S
+            
+            
+              Quinones
+              M
+            
+            
+              Dzutsev
+              AK
+            
+            
+              Gao
+              JL
+            
+            
+              Trinchieri
+              G
+            
+            
+              Murphy
+              PM
+            
+            
+              Belkaid
+              Y
+            
+          
+          Intraluminal containment of commensal outgrowth in the gut during infection-induced dysbiosis
+          Cell Host Microbe
+          2013
+          14
+          318
+          328
+          10.1016/j.chom.2013.08.003
+          
+          24034617
+        
+      
+      
+        68.
+        
+          
+            
+              Mortha
+              A
+            
+            
+              Chudnovskiy
+              A
+            
+            
+              Hashimoto
+              D
+            
+            
+              Bogunovic
+              M
+            
+            
+              Spencer
+              SP
+            
+            
+              Belkaid
+              Y
+            
+            
+              Merad
+              M
+            
+          
+          Microbiota-dependent crosstalk between macrophages and ILC3 promotes intestinal homeostasis
+          Science
+          2014
+          343
+          1249288
+          10.1126/science.1249288
+          
+          24625929
+        
+      
+      
+        69.
+        
+          
+            
+              Muller
+              PA
+            
+            
+              Koscso
+              B
+            
+            
+              Rajani
+              GM
+            
+            
+              Stevanovic
+              K
+            
+            
+              Berres
+              ML
+            
+            
+              Hashimoto
+              D
+            
+            
+              Mortha
+              A
+            
+            
+              Leboeuf
+              M
+            
+            
+              Li
+              XM
+            
+            
+              Mucida
+              D
+            
+            
+              Stanley
+              ER
+            
+            
+              Dahan
+              S
+            
+            
+              Margolis
+              KG
+            
+            
+              Gershon
+              MD
+            
+            
+              Merad
+              M
+            
+            
+              Bogunovic
+              M
+            
+          
+          Crosstalk between muscularis macrophages and enteric neurons regulates gastrointestinal motility
+          Cell
+          2014
+          158
+          300
+          313
+          10.1016/j.cell.2014.04.050
+          
+          25036630
+        
+      
+      
+        70.
+        
+          
+            
+              Nagashima
+              R
+            
+            
+              Maeda
+              K
+            
+            
+              Imai
+              Y
+            
+            
+              Takahashi
+              T
+            
+          
+          Lamina propria macrophages in the human gastrointestinal mucosa: their distribution, immunohistological phenotype, and function
+          J Histochem Cytochem
+          1996
+          44
+          721
+          731
+          10.1177/44.7.8675993
+          
+          8675993
+        
+      
+      
+        71.
+        
+          
+            
+              Niess
+              JH
+            
+            
+              Adler
+              G
+            
+          
+          Enteric flora expands gut lamina propria CX3CR1+ dendritic cells supporting inflammatory immune responses under normal and inflammatory conditions
+          J Immunol
+          2010
+          184
+          2026
+          2037
+          10.4049/jimmunol.0901936
+          
+          20089703
+        
+      
+      
+        72.
+        
+          
+            
+              Niess
+              JH
+            
+            
+              Brand
+              S
+            
+            
+              Gu
+              X
+            
+            
+              Landsman
+              L
+            
+            
+              Jung
+              S
+            
+            
+              McCormick
+              BA
+            
+            
+              Vyas
+              JM
+            
+            
+              Boes
+              M
+            
+            
+              Ploegh
+              HL
+            
+            
+              Fox
+              JG
+            
+            
+              Littman
+              DR
+            
+            
+              Reinecker
+              HC
+            
+          
+          CX3CR1-mediated dendritic cell access to the intestinal lumen and bacterial clearance
+          Science
+          2005
+          307
+          254
+          258
+          10.1126/science.1102901
+          
+          15653504
+        
+      
+      
+        73.
+        
+          
+            
+              Oldenhove
+              G
+            
+            
+              Bouladoux
+              N
+            
+            
+              Wohlfert
+              EA
+            
+            
+              Hall
+              JA
+            
+            
+              Chou
+              D
+            
+            
+              Dos Santos
+              L
+            
+            
+              O’Brien
+              S
+            
+            
+              Blank
+              R
+            
+            
+              Lamb
+              E
+            
+            
+              Natarajan
+              S
+            
+            
+              Kastenmayer
+              R
+            
+            
+              Hunter
+              C
+            
+            
+              Grigg
+              ME
+            
+            
+              Belkaid
+              Y
+            
+          
+          Decrease of Foxp3+ Treg cell number and acquisition of effector cell phenotype during lethal infection
+          Immunity
+          2009
+          31
+          772
+          786
+          10.1016/j.immuni.2009.10.001
+          
+          19896394
+        
+      
+      
+        74.
+        
+          
+            
+              Panea
+              C
+            
+            
+              Farkas
+              AM
+            
+            
+              Goto
+              Y
+            
+            
+              Abdollahi-Roodsaz
+              S
+            
+            
+              Lee
+              C
+            
+            
+              Koscso
+              B
+            
+            
+              Gowda
+              K
+            
+            
+              Hohl
+              TM
+            
+            
+              Bogunovic
+              M
+            
+            
+              Ivanov
+              II
+            
+          
+          Intestinal monocyte-derived macrophages control commensal-specific Th17 responses
+          Cell Rep
+          2015
+          12
+          1314
+          1324
+          10.1016/j.celrep.2015.07.040
+          
+          26279572
+        
+      
+      
+        75.
+        
+          
+            
+              Pender
+              SL
+            
+            
+              Quinn
+              JJ
+            
+            
+              Sanderson
+              IR
+            
+            
+              MacDonald
+              TT
+            
+          
+          Butyrate upregulates stromelysin-1 production by intestinal mesenchymal cells
+          Am J Physiol Gastrointest Liver Physiol
+          2000
+          279
+          G918
+          G924
+          
+          11052988
+        
+      
+      
+        76.
+        
+          
+            
+              Pereira
+              CF
+            
+            
+              Boven
+              LA
+            
+            
+              Middel
+              J
+            
+            
+              Verhoef
+              J
+            
+            
+              Nottet
+              HS
+            
+          
+          Induction of cyclooxygenase-2 expression during HIV-1-infected monocyte-derived macrophage and human brain microvascular endothelial cell interactions
+          J Leukoc Biol
+          2000
+          68
+          423
+          428
+          
+          10985260
+        
+      
+      
+        77.
+        
+          
+            
+              Pull
+              SL
+            
+            
+              Doherty
+              JM
+            
+            
+              Mills
+              JC
+            
+            
+              Gordon
+              JI
+            
+            
+              Stappenbeck
+              TS
+            
+          
+          Activated macrophages are an adaptive element of the colonic epithelial progenitor niche necessary for regenerative responses to injury
+          Proc Natl Acad Sci U S A
+          2005
+          102
+          99
+          104
+          10.1073/pnas.0405979102
+          
+          15615857
+        
+      
+      
+        78.
+        
+          
+            
+              Rani
+              R
+            
+            
+              Smulian
+              AG
+            
+            
+              Greaves
+              DR
+            
+            
+              Hogan
+              SP
+            
+            
+              Herbert
+              DR
+            
+          
+          TGF-beta limits IL-33 production and promotes the resolution of colitis through regulation of macrophage function
+          Eur J Immunol
+          2011
+          41
+          2000
+          2009
+          10.1002/eji.201041135
+          
+          21469118
+        
+      
+      
+        79.
+        
+          
+            
+              Rivollier
+              A
+            
+            
+              He
+              J
+            
+            
+              Kole
+              A
+            
+            
+              Valatas
+              V
+            
+            
+              Kelsall
+              BL
+            
+          
+          Inflammation switches the differentiation program of Ly6Chi monocytes from antiinflammatory macrophages to inflammatory dendritic cells in the colon
+          J Exp Med
+          2012
+          209
+          139
+          155
+          10.1084/jem.20101387
+          
+          22231304
+        
+      
+      
+        80.
+        
+          
+            
+              Rugtveit
+              J
+            
+            
+              Haraldsen
+              G
+            
+            
+              Hogasen
+              AK
+            
+            
+              Bakka
+              A
+            
+            
+              Brandtzaeg
+              P
+            
+            
+              Scott
+              H
+            
+          
+          Respiratory burst of intestinal macrophages in inflammatory bowel disease is mainly caused by CD14+L1+ monocyte derived cells
+          Gut
+          1995
+          37
+          367
+          373
+          10.1136/gut.37.3.367
+          
+          7590432
+        
+      
+      
+        81.
+        
+          
+            
+              Rugtveit
+              J
+            
+            
+              Nilsen
+              EM
+            
+            
+              Bakka
+              A
+            
+            
+              Carlsen
+              H
+            
+            
+              Brandtzaeg
+              P
+            
+            
+              Scott
+              H
+            
+          
+          Cytokine profiles differ in newly recruited and resident subsets of mucosal macrophages from inflammatory bowel disease
+          Gastroenterology
+          1997
+          112
+          1493
+          1505
+          10.1016/S0016-5085(97)70030-1
+          
+          9136827
+        
+      
+      
+        82.
+        
+          
+            
+              Ryan
+              GR
+            
+            
+              Dai
+              XM
+            
+            
+              Dominguez
+              MG
+            
+            
+              Tong
+              W
+            
+            
+              Chuan
+              F
+            
+            
+              Chisholm
+              O
+            
+            
+              Russell
+              RG
+            
+            
+              Pollard
+              JW
+            
+            
+              Stanley
+              ER
+            
+          
+          Rescue of the colony-stimulating factor 1 (CSF-1)-nullizygous mouse (Csf1(op)/Csf1(op)) phenotype with a CSF-1 transgene and identification of sites of local CSF-1 synthesis
+          Blood
+          2001
+          98
+          74
+          84
+          10.1182/blood.V98.1.74
+          
+          11418465
+        
+      
+      
+        83.
+        
+          
+            
+              Schlitzer
+              A
+            
+            
+              McGovern
+              N
+            
+            
+              Teo
+              P
+            
+            
+              Zelante
+              T
+            
+            
+              Atarashi
+              K
+            
+            
+              Low
+              D
+            
+            
+              Ho
+              AW
+            
+            
+              See
+              P
+            
+            
+              Shin
+              A
+            
+            
+              Wasan
+              PS
+            
+            
+              Hoeffel
+              G
+            
+            
+              Malleret
+              B
+            
+            
+              Heiseke
+              A
+            
+            
+              Chew
+              S
+            
+            
+              Jardine
+              L
+            
+            
+              Purvis
+              HA
+            
+            
+              Hilkens
+              CM
+            
+            
+              Tam
+              J
+            
+            
+              Poidinger
+              M
+            
+            
+              Stanley
+              ER
+            
+            
+              Krug
+              AB
+            
+            
+              Renia
+              L
+            
+            
+              Sivasankar
+              B
+            
+            
+              Ng
+              LG
+            
+            
+              Collin
+              M
+            
+            
+              Ricciardi-Castagnoli
+              P
+            
+            
+              Honda
+              K
+            
+            
+              Haniffa
+              M
+            
+            
+              Ginhoux
+              F
+            
+          
+          IRF4 transcription factor-dependent CD11b+ dendritic cells in human and mouse control mucosal IL-17 cytokine responses
+          Immunity
+          2013
+          38
+          970
+          983
+          10.1016/j.immuni.2013.04.011
+          
+          23706669
+        
+      
+      
+        84.
+        Schridde A, Bain CC, Mayer JU, Montgomery J, Pollet E, Denecke B, Milling SW, Jenkins SJ, Dalod M, Henri S, Malissen B, Pabst O, and McL Mowat A. Tissue-specific differentiation of colonic macrophages requires TGFbeta receptor-mediated signaling. Mucosal immunology 2017.
+      
+      
+        85.
+        
+          
+            
+              Schulz
+              O
+            
+            
+              Jaensson
+              E
+            
+            
+              Persson
+              EK
+            
+            
+              Liu
+              X
+            
+            
+              Worbs
+              T
+            
+            
+              Agace
+              WW
+            
+            
+              Pabst
+              O
+            
+          
+          Intestinal CD103+, but not CX3CR1+, antigen sampling cells migrate in lymph and serve classical dendritic cell functions
+          J Exp Med
+          2009
+          206
+          3101
+          3114
+          10.1084/jem.20091925
+          
+          20008524
+        
+      
+      
+        86.
+        
+          
+            
+              Scott
+              CL
+            
+            
+              Henri
+              S
+            
+            
+              Guilliams
+              M
+            
+          
+          Mononuclear phagocytes of the intestine, the skin, and the lung
+          Immunol Rev
+          2014
+          262
+          9
+          24
+          10.1111/imr.12220
+          
+          25319324
+        
+      
+      
+        87.
+        
+          
+            
+              Scott
+              CL
+            
+            
+              Zheng
+              F
+            
+            
+              De Baetselier
+              P
+            
+            
+              Martens
+              L
+            
+            
+              Saeys
+              Y
+            
+            
+              De Prijck
+              S
+            
+            
+              Lippens
+              S
+            
+            
+              Abels
+              C
+            
+            
+              Schoonooghe
+              S
+            
+            
+              Raes
+              G
+            
+            
+              Devoogdt
+              N
+            
+            
+              Lambrecht
+              BN
+            
+            
+              Beschin
+              A
+            
+            
+              Guilliams
+              M
+            
+          
+          Bone marrow-derived monocytes give rise to self-renewing and fully differentiated Kupffer cells
+          Nat Commun
+          2016
+          7
+          10321
+          10.1038/ncomms10321
+          
+          26813785
+        
+      
+      
+        88.
+        
+          
+            
+              Seo
+              SU
+            
+            
+              Kuffa
+              P
+            
+            
+              Kitamoto
+              S
+            
+            
+              Nagao-Kitamoto
+              H
+            
+            
+              Rousseau
+              J
+            
+            
+              Kim
+              YG
+            
+            
+              Nunez
+              G
+            
+            
+              Kamada
+              N
+            
+          
+          Intestinal macrophages arising from CCR2(+) monocytes control pathogen infection by activating innate lymphoid cells
+          Nat Commun
+          2015
+          6
+          8010
+          10.1038/ncomms9010
+          
+          26269452
+        
+      
+      
+        89.
+        
+          
+            
+              Serbina
+              NV
+            
+            
+              Pamer
+              EG
+            
+          
+          Monocyte emigration from bone marrow during bacterial infection requires signals mediated by chemokine receptor CCR2
+          Nat Immunol
+          2006
+          7
+          311
+          317
+          10.1038/ni1309
+          
+          16462739
+        
+      
+      
+        90.
+        
+          
+            
+              Serbina
+              NV
+            
+            
+              Salazar-Mather
+              TP
+            
+            
+              Biron
+              CA
+            
+            
+              Kuziel
+              WA
+            
+            
+              Pamer
+              EG
+            
+          
+          TNF/iNOS-producing dendritic cells mediate innate immune defense against bacterial infection
+          Immunity
+          2003
+          19
+          59
+          70
+          10.1016/S1074-7613(03)00171-7
+          
+          12871639
+        
+      
+      
+        91.
+        
+          
+            
+              Serhan
+              CN
+            
+            
+              Chiang
+              N
+            
+            
+              Van Dyke
+              TE
+            
+          
+          Resolving inflammation: dual anti-inflammatory and pro-resolution lipid mediators
+          Nat Rev Immunol
+          2008
+          8
+          349
+          361
+          10.1038/nri2294
+          
+          18437155
+        
+      
+      
+        92.
+        
+          
+            
+              Shan
+              M
+            
+            
+              Gentile
+              M
+            
+            
+              Yeiser
+              JR
+            
+            
+              Walland
+              AC
+            
+            
+              Bornstein
+              VU
+            
+            
+              Chen
+              K
+            
+            
+              He
+              B
+            
+            
+              Cassis
+              L
+            
+            
+              Bigas
+              A
+            
+            
+              Cols
+              M
+            
+            
+              Comerma
+              L
+            
+            
+              Huang
+              B
+            
+            
+              Blander
+              JM
+            
+            
+              Xiong
+              H
+            
+            
+              Mayer
+              L
+            
+            
+              Berin
+              C
+            
+            
+              Augenlicht
+              LH
+            
+            
+              Velcich
+              A
+            
+            
+              Cerutti
+              A
+            
+          
+          Mucus enhances gut homeostasis and oral tolerance by delivering immunoregulatory signals
+          Science
+          2013
+          342
+          447
+          453
+          10.1126/science.1237910
+          
+          24072822
+        
+      
+      
+        93.
+        
+          
+            
+              Shaw
+              MH
+            
+            
+              Kamada
+              N
+            
+            
+              Kim
+              YG
+            
+            
+              Nunez
+              G
+            
+          
+          Microbiota-induced IL-1beta, but not IL-6, is critical for the development of steady-state TH17 cells in the intestine
+          J Exp Med
+          2012
+          209
+          251
+          258
+          10.1084/jem.20111703
+          
+          22291094
+        
+      
+      
+        94.
+        
+          
+            
+              Shouval
+              DS
+            
+            
+              Biswas
+              A
+            
+            
+              Goettel
+              JA
+            
+            
+              McCann
+              K
+            
+            
+              Conaway
+              E
+            
+            
+              Redhu
+              NS
+            
+            
+              Mascanfroni
+              ID
+            
+            
+              Al Adham
+              Z
+            
+            
+              Lavoie
+              S
+            
+            
+              Ibourk
+              M
+            
+            
+              Nguyen
+              DD
+            
+            
+              Samsom
+              JN
+            
+            
+              Escher
+              JC
+            
+            
+              Somech
+              R
+            
+            
+              Weiss
+              B
+            
+            
+              Beier
+              R
+            
+            
+              Conklin
+              LS
+            
+            
+              Ebens
+              CL
+            
+            
+              Santos
+              FG
+            
+            
+              Ferreira
+              AR
+            
+            
+              Sherlock
+              M
+            
+            
+              Bhan
+              AK
+            
+            
+              Muller
+              W
+            
+            
+              Mora
+              JR
+            
+            
+              Quintana
+              FJ
+            
+            
+              Klein
+              C
+            
+            
+              Muise
+              AM
+            
+            
+              Horwitz
+              BH
+            
+            
+              Snapper
+              SB
+            
+          
+          Interleukin-10 receptor signaling in innate immune cells regulates mucosal immune tolerance and anti-inflammatory macrophage function
+          Immunity
+          2014
+          40
+          706
+          719
+          10.1016/j.immuni.2014.03.011
+          
+          24792912
+        
+      
+      
+        95.
+        
+          
+            
+              Smith
+              PD
+            
+            
+              Smythies
+              LE
+            
+            
+              Shen
+              R
+            
+            
+              Greenwell-Wild
+              T
+            
+            
+              Gliozzi
+              M
+            
+            
+              Wahl
+              SM
+            
+          
+          Intestinal macrophages and response to microbial encroachment
+          Mucosal Immunol
+          2011
+          4
+          31
+          42
+          10.1038/mi.2010.66
+          
+          20962772
+        
+      
+      
+        96.
+        
+          
+            
+              Smythies
+              LE
+            
+            
+              Sellers
+              M
+            
+            
+              Clements
+              RH
+            
+            
+              Mosteller-Barnum
+              M
+            
+            
+              Meng
+              G
+            
+            
+              Benjamin
+              WH
+            
+            
+              Orenstein
+              JM
+            
+            
+              Smith
+              PD
+            
+          
+          Human intestinal macrophages display profound inflammatory anergy despite avid phagocytic and bacteriocidal activity
+          J Clin Invest
+          2005
+          115
+          66
+          75
+          10.1172/JCI200519229
+          
+          15630445
+        
+      
+      
+        97.
+        
+          
+            
+              Smythies
+              LE
+            
+            
+              Shen
+              R
+            
+            
+              Bimczok
+              D
+            
+            
+              Novak
+              L
+            
+            
+              Clements
+              RH
+            
+            
+              Eckhoff
+              DE
+            
+            
+              Bouchard
+              P
+            
+            
+              George
+              MD
+            
+            
+              Hu
+              WK
+            
+            
+              Dandekar
+              S
+            
+            
+              Smith
+              PD
+            
+          
+          Inflammation anergy in human intestinal macrophages is due to Smad-induced IkappaBalpha expression and NF-kappaB inactivation
+          J Biol Chem
+          2010
+          285
+          19593
+          19604
+          10.1074/jbc.M109.069955
+          
+          20388715
+        
+      
+      
+        98.
+        
+          
+            
+              Soroosh
+              P
+            
+            
+              Doherty
+              TA
+            
+            
+              Duan
+              W
+            
+            
+              Mehta
+              AK
+            
+            
+              Choi
+              H
+            
+            
+              Adams
+              YF
+            
+            
+              Mikulski
+              Z
+            
+            
+              Khorram
+              N
+            
+            
+              Rosenthal
+              P
+            
+            
+              Broide
+              DH
+            
+            
+              Croft
+              M
+            
+          
+          Lung-resident tissue macrophages generate Foxp3+ regulatory T cells and promote airway tolerance
+          J Exp Med
+          2013
+          210
+          775
+          788
+          10.1084/jem.20121849
+          
+          23547101
+        
+      
+      
+        99.
+        
+          
+            
+              Stadnyk
+              AW
+            
+          
+          Cytokine production by epithelial cells
+          FASEB J
+          1994
+          8
+          1041
+          1047
+          
+          7926369
+        
+      
+      
+        100.
+        
+          
+            
+              Sun
+              CM
+            
+            
+              Hall
+              JA
+            
+            
+              Blank
+              RB
+            
+            
+              Bouladoux
+              N
+            
+            
+              Oukka
+              M
+            
+            
+              Mora
+              JR
+            
+            
+              Belkaid
+              Y
+            
+          
+          Small intestine lamina propria dendritic cells promote de novo generation of Foxp3 T reg cells via retinoic acid
+          J Exp Med
+          2007
+          204
+          1775
+          1785
+          10.1084/jem.20070602
+          
+          17620362
+        
+      
+      
+        101.
+        
+          
+            
+              Suzuki
+              T
+            
+            
+              Arumugam
+              P
+            
+            
+              Sakagami
+              T
+            
+            
+              Lachmann
+              N
+            
+            
+              Chalk
+              C
+            
+            
+              Sallese
+              A
+            
+            
+              Abe
+              S
+            
+            
+              Trapnell
+              C
+            
+            
+              Carey
+              B
+            
+            
+              Moritz
+              T
+            
+            
+              Malik
+              P
+            
+            
+              Lutzko
+              C
+            
+            
+              Wood
+              RE
+            
+            
+              Trapnell
+              BC
+            
+          
+          Pulmonary macrophage transplantation therapy
+          Nature
+          2014
+          514
+          450
+          454
+          10.1038/nature13807
+          
+          25274301
+        
+      
+      
+        102.
+        
+          
+            
+              Takeda
+              K
+            
+            
+              Clausen
+              BE
+            
+            
+              Kaisho
+              T
+            
+            
+              Tsujimura
+              T
+            
+            
+              Terada
+              N
+            
+            
+              Forster
+              I
+            
+            
+              Akira
+              S
+            
+          
+          Enhanced Th1 activity and development of chronic enterocolitis in mice devoid of Stat3 in macrophages and neutrophils
+          Immunity
+          1999
+          10
+          39
+          49
+          10.1016/S1074-7613(00)80005-9
+          
+          10023769
+        
+      
+      
+        103.
+        
+          
+            
+              Tamoutounour
+              S
+            
+            
+              Guilliams
+              M
+            
+            
+              Montanana Sanchis
+              F
+            
+            
+              Liu
+              H
+            
+            
+              Terhorst
+              D
+            
+            
+              Malosse
+              C
+            
+            
+              Pollet
+              E
+            
+            
+              Ardouin
+              L
+            
+            
+              Luche
+              H
+            
+            
+              Sanchez
+              C
+            
+            
+              Dalod
+              M
+            
+            
+              Malissen
+              B
+            
+            
+              Henri
+              S
+            
+          
+          Origins and functional specialization of macrophages and of conventional and monocyte-derived dendritic cells in mouse skin
+          Immunity
+          2013
+          39
+          925
+          938
+          10.1016/j.immuni.2013.10.004
+          
+          24184057
+        
+      
+      
+        104.
+        
+          
+            
+              Tamoutounour
+              S
+            
+            
+              Henri
+              S
+            
+            
+              Lelouard
+              H
+            
+            
+              de Bovis
+              B
+            
+            
+              de Haar
+              C
+            
+            
+              van der Woude
+              CJ
+            
+            
+              Woltman
+              AM
+            
+            
+              Reyal
+              Y
+            
+            
+              Bonnet
+              D
+            
+            
+              Sichien
+              D
+            
+            
+              Bain
+              CC
+            
+            
+              Mowat
+              AM
+            
+            
+              Reis e Sousa
+              C
+            
+            
+              Poulin
+              LF
+            
+            
+              Malissen
+              B
+            
+            
+              Guilliams
+              M
+            
+          
+          CD64 distinguishes macrophages from dendritic cells in the gut and reveals the Th1-inducing role of mesenteric lymph node macrophages during colitis
+          Eur J Immunol
+          2012
+          42
+          3150
+          3166
+          10.1002/eji.201242847
+          
+          22936024
+        
+      
+      
+        105.
+        
+          
+            
+              Thiesen
+              S
+            
+            
+              Janciauskiene
+              S
+            
+            
+              Uronen-Hansson
+              H
+            
+            
+              Agace
+              W
+            
+            
+              Hogerkorp
+              CM
+            
+            
+              Spee
+              P
+            
+            
+              Hakansson
+              K
+            
+            
+              Grip
+              O
+            
+          
+          CD14(hi)HLA-DR(dim) macrophages, with a resemblance to classical blood monocytes, dominate inflamed mucosa in Crohn’s disease
+          J Leukoc Biol
+          2014
+          95
+          531
+          541
+          10.1189/jlb.0113021
+          
+          24212097
+        
+      
+      
+        106.
+        
+          
+            
+              Trompette
+              A
+            
+            
+              Gollwitzer
+              ES
+            
+            
+              Yadava
+              K
+            
+            
+              Sichelstiel
+              AK
+            
+            
+              Sprenger
+              N
+            
+            
+              Ngom-Bru
+              C
+            
+            
+              Blanchard
+              C
+            
+            
+              Junt
+              T
+            
+            
+              Nicod
+              LP
+            
+            
+              Harris
+              NL
+            
+            
+              Marsland
+              BJ
+            
+          
+          Gut microbiota metabolism of dietary fiber influences allergic airway disease and hematopoiesis
+          Nat Med
+          2014
+          20
+          159
+          166
+          10.1038/nm.3444
+          
+          24390308
+        
+      
+      
+        107.
+        
+          
+            
+              Ubeda
+              C
+            
+            
+              Lipuma
+              L
+            
+            
+              Gobourne
+              A
+            
+            
+              Viale
+              A
+            
+            
+              Leiner
+              I
+            
+            
+              Equinda
+              M
+            
+            
+              Khanin
+              R
+            
+            
+              Pamer
+              EG
+            
+          
+          Familial transmission rather than defective innate immunity shapes the distinct intestinal microbiota of TLR-deficient mice
+          J Exp Med
+          2012
+          209
+          1445
+          1456
+          10.1084/jem.20120504
+          
+          22826298
+        
+      
+      
+        108.
+        
+          
+            
+              Ueda
+              Y
+            
+            
+              Kayama
+              H
+            
+            
+              Jeon
+              SG
+            
+            
+              Kusu
+              T
+            
+            
+              Isaka
+              Y
+            
+            
+              Rakugi
+              H
+            
+            
+              Yamamoto
+              M
+            
+            
+              Takeda
+              K
+            
+          
+          Commensal microbiota induce LPS hyporesponsiveness in colonic macrophages via the production of IL-10
+          Int Immunol
+          2010
+          22
+          953
+          962
+          10.1093/intimm/dxq449
+          
+          21051439
+        
+      
+      
+        109.
+        
+          
+            
+              van de Laar
+              L
+            
+            
+              Saelens
+              W
+            
+            
+              De Prijck
+              S
+            
+            
+              Martens
+              L
+            
+            
+              Scott
+              CL
+            
+            
+              Van Isterdael
+              G
+            
+            
+              Hoffmann
+              E
+            
+            
+              Beyaert
+              R
+            
+            
+              Saeys
+              Y
+            
+            
+              Lambrecht
+              BN
+            
+            
+              Guilliams
+              M
+            
+          
+          Yolk sac macrophages, fetal liver, and adult monocytes can colonize an empty niche and develop into functional tissue-resident macrophages
+          Immunity
+          2016
+          44
+          755
+          768
+          10.1016/j.immuni.2016.02.017
+          
+          26992565
+        
+      
+      
+        110.
+        
+          
+            
+              van Furth
+              R
+            
+            
+              Cohn
+              ZA
+            
+            
+              Hirsch
+              JG
+            
+            
+              Humphrey
+              JH
+            
+            
+              Spector
+              WG
+            
+            
+              Langevoort
+              HL
+            
+          
+          The mononuclear phagocyte system: a new classification of macrophages, monocytes, and their precursor cells
+          Bull World Health Organ
+          1972
+          46
+          845
+          852
+          
+          4538544
+        
+      
+      
+        111.
+        
+          
+            
+              Varol
+              C
+            
+            
+              Vallon-Eberhard
+              A
+            
+            
+              Elinav
+              E
+            
+            
+              Aychek
+              T
+            
+            
+              Shapira
+              Y
+            
+            
+              Luche
+              H
+            
+            
+              Fehling
+              HJ
+            
+            
+              Hardt
+              WD
+            
+            
+              Shakhar
+              G
+            
+            
+              Jung
+              S
+            
+          
+          Intestinal lamina propria dendritic cell subsets have different origin and functions
+          Immunity
+          2009
+          31
+          502
+          512
+          10.1016/j.immuni.2009.06.025
+          
+          19733097
+        
+      
+      
+        112.
+        
+          
+            
+              Wang
+              Y
+            
+            
+              Szretter
+              KJ
+            
+            
+              Vermi
+              W
+            
+            
+              Gilfillan
+              S
+            
+            
+              Rossini
+              C
+            
+            
+              Cella
+              M
+            
+            
+              Barrow
+              AD
+            
+            
+              Diamond
+              MS
+            
+            
+              Colonna
+              M
+            
+          
+          IL-34 is a tissue-restricted ligand of CSF1R required for the development of Langerhans cells and microglia
+          Nat Immunol
+          2012
+          13
+          753
+          760
+          10.1038/ni.2360
+          
+          22729249
+        
+      
+      
+        113.
+        
+          
+            
+              Weaver
+              CT
+            
+            
+              Elson
+              CO
+            
+            
+              Fouser
+              LA
+            
+            
+              Kolls
+              JK
+            
+          
+          The Th17 pathway and inflammatory diseases of the intestines, lungs, and skin
+          Annu Rev Pathol
+          2013
+          8
+          477
+          512
+          10.1146/annurev-pathol-011110-130318
+          
+          23157335
+        
+      
+      
+        114.
+        
+          
+            
+              Weber
+              B
+            
+            
+              Saurer
+              L
+            
+            
+              Schenk
+              M
+            
+            
+              Dickgreber
+              N
+            
+            
+              Mueller
+              C
+            
+          
+          CX3CR1 defines functionally distinct intestinal mononuclear phagocyte subsets which maintain their respective functions during homeostatic and inflammatory conditions
+          Eur J Immunol
+          2011
+          41
+          773
+          779
+          10.1002/eji.201040965
+          
+          21341263
+        
+      
+      
+        115.
+        
+          
+            
+              Wertheim
+              WA
+            
+            
+              Kunkel
+              SL
+            
+            
+              Standiford
+              TJ
+            
+            
+              Burdick
+              MD
+            
+            
+              Becker
+              FS
+            
+            
+              Wilke
+              CA
+            
+            
+              Gilbert
+              AR
+            
+            
+              Strieter
+              RM
+            
+          
+          Regulation of neutrophil-derived IL-8: the role of prostaglandin E2, dexamethasone, and IL-4
+          J Immunol
+          1993
+          151
+          2166
+          2175
+          
+          8345201
+        
+      
+      
+        116.
+        
+          
+            
+              Yona
+              S
+            
+            
+              Kim
+              KW
+            
+            
+              Wolf
+              Y
+            
+            
+              Mildner
+              A
+            
+            
+              Varol
+              D
+            
+            
+              Breker
+              M
+            
+            
+              Strauss-Ayali
+              D
+            
+            
+              Viukov
+              S
+            
+            
+              Guilliams
+              M
+            
+            
+              Misharin
+              A
+            
+            
+              Hume
+              DA
+            
+            
+              Perlman
+              H
+            
+            
+              Malissen
+              B
+            
+            
+              Zelzer
+              E
+            
+            
+              Jung
+              S
+            
+          
+          Fate mapping reveals origins and dynamics of monocytes and tissue macrophages under homeostasis
+          Immunity
+          2013
+          38
+          79
+          91
+          10.1016/j.immuni.2012.12.001
+          
+          23273845
+        
+      
+      
+        117.
+        
+          
+            
+              Zigmond
+              E
+            
+            
+              Bernshtein
+              B
+            
+            
+              Friedlander
+              G
+            
+            
+              Walker
+              CR
+            
+            
+              Yona
+              S
+            
+            
+              Kim
+              KW
+            
+            
+              Brenner
+              O
+            
+            
+              Krauthgamer
+              R
+            
+            
+              Varol
+              C
+            
+            
+              Muller
+              W
+            
+            
+              Jung
+              S
+            
+          
+          Macrophage-restricted interleukin-10 receptor deficiency, but not IL-10 deficiency, causes severe spontaneous colitis
+          Immunity
+          2014
+          40
+          720
+          733
+          10.1016/j.immuni.2014.03.012
+          
+          24792913
+        
+      
+      
+        118.
+        
+          
+            
+              Zigmond
+              E
+            
+            
+              Jung
+              S
+            
+          
+          Intestinal macrophages: well educated exceptions from the rule
+          Trends Immunol
+          2013
+          34
+          162
+          168
+          10.1016/j.it.2013.02.001
+          
+          23477922
+        
+      
+      
+        119.
+        
+          
+            
+              Zigmond
+              E
+            
+            
+              Varol
+              C
+            
+            
+              Farache
+              J
+            
+            
+              Elmaliah
+              E
+            
+            
+              Satpathy
+              AT
+            
+            
+              Friedlander
+              G
+            
+            
+              Mack
+              M
+            
+            
+              Shpigel
+              N
+            
+            
+              Boneca
+              IG
+            
+            
+              Murphy
+              KM
+            
+            
+              Shakhar
+              G
+            
+            
+              Halpern
+              Z
+            
+            
+              Jung
+              S
+            
+          
+          Ly6C hi monocytes in the inflamed colon give rise to proinflammatory effector cells and migratory antigen-presenting cells
+          Immunity
+          2012
+          37
+          1076
+          1090
+          10.1016/j.immuni.2012.08.026
+          
+          23219392
+        
+      
+    
+  

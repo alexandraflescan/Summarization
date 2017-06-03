@@ -1,0 +1,435 @@
+oai:pubmedcentral.nih.gov:53598562017-04-04jripmc-open
+Analyses of growth differentiation factor 9 (GDF9) and bone morphogenetic protein 15 (BMP 15) mutation in Chinese women with premature ovarian failure
+
+        
+          Background:
+          Premature ovarian failure (POF) is an ovarian defect characterized by the premature depletion of ovarian follicles before the age of 40, representing one major cause of female infertility. Mutations in bone morphogenetic protein 15 (BMP15) and growth differentiation factor 9 (GDF9) have been shown to be associated with POF.
+        
+        
+          Methods:
+          Genomic DNA was isolated from 52 idiopathic premature ovarian failure patients and 100 normal control individuals. Exons of BMP15 and GDF9 gene were amplified using PCR method and subjected to directed sequencing. Variants were identified by comparing the sequences obtained with normal sequences from NCBI database.
+        
+        
+          Results:
+          Four BMP15 gene variants were identified in 6 patients in heterozygous condition. Out of these 4 variants, 3 variants namely, c.165A&gt;T (p.Glu55Asp), c.538 G&gt;T (p.Aln180 Ser) and c. 510_512 delT were novel variants. In silico analysis using SIFT, Provean and Polyphen 2 score predicted the non-deleterious effect of c.165A&gt;T and c.538 G&gt;T variant. 788insTCT variant was identified in 3 patients. No variant was identified in GDF9 gene in any patients and controls.
+        
+        
+          Conclusion:
+          Although the variant has been identified in BMP15 gene but it may not be associated with the premature ovarian failure.
+        
+      
+
+        Bone morphogenetic protein 15
+        Female infertility
+        Gene mutation
+        Growth differentiation factor 9
+        Premature ovarian failure
+      
+
+    
+      Introduction
+      Premature ovarian failure (POF) is characterized by hyper gonadotropic ovarian deficiency with primary or secondary amenorrhoea (1). It affects 0.0001% of females by the age of 20 years, 0.001% by 30 years and 0.01% by 40 years, showing the one major cause of female infertility (2).
+      Ovarian function is regulated by a combined stimulus of gonadotropins, follicular stimulating hormone (FSH), luteinizing hormone, and local ovarian factors such as inhibins, activins, bone morphogenetic protein 15 (BMP15) and growth differentiation factor 9 (GDF9). A familial accumulation of the POF syndrome has been observed in between 4 and 31% of the patients with POF which suggests dominant genetic etiology (3).
+      BMP15 and GDF9 belong to transforming growth factor-β (TGF-β) superfamily (4, 5). Genes belonging to TGF β superfamily regulate many aspects of development by activating transmembrane serine/threonine kinase receptors (6). BMP15 has been shown to stimulate granulosa cell growth and promotes the progression of folliculogenesis from the primary stage to the follicle stimulating hormone (FSH) dependent stage (7–9). Mutations in BMP15 gene have been found as a culprit for POF in several worldwide cohorts with a variable prevalence between 1.5 and 12% (10–12). However, Zhang et al. (13) and Ledig et al. (14) failed to find any association between BMP15 and POF.
+      GDF9 is also expressed in the oocyte and its products can form noncovalent heterodimers acting in a synergistic manner on the function of surrounding follicular granulosa cells (15). GDF9 gene variations in humans described so far in different ethnicities are all heterozygous, affect exclusively the pro-region with a prevalence of 1.4%, and are not detected in the control samples (16–18).
+      Due to these conflicting results of various studies, this study was planned to evaluate the association between growth differentiation factor 9 (GDF9) and bone morphogenetic protein 15 (BMP15) genes mutations with premature ovarian failure.
+    
+    
+      Methods
+      
+        Subjects:
+        Patients with a diagnosis of POF were recruited from the Department of Obstetrics and Gynaecology, Sri Aurobindo Medical Collage and PG Institute, Indore during the period between September 2012 and March 2015. A total of 52 patients with idiopathic premature ovarian failure or insufficiency subjects with 46XX karyotype were enrolled in the present study. The patients had a mean age of 29.82±6.0 years (range, 17–39 years). Less than 40 year old healthy individuals visiting the department for routine investigations were selected as the control group. All the control individuals had a regular menstrual cycle, and normal reproductive hormone levels and chromosomes.
+        The inclusion criteria of all participants were ≤40 years of age, duration of amenorrhea ≥6 months, serum FSH level ≥40 IU/l on two or more occasions with the presence of amenorrhea. Individuals with a history of ovarian surgery, radiotherapy, chemotherapy or other factors, which may damage ovarian functions, were excluded. The present study was approved by the Ethics Review Committee of the Sri Aurobindo Medical Collage and PG Institute. Written informed consent was obtained from all participants following a detailed description of the potential benefits of the investigation.
+      
+      
+        DNA extraction, sequencing and analysis:
+        All the laboratory investigations were performed in Central Research Laboratory of the institute; 5 ml venous blood sample was drawn in EDTA vacutainer. Genomic DNA was extracted from the blood using a QIAamp DNA isolation kit according to the manufacturer’s instructions, and the concentration was determined using Qubit Fluorometer (Life Technologies). PCR amplification of the GDF9 and BMP15 genes was performed using the primers shown in table 1, in a 50 μl reaction volume containing 50 nmol DNA template, 200 nmol dNTP, 10 pmol forward and reverse primers, 1 U Taq DNA polymerase and ddH2O, under the PCR amplification conditions shown in table 1. The PCR products were purified by DNA purification kit and subjected to direct sequencing using big dye terminator kit 3.1 (Applied Biosystems).
+        
+          Table 1.
+          
+            Primers and protocols used for PCR amplification of GDF9 and BMP15
+          
+          
+            
+              
+                
+                  Gene
+                
+                
+                  Location
+                
+                
+                  Primer sequence
+                
+                
+                  PCR amplification protocol
+                
+              
+            
+            
+              
+                
+                  GDF9
+                
+                
+                
+                
+              
+              
+                
+                Exon 1
+                F,5′-TAGTCCACCCACACACCTGA-3′;R,5′-CCAGAAGCCTGAGAACCA -3′F,5′-TTCCTCCTTTGGTTTTGCTG-3′;R,5′-AAAGCTCTGGAGTCTGGCTG -3′F,5′-TTCTATCTGTTGGGCGAGGT-3′;R,5′-CATCTTCCCTCCACCCAGT-3′F, 5′-CTGCCTGTTGTGTTGACTGA-3′;R,5′-TCTGAATCCATTTGTGTTTCTTTC-3′
+                94°C for 5 min, followed by 30 cycles at 94°C for 30 s, 58°C for 30 s and 72°C for 30 s, then finally 72°C for 7 min
+              
+              
+                
+                Exon 2
+                F,5′-CTCTCGGCAGAGCTCCATAC-3′;R,5′-GGGGACACCAGAGTCATGTT-3′F,5′-CGCAGAGGTCAGGAAACTGT-3′;R,5′-GGTCTTGGCACTGAGGAGTC-3′F,5′-TGAAAGACCAGCTGGAGCA-3′;R,5′-TCAGATTGAAGGAAGCTGGG-3′F,5′-TCGGTATGGCTCTCCAGTTC-3′;R,5′-AATATATCAAGCTTTCTCTTGAAG-3′
+                94°C for 5 min, followed by 30 cycles at 94°C for 30 s, 58°C for 30 s and 72°C for 30 s, then finally 72°C for 7 min
+              
+              
+                
+                  BMP15
+                
+                
+                
+                
+              
+              
+                
+                Exon 1
+                F, 5′-TTGTGTTGGGGCCTGTTGTT-3′;R,5′-GGTACAACTCCAGCATGTACC-3′F,5′-GCTGCTAGAAGAATCCCCTG-3′;R,5′-AACCCACCAATTCCCTTTT-3′
+                94°C for 5 min, followed by 30 cycles at 94°C for 60 s, 58°C for 60 s and 72°C for 60 s, then finally 72°C for 7 min
+              
+              
+                
+                Exon 2
+                F,5′-AATATTCATGTTAAGAGGTAAGA-3′;R,5′-AGGAAGGGAAGTGGTTGGTT-3′F,5′-TCAATCTCTCCTGCCATGTGG-3′;R,5′-TGTCCAAGGATGAAGAGCC -3′F,5′-TGGTCTTGAGCTCTGGCATG-3′;R,5′-CTGATTTGGAAAGGGTGGAG-3′
+                94°C for 5 min, followed by 30 cycles at 94°C for 30 s, 58°C for 30 s and 72°C for 30 s, then finally 72°C for 7 min
+              
+            
+          
+        
+        The sequencing chromatograms were assessed using the ABI sequence scanner program and the sequences of the GDF9 and BMP15 genes were aligned to those registered in Gene Bank (http://www.ncbi.nlm.nih.gov/genbank/) for the identification of mutant loci.
+        To determine the potentially deleterious effect of the amino acid changes, Provean software (http://provean.jcvi.org/index.php), SIFT software (http://sift.jcvi.org) and Polyphen 2 software (http://genetics.bwh.harvard.edu/pph2/) were used. Provean software predicts whether an amino acid substitution or indel has an impact on the biological function of a protein (19). The SIFT software predicts whether an amino acid substitution affects protein function based on sequence homology and the physical properties of amino acids (20). PolyPhen-2 (Polymorphism Phenotyping v2) predicts possible impact of amino acid substitutions on the structure and function of human proteins using straightforward physical and evolutionary comparative considerations (21).
+      
+    
+    
+      Results
+      Sequencing data collection and analysis were successfully performed for the GDF9 and BMP15 genes in all the cases and controls, which included non-familial POF cases; no variant was observed in the coding region of the GDF9 gene of any case and control sample. Four variants of BMP15 gene were observed in cases which included two missense substitutions, one in exon I and the other in exon II position (Table 2). FS 788-ins-TCT was present in 3 cases. Three novel variants were observed in our cohort namely, c.510–512del T, c.165A&gt;T (p.Glu55Asp) and c.538 G&gt;T (p.Aln 180Ser). c.510–512del T is the frameshift variant resulting in elongated chain and by dominant negative effect it impairs the function of normal protein. The c.165A&gt;T (p.Glu.55Asp) is a missense variant and changes the glutamic acid to asparagine at position 55. Provean score for this missense variant was −0.61(cut off score &gt;−2.5) and SIFT prediction score was 0.108 (Cut off &gt;0.05). Both of these scores predicted the neutral effect of this missense variant. This variant was predicted to be benign with a score of 0.007 (sensitivity: 0.96; specificity: 0.75) by PolyPhen 2 software.
+      
+        Table 2.
+        
+          Sequence variation in the BMP15 gene in POF patients
+        
+        
+          
+            
+              
+                Sequence variation
+              
+              
+                AA change
+              
+              
+                Protein domain
+              
+              
+                No. of patients
+              
+              
+                No. of controls
+              
+            
+          
+          
+            
+              
+                165A&gt;T
+              
+              Glu55Asp
+              Exon 1
+              1/52
+              0/100
+            
+            
+              
+                538 G&gt;T
+              
+              Arg180Leu
+              Exon 2
+              1/52
+              0/100
+            
+            
+              
+                788insTCT
+              
+              ins263L
+              Exon 2
+              3/52
+              0/100
+            
+            
+              
+                510–512 Del T
+              
+              -
+              Exon 2
+              1/52
+              0/100
+            
+          
+        
+      
+      In other patients of POF, c.538 G&gt;T (p. Aln 180 Ser) missense variant was observed. This variant also has neutral effect on the protein function as predicted by Provean (0.17) and SIFT score (0.418). PolyPhen 2 also predicted this variant as benign with score of 0.156 (sensitivity: 0.92; specificity: 0.87). The clinical characteristics of the patients carrying BMP15 variants are detailed in table 3. No variant in BMP15 gene was observed in the control group.
+      
+        Table 3.
+        
+          Characteristics of patients having BMP15 gene mutation
+        
+        
+          
+            
+              
+                BMP15 gene variant
+              
+              
+                Ethnic origin
+              
+              
+                Age
+              
+              
+                Amenorrhoea
+              
+              
+                FSH level (mIU/ml)
+              
+            
+          
+          
+            
+              
+                165A&gt;T
+              
+              Indian
+              31
+              Secondary
+              109
+            
+            
+              
+                538 G&gt;T
+              
+              Indian
+              33
+              Secondary
+              96
+            
+            
+              
+                788insTCT
+              
+              Indian
+              28
+              Secondary
+              136
+            
+            
+              
+                788insTCT
+              
+              Indian
+              32
+              Secondary
+              116
+            
+            
+              
+                788insTCT
+              
+              Indian
+              35
+              Secondary
+              98
+            
+            
+              
+                510–512-deletion
+              
+              Indian
+              35
+              Secondary
+              138
+            
+          
+        
+      
+    
+    
+      Discussion
+      POF is mostly portrayed as a heterogeneous genetic disorder but its etiology still remains elusive. Studies have illuminated the comprehensive role of two oocyte derived growth factors, GDF9 and BMP15, as the main driving force for the proliferation and progression of somatic follicle cells (22). The BMP15 gene plays a vital role in early human folliculogenesis and it is characterized as a strong candidate gene for POF. BMP15 is a member of the large superfamily of the transforming growth factor β (TGFβ) proteins involved in diverse cellular processes during embryonic development and tissue formation (23). The main roles of BMP15 include a) the promotion of follicle maturation from the primordial gonadotropin independent phases of folliculogenesis; b) regulation of follicular GC sensitivity to FSH action; c) prevention of GC apoptosis; d) promotion of oocyte developmental competence; and e) regulation of ovulation quota (9, 24).
+      In the present study, four variants in BMP15 gene were identified of which three variants were novel.
+      c.165A&gt;T (p.Glu55Asp) and c.538 G&gt;T (p.Aln 180Ser) variants has no deleterious effect as predicted by in silico analysis.
+      Previous studies reported different variant C. 538G&gt;A (p.Aln180Thr) at the same position at which we observed C.538G&gt;T (p.Aln180Ser) (11, 25). Similar to our prediction previous reports also shows no deleterious effect of this variant.
+      788insTCT variant was observed in three patients in our study. This variant has been identified in patients presenting with POF in many previous studies (6, 12, 25, 27). This insertion may be considered as a polymorphism as it was previously identified in controls as well (6, 11, 26, 27). This variant was not found in any of the control subjects.
+      No variant was observed in GDF9 gene in either patients or controls. This is in contrast to the study done by dixit et al. (17) and Laissue et al. (11) which show the GDF9 variants in POF patients.
+    
+    
+      Conclusion
+      In conclusion, the present study provided evidence for naturally occurring variants in association with POF and points to the massive importance of BMP15 as a vital candidate gene, which should also be studied in other populations. Although software assessment of the variants reveals their neutral effect, their functional implication cannot be ruled out altogether. Experimental studies should be conducted to determine the real implication of those variations.
+    
+  
+
+    
+      Acknowledgement
+      This study was financed by the Department of Science and Technology, New Delhi, India.
+    
+    
+      
+        
+          Conflict of Interest
+        
+        The authors report no declarations of interest. Source of funding was DST, New Delhi, India.
+      
+    
+    
+      References
+      
+        1.
+        CoulamCB.
+Premature gonadal failure. Fertil Steril. 1982;38(6):645–55.7141005
+      
+      
+        2.
+        CoulamCBAdamsonSCAnnegersJF.
+Incidence of premature ovarian failure. Obstet Gynecol. 1986; 67(4):604–6.3960433
+      
+      
+        3.
+        DixitHRaoLPadmalathaVRaseswariTKapuAKPandaB
+Genes governing premature ovarian failure. Reprod Biomed Online. 2010;20(6): 724–40.20382564
+      
+      
+        4.
+        ChandALPonnampalamAPHarrisSEWinshipIMShellingAN.
+Mutational analysis of BMP15 and GDF9 as candidate genes for premature ovarian failure. Fertil Steril. 2006;86(4):1009–12.17027369
+      
+      
+        5.
+        RichardsJSRussellDLOchsnerSHsiehMDoyleKHFalenderAE
+Novel signaling pathways that control ovarian follicular development, ovulation, and luteinization. Recent Prog Horm Res. 2002;57:195–220.
+      
+      
+        6.
+        Di PasqualeEBeck-PeccozPPersaniL.
+Hypergonadotropic ovarian failure associated with an inherited mutation of human bone morphogenetic protein-15 (BMP15) gene. Am J Hum Genet. 2004;75 (1):106–11.15136966
+      
+      
+        7.
+        ChangHBrownCWMatzukMM.
+Genetic analysis of the mammalian transforming growth factor-beta superfamily. Endocr Rev. 2002;23(6):787–823.12466190
+      
+      
+        8.
+        OtsukaFYaoZLeeTYamamotoSEricksonGFShimasakiS.
+Bone morphogenetic protein-15. Identification of target cells and biological functions. J Biol Chem. 2000;275(50):39523–8.10998422
+      
+      
+        9.
+        ShimasakiSMooreRKOtsukaFEricksonGF.
+The bone morphogenetic protein system in mammalian reproduction. Endocr Rev. 2004;25(1):72–101.14769828
+      
+      
+        10.
+        Di PasqualeERossettiRMarozziABodegaBBorgatoSCavellL
+Identification of new variants of human BMP15 gene in a large cohort of women with premature ovarian failure. J Clin Endocrinol Metab. 2006;91(5):1976–9.16464940
+      
+      
+        11.
+        LaissuePChristin-MaitreSTourainePKuttennFRitvosOAittomakiK
+Mutations and sequence variants in GDF9 and BMP15 in patients with premature ovarian failure. Eur J Endocrinol. 2006;154(5):739–44.16645022
+      
+      
+        12.
+        RossettiRDi PasqualeEMarozziABioneSTonioloDGrammaticoP
+BMP15 mutations associated with primary ovarian insufficiency cause a defective production of bioactive protein. Hum Mutat. 2009;30(5):804–10.19263482
+      
+      
+        13.
+        ZhangPShiYHWangLCChenZJ.
+Sequence variants in exons of the BMP-15 gene in Chinese patients with premature ovarian failure. Acta Obstet Gynecol Scand. 2007;86(5):585–9.17464588
+      
+      
+        14.
+        LedigSRöpkeAHaeuslerGHinneyBWieackerP.
+BMP15 mutations in XX gonadal dysgenesis and premature ovarian failure. Am J Obstet Gynecol. 2008;198(1):84.e1–5.17826728
+      
+      
+        15.
+        YanCWangPDeMayoJDeMayoFJElvinJACarinoC
+Synergistic roles of bone morphogenetic protein 15 and growth differentiation factor 9 in ovarian function. Mol Endocrinol. 2001;15(6): 854–66.11376106
+      
+      
+        16.
+        TakebayashiKTakakuraKWangHKimuraFKasaharaKNodaY.
+Mutation analysis of the growth differentiation factor-9 and -9B genes in patients with premature ovarian failure and polycystic ovary syndrome. Fertil Steril. 2000;74(5): 976–9.11056243
+      
+      
+        17.
+        DixitHRaoLKPadmalathaVKanakavalliMDeenadayalMGuptaN
+Mutational screening of the coding region of growth differentiation factor 9 gene in Indian women with ovarian failure. Menopause. 2005;12(6):749–54.16278619
+      
+      
+        18.
+        ZhaoHQinYKovanciESimpsonJLChenZJRajkovicA.
+Analyses of GDF9 mutation in 100 Chinese women with premature ovarian failure. Fertil Steril. 2007;88(5):1474–6.17482612
+      
+      
+        19.
+        ChoiYSimsGEMurphySMillerJRChanAP.
+Predicting the functional effect of amino acid substitutions and indels. PLoS One. 2012;7(10): e46688.23056405
+      
+      
+        20.
+        NgPCHenikoffS.
+SIFT: Predicting amino acid changes that affect protein function. Nucleic Acids Res. 2003;31(13):3812–4.12824425
+      
+      
+        21.
+        AdzhubeiIJordanDMSunyaevSR.
+Predicting functional effect of human missense mutations using PolyPhen-2. Curr Protoc Hum Genet. 2013; Chapter 7:Unit7.20.
+      
+      
+        22.
+        ZhaoZZPainterJNPalmerJSWebbPMHaywardNKWhitemanDC
+Variation in bone morphogenetic protein 15 is not associated with spontaneous human dizygotic twinning. Hum Reprod. 2008;23(10):2372–9.18614612
+      
+      
+        23.
+        HoganBL.
+Bone morphogenetic proteins: multifunctional regulators of vertebrate development. Genes Dev. 1996;10(13):1580–94.8682290
+      
+      
+        24.
+        HashimotoOMooreRKShimasakiS.
+Posttranslational processing of mouse and human BMP-15: potential implication in the determination of ovulation quota. Proc Natl Acad Sci USA. 2005;102 (15):5426–31.15809424
+      
+      
+        25.
+        TiotiuDAlvaro MercadalBImbertRVerbistJDemeestereIDe LeenerA
+Variants of the BMP15 gene in a cohort of patients with premature ovarian failure. Hum Reprod. 2010;25(6):1581–7.20364024
+      
+      
+        26.
+        DixitHRaoLKPadmalathaVVKanakavalliMDeenadayalMGuptaN
+Missense mutations in the BMP15 gene are associated with ovarian failure. Hum Genet. 2006;119(4):408–15.16508750
+      
+      
+        27.
+        WangBWenQNiFZhouSWangJCaoY
+Analyses of growth differentiation factor 9 (GDF9) and bone morphogenetic protein 15 (BMP 15) mutation in Chinese women with premature ovarian failure. Clin Endocrinol (Oxf). 2010;72(1): 135–6.19438907
+      
+    
+  

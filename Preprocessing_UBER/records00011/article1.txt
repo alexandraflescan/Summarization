@@ -1,0 +1,4125 @@
+oai:pubmedcentral.nih.gov:53608622017-04-04springeropenpmc-open
+A similarity measure for atanassov intuitionistic fuzzy sets and its application to clustering
+
+    
+      Introduction
+      Clustering is a well-known procedure to deal with an unsupervised learning problem appearing in pattern recognition. Clustering is a process of organizing data into groups called clusters so that objects in the same cluster are similar to one another, but are dissimilar to objects in other clusters [1]. The main contribution in the field of clustering analysis was the pioneering work of MacQueen [1] and Bezdek [2]. They had introduced highly significant clustering algorithms such as k-means [1] and fuzzy c-means [2]. Among all clustering algorithms, k-means is the simplest unsupervised clustering algorithm that makes use of a minimum distance from the center, and it has many applications in scientific and industrial research [3–6] (for more information about the k-means clustering algorithm, see Section 5). K-means algorithm is distance dependent, so its outputs vary with changing distance measures. Among all distance measures, a clustering process was usually carried out through the Euclidean distance measure [7], but many times it failed to offer good results. In this paper, we define \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)- and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ)-distance measure. Further, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi )$\end{document}M(ϕ)-distance is used to cluster two-moon dataset. The output result is compared with the result of Euclidean distance measure to show the efficacy of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance over the Euclidean distance measure. \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi )$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ)-distance measures are the generalization of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi)$\end{document}m(ϕ)- and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi)$\end{document}n(ϕ)-distance measures introduced by Sargent [8] and further studied by Mursaleen [9, 10] (to know more about \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi )$\end{document}m(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi)$\end{document}n(ϕ), refer to [8–10]). The \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) spaces are closely related to \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{p}$\end{document}lp distance measures. \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{p}$\end{document}lp measures and its variance are mostly used to solve the problems evolving in the fields of Market prediction [11], Machine Learning [12], Pattern Recognition [13], Clustering [20] etc.
+      Throughout the paper, by ω we denote the set of all real or complex sequences. Moreover, by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{\infty}$\end{document}l∞, c and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c_{0}$\end{document}c0 we denote the Banach spaces of bounded, convergent and null sequences, respectively; and let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{p}$\end{document}lp be the Banach space of absolutely p-summable sequences with p-norm \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}${\Vert \cdot \Vert } _{p}$\end{document}∥⋅∥p. For the following notions, we refer to [14, 15]. A double sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = (x_{jk})$\end{document}x=(xjk) of real or complex numbers is said to be bounded if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Vert x \Vert _{\infty} &lt; \infty$\end{document}∥x∥∞&lt;∞, the space of all bounded double sequences is denoted by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathcal{L}_{\infty}$\end{document}L∞. A double sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = (x_{jk})$\end{document}x=(xjk) is said to converge to the limit L in Pringsheim’s sense (shortly, convergent to L) if for every \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\varepsilon&gt; 0$\end{document}ε&gt;0, there exists an integer N such that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert x_{jk} - L\vert &lt; \varepsilon$\end{document}|xjk−L|&lt;ε whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$j,k &gt; N$\end{document}j,k&gt;N. In this case L is called the p-limit of x. If in addition \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in\mathcal{L}_{\infty}$\end{document}x∈L∞, then x is said to be boundedly convergent to L in Pringsheim’s sense (shortly, bp-convergent to L). A double sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = (x_{jk})$\end{document}x=(xjk) is said to converge regularly to L (shortly, r-convergent to L) if x is p-convergent and the limits \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x_{j}: = \lim_{k}x_{jk}$\end{document}xj:=limkxjk (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$j \in\mathbb {N} $\end{document}j∈N) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x^{k}: = \lim_{j}x_{jk}$\end{document}xk:=limjxjk (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$k \in\mathbb{N} $\end{document}k∈N) exist. Note that in this case the limits \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\lim_{j}\lim_{k}x_{jk}$\end{document}limjlimkxjk and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\lim_{k}\lim_{j}x_{jk}$\end{document}limklimjxjk exist and are equal to the p-limit of x. In general, for any notion of convergence ν, the space of all ν-convergent double sequences will be denoted by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathcal{C}_{\nu}$\end{document}Cν and the limit of a ν-convergent double sequence x by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\nu\textrm{-} \lim_{j,k}x_{jk}$\end{document}ν-limj,kxjk, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\nu\in\{ p,\mathit{bp},r\}$\end{document}ν∈{p,bp,r}.
+      Let Ω denote a vector space of all double sequences with the vector space operations defined coordinate-wise. Vector subspaces of Ω are called double sequence spaces. Let us consider a double sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = \{ x_{mn}\}$\end{document}x={xmn} and define the sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s = \{ s_{mn}\}$\end{document}s={smn} via x by
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$s_{mn}: = \sum_{i,j}^{m,n} x_{ij}\quad (m,n \in\mathbb{N} ). $$\end{document}smn:=∑i,jm,nxij(m,n∈N).
+
+      Then the pair \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$(x,s)$\end{document}(x,s) and the sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s = \{ s_{mn}\}$\end{document}s={smn} are called a double series and a sequence of partial sums of the double series, respectively. Let λ be the space of double sequences converging with respect to some linear convergence rule \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mu\textrm{-} \lim:\lambda\to \mathbb{R}$\end{document}μ-lim:λ→R. The sum of a double series \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{i,j = 1}^{\infty,\infty} x_{ij}$\end{document}∑i,j=1∞,∞xij with respect to this rule is defined by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mu\textrm{-} \sum_{i,j = 1}^{\infty,\infty} x_{ij}: = \mu\textrm{-} \lim s_{mn}$\end{document}μ-∑i,j=1∞,∞xij:=μ-limsmn. Başar and Şever introduced the space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{p}$\end{document}Lp in [16]
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$L_{p}: = \biggl\{ \{ x_{mn}\} \in\Omega:\sum _{m,n} \vert x_{mn}\vert ^{p} &lt; \infty \biggr\} \quad (1 \le p &lt; \infty) $$\end{document}Lp:={{xmn}∈Ω:∑m,n|xmn|p&lt;∞}(1≤p&lt;∞) corresponding to the space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{p}$\end{document}lp for \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$p \ge1$\end{document}p≥1 and examined some of its properties. Altay and Başar [17] have generalized the spaces of double sequences \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{\infty}$\end{document}L∞, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{p}$\end{document}Cp and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{\mathit{bp}}$\end{document}Cbp to
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document} $$\begin{aligned}&amp; L_{\infty} (t) = \Bigl\{ \{ x_{mn}\} \in\Omega:\sup _{m,n \in\mathbb{N}} \vert x_{mn}\vert ^{t_{mn}} &lt; \infty \Bigr\} , \\&amp; C_{p}(t) = \Bigl\{ \{ x_{mn}\} \in\Omega:p \textrm{-} \lim _{m,n \to \infty} \vert x_{mn} - \ell \vert ^{t_{mn}} = 0 \Bigr\} , \end{aligned}$$ \end{document}L∞(t)={{xmn}∈Ω:supm,n∈N|xmn|tmn&lt;∞},Cp(t)={{xmn}∈Ω:p-limm,n→∞|xmn−ℓ|tmn=0}, and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{\mathit{bp}}(t) = C_{p}(t) \cap L_{\infty} (t), $$\end{document}Cbp(t)=Cp(t)∩L∞(t), respectively, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$t = \{ t_{mn}\}$\end{document}t={tmn} is the sequence of strictly positive reals \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$t_{mn}$\end{document}tmn. In the case \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$t_{mn} = 1$\end{document}tmn=1, for all \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m,n \in\mathbb{N}$\end{document}m,n∈N, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{\infty} (t)$\end{document}L∞(t), \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{p}(t)$\end{document}Cp(t) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{\mathit{bp}}(t)$\end{document}Cbp(t) reduce to the sets \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{\infty}$\end{document}L∞, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{p}$\end{document}Cp and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$C_{\mathit{bp}}$\end{document}Cbp, respectively. Further, let C be the space whose elements are finite sets of distinct positive integers. Given any element σ of C, we denote by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c(\sigma)$\end{document}c(σ) the sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ c_{n}(\sigma)\}$\end{document}{cn(σ)} which is such that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c_{n}(\sigma) = 1$\end{document}cn(σ)=1 if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n \in \sigma$\end{document}n∈σ, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c_{n}(\sigma) = 0$\end{document}cn(σ)=0 otherwise. Further, let
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$C_{s} = \Biggl\{ \sigma\in C:\sum_{n = 1}^{\infty} c_{n}(\sigma) \le s \Biggr\} $$\end{document}Cs={σ∈C:∑n=1∞cn(σ)≤s} be the set of those σ whose support has cardinality at most s, and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Phi= \biggl\{ \phi= \{ \phi_{n}\} \in\omega: \phi_{1} &gt; 0,\Delta\phi_{n} \ge0\mbox{ and }\Delta \biggl( \frac{\phi_{n}}{n} \biggr) \le0\ (n = 1,2, \ldots) \biggr\} , $$\end{document}Φ={ϕ={ϕn}∈ω:ϕ1&gt;0,Δϕn≥0 and Δ(ϕnn)≤0(n=1,2,…)}, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\phi_{n} = \phi_{n} - \phi_{n - 1}$\end{document}Δϕn=ϕn−ϕn−1 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi _{0} = 0$\end{document}ϕ0=0.
+      For \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi\in\Phi$\end{document}ϕ∈Φ, the following sequence spaces were introduced and studied in [8] by Sargent and further studied by Mursaleen in [9, 10]:
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$m(\phi) = \biggl\{ x = \{ x_{n}\} \in\omega:\sup _{s \ge 1} \sup_{\sigma\in C_{s}} \biggl( \frac{1}{\phi_{s}} \sum_{n \in\sigma} \vert x_{n}\vert \biggr) &lt; \infty \biggr\} , $$\end{document}m(ϕ)={x={xn}∈ω:sups≥1supσ∈Cs(1ϕs∑n∈σ|xn|)&lt;∞}, and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$n(\phi) = \Biggl\{ x = \{ x_{n}\} \in\omega:\sup _{u \in S(x)} \Biggl( \sum_{m,n = 1,1}^{\infty,\infty} \vert u_{n}\vert \Delta\phi_{n} \Biggr) &lt; \infty \Biggr\} . $$\end{document}n(ϕ)={x={xn}∈ω:supu∈S(x)(∑m,n=1,1∞,∞|un|Δϕn)&lt;∞}.
+
+      
+        Remark 1.1
+        
+(i)The spaces \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi)$\end{document}m(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi)$\end{document}n(ϕ) are BK-spaces with their usual norms.(ii)If \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{n} = 1$\end{document}ϕn=1 (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n = 1,2,3,\ldots$\end{document}n=1,2,3,…), then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi) = l_{1}$\end{document}m(ϕ)=l1 [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi) = l_{\infty} $\end{document}n(ϕ)=l∞], and if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{n} = n$\end{document}ϕn=n (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n = 1,2,3,\ldots$\end{document}n=1,2,3,…), then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi) = l_{\infty}$\end{document}m(ϕ)=l∞ [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi) = l_{1} $\end{document}n(ϕ)=l1].(iii)
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{1} \subseteq m(\phi) \subseteq l_{\infty} $\end{document}l1⊆m(ϕ)⊆l∞ [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{1} \subseteq n(\phi) \subseteq l_{\infty} $\end{document}l1⊆n(ϕ)⊆l∞] for all \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi\in\Phi$\end{document}ϕ∈Φ.(iv)For any \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi\in\Phi$\end{document}ϕ∈Φ, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m(\phi)\neq l_{p}$\end{document}m(ϕ)≠lp [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n(\phi)\neq l_{q} $\end{document}n(ϕ)≠lq], \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$1 &lt; p &lt; \infty$\end{document}1&lt;p&lt;∞.
+
+        In this paper, we define Sargent’s spaces for double sequences \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = \{ x_{mn}\}$\end{document}x={xmn}. For this we first suppose U to be the set whose elements are finite sets of distinct elements of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathbb{N} \times\mathbb{N}$\end{document}N×N obtained by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sigma\times\varsigma$\end{document}σ×ς, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sigma\in C_{s}$\end{document}σ∈Cs and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\varsigma\in C_{t}$\end{document}ς∈Ct for each \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t \ge1$\end{document}s,t≥1. Therefore, any element ζ of U means \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$(m,n)$\end{document}(m,n); \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m \in\sigma$\end{document}m∈σ and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n \in\varsigma$\end{document}n∈ς having cardinality at most st, where s is the cardinality with respect to m and t is the cardinality with respect to n. Given any element ζ of U, we denote by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c(\zeta)$\end{document}c(ζ) the sequence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ c_{mn}(\zeta)\}$\end{document}{cmn(ζ)} such that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$c_{mn}(\zeta) = \textstyle\begin{cases} 1; &amp; \mbox{if } (m,n) \in\zeta,\\ 0; &amp; \mbox{otherwise}. \end{cases} $$\end{document}cmn(ζ)={1;if (m,n)∈ζ,0;otherwise. Further, we write
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$U_{st} = \Biggl\{ \zeta\in U:\sum_{m,n = 1}^{\infty,\infty} c_{mn}(\zeta) \le st \Biggr\} $$\end{document}Ust={ζ∈U:∑m,n=1∞,∞cmn(ζ)≤st} for the set of those ζ whose support has cardinality at most st; and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Theta= \biggl\{ \phi= \{ \phi_{mn}\} \in\Omega: \phi_{11} &gt; 0,\Delta_{11}\phi_{mn} \ge0\mbox{ and } \Delta_{11} \biggl( \frac{\phi_{mn}}{mn} \biggr) \le0\ (m,n = 1,2, \ldots) \biggr\} , $$\end{document}Θ={ϕ={ϕmn}∈Ω:ϕ11&gt;0,Δ11ϕmn≥0 and Δ11(ϕmnmn)≤0(m,n=1,2,…)}, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta_{11}\phi_{mn} = \phi_{mn} - \phi_{m - 1,n} - \phi_{m,n - 1} + \phi_{m - 1,n - 1}$\end{document}Δ11ϕmn=ϕmn−ϕm−1,n−ϕm,n−1+ϕm−1,n−1 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{00}$\end{document}ϕ00, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{0m}$\end{document}ϕ0m, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{n0} = 0$\end{document}ϕn0=0, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\forall m,n \in\mathbb{I}^{ +}$\end{document}∀m,n∈I+. Throughout the paper, we write \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{m,n \in\zeta}$\end{document}∑m,n∈ζ for \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{m \in \sigma} \sum_{n \in\varsigma}$\end{document}∑m∈σ∑n∈ς, and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$S(x)$\end{document}S(x) is used to denote the set of all double sequences that are rearrangements of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = \{ x_{mn}\} \in \Omega$\end{document}x={xmn}∈Ω. For \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi\in\Theta$\end{document}ϕ∈Θ, we define the following sequence spaces:
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$M(\phi) = \biggl\{ x = \{ x_{mn}\} \in\Omega: \Vert x \Vert _{M(\phi )} = \sup_{s,t \ge1}\sup_{\zeta\in U_{st}} \biggl( \frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert x_{mn} \vert \biggr) &lt; \infty \biggr\} $$\end{document}M(ϕ)={x={xmn}∈Ω:∥x∥M(ϕ)=sups,t≥1supζ∈Ust(1ϕst∑m,n∈ζ|xmn|)&lt;∞} and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$N(\phi) = \Biggl\{ x = \{ x_{mn}\} \in\Omega: \Vert x \Vert _{N(\phi)} = \sup_{u \in S(x)} \Biggl(\sum _{m,n = 1}^{\infty,\infty} \vert u_{mn}\vert \Delta_{11}\phi_{mn} \Biggr) &lt; \infty \Biggr\} . $$\end{document}N(ϕ)={x={xmn}∈Ω:∥x∥N(ϕ)=supu∈S(x)(∑m,n=1∞,∞|umn|Δ11ϕmn)&lt;∞}.
+
+        Then the distances between \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = \{ x_{mn}\}$\end{document}x={xmn} and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$y = \{ y_{mn}\}$\end{document}y={ymn} induced by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) can be expressed as
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d_{M(\phi)} = \sup_{s,t \ge1}\sup_{\zeta \in U_{st}} \biggl( \frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert x_{mn} - y_{mn}\vert \biggr) $$\end{document}dM(ϕ)=sups,t≥1supζ∈Ust(1ϕst∑m,n∈ζ|xmn−ymn|) and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d_{N(\phi)} = \sup_{u,v \in S(x)} \Biggl( \sum _{m,n = 1}^{\infty,\infty} \vert u_{mn} - v_{mn} \vert \Delta_{11}\phi_{mn} \Biggr). $$\end{document}dN(ϕ)=supu,v∈S(x)(∑m,n=1∞,∞|umn−vmn|Δ11ϕmn).
+
+      
+      
+        Remark 1.2
+        If \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{st} = 1$\end{document}ϕst=1 (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t = 1,2,3,\ldots$\end{document}s,t=1,2,3,…), then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = L_{1}$\end{document}M(ϕ)=L1 [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) = L_{\infty} $\end{document}N(ϕ)=L∞], and if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{st} = st$\end{document}ϕst=st (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t = 1,2,3,\ldots$\end{document}s,t=1,2,3,…), then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = L_{\infty}$\end{document}M(ϕ)=L∞ [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) = L_{1}$\end{document}N(ϕ)=L1].
+        We now state the following known results of [18] for single sequences (series) which can also be proved easily for double sequences (series).
+      
+      
+        Lemma 1.1
+        
+If the series
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum u_{n}x_{n}$\end{document}∑unxn
+is convergent for every
+x
+of a
+BK-space
+E, then the functional
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{n = 1}^{\infty} u_{n}x_{n}$\end{document}∑n=1∞unxn
+is linear and continuous in E.
+      
+      
+        Lemma 1.2
+        
+If
+E
+and
+F
+are
+BK-spaces, and if
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$E \subseteq F$\end{document}E⊆F, then there is a real number
+K
+such that, for all
+x
+of
+E,
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Vert x \Vert _{F} \le K\Vert x \Vert _{E}. $$\end{document}∥x∥F≤K∥x∥E.
+
+      
+    
+    
+      Properties of the spaces \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ)
+      
+        Theorem 2.1
+        
+The space
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)
+is a
+BK-space with the norm.
+2.1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \Vert x \Vert _{M(\phi)} = \sup_{s,t \ge 1}\sup _{\zeta\in U_{st}} \frac{1}{\phi_{st}} \biggl( \sum _{m,n \in\zeta} \vert x_{mn}\vert \biggr). $$\end{document}∥x∥M(ϕ)=sups,t≥1supζ∈Ust1ϕst(∑m,n∈ζ|xmn|).
+
+      
+      
+        Proof
+        It is a routine verification to show that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) is a normed space with the given norm (2.1), and so we omit it. Now, we proceed to showing that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) is complete. Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ x^{l}\}$\end{document}{xl} be a Cauchy sequence in \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ), where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x^{l} = \{ x_{mn}^{l}\}_{m,n = 1,1}^{\infty,\infty}$\end{document}xl={xmnl}m,n=1,1∞,∞ for every fixed \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l \in\mathbb{N}$\end{document}l∈N. Then, for a given \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\varepsilon&gt; 0$\end{document}ε&gt;0, there exists a positive integer \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$n_{0}(\varepsilon) &gt; 0$\end{document}n0(ε)&gt;0 such that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\bigl\Vert x^{l} - x^{r} \bigr\Vert _{M(\phi)} = \sup_{s,t \ge 1}\sup_{\zeta\in U_{st}}\frac{1}{\phi_{st}} \biggl( \sum_{m,n \in\zeta} \bigl\vert x_{mn}^{l} - x_{mn}^{r} \bigr\vert \biggr) &lt; \varepsilon $$\end{document}∥xl−xr∥M(ϕ)=sups,t≥1supζ∈Ust1ϕst(∑m,n∈ζ|xmnl−xmnr|)&lt;ε for all \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l,r &gt; n_{0}(\varepsilon)$\end{document}l,r&gt;n0(ε), which yields, for each fixed \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t \ge 1$\end{document}s,t≥1 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\zeta\in U_{st}$\end{document}ζ∈Ust,
+2.2\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \sum_{m,n \in\zeta} \bigl\vert x_{mn}^{l} - x_{mn}^{r} \bigr\vert \le\varepsilon \phi_{11}\quad \mbox{for all }l,r &gt; n_{0}(\varepsilon). $$\end{document}∑m,n∈ζ|xmnl−xmnr|≤εϕ11for all l,r&gt;n0(ε). Therefore
+2.3\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \biggl\vert \sum_{m,n \in\zeta} \bigl\vert x_{mn}^{l} \bigr\vert - \sum_{m,n \in\zeta} \bigl\vert x_{mn}^{r} \bigr\vert \biggr\vert &lt; \varepsilon\phi_{11} \quad \mbox{for all }l,r &gt; n_{ 0} ( \varepsilon). $$\end{document}|∑m,n∈ζ|xmnl|−∑m,n∈ζ|xmnr||&lt;εϕ11for all l,r&gt;n0(ε). This means that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ \sum_{m,n \in\zeta} \vert x_{mn}^{l}\vert \} _{l \in\mathbb{N}}$\end{document}{∑m,n∈ζ|xmnl|}l∈N is a Cauchy sequence in \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathbb{R}$\end{document}R for every fixed \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t \ge1$\end{document}s,t≥1 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\zeta \in U_{st}$\end{document}ζ∈Ust. Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathbb{R}$\end{document}R is complete, it converges, say
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{m,n \in\zeta} \bigl\vert x_{mn}^{l} \bigr\vert \to\sum_{m,n \in\zeta} \vert x_{mn} \vert \quad \mbox{as }l \to\infty. $$\end{document}∑m,n∈ζ|xmnl|→∑m,n∈ζ|xmn|as l→∞. Since absolute convergence implies convergence in \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathbb{R}$\end{document}R, hence
+2.4\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \sum_{m,n \in\zeta} x_{mn}^{l} \to\sum _{m,n \in\zeta} x_{mn} \quad \mbox{as } l \to\infty. $$\end{document}∑m,n∈ζxmnl→∑m,n∈ζxmnas l→∞. Hence we have
+2.5\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \lim_{l \to\infty} \biggl\Vert \sum_{m,n \in\zeta} x_{mn}^{l} - \sum_{m,n \in\zeta} x_{mn} \biggr\Vert _{M(\phi)} = 0. $$\end{document}liml→∞∥∑m,n∈ζxmnl−∑m,n∈ζxmn∥M(ϕ)=0. Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$y^{l} = \sum_{m,n \in\zeta} \vert x_{mn}^{l}\vert $\end{document}yl=∑m,n∈ζ|xmnl|. Then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ y^{l}\} \in l_{\infty}$\end{document}{yl}∈l∞. Therefore
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sup_{l \in\mathbb{N}} \sum_{m,n \in\zeta} \bigl\vert x_{mn}^{l} \bigr\vert \le k. $$\end{document}supl∈N∑m,n∈ζ|xmnl|≤k. Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{m,n \in\zeta} \vert x_{mn}\vert \le\sum_{m,n \in \zeta} \vert x_{mn} - x_{mn}^{l}\vert + \sum_{m,n \in\zeta} \vert x_{mn}^{l}\vert \le\varepsilon \phi_{11} + k$\end{document}∑m,n∈ζ|xmn|≤∑m,n∈ζ|xmn−xmnl|+∑m,n∈ζ|xmnl|≤εϕ11+k, it follows that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = \{ x_{mn}\} \in M(\phi)$\end{document}x={xmn}∈M(ϕ). Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ x^{l}\}_{l \in\mathbb{N}}$\end{document}{xl}l∈N was an arbitrary Cauchy sequence, the space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) is complete. Now we prove that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) has continuous coordinate projections \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$p_{mn}$\end{document}pmn, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$p_{mn}:\Omega\to K$\end{document}pmn:Ω→K and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$p_{mn}(x) = x_{mn}$\end{document}pmn(x)=xmn. The coordinate projections \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$p_{mn}$\end{document}pmn are continuous since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert x_{mn}\vert \le\sup_{s,t \ge1}\sup_{\zeta\in U_{st}}\phi_{st}\Vert x \Vert _{M(\phi)}$\end{document}|xmn|≤sups,t≥1supζ∈Ustϕst∥x∥M(ϕ) for each \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$m,n \in \mathbb{N}$\end{document}m,n∈N. □
+      
+      
+        Remark 2.1
+        The space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) is a BK-space with the norm
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Vert x \Vert _{N(\phi)} = \sup_{u \in S(x)} \Biggl( \sum _{m,n = 1}^{\infty,\infty} \vert u_{mn}\vert \Delta_{11}\phi_{mn} \Biggr). $$\end{document}∥x∥N(ϕ)=supu∈S(x)(∑m,n=1∞,∞|umn|Δ11ϕmn).
+
+      
+      
+        Lemma 2.1
+        
+(i)
+If
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in N(\phi) $\end{document}x∈N(ϕ)] and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in S(x)$\end{document}u∈S(x), then
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in M(\phi)$\end{document}u∈M(ϕ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi) $\end{document}u∈N(ϕ)] and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Vert u\Vert = \Vert x\Vert $\end{document}∥u∥=∥x∥.(ii)
+If
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in N(\phi)$\end{document}x∈N(ϕ)] and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert u_{mn}\vert \le \vert x_{mn}\vert $\end{document}|umn|≤|xmn|
+for every positive integer
+m, n, then
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in M(\phi)$\end{document}u∈M(ϕ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi)$\end{document}u∈N(ϕ)] and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Vert u\Vert \le \Vert x\Vert $\end{document}∥u∥≤∥x∥.
+
+      
+      
+        Proof
+        (i) Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ), then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sup_{s,t \ge1} \sup_{\zeta\in U_{st}}\frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert x_{mn}\vert &lt; \infty$\end{document}sups,t≥1supζ∈Ust1ϕst∑m,n∈ζ|xmn|&lt;∞. So, we have
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert x_{mn} \vert &lt; \infty \quad \mbox{for each }\zeta\in U_{st}\mbox{ and }s,t \ge1. $$\end{document}1ϕst∑m,n∈ζ|xmn|&lt;∞for each ζ∈Ust and s,t≥1. Since the sum of a finite number of terms remains the same for all the rearrangements,
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert u_{mn} \vert = \frac{1}{\phi_{st}}\sum_{m,n \in\zeta} \vert x_{mn}\vert \quad \mbox{for each }u \in S(x)\mbox{ and }\zeta\in U_{st}, s,t \ge1. $$\end{document}1ϕst∑m,n∈ζ|umn|=1ϕst∑m,n∈ζ|xmn|for each u∈S(x) and ζ∈Ust,s,t≥1. Hence
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sup_{s,t \ge1}\sup_{\zeta\in U_{st}}\frac{1}{\phi_{st}}\sum _{m,n \in\zeta} \vert u_{mn}\vert = \sup _{s,t \ge1} \sup_{\zeta\in U_{st}}\frac{1}{\phi_{st}}\sum _{m,n \in\zeta} \vert x_{mn}\vert &lt; \infty, $$\end{document}sups,t≥1supζ∈Ust1ϕst∑m,n∈ζ|umn|=sups,t≥1supζ∈Ust1ϕst∑m,n∈ζ|xmn|&lt;∞, thus \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in M(\phi)$\end{document}u∈M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Vert u\Vert = \Vert x\Vert $\end{document}∥u∥=∥x∥.
+        (ii) By using the definition, easy to prove. □
+      
+      
+        Theorem 2.2
+        
+For arbitrary
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi\in\Theta$\end{document}ϕ∈Θ, we have
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta_{11}\phi\in M(\phi)$\end{document}Δ11ϕ∈M(ϕ)
+and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Vert \Delta_{11}\phi \Vert _{M(\phi)} \le2$\end{document}∥Δ11ϕ∥M(ϕ)≤2.
+      
+      
+        Proof
+        Let s and t be arbitrary positive integers, let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sigma,\varsigma\in U_{st}$\end{document}σ,ς∈Ust, and let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\tau_{1}$\end{document}τ1, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\tau_{2}$\end{document}τ2 constitute the element of σ and ς exceed by s and t respectively, also from the definition we have \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta_{11}\phi\ge0$\end{document}Δ11ϕ≥0 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta_{11} ( \frac{\phi_{mn}}{mn} ) \le0$\end{document}Δ11(ϕmnmn)≤0. Then
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document} $$\begin{aligned} \sum_{n \in\sigma,m \in\varsigma} \vert \Delta_{11} \phi_{mn} \vert \le&amp; \sum_{n = 1,m = 1}^{s,t} \Delta_{11}\phi_{mn} + \sum_{n \in \tau_{1},m \in\tau_{2}} \Delta_{11}\phi_{mn} \\ \leq&amp; \phi_{st} + \sum_{n \in\tau_{1},m \in\tau_{2}} \biggl( \frac{\phi_{m - 1,n - 1}}{(m - 1)(n - 1)} \biggr) \\ \leq &amp; \phi_{st} + \left . \textstyle\begin{array}{c@{\quad}c@{\quad}c@{\quad}c@{\quad}c} \frac{\phi_{st}}{st} &amp; + \frac{\phi_{s,t + 1}}{s(t + 1)} &amp; + \frac{\phi_{s,t + 2}}{s(t + 2)} &amp; +. &amp;. \\ \frac{\phi_{s + 1,t}}{(s + 1)t} &amp; + \frac{\phi_{s + 1,t + 1}}{(s + 1)(t + 1)} &amp; + \frac{\phi_{s + 1,t + 2}}{(s + 1)(t + 2)} &amp; +. &amp;. \\ + &amp; + &amp; + &amp;. &amp; \\ . &amp;. &amp;. &amp;. &amp; \end{array}\displaystyle \right \} \quad \max(st) \textrm{-terms} \\ \leq&amp; \phi_{st} + st\frac{\phi_{st}}{st} = 2\phi_{st}. \end{aligned}$$ \end{document}∑n∈σ,m∈ς|Δ11ϕmn|≤∑n=1,m=1s,tΔ11ϕmn+∑n∈τ1,m∈τ2Δ11ϕmn≤ϕst+∑n∈τ1,m∈τ2(ϕm−1,n−1(m−1)(n−1))≤ϕst+ϕstst+ϕs,t+1s(t+1)+ϕs,t+2s(t+2)+..ϕs+1,t(s+1)t+ϕs+1,t+1(s+1)(t+1)+ϕs+1,t+2(s+1)(t+2)+..+++.....}max(st)-terms≤ϕst+stϕstst=2ϕst. □
+      
+      
+        Lemma 2.2
+        
+If
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ)
+and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ c_{11},c_{12}, \ldots,c_{1n},c_{21},c_{22}, \ldots,c_{2n}, \ldots,c_{m1},c_{m2}, \ldots,c_{mn}\}$\end{document}{c11,c12,…,c1n,c21,c22,…,c2n,…,cm1,cm2,…,cmn}
+is a rearrangement of
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ b_{11},b_{12}, \ldots,b_{1n},b_{21},b_{22}, \ldots,b_{2n}, \ldots,b_{m1},b_{m2}, \ldots,b_{mn}\}$\end{document}{b11,b12,…,b1n,b21,b22,…,b2n,…,bm1,bm2,…,bmn}
+such that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert c_{11}\vert \ge \vert c_{12}\vert \ge \cdots\ge \vert c_{1n}\vert $\end{document}|c11|≥|c12|≥⋯≥|c1n|, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert c_{21}\vert \ge \vert c_{22}\vert \ge\cdots\ge \vert c_{2n}\vert ,\dots, \vert c_{m1}\vert \ge \vert c_{m2}\vert \ge\cdots\ge \vert c_{mn}\vert $\end{document}|c21|≥|c22|≥⋯≥|c2n|,…,|cm1|≥|cm2|≥⋯≥|cmn|
+and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert c_{11}\vert \ge \vert c_{21}\vert \ge\cdots\ge \vert c_{m1}\vert $\end{document}|c11|≥|c21|≥⋯≥|cm1|, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\vert c_{12}\vert \ge \vert c_{22}\vert \ge\cdots \ge \vert c_{m2}\vert ,\vert c_{n1}\vert \ge \vert c_{n2}\vert \ge\cdots\ge \vert c_{nm}\vert $\end{document}|c12|≥|c22|≥⋯≥|cm2|,|cn1|≥|cn2|≥⋯≥|cnm|, then
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{i,j = 1,1}^{m,n} \vert b_{ij}x_{ij} \vert \le \Vert x\Vert _{M(\phi )}\sum_{i,j = 1,1}^{m,n} \vert c_{ij}\vert \Delta_{11}\phi_{ij}. $$\end{document}∑i,j=1,1m,n|bijxij|≤∥x∥M(ϕ)∑i,j=1,1m,n|cij|Δ11ϕij.
+
+      
+      
+        Proof
+        In view of Lemma 2.1(i), it is sufficient to consider the case when \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$b_{ij} = c_{ij}$\end{document}bij=cij (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$i = 1,2, \ldots,m$\end{document}i=1,2,…,m; \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$j = 1,2, \ldots,n$\end{document}j=1,2,…,n). Then writing \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$X_{mn} = \sum_{i,j = 1}^{m,n} \vert x_{ij}\vert $\end{document}Xmn=∑i,j=1m,n|xij|, we get
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document} $$\begin{aligned} \sum_{i,j = 1,1}^{m,n} \vert b_{ij}x_{ij} \vert =&amp; \sum_{i = 1}^{m - 1} \sum _{j = 1}^{n - 1} \bigl( \vert c_{ij}\vert - \vert c_{i,j + 1}\vert - \vert c_{i + 1,j}\vert +\vert c_{i + 1,j + 1}\vert \bigr)X_{ij} +\vert c_{mn}\vert X_{mn} \\ \le&amp; \Vert x\Vert _{M(\phi)}\sum_{i = 1}^{m - 1} \sum_{j = 1}^{n - 1} \bigl( \vert c_{ij}\vert - \vert c_{i,j + 1}\vert - \vert c_{i + 1,j}\vert + \vert c_{i + 1,j + 1}\vert \bigr) \phi_{ij} + \Vert x\Vert _{M(\phi)}\vert c_{mn} \vert X_{mn} \\ =&amp; \Vert x\Vert _{M(\phi)}\sum_{i,j = 1,1}^{m,n} \vert c_{ij}\vert \Delta_{11}\phi_{ij}. \end{aligned}$$ \end{document}∑i,j=1,1m,n|bijxij|=∑i=1m−1∑j=1n−1(|cij|−|ci,j+1|−|ci+1,j|+|ci+1,j+1|)Xij+|cmn|Xmn≤∥x∥M(ϕ)∑i=1m−1∑j=1n−1(|cij|−|ci,j+1|−|ci+1,j|+|ci+1,j+1|)ϕij+∥x∥M(ϕ)|cmn|Xmn=∥x∥M(ϕ)∑i,j=1,1m,n|cij|Δ11ϕij. Hence we have \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum_{i,j = 1,1}^{m,n} \vert b_{ij}x_{ij}\vert \le \Vert x\Vert _{M(\phi)}\sum_{i,j = 1,1}^{m,n} \vert c_{ij}\vert \Delta_{11}\phi_{ij}$\end{document}∑i,j=1,1m,n|bijxij|≤∥x∥M(ϕ)∑i,j=1,1m,n|cij|Δ11ϕij. □
+      
+      
+        Theorem 2.3
+        
+In order that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum u_{ij}x_{ij}$\end{document}∑uijxij
+be convergent [absolutely convergent] whenever
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ), it is necessary and sufficient that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi)$\end{document}u∈N(ϕ). Further, if
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ)
+and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi)$\end{document}u∈N(ϕ), then
+2.6\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \sum_{i,j = 1,1}^{\infty,\infty} \vert u_{ij}x_{ij} \vert \le \Vert u\Vert _{N(\phi)} \Vert x\Vert _{M(\phi)}. $$\end{document}∑i,j=1,1∞,∞|uijxij|≤∥u∥N(ϕ)∥x∥M(ϕ).
+
+      
+      
+        Proof
+        
+Necessity. We now suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum u_{ij}x_{ij}$\end{document}∑uijxij is convergent whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ), then from Lemma 1.1 we have
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Biggl\vert \sum_{i,j = 1,1}^{\infty,\infty} u_{ij}x_{ij} \Biggr\vert \le K \Vert x\Vert _{M(\phi)} $$\end{document}|∑i,j=1,1∞,∞uijxij|≤K∥x∥M(ϕ) for some real number K and all x of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ). In view of Lemma 2.1(ii), we may replace \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x_{ij}$\end{document}xij by \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x_{ij} \operatorname{sgn} \{ u_{ij}\}$\end{document}xijsgn{uij}, obtaining
+2.7\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \sum_{i,j = 1,1}^{\infty,\infty} \vert u_{ij}x_{ij} \vert \le K \Vert x\Vert _{M(\phi)}. $$\end{document}∑i,j=1,1∞,∞|uijxij|≤K∥x∥M(ϕ). Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$v \in S(u)$\end{document}v∈S(u). Then taking x to be a suitable rearrangement of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta_{11}\phi$\end{document}Δ11ϕ, it follows from Eq. (2.7) and Theorem 2.2 and Lemma 2.1(i) that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{i,j = 1,1}^{\infty,\infty} \vert v_{ij} \vert \Delta_{11}\phi_{ij} \le4K, $$\end{document}∑i,j=1,1∞,∞|vij|Δ11ϕij≤4K, and thus \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi)$\end{document}u∈N(ϕ).
+        
+Sufficiency. If \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in N(\phi)$\end{document}u∈N(ϕ), it follows from Lemma 2.2 that for every positive integer m and n,
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{i,j = 1,1}^{\infty,\infty} \vert u_{ij}x_{ij} \vert \le \Vert u\Vert _{N(\phi)} \Vert x\Vert _{M(\phi)}. $$\end{document}∑i,j=1,1∞,∞|uijxij|≤∥u∥N(ϕ)∥x∥M(ϕ). □
+      
+      
+        Theorem 2.4
+        
+In order that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum u_{mn}x_{mn}$\end{document}∑umnxmn
+be convergent [absolutely convergent] whenever
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in N(\phi)$\end{document}x∈N(ϕ), it is necessary and sufficient that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in M(\phi)$\end{document}u∈M(ϕ).
+      
+      
+        Proof
+        Since sufficiency is included in Theorem 2.3, we only consider necessity. We therefore suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sum u_{mn}x_{mn}$\end{document}∑umnxmn is convergent whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in N(\phi)$\end{document}x∈N(ϕ). By arguments similar to those used in Theorem 2.3, we may therefore have that
+2.8\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \sum_{m,n = 1,1}^{\infty,\infty} \vert u_{mn}x_{mn} \vert \le K \Vert x\Vert _{N(\phi)} $$\end{document}∑m,n=1,1∞,∞|umnxmn|≤K∥x∥N(ϕ) for some real number K and all x of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ). Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = c(\zeta)$\end{document}x=c(ζ), where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\zeta\in U_{st}$\end{document}ζ∈Ust. Then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in N(\phi)$\end{document}x∈N(ϕ), and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\Vert x\Vert _{N(\phi)} = \sup_{\xi\in U_{st}}\sum _{m,n \in\xi} \Delta_{11}\phi_{mn} \le4 \phi_{st}, $$\end{document}∥x∥N(ϕ)=supξ∈Ust∑m,n∈ξΔ11ϕmn≤4ϕst, from Theorem 2.2 and Eq. (2.8) we have
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{m,n \in\zeta} \vert u_{mn}\vert \le4K \phi_{st}\quad (\zeta\in U_{st}; s,t = 1,2,3, \ldots), $$\end{document}∑m,n∈ζ|umn|≤4Kϕst(ζ∈Ust;s,t=1,2,3,…), and thus \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in M(\phi)$\end{document}u∈M(ϕ). □
+      
+    
+    
+      Inclusion relations for \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ)
+      
+        Lemma 3.1
+        
+In order that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) \subseteq M(\psi)$\end{document}M(ϕ)⊆M(ψ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) \supseteq N(\psi)$\end{document}N(ϕ)⊇N(ψ)], it is necessary and sufficient that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sup_{s,t \ge1} \biggl( \frac{\phi_{st}}{\psi_{st}} \biggr) &lt; \infty. $$\end{document}sups,t≥1(ϕstψst)&lt;∞.
+
+      
+      
+        Proof
+        Since each of the spaces \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi )$\end{document}N(ϕ) is the dual of the other, by Theorems 2.3 and 2.4, the second version is equivalent to the first. Moreover, sufficiency follows from the definition of an \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) space. We therefore suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) \subseteq M(\psi)$\end{document}M(ϕ)⊆M(ψ). Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\phi\in M(\phi)$\end{document}Δϕ∈M(ϕ), it follows that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta \psi\in M(\psi)$\end{document}Δψ∈M(ψ), and hence we find that, for every positive integer \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$s,t \ge1$\end{document}s,t≥1,
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\phi_{st} = \sum_{i,j = 1,1}^{s,t} \Delta_{11}\phi_{ij} \le\psi_{st} \Vert \Delta \phi \Vert _{M(\psi)},\quad \mbox{where }\Delta= \Delta_{11}. $$\end{document}ϕst=∑i,j=1,1s,tΔ11ϕij≤ψst∥Δϕ∥M(ψ),where Δ=Δ11. □
+      
+      
+        Theorem 3.1
+        
+(i)
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{1} \subseteq M(\phi) \subseteq L_{\infty}$\end{document}L1⊆M(ϕ)⊆L∞ [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{1} \subseteq N(\phi) \subseteq L_{\infty} $\end{document}L1⊆N(ϕ)⊆L∞] for all
+ϕ
+of Θ.(ii)
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = L_{1}$\end{document}M(ϕ)=L1 [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) = L_{\infty} $\end{document}N(ϕ)=L∞] if and only if
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathit{bp}\textit{-}\lim_{s,t}\phi_{st} &lt; \infty$\end{document}bp-lims,tϕst&lt;∞.(iii)
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = L_{\infty}$\end{document}M(ϕ)=L∞ [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) = L_{1}$\end{document}N(ϕ)=L1] if and only if
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathit{bp}\textit{-}\lim_{s,t}(\phi_{st}/st) &gt; 0$\end{document}bp-lims,t(ϕst/st)&gt;0.
+
+      
+      
+        Proof
+        We prove here the first version, while the second version follows by Theorems 2.3 and 2.4. Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{11} \le\phi_{mn} \le mn\phi_{mn}$\end{document}ϕ11≤ϕmn≤mnϕmn for all ϕ of Θ, we have by Lemma 3.1 that (i) is satisfied. Further, from Lemma 3.1, it follows that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) \subseteq L_{1}$\end{document}M(ϕ)⊆L1 if and only if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sup_{s,t \ge 1}\phi_{st} &lt; \infty$\end{document}sups,t≥1ϕst&lt;∞, while \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{\infty} \subseteq M(\phi)$\end{document}L∞⊆M(ϕ) if and only if \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sup_{s,t \ge1}(\phi_{st}/st) &lt; \infty$\end{document}sups,t≥1(ϕst/st)&lt;∞; since the sequences \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ \phi_{st}\}$\end{document}{ϕst} and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ st/\phi_{st}\}$\end{document}{st/ϕst} are monotonic, (ii) and (iii) are also satisfied. □
+      
+      
+        Theorem 3.2
+        
+Suppose that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$1 &lt; p &lt; \infty$\end{document}1&lt;p&lt;∞
+and
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\frac{1}{p} + \frac{1}{q} = 1$\end{document}1p+1q=1. Then
+(i)
+Given any
+ϕ
+of Θ, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)\neq L_{p}$\end{document}M(ϕ)≠Lp [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi )\neq L_{q}$\end{document}N(ϕ)≠Lq].(ii)
+In order that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{p} \subset M(\phi)$\end{document}Lp⊂M(ϕ) [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) \subset L_{q}$\end{document}N(ϕ)⊂Lq], it is necessary and sufficient that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\sup_{s,t \ge1} ( \frac{(st)^{1/q}}{\phi_{st}} ) &lt; \infty$\end{document}sups,t≥1((st)1/qϕst)&lt;∞.(iii)
+In order that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) \subset L_{p}$\end{document}M(ϕ)⊂Lp [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi) \supset L_{q}$\end{document}N(ϕ)⊃Lq], it is necessary and sufficient that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\phi\in L_{p}$\end{document}Δϕ∈Lp.(iv)
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\bigcup_{\Delta\phi\in L_{p}} M(\phi) = L_{p}$\end{document}⋃Δϕ∈LpM(ϕ)=Lp [\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\bigcap_{\Delta\phi\in L_{p}} N(\phi) = L_{q} $\end{document}⋂Δϕ∈LpN(ϕ)=Lq].
+
+      
+      
+        Proof
+        (i) Let us suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = L_{p}$\end{document}M(ϕ)=Lp.
+        Then, by Lemma 1.2, there exist real numbers \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$r_{1}$\end{document}r1 and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$r_{2}$\end{document}r2 (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$r_{1} &gt; 0$\end{document}r1&gt;0, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$r_{2} &gt; 0$\end{document}r2&gt;0) such that, for all x of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ),
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$r_{1} \Vert x\Vert _{L_{p}} \le \Vert x\Vert _{M(\phi)} \le r_{2} \Vert x\Vert _{L_{p}}. $$\end{document}r1∥x∥Lp≤∥x∥M(ϕ)≤r2∥x∥Lp. Taking \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = c(\zeta)$\end{document}x=c(ζ), where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\zeta\in U_{st}$\end{document}ζ∈Ust, we have that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$r_{1}(st)^{\frac{1}{p}} \le\frac{st}{\phi_{st}} \le r_{2}(st)^{\frac{1}{p}}\quad (s,t = 1,2,3, \ldots), $$\end{document}r1(st)1p≤stϕst≤r2(st)1p(s,t=1,2,3,…), and hence that
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$r_{1} \le\frac{(st)^{\frac{1}{q}}}{\phi_{st}} \le r_{2} \quad (s,t = 1,2,3, \ldots). $$\end{document}r1≤(st)1qϕst≤r2(s,t=1,2,3,…). In view of Lemma 3.1, this implies that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) = M(\psi)$\end{document}M(ϕ)=M(ψ), where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\psi= \{ (mn)^{\frac{1}{q}}\}$\end{document}ψ={(mn)1q}. Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\psi\in M(\psi)$\end{document}Δψ∈M(ψ) by Theorem 2.2, but \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\psi\notin L_{q}$\end{document}Δψ∉Lq, this leads to a contradiction. Hence (i) follows.
+        (ii) If \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{q} \subset M(\phi)$\end{document}Lq⊂M(ϕ), arguments similar to those used in the proof of (i) show that
+3.1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ (st)^{1/q} \le K\phi_{st} \quad (s,t = 1,2,3, \ldots). $$\end{document}(st)1/q≤Kϕst(s,t=1,2,3,…). For sufficiency, we suppose that (3.1) is satisfied. Then, whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in L_{p}$\end{document}x∈Lp and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\zeta\in U_{st}$\end{document}ζ∈Ust,
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\sum_{m,n \in\zeta} \vert x_{mn}\vert \le \biggl( \sum_{m,n \in\zeta} \vert x_{mn}\vert ^{p} \biggr)^{\frac{1}{p}} \biggl( \sum_{m,n \in\zeta} 1 \biggr)^{\frac{1}{q}} \le \Vert x\Vert _{L_{q}}(st)^{\frac{1}{q}} &lt; K\phi_{st}\Vert x\Vert _{L_{q}}, $$\end{document}∑m,n∈ζ|xmn|≤(∑m,n∈ζ|xmn|p)1p(∑m,n∈ζ1)1q≤∥x∥Lq(st)1q&lt;Kϕst∥x∥Lq, and hence \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ). In view of (i), it follows that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{q} \subset M(\phi)$\end{document}Lq⊂M(ϕ).
+        (iii) By Theorem 2.2, we have \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\phi\in M(\phi)$\end{document}Δϕ∈M(ϕ). For sufficiency, we suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\phi\in L_{p}$\end{document}Δϕ∈Lp and that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ). Then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ u_{mn}\Delta_{11}\phi_{mn}\} \in L_{1}$\end{document}{umnΔ11ϕmn}∈L1 whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in L_{q}$\end{document}u∈Lq, and it therefore follows from Lemma 2.2 that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ u_{mn}x_{mn}\} \in L_{1}$\end{document}{umnxmn}∈L1 whenever \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$u \in L_{q}$\end{document}u∈Lq. Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{p}$\end{document}Lp is the dual of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{q}$\end{document}Lq and since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)\neq L_{p}$\end{document}M(ϕ)≠Lp, it follows that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi) \subset L_{q}$\end{document}M(ϕ)⊂Lq.
+        (iv) By using (iii) we have \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\bigcup_{\Delta\phi\in L_{p}} M_{\phi} \subseteq L_{p}$\end{document}⋃Δϕ∈LpMϕ⊆Lp. Now, for obtaining the complementary relation \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$L_{p} \subseteq\bigcup_{\Delta\phi\in L_{p}} M_{\phi}$\end{document}Lp⊆⋃Δϕ∈LpMϕ, let us suppose that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in L_{p}$\end{document}x∈Lp. Then \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\lim_{m,n \to\infty} x_{mn} = 0$\end{document}limm,n→∞xmn=0, and hence there is an element u of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$S(x)$\end{document}S(x) such that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\{ \vert u_{mn}\vert \}$\end{document}{|umn|} is a non-increasing sequence. If we take \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\psi= \{ \sum_{i,j = 1,1}^{m,n} \vert u_{ij}\vert \}$\end{document}ψ={∑i,j=1,1m,n|uij|}, then it is easy to verify that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\psi\in \Theta$\end{document}ψ∈Θ and that \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x \in M(\phi)$\end{document}x∈M(ϕ). Since \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\Delta\psi\in L_{p}$\end{document}Δψ∈Lp, the complementary relation is satisfied. □
+      
+    
+    
+      Application of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) in clustering
+      In this section, we implement a k-means clustering algorithm by using \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure. Further, we apply the k-means algorithm into clustering to cluster two-moon data. The clustering result obtained by the \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure is compared with the results derived by the existing Euclidean distance measures (\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{2}$\end{document}l2).
+      
+        Algorithm to compute \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) distance
+        Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$x = [x_{1},x_{2},x_{3}, \ldots,x_{n}]_{1 \times n}$\end{document}x=[x1,x2,x3,…,xn]1×n and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$y = [y_{1},y_{2},y_{3}, \ldots,y_{n}]_{1 \times n}$\end{document}y=[y1,y2,y3,…,yn]1×n be two matrices of size \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$1 \times n$\end{document}1×n, and let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\phi_{m,n} = \phi_{1,n} = n$\end{document}ϕm,n=ϕ1,n=n. Calculate \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$a_{i} = \frac{1}{\phi_{1,i}}\vert x_{i} - y_{i}\vert $\end{document}ai=1ϕ1,i|xi−yi|, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$i = 1,2,3, \ldots,n$\end{document}i=1,2,3,…,n.The \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance between x and y is d, where
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$d = \max\{ a_{1},a_{1} + a_{2}, \ldots,a_{1} + a_{2} + \cdots+ a_{n}\}. $$\end{document}d=max{a1,a1+a2,…,a1+a2+⋯+an}.
+
+
+      
+      
+        K-means clustering algorithm for \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure
+        Let \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$X = [x_{1},x_{2},x_{3},\ldots,x_{n}]$\end{document}X=[x1,x2,x3,…,xn] be the data set. Randomly/judiciously select k cluster centers (in this paper we choose first k data points as the cluster center \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$y = [x_{1},x_{2},\ldots,x_{k}]$\end{document}y=[x1,x2,…,xk]).By using \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) or \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) distance measure (since both are dual of each other, in application point of view, we only consider \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)), compute the distance between each data points and cluster centers.Put data points into the cluster whose \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance with its center is minimum.Define cluster centers for the new clusters evolved due to steps 1-3, the new cluster centers are computed as follows: \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$c_{i} = \frac{1}{k_{i}}\sum_{j = 1}^{k_{i}} x_{i}$\end{document}ci=1ki∑j=1kixi, where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$k_{i}$\end{document}ki denotes the number of points in the ith cluster.Repeat the above process until the difference between two consecutive cluster centers reaches less than a small number ε.
+
+      
+      
+        Two-moon dataset clustering by using \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure in k-means algorithm
+        Two-moon dataset is a well-known nonconvex data set. It is an artificially designed two dimensional dataset consisting of 373 data points [19]. Two-moon dataset is visualized as moon-shaped clusters (see Figure 1). Figure 1
+Original shape of two-moon dataset.
+
+
+        By using \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure in the k-means clustering algorithm, the obtained result is represented in Figure 2. In Figure 3, we represent the result obtained by using the Euclidean distance measure in the k-means algorithm (we measure the accuracy of the cluster by using the formula, accuracy = (number of data points in the right cluster/total number of data points)). The experimental result shows that cluster accuracy of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure is 84.72% while \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$l_{2}$\end{document}l2-distance measure’s clustering accuracy is 78.55%. Thus, \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure substantially improves the clustering accuracy. Figure 2
+Clustering induced by
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\pmb{M(\phi)}$\end{document}M(ϕ)
+-distance measure.
+
+Figure 3
+Clustering induced by Euclidean distance
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\pmb{l_{2}}$\end{document}l2
+.
+
+
+      
+    
+    
+      Conclusions
+      In this paper, we defined Banach spaces \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) and \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$N(\phi)$\end{document}N(ϕ) with discussion of their mathematical properties. Further, we proved some of their inclusion relation. Furthermore, we applied the distance measure induced by the Banach space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ) into clustering to cluster the two-moon data by using the k-means clustering algorithm; the result of the experiment shows that the \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$M(\phi)$\end{document}M(ϕ)-distance measure extensively improves the clustering accuracy.
+    
+  
+
+    
+      
+        
+          Competing interests
+        
+        The authors declare that they have no competing interests.
+      
+      
+        
+          Authors’ contributions
+        
+        All authors of the manuscript have read and agreed to its content and are accountable for all aspects of the accuracy and integrity of the manuscript.
+      
+    
+    
+      Acknowledgements
+      The second and third authors gratefully acknowledge the financial support from King Abdulaziz University, Jeddah, Saudi Arabia.
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              MacQueen
+              J
+            
+            
+          
+          Some methods for classification and analysis of multivariate observations
+          Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability
+          1967
+          281
+          297
+        
+      
+      
+        2.
+        
+          
+            
+              Bezdek
+              JC
+            
+          
+          A review of probabilistic, fuzzy, and neural models for pattern recognition
+          J. Intell. Fuzzy Syst.
+          1993
+          1
+          1
+          1
+          25
+          10.1109/TFUZZ.1993.6027269
+        
+      
+      
+        3.
+        
+          
+            
+              Jain
+              AK
+            
+          
+          Data clustering: 50 years beyond k-means
+          Pattern Recognit. Lett.
+          2010
+          31
+          8
+          651
+          666
+          10.1016/j.patrec.2009.09.011
+        
+      
+      
+        4.
+        
+          
+            
+              Cheng
+              M-Y
+            
+            
+              Huang
+              K-Y
+            
+            
+              Chen
+              H-M
+            
+          
+          K-means particle swarm optimization with embedded chaotic search for solving multidimensional problems
+          Appl. Math. Comput.
+          2012
+          219
+          6
+          3091
+          3099
+        
+      
+      
+        5.
+        
+          
+            
+              Yao
+              H
+            
+            
+              Duan
+              Q
+            
+            
+              Li
+              D
+            
+            
+              Wang
+              J
+            
+          
+          An improved k-means clustering algorithm for fish image segmentation
+          Math. Comput. Model.
+          2013
+          58
+          3
+          790
+          798
+          10.1016/j.mcm.2012.12.025
+        
+      
+      
+        6.
+        
+          
+            
+              Cap
+              M
+            
+            
+              Prez
+              A
+            
+            
+              Lozano
+              JA
+            
+          
+          An efficient approximation to the k-means clustering for massive data
+          Knowl.-Based Syst.
+          2016
+          117
+          56
+          69
+          10.1016/j.knosys.2016.06.031
+        
+      
+      
+        7.
+        
+          
+            
+              Güngör
+              Z
+            
+            
+              Ünler
+              A
+            
+          
+          K-harmonic means data clustering with simulated annealing heuristic
+          Appl. Math. Comput.
+          2007
+          184
+          2
+          199
+          209
+        
+      
+      
+        8.
+        
+          
+            
+              Sargent
+              W
+            
+          
+          Some sequence spaces related to the \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\ell_{p}$\end{document}ℓp spaces
+          J. Lond. Math. Soc.
+          1960
+          1
+          2
+          161
+          171
+          10.1112/jlms/s1-35.2.161
+        
+      
+      
+        9.
+        
+          
+            
+              Mursaleen
+              M
+            
+          
+          Some geometric properties of a sequence space related to \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\ell_{p}$\end{document}ℓp
+          Bull. Aust. Math. Soc.
+          2003
+          67
+          2
+          343
+          347
+          10.1017/S0004972700033803
+        
+      
+      
+        10.
+        
+          
+            
+              Mursaleen
+              M
+            
+          
+          Application of measure of noncompactness to infinite system of differential equations
+          Can. Math. Bull.
+          2013
+          56
+          388
+          394
+          10.4153/CMB-2011-170-7
+        
+      
+      
+        11.
+        
+          
+            
+              Chen
+              L
+            
+            
+              Ng
+              R
+            
+          
+          On the marriage of \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\ell_{p}$\end{document}ℓp-norms and edit distance
+          Proceedings of the Thirtieth International Conference on Very Large Data Bases
+          2004
+          792
+          803
+        
+      
+      
+        12.
+        
+          
+            
+              Cristianini
+              N
+            
+            
+              Shawe-Taylor
+              J
+            
+          
+          An Introduction to Support Vector Machines and Other Kernel-Based Learning Methods
+          2000
+          Cambridge
+          Cambridge University Press
+        
+      
+      
+        13.
+        
+          
+            
+              Xu
+              Z
+            
+            
+              Chen
+              J
+            
+            
+              Wu
+              J
+            
+          
+          Clustering algorithm for intuitionistic fuzzy sets
+          Inf. Sci.
+          2008
+          178
+          19
+          3775
+          3790
+          10.1016/j.ins.2008.06.008
+        
+      
+      
+        14.
+        
+          
+            
+              Pringsheim
+              A
+            
+          
+          Zur theorie der zweifach unendlichen zahlenfolgen
+          Math. Ann.
+          1900
+          53
+          3
+          289
+          321
+          10.1007/BF01448977
+        
+      
+      
+        15.
+        
+          
+            
+              Mursaleen
+              M
+            
+            
+              Mohiuddine
+              SA
+            
+          
+          Convergence Methods for Double Sequences and Applications
+          2014
+          Berlin
+          Springer
+        
+      
+      
+        16.
+        
+          
+            
+              Başar
+              F
+            
+            
+              Şever
+              Y
+            
+          
+          The space \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$\mathcal{L}_{q}$\end{document}Lq of double sequences
+          Math. J. Okayama Univ.
+          2009
+          51
+          149
+          157
+        
+      
+      
+        17.
+        
+          
+            
+              Altay
+              B
+            
+            
+              Başar
+              F
+            
+          
+          Some new spaces of double sequences
+          J. Math. Anal. Appl.
+          2005
+          309
+          1
+          70
+          90
+          10.1016/j.jmaa.2004.12.020
+        
+      
+      
+        18.
+        
+          
+            
+              Wilansky
+              A
+            
+          
+          Summability Through Functional Analysis
+          1984
+        
+      
+      
+        19.
+        
+          
+            
+              Jain
+              AK
+            
+            
+              Law
+              MHC
+            
+          
+          Data clustering: a users dilemma
+          Proceedings of the First International Conference on Pattern Recognition and Machine Intelligence
+          2005
+        
+      
+      
+        20.
+        
+          
+            
+              Khan
+              MS
+            
+            
+              Lohani
+              QMD
+            
+          
+          A similarity measure for atanassov intuitionistic fuzzy sets and its application to clustering
+          Computational Intelligence (IWCI), International Workshop on
+          2016
+          Dhaka, Bangladesh
+          IEEE
+        
+      
+    
+  

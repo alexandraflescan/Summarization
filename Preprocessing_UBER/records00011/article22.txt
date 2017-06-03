@@ -1,0 +1,3175 @@
+oai:pubmedcentral.nih.gov:53626682017-04-04springeropenpmc-open
+The effects of acute tryptophan depletion on reactive aggression in adults with attention-deficit/hyperactivity disorder (ADHD) and healthy controls
+
+    
+      Introduction
+      Compulsivity represents the performance of repetitive and functionally impairing overt or covert behaviours without adaptive function, performed in a habitual or stereotyped fashion, either according to rigid rules or as a means of avoiding perceived negative consequences (Fineberg et al. 2014). Neuropsychiatric disorders characterized by compulsivity are included in the newly created Diagnostic and Statistical Manual of Mental Disorders, fifth edition (DSM-5) “obsessive-compulsive and related disorders” (OCRDs) cluster, such as obsessive-compulsive disorder (OCD), body dysmorphic disorder, trichotillomania (repetitive hair pulling), hoarding disorder and excoriation (skin-picking) (American Psychiatric Association 2013). Moreover, this behaviour is also present across different disorders, such as schizophrenia, attention-deficit hyperactivity disorder (ADHD), pathological gambling, eating disorders, depression or substance addiction (Skodol and Oldham 1996). Dysfunctions in cortico-limbic-striatal circuits, involving areas such as mOFC, caudate-putamen, amygdala and hippocampus, have been associated with the symptomatology in OCD (Gillan and Robbins 2014; Rǎdulescu and Marra 2016).
+      Evidence from animal and human studies implicates the serotonin 5-hydroxytryptamine (5-HT) system in impulsivity and compulsivity (Eagle and Baunez 2010; Fineberg et al. 2010). Mice lacking the gene encoding brain tryptophan hydroxylase 2 (Tph2−/−), the initial and rate-limiting enzyme in 5-HT synthesis, showed intense impulsive and compulsive behaviours to include extreme aggression (Angoa-Pérez et al. 2012). Moreover, studies on 5-HT depletion by excitotoxic lesions in rats have revealed an increase of perseverative responding in the five-choice serial reaction time task (Winstanley et al. 2004), impairment of behavioural flexibility measured through the reversal learning task (Bari et al. 2010; Lapiz-Bluhm et al. 2009; Wallace et al. 2014) and an increment of compulsive cocaine seeking under punishment (Pelloux et al. 2012).
+      A non-invasive and more naturalistic method to reduce central 5-HT is through nutritional depletion of the 5-HT precursor tryptophan (TRP). Under normal physiological conditions, the biosynthesis of 5-HT is limited by the availability of the essential amino acid TRP (Fernstrom 1983; Gessa et al. 1974). Rats receiving a TRP-free diet reduced the 5-HT synthesis, content (Gessa et al. 1974) and release (Stancampiano et al. 1997a, b). While acute tryptophan depletion by diet (ATD) produced a moderate serotonergic reduction in adult rats (Brown et al. 1998; Lieben et al. 2004), chronic tryptophan depletions (CTD) have shown stronger effects, reducing 5-HT brain levels to 35–40% at 14 days (Fadda et al. 2000) and to 75% at 5-week exposures (Vergnes and Kempf 1981). Moreover, long-term TRP-depleting diets lead to changes in serotonergic receptors in animals, increasing serotonin 5-HT2A receptor density but having no effect on serotonin 5-HT1A receptor (Cahir et al. 2007; Franklin et al. 1999). Behavioural studies in rodents have demonstrated that a TRP depletion by diet increased aggressiveness (Vergnes and Kempf 1981), locomotor activity (Vergnes and Kempf 1981) and sexual behaviour (Fratta et al. 1977). The increase of these behaviours may suggest a lack of inhibitory control leading to compulsive behaviour. However, only one study has evaluated the effect of acute TRP depletion on some facets of compulsivity, showing no effects on behavioural flexibility in reversal learning or in an extinction paradigm (Van der Plasse and Feenstra 2008). Thus, the effects of chronic TRP depletion by diet on compulsivity remain unknown.
+      Because of its characteristics of “excessiveness” and “persistence”, schedule-induced polydipsia (SIP) is a useful model to study neuropsychiatric disorders characterized by the presence of compulsive behaviour (Ford 2014; Gilpin et al. 2008; Hawken et al. 2011; Hawken and Beninger 2014; for review, see Moreno and Flores 2012). The SIP model is characterized by the development of excessive drinking in food-deprived animals exposed to intermittent food reinforcement schedules (Falk 1961, 1971). Important differences between individuals in the amount of fluid intake and licks support the differentiation of two phenotypes of rats, one with high or excessive drinking (HD) and a second group with low or not SIP acquisition (LD) (López-Grancha et al. 2008). Recent data have shown that HD animals present increased levels of 5-HT and metabolites in the amygdala compared to the LD group (Moreno et al. 2012). In addiction, the systemic administration of citalopram and the serotonin 5-HT2A/C receptor agonist 2,5-dimethoxy-4-iodoamphetamine (DOI) reduced dose-dependent compulsive drinking in HD rats, without affecting the drinking behaviour of LD rats (Navarro et al. 2015). All those data point out the involvement of 5-HT system in the vulnerability to the development of compulsive drinking between HD and LD rats.
+      In our laboratory, Wistar rats are commonly used in SIP, showing individual differences between HD and LD phenotypes. However, no previous studies have tested the strain-dependent differences between Wistar and Lister Hooded rats in SIP acquisition. In fact, behavioural differences in inhibitory control have been observed between these two strains of rats. Wistar rats compared to Lister Hooded rats show more anticipatory responses in a three-choice serial reaction time task and more food hoarding behaviour (Broersen and Uylings 1999), indicating a poorer inhibitory control of this strain and a higher vulnerability to develop compulsive drinking on SIP.
+      We hypothesised that a reduction of 5-HT through a chronic TRP depletion by diet will increase the compulsive behaviour in vulnerable populations such as the HD Wistar rats compared to non-vulnerable populations such as LD Wistar rats and Lister Hooded rats and that could be accompanied by changes in the serotonin 5-HT2A receptor, a serotonin receptor subtype proposed as a candidate for mediating compulsive behaviour (Aznar and Hervig 2016; Aznar and Klein 2013; Fineberg et al. 2010, 2011; Navarro et al. 2015). To test the previous hypothesis, we screened high and low drinking rates during SIP in both strains. Next, we produced a dysfunction of the 5-HT system in the brain by a chronic TRP depletion by diet and evaluated possible motor disruptions or hyperactivity in an open-field test and the effect on compulsive drinking on SIP. Then, brain monoamine levels and serotonin 5-HT2A and 5-HT1A receptor densities were measured in different brain regions of the cortico-limbic-striatal circuits associated with compulsivity.
+    
+    
+      Methods
+      
+        Subjects
+        Two strains of rats were used for this experiment: adult male Lister Hooded rats from Charles River (Barcelona, Spain) and adult male Wistar rats from Harlan Iberica (Barcelona, Spain).
+        Both strains of rats weighed approximately 300–400 g at the beginning of the experiment. The animals were housed three/cage or two/cage (57 × 35 × 20 cm) at 22 °C with 08:00–20:00-h light-dark cycle, with food and water available ad libitum. Before the SIP training and after 10 days of habituation to the vivarium conditions, the rats were weighed and handled daily. They were gradually reduced to 80–85% of their free-feeding body weight by controlled feeding and then maintained at this level of deprivation throughout the experiment. Food was made available by daily feeding of lab chow approximately 30 min after each experimental session. Water was always available in the home cages.
+        Rats were assigned to each experimental group taking into consideration the amount of water consumed in the previous experimental SIP, in order to match all groups. The Wistar rats were split as following: high drinkers receiving a TRP-free diet (n = 7), high drinkers receiving a control diet (n = 7), low drinkers with a TRP-free diet (n = 7) and low drinkers with a control diet (n = 7). The Lister Hooded rats, as they did not show differences in SIP (water intake and licks), were divided into two groups depending on the diet: One group (n = 8) received a TRP-free diet, while the other group (n = 9) received a control diet. Once the animals started the specific diets, they were housed in cages individually (50 × 25 × 18 cm) to control body weight.
+        All procedures were conducted in accordance with the Spanish Royal Decree 53/2013 on the protection of experimental animals, with the European Community Council Directives (86/609/EEC) and with the University of Almería Animal Research Committee approval.
+      
+      
+        Experimental design
+        The experiment was developed in two phases. One previous phase consisted of screening the acquisition of SIP in the Lister Hooded and Wistar rats. Once the rats were identified as high drinkers or low drinkers by their SIP behaviour, they were divided into groups depending on the given diet. After 14 days of TRP depletion by diet, the rats were exposed to different behavioural tasks. The order of presentation was as follows: one session of the open-field test and six sessions of SIP (see Fig. 1 for the entire experimental design).Fig. 1Experimental procedure illustrated in a timetable
+
+      
+      
+        Apparatus and behavioural procedures
+        
+          Schedule-induced polydipsia
+          We conducted the tests in ten standard operant conditioning chambers (MED Associates) that were 32 cm long × 25 cm wide × 34 cm high, with stainless steel grid floors. A detailed description of the apparatus has been provided previously for the SIP (López-Grancha et al. 2008; Moreno et al. 2012). The scheduling and recording of experimental events were controlled by a Med PC computer and commercial software (Cibertec SA, Spain).
+          
+            Baseline consumption
+            All rats were individually housed in plastic cages containing a dish with the same amount of food to be delivered in the experimental sessions and the same water bottle used in the operant chambers. Over two successive days, 60 food pellets were placed together in a dish, and the amount of water consumed by each rat in 60 min was measured.
+          
+          
+            Magazine habituation
+            The day after the first baseline consumption sessions, rats were habituated to the test chambers for 60 min and were given 30 food pellets placed in the food magazine.
+          
+          
+            Schedule-induced polydipsia pre-treatment
+            After the magazine habituation, the animals were exposed to a fixed time 60-s (FT-60s) schedule of food pellet presentation during 60-min sessions. Water bottles containing 100 ml of fresh water were provided immediately before each session. After 20 daily sessions, the average water drinking for each animal was calculated based on the last three SIP sessions. Following Moreno et al.’s protocol (2012), rats are classified as high drinkers (HD) and low drinkers (LD) if their average water intake was above or below the group median, respectively. The following measures were recorded for each rat (a) total number of licks, (b) total amount of water (ml) removed from the bottle, (c) total number of magazine entries and (d) licking efficiency, which was calculated as the total number of licks/by the total solution consumed. Lick efficiency detects possible fine motor impairments or changes in the stereotypic manner of licking, which indicates with higher score values that the animal needs more total number of licks to obtain the same amount of target solution (Escher and Mittleman 2006).
+          
+          
+            Schedule-induced polydipsia post-treatment
+            After 14 days of the TRP depletion diet, the animals were exposed again to a FT-60s schedule of food pellet presentation during 60-min sessions. Water bottles with fresh water were available.
+          
+        
+        
+          Spontaneous locomotor activity
+          The test was an open-field test, performed in eight Plexiglas activity cages (measuring 39 × 39 × 15 cm) equipped with photocell beams (16 × 16 × 16) interfaced to a microcomputer VersaMax Animal Activity Monitoring System (AccuScan Instruments Inc., USA). Spontaneous locomotor activity was measured as the number of photocell beam breaks due to the movements of the animals. TRP-depleted and TRP-non-depleted rats were tested for their locomotor responses to a novel environment in the activity cages. Rats were not habituated to the activity cages prior to this test. Spontaneous locomotor behaviour was quantified in 5-min blocks over a 60-min period following placement into the test cage. We measured total distance, counted as the number of centimetres travelled by the animal (an indicator of ambulatory activity).
+        
+      
+      
+        Tryptophan depletion diet
+        The TRP-free diet (TD08126, Harlan Laboratories S.A., Barcelona, Spain) had a standard nutritional value, but with a complete lack of TRP. The control groups were fed a similar diet, containing a standard amount of TRP (1.8 g/kg diet) (TD99366, Harlan Laboratories S.A., Barcelona Spain). A chronic TRP-free diet exposure of 14 days was given before the behavioural tasks as previous studies have established (Bortolato et al. 2008; Franklin et al. 2012; Stancampiano et al. 2013), and the amount of food was controlled in order to maintain the body weight at 80–85% of their free-feeding body weight.
+      
+      
+        Brain analyses
+        The day after the SIP post-treatment, the rats were rapidly decapitated using a guillotine. Brains were quickly removed, frozen and stored at −80 °C. The cerebral hemispheres were separated, and each half was used either for measuring monoamines or for measuring serotonin receptor binding. The hemispheres were counterbalanced.
+        
+          Brain monoamine analyses
+          For brain tissue preparation, the samples were thawed sufficiently to enable dissection of the prefrontal cortex, striatum, nucleus accumbens, hippocampus and amygdala (Moreno et al. 2012). These were weighed and homogenized in 0.4 N perchloric acid with 0.1 metabisulfite, 0.01% EDTA and 1 ng/ml cysteine. The homogenates were centrifuged at 15,000 rpm for 20 min at 4 °C, and supernatants were collected and frozen at −80 °C until biochemical analyses for determining the levels of norepinephrine (NE), dopamine (DA), serotonin (5-HT) and 5-hydroxy-3-indolacetic acid (5-HIAA), which were measured using reverse-phase high-performance liquid chromatography with electrochemical detection (+0.7 V). The mobile phase, containing 100 mM KH2PO4,0.1 mM Na2-EDTA, 2.06 mM PICB8 and 16% methanol, adjusted to pH 2.65 with orthophosphoric acid, was delivered at 1 ml/ min. Monoamines were separated on a 5-mm particle size column at 30 °C (Phenomenex C25 10 × 0.46 cm, Micron Analitica SA, Spain).
+        
+        
+          Autoradiography
+          To determine 5-HT1AR and 5-HT2AR binding in the Wistar and Lister Hooded rats, their brains were cut in 10-μm sections, mounted on Super Frost slides and stored at −80 °C. The protocol was modified from Klein et al. (2014). The 5-HT2A autoradiography protocol was performed using 3H-MDL100907 [R(+)-α-(2,3-dimethoxyphenyl)-1-[2-(4-fluorphenyl)-ethyl]-4-piperidin-methanol] (specific activity, 2.8 TBq/mmol, Novandi Chemistry, Sweden; and non-specific binding was determined using 10 μM ketanserin tartrate (3-[2-[4-(4-fluorobenzoyl)-1-piperidinyl]-ethyl]-2,4[1H,3H] quinazolinedione tartrate) (Tocris Cookson Ltd., Bristol, UK). For 5-HT1A autoradiography, we used 3H-WAY100635 (specific activity, 2.9 TBq/mmol, Novandi Chemistry) and measured non-specific binding with 10 μM 5-HT (Sigma–Aldrich, Copenhagen, Denmark). Briefly, the sections were allowed to thaw for 1 h at room temperature (RT) and then pre-incubated with 50 mM Tris–HCl (Sigma), pH 7.4, containing 0.01% ascorbic acid (Sigma) and 10 μM pargyline hydrochloride (N-methyl-N-2-propynylbenzylamine hydrochloride) (Research Biochemicals International, MA, USA) for 30 min at RT under constant gentle shaking. Sections were then incubated for 60 min at RT using the same buffer containing 2 nM of 3H-MDL100907 (1.5 nM of 3H-WAY100635 for 5-HT1A binding). Following incubation, the slides were washed 2 × 2 min in ice-cold 50 mM Tris–HCl, pH 7.4, and 1 × 20 s in ice-cold dH2O and dried for 1 h under a gentle stream of air.
+          All sections were placed at 4 °C in a fixator containing paraformaldehyde vapour and later placed in an exicator box for 3 h before the slides, and the 3H-microscales (GE Healthcare, UK) were exposed to a BAS-TR2040 Imaging Plate (Science Imaging Scandinavia AB, Nacka, Sweden) for 3–14 days at 4 °C. Finally, the imaging plate was scanned on a CR-35 scanner (Raytest, Straubenhardt, Germany) and specific and non-specific binding was determined in the frontal cortex, striatum and hippocampus using the AIDA 5.0 software (Raytest) and expressed as femtomole per milligramme tissue equivalents (TE).
+        
+      
+      
+        Data analyses
+        Data analyses of the different strains were performed separately, due to the complexity of the groups. Analyses of variance (ANOVAs) were performed with two between-subject factors for the Wistar strain data, group (HD and LD) and treatment (T+ and T−) and one between-subject factor for the Lister Hooded strain data (treatment, T+ and T−). The within-subject factors were sessions of SIP, bins on the locomotor activity, body weight, brain monoamine data and receptor binding. Lick efficiency was analysed by repeated measures ANOVA, with treatment as between-subject and sessions as within-subject factors, in HD and LD rats. When appropriate, post hoc comparisons were made using the Newman-Keuls test. The significance level was set at p≤ 0.05. All statistics were two-tailed.
+      
+    
+    
+      Results
+      
+        Body weight measure
+        Figure 2 shows body weight during 14 days of TRP depletion by diet and 6 days of SIP post-treatment in Wistar and Lister Hooded rats. No differences in body weight between T+ and T− groups were found neither in Wistar (treatment effect F
+1,24 = 0.09; p = 0.761) nor in Lister Hooded rats (treatment effect F
+1,15 = 0.496; p = 0.492).Fig. 2Body weight during 14 days of TRP depletion by diet and six sessions of schedule-induced polydipsia post-treatment for Wistar (a) and Lister Hooded rats (b). Wistar rats are grouped as TRP non-depleted high drinkers (HD T+), TRP-depleted high drinkers (HD T−), TRP non-depleted low drinkers (LD T+) and TRP-depleted low drinkers (LD T−). Lister Hooded rats are grouped as TRP non-depleted (T+) and TRP-depleted rats (T−). Data are means ± SEM
+
+      
+      
+        Schedule-induced polydipsia pre-treatment
+        Figure 3 shows the mean total licks, water intake and total magazine entries in high-drinker Wistar rats (WHD), low-drinker Wistar rats (WLD) and Lister Hooded (LH) rats on the SIP pre-treatment FT-60s schedule of food presentation. ANOVA revealed significant differences on SIP acquisition between WHD and WLD in total licks (group effect F
+1,26 = 71.5; p &lt; 0.001) and water intake (group effect F
+1,26 = 44.18; p &lt; 0.001). SIP session effects were significant in both measures: total licks (F
+19,494 = 23.6; p &lt; 0.001) and water intake (F
+19,494 = 13.03; p &lt; 0.001). Interaction between sessions and group was also significant in total licks (F
+19,494 = 15.5; p &lt; 0.001) and water intake (F
+19,494 = 9.24; p &lt; 0.001). Post hoc analysis indicated that the FT-60s schedule of food delivery induced different drinking rates across the 20 test sessions in both groups. Differences in total licks between WHD and WLD animals were evident from session 3 (p = 0.031) and from session 3 in water intake (p = 0.039). WHD animals significantly increased their consumption of water from session 3 (p = 0.002) to the end of training, reaching stable levels from session 10. WLD animals did not show a significant increase in their consumption of water across SIP sessions. No interaction effect was found in magazine entries (F
+19,494 = 0.56; p = 0.933) (Fig. 3e).Fig. 3The mean (±SEM) total licks (a, b), water intake (c, d) and total magazine entries (e, f) in FT-60s across 20 sessions of SIP pre-treatment and six sessions of SIP post-treatment for both Wistar and Lister Hooded rats. Rats are grouped in the SIP pre-treatment as high-drinker Wistar rats (WHD), low-drinker Wistar rats (WLD) and Lister Hooded rats (LH). Wistar rats are grouped in the SIP post-treatment as TRP non-depleted high drinkers (WHD T+), TRP-depleted high drinkers (WHD T−), TRP non-depleted low drinkers (WLD T+) and TRP-depleted low drinkers (WLD T−). Lister Hooded rats are grouped in the SIP post-treatment as TRP non-depleted (LH T+) and TRP-depleted rats (LH T−). Asterisks: statistical analyses indicate significant differences between HD T+ and HD T−. Number sign: statistical analyses indicate significant differences between WHD and WLD from that session onward
+
+        No significant differences were found between LH and WLD rats in water intake (strain effect F
+1,29 = 1.76; p = 0.195), total licks (strain effect F
+1,29 = 2.26; p = 0.143) and magazine entries (strain effect F
+1,29 = 1.56; p = 0.696).
+      
+      
+        Schedule-induced polydipsia post-treatment
+        Figure 3 shows the effects of the chronic TRP depletion by diet on Wistar and LH rats on SIP. The TRP depletion in WHD T− rats increased the total number of licks over the days (see Fig. 3b; group × treatment × session effect F
+5,120 = 2.46; p = 0.037) but did not affect water intake on SIP (see Fig. 3d; group × treatment × session effect F
+5,120 = 1.06; p = 0.387). Post hoc analysis indicated that the differences on licks between WHD T+ and WHD T− occur from session 3 (p = 0.007). WHD T− animals significantly increased their licks rate from session 3 (p = 0.021). Differences between WHD and WLD rats remained stable in water intake (group effect F
+1,24 = 55.33; p &lt; 0.001) and total licks (group effect F
+1,24 = 32.44; p &lt; 0.001). An increase of total licks was observed in WHD T+ (p = 0.020) and WLD T− (p = 0.002) on session 6, but these groups remain statistically different from each other (p = 0.040). To understand the discrepancy of finding increments in total licks not observed in water intake, we explored licking efficiency in WHD and WLD rats during the six sessions of SIP. Interestingly, we found statistical increases of licking efficiency in WHD T− compared to WHD T+ (treatment × session F
+5,60 = 3.283; p = 0.011), but no differences were found in WLD T− compared to WLD T+ (treatment × session F
+5,60 = 0.205; p = 0.959) (data not shown). Post hoc analysis revealed increments of licking efficiency in WHD T− compared to WHD T+ from session 2 onwards (p &lt; 0.001).
+        LH T+ and LH T− did not differ in water intake (Fig. 3d; treatment × session effect F
+5,75 = 0.353; p = 0.879), total number of licks (Fig. 3b; treatment × session effect F
+5,75 = 1.013; p = 0.416) and licking efficiency (treatment × session F
+5,75 = 0.790; p = 0.560) (data not shown). TRP depletion by diet did not alter total number of magazine entries neither in the Wistar rats (group × treatment × session: F
+5,120 = 1.02; p = 0.410) nor in the LH rats (group × treatment × session: F
+5,75 = 2.076; p = 0.078) (Fig. 3f).
+      
+      
+        Spontaneous locomotor activity
+        Figure 4 shows locomotor response measured as total distance (cm) in four blocks of 15 min for Wistar and LH rats. TRP depletion by diet increased locomotor response only in the LH rats (treatment × blocks F
+3.45 = 3.08; p = 0.037). Post hoc analyses revealed that LH T− showed an increased locomotor activity in the first 15 min (p = 0.015) and the second 15 min (p = 0.008) of the 60-min session compared to LH T+ (Fig. 4b). No effects of the TRP depletion by diet were found in locomotor response in the Wistar rats (treatment × blocks F
+3,72 = 1.30; p = 0.280), not even considering groups of HD and LD rats (see Fig. 4a; group × treatment × blocks F
+3.72 = 0.78; p = 0.508). Wistar (F
+3,72 = 79.91; p &lt; 0.001) and LH rats (F
+3,45 = 81.16; p &lt; 0.001) decreased the activity over the session significantly.Fig. 4Total distance in four blocks of 15 min for Wistar (a) and Lister Hooded rats (b). Wistar rats are grouped as TRP non-depleted high drinkers (HD T+), TRP-depleted high drinkers (HD T−), TRP non-depleted low drinkers (LD T+) and TRP-depleted low drinkers (LD T−). Lister Hooded rats are grouped as TRP non-depleted (T+) and TRP-depleted rats (T−). Data are means ± SEM. Asterisks: statistical analyses indicate significant differences between T+ and T−
+
+      
+      
+        Serotonin receptor binding
+        Table 1 shows mean ± SEM 3H-MDL100907 and 3H-WAY100635 binding for groups of depleted and non-depleted Wistar and LH groups of rats. For the 5-HT2A receptor in Wistar rats, there was a group × treatment interaction in the striatum for 3H-MDL100907 binding (F
+1,23 = 8.648; p = 0.007) (see Fig. 5a). Post hoc analyses revealed a reduction of 5-HT2A receptor density in WHD T− rats compared to WHD T+ rats (p = 0.014). In the frontal cortex, we observed a 10% reduction of 5-HT2A binding in the HD T− compared to HD T+ rats; however, the statistical analysis did not detect statistical differences (group × treatment F
+1,24 = 0.990; p = 0.330). TRP depletion by diet did not alter 5-HT2A levels of LH T− compared to LH T+ neither in the frontal cortex (F
+1,16 = 0.117; p = 0.737) nor in the striatum (F
+1,16 = 0.066; p = 0.801).Table 1
+3H-MDL100907 and 3H-WAY100635 binding (fmol/mg TE) in the frontal cortex, striatum and hippocampus in all groups of Wistar and Lister Hooded ratsWistarLister HoodedHDLDT+T−T+T−T+T−FC5-HT2A
+73.16 ± 4.6865.44 ± 2.8773.90 ± 4.8676.39 ± 7.17102.70 ± 4.59105.7 ± 7.855-HT1A
+27.13 ± 0.9529.07 ± 1.8426.57 ± 2.0726.49 ± 2.9045.44 ± 1.57
+37.07 ± 1.00**Striat5-HT2A
+19.13 ± 0.75
+16.41 ± 0.49*16.91 ± 0.7318.34 ± 0.8025.51 ± 0.8025.23 ± 0.705-HT1A
+10.48 ± 0.3310.38 ± 0.4110.03 ± 0.309.68 ± 0.2814.75 ± 0.2614.41 ± 0.79Hippo5-HT1A
+121.23 ± 4.02116.6 ± 3.88111.43 ± 7.42117.54 ± 8.69110.73 ± 7.2996.36 ± 6.33Data are mean ± SEM. Significant differences between T+ and T− (*p &lt; 0.05, **p &lt; 0.01)
+FC frontal cortex, Striat striatum, Hippo hippocampus
+Fig. 5The mean (±SEM) 5-HT2A receptor binding of striatum slices in the Wistar rats (a) and 5-HT1A receptor binding of frontal cortex slices in the Lister Hooded rats (b). 5-HT2A receptor binding was detected by [3H]MDL100907, and 5-HT1A binding was detected by [3H]WAY100635. Wistar rats are grouped as TRP non-depleted high drinkers (HD T+), TRP-depleted high drinkers (HD T−), TRP non-depleted low drinkers (LD T+), and TRP-depleted low drinkers (LD T−). Lister Hooded rats are grouped as TRP non-depleted (T+) and TRP-depleted rats (T−). Asterisks: statistical analyses indicate significant differences between T+ and T− (*p &lt; 0.05, **p &lt; 0.01)
+
+        The 5-HT1A receptor density in the frontal cortex showed a reduction in LH T− rats compared to LH T+ in terms of 3H-WAY100635 binding (F
+1,16 = 19.091; p = 0.001) (see Fig. 5b), but no differences in density were found in the striatum (F
+1,16 = 1.80; p = 0.677) and the hippocampus (F
+1,16 = 2.157; p = 0.163). The effect of TRP depletion by diet in the 5-HT1A receptor density observed in LH T− did not occur in the depleted Wistar rats (group × treatment F
+1,24 = 0.240; p = 0.629). Also, 5-HT1A density was unaffected in the striatum (group × treatment F
+1,23 = 0.138; p = 0.714) and hippocampus (group × treatment F
+1,25 = 1.672; p = 0.209) in the depleted Wistar rats.
+      
+      
+        Monoamine concentration levels
+        The chronic TRP depletion by diet significantly reduced 5-HT, 5-HIAA and 5-HIAA/5-HT turnover ratio in the prefrontal cortex (PFC), amygdala and hippocampus in both strains of rats. No interaction effects of group and treatment were found in monoamine concentration levels in the different areas for Wistar rats. In the depleted groups of Wistar rats, 5-HT levels were reduced in the PFC (F
+1,23 = 20.86; p &lt; 0.001) and hippocampus (F
+1,24 = 5.89; p &lt; 0.023) (see Table 2), and there was a tendency toward significance in the amygdala (F
+1,24 = 3.92; p = 0.059). 5-HIAA levels were decreased in the PFC (F
+1,23 = 29.52; p &lt; 0.001), striatum (F
+1,22 = 4.79; p = 0.040), amygdala (F
+1,24 = 29.79; p &lt; 0.001) and hippocampus (F
+1,24 = 19.837; p &lt; 0.001). In addition, a decreased 5-HIAA/5-HT turnover ratio in all areas was found: PFC (F
+1,23 = 16.13; p &lt; 0.001), striatum (F
+1,22 = 51.90; p &lt; 0.001), amygdala (F
+1,24 = 52.97; p &lt; 0.001), nucleus accumbens (F
+1,19 = 19.67; p &lt; 0.001) and hippocampus (F
+1,24 = 64.45; p &lt; 0.001). No significant changes in levels of 5-HT and 5-HIAA were observed in the nucleus accumbens. NE and DA were not significantly affected in any brain regions.Table 2Monoamine concentration levels (picomole/milligramme of tissue) in the prefrontal cortex, striatum, amygdala, nucleus accumbens and hippocampus in T+ and T− for Wistar rats (n = 11–14)5-HT5-HIAA5-HIAA/5-HT ratioNEDAPFCT+1.67 ± 0.151.16 ± 0.140.70 ± 0.061.86 ± 0.141.68 ± 0.46T−
+0.86 ± 0.09**
+0.36 ± 0.03**
+0.44 ± 0.03**1.72 ± 0.132.87 ± 0.77StriatT+3.56 ± 0.814.13 ± 0.881.17 ± 0.070.14 ± 0.03130.64 ± 27.47T−3.08 ± 0.47
+2.08 ± 0.37*
+0.65 ± 0.03**0.22 ± 0.08146.89 ± 23.26AmygT+2.93 ± 0.322.36 ± 0.220.83 ± 0.041.10 ± 0.2118.89 ± 3.57T−
+2.16 ± 0.21
+#
+
+1.01 ± 0.09**
+0.48 ± 0.02**1.47 ± 0.2520.23 ± 2.83NAcT+2.78 ± 0.752.50 ± 0.690.90 ± 0.022.50 ± 0.5541.04 ± 13.00T−2.61 ± 1.221.45 ± 0.59
+0.62 ± 0.06**5.73 ± 2.5844.67 ± 20.58HippoT+1.23 ± 0.151.70 ± 0.221.38 ± 0.031.97 ± 0.201.11 ± 0.19T−
+0.78 ± 0.10*
+0.67 ± 0.05**
+0.91 ± 0.04**1.56 ± 0.111.72 ± 0.25Data are mean ± SEM. Significant differences between T+ and T− (*p &lt; 0.05, **p &lt; 0.01, #
+p = 0.059)
+PFC prefrontal cortex, NAc nucleus accumbens, Amyg amygdala, Striat striatum, Hippo hippocampus
+
+        In the depleted group of LH rats, 5-HT levels were reduced in the PFC (F
+1,15 = 33.43; p &lt; 0.001), striatum (F
+1,14 = 16.82; p &lt; 0.001), amygdala (F
+1,14 = 6.63; p = 0.022) and hippocampus (F
+1,15 = 9.10; p = 0.009) (see Table 3). 5-HIAA levels and 5-HIAA/5-HT turnover ratio decreased in the PFC (F
+1,13 = 38.89; p &lt; 0.001; F
+1,13 = 10.25; p = 0.007), striatum (F
+1,14 = 21.82; p &lt; 0.001; F
+1,14 = 14.45; p = 0.002), amygdala (F
+1,14 = 31.85; p &lt; 0.001; F
+1,14 = 40.83; p &lt; 0.001), nucleus accumbens (F
+1,11 = 17.65; p &lt; 0.001; F
+1,11 = 20.56; p &lt; 0.001) and hippocampus (F
+1,15 = 32.38; p &lt; 0.001; F
+1,15 = 56.49; p &lt; 0.001). Besides, there was a compensatory increase in DA in nucleus accumbens (F
+1,11 = 8.28; p = 0.015) and a decrease in NE in PFC (F
+1,15 = 6.42; p = 0.023); DA and NE were not affected in other areas.Table 3Monoamine concentration levels (picomole/milligramme of tissue) in the prefrontal cortex, striatum, amygdala, nucleus accumbens and hippocampus in T+ and T− for Lister Hooded rats (n = 4–9)5-HT5-HIAA5-HIAA/5-HT ratioNEDAPFCT+1.77 ± 0.091.02 ± 0.090.56 ± 0.041.62 ± 0.093.89 ± 1.08T−
+0.99 ± 0.11**
+0.04 ± 0.07**
+0.35 ± 0.07**
+1.31 ± 0.08*2.34 ± 0.72StriatT+2.20 ± 0.271.98 ± 0.310.88 ± 0.040.25 ± 0.0779.35 ± 11.61T−
+0.92 ± 0.15**
+0.52 ± 0.06**
+0.60 ± 0.06**0.22 ± 0.0883.19 ± 7.21AmygT+2.81 ± 0.322.12 ± 0.210.78 ± 0.051.38 ± 0.2812.94 ± 2.56T−
+1.75 ± 0.21*
+0.68 ± 0.09**
+0.39 ± 0.02**1.13 ± 0.3420.18 ± 3.28NAcT+2.74 ± 0.312.34 ± 0.190.90 ± 0.068.01 ± 1.9823.14 ± 4.36T−2.09 ± 0.22
+1.01 ± 0.15**
+0.48 ± 0.02**3.40 ± 1.96
+48.99 ± 9.52*HippoT+1,45 ± 0.192.17 ± 0.241.54 ± 0.072.60 ± 0.234.95 ± 1.71T−
+0.79 ± 0.07**
+0.64 ± 0.07**
+0.81 ± 0.06**3.05 ± 0.629.45 ± 3.46Data are mean ± SEM. Significant differences between T+ and T− (*p &lt; 0.05, **p &lt; 0.01)
+PFC prefrontal cortex, NAc nucleus accumbens, Amyg amygdala, Striat striatum, Hippo hippocampus
+
+      
+    
+    
+      Discussion
+      The present study has shown the effects of chronic TRP depletion by diet in two strains of rats: Wistar and LH. Before TRP depletion by diet, we examined between-strain differences in the model of compulsive behaviour, SIP, and we found in the Wistar strain two groups of rats based on their drinking behaviour, HD and LD, while the LH strain did not show acquisition of compulsive drinking. After the chronic TRP depletion by diet, the TRP-depleted HD group of Wistar rats increased their compulsive drinking based on the total number of licks, but no changes in drinking behaviour were observed in either the LD Wistar or LH rats. Conversely, TRP depletion produced an increase in spontaneous locomotor activity only in LH rats, while the Wistar rats were unaffected. A reduction of striatal 5-HT2A receptor binding was observed in depleted HD Wistar rats compared to non-depleted HD Wistar rats, while depleted LD Wistar rats were not affected by the TRP manipulation. On the contrary, depleted LH rats showed reduced binding of the 5-HT1A receptor in the frontal cortex. Monoamine measures confirmed that 5-HT, 5-HIAA and the 5-HIAA/5-HT ratio were depleted in different brain regions in both Wistar and LH rats. These results will be further discussed in terms of the relationship between serotonin and inhibitory control.
+      
+        Acquisition of schedule-induced polydipsia and strain differences
+        In the SIP procedure, the exposure of the Wistar strain to an FT-60s schedule of food delivery differentiated two populations based on the amount of drinking: high and low drinkers. The HD Wistar rats showed an increased volume of water intake and number of licks from session 3 compared to the LD Wistar rats. These results confirm previous studies in which consistent individual differences are found (for review, see Moreno and Flores 2012). However, the LH rats did not show an acquisition of SIP. This study is the first to evaluate strain differences between Wistar and LH rats in SIP acquisition and the development of SIP drinking. Regarding strain differences, LH rats compared to Wistar rats show a higher inhibitory control measured by less anticipatory responses in the 3-CSRT task and less food hoarding behaviour (Broersen and Uylings 1999). Other strains exhibiting inhibitory control deficits have shown increased SIP behaviour. For instance, spontaneously hypertensive rats, characterized as hyperactive and impulsive in terms of exacerbated sensitivity to delay of reinforcement, displayed increased drinking in SIP compared to Wistar–Kyoto rats (Ibias and Pellón 2011), as well as two rat lines selectively bred for high ethanol preference compared to their non-preferring counterparts (Gilpin et al. 2008). Moreover, the selective breeding of Roman high- (RHA) and low-avoidance (RLA) rats for rapid vs. extremely poor acquisition of active avoidance behaviour in a shuttle box resulted in two phenotypes that present differences in SIP acquisition (Moreno et al. 2010). RHA rats, which show traits such as higher novelty seeking, susceptibility to addictive drugs and impulse behaviours in the delay-discounting task and five-choice serial reaction time (5-CSRT) task (Escorihuela et al. 1999; Fattore et al. 2009; Moreno et al. 2010), also display increased SIP acquisition compared to RLA rats. Thus, SIP seems to be sensitive in distinguishing phenotypes of rats that have shown deficits in inhibitory control responses in different tasks of impulsivity/compulsivity, indicating a lack of inhibitory control as the main characteristic involved in the compulsive drinking in SIP (Moreno and Flores 2012).
+      
+      
+        Effect of chronic tryptophan-deficient diet on schedule-induced polydipsia and possible mechanisms
+        Chronic TRP-deficient diet exposure increased the total number of licks in the HD Wistar rats without affecting the amount of water drunk on SIP. We found similar observations in our laboratory of an increase in total licks on SIP after 6 months of an acute chlorpyrifos (CPF) administration (Cardona et al. 2006, 2011). There is evidence that long-term CPF intoxication affects the serotonergic system (Chen et al. 2011; Moreno et al. 2008), possibly by inducing TRP hydroxylase, the rate-limiting enzyme for 5-HT biosynthesis, and suppressing expression of 5-HT transporter genes (Slotkin and Seidler 2008). Therefore, a disruption in serotonin levels may be the underlying mechanism for the increased total licks observed on SIP. On the other hand, the increase in licks is task-dependent because groups differ from session 3 onward and not from session 1. The effect of increasing the number of licks without affecting the amount of water intake, also observed by Cardona et al. (2006, 2011), may suggest a change of the drinking behaviour understood as an expression of compulsivity. In this sense, lick efficiency analyses showed differences in HD Wistar rats due to the TRP depletion by diet. This result could be interpreted as an increase in the stereotypic/compulsive manner of drinking by depleted HD rats, and this increase is not due to motor problems since depleted LD Wistar and LH rats did not differ in lick efficiency. The specific effect of the chronic TRP depletion increasing total licks and licking efficiency in HD Wistar rats but not in LD Wistar rats indicates a vulnerability of the HD group to compulsive symptoms and an implication of the serotonergic system mediating this vulnerability.
+        Only a few studies have tested the effect of acute TRP depletion in OCD patients, showing not significant increases of obsessions or compulsions according to the scores of the Yale Brown Obsessive Compulsive Scale at rest or following symptom provocation (Barr et al. 1994; Berney et al. 2006). However, taking into account studies using neuropsychological tasks instead of questionnaires, patients with psychopathologies from the impulsive-compulsive spectrum seem to aggravate their symptoms when exposed to ATD. For instance, ATD increased omissions in the continuous performance task (Mette et al. 2013; Zepf et al. 2010) and aggressive behaviour in ADHD patients (Kötting et al. 2013; Stadler et al. 2007; Zepf et al. 2008, 2009; Zimmermann et al. 2012). Interestingly, ATD impaired go/no-go performance (LeMarquand et al. 1999) and stop signal reaction time (Crean et al. 2002) in healthy men with family history of alcoholism and also increased commission errors in the go/no-go task in an aggressive subgroup of people with ADHD (LeMarquand et al. 1998). These findings suggest that ATD may reveal vulnerable 5-HT systems in certain populations at risk of impulse control disorders (Faulkner and Deakin 2014), though it is still unknown precisely which receptor subtypes may lay behind this vulnerability.
+        In our study, we found a reduction of striatal 5-HT2A receptor density in TRP-depleted HD Wistar rats compared to non-depleted HD Wistar rats. No differences were obtained in the LD Wistar or LH rats. Alterations of 5-HT2A receptor levels in 5-HT depletion studies are controversial. Several studies report upregulation of this receptor subtype in the hippocampus and frontal cortex (Franklin et al. 2012; Heal et al. 1985; Seeman et al. 1980), while other studies do not observe any difference (Blackshear et al. 1981; Conn and Sanders-Bush 1986; Fischette et al. 1987). In support of our findings, Licht et al. (2009) found that 5-HT2A receptor binding was markedly reduced in striatum and prefrontal cortex regions after 5-HT depletion. Barlow et al. (2015) had similar findings regarding the 5-HT2A receptor reductions and low levels of 5-HT in the orbitofrontal cortex in perseverative rats in the reversal learning task. They furthermore reported differences in gene expression levels of the MAO-A and MAO-B enzymes. They suggest that decreased MAO activity in the DRN resulted in reduced 5-HT breakdown and consequently increased autoinhibition of 5-HT neurons by somatodendritic 5-HT receptors (Barlow et al. 2015; Liu et al. 2005).
+        The specific downregulation of the striatal 5HT2A receptor in HD but not LD rats by manipulation of the central 5-HT system reveals a specific role of the 5-HT2A receptor system in the observed increase in compulsive drinking on SIP. Evidence from animal and human studies underlies a key role of the 5-HT2A/C receptors in compulsive symptoms (Fineberg et al. 2010, 2011). Activation of prefrontal 5-HT2A receptors has been proposed to underpin the anticompulsive effect of SSRIs (Dannon et al. 2000; for a review, see El Mansari and Blier 2006; Westenberg et al. 2007). Second-generation antipsychotics may exacerbate compulsive behaviours in patients with schizophrenia and proposed to be through the potent 5-HT2A antagonism (Poyurovsky et al. 2008). In fact, activation of the 5-HT2A/C by DOI reduces compulsive drinking on SIP, and this reduction is blocked by the 5-HT2A receptor antagonists ketanserin and M100907, but not by the 5-HT2C receptor antagonist SB242084, indicating that the 5-HT2A receptor mediates the anticompulsive effect of DOI on SIP (Navarro et al. 2015). Moreover, systemic administration of M100907 in rats impairs spatial reversal learning, increasing perseverative responses (Boulougouris et al. 2008). Alterations in 5-HT2A receptor levels have also been observed in Roman high-avoidance (RHA) rats (Klein et al. 2014), an inbred strain characterized by a compulsive drinking profile on SIP, impulsivity on the delay-discounting task and poor inhibitory control in the 5-CSRT task (Moreno et al. 2010). In humans, neuroimaging studies have also linked differences in 5-HT2A receptor levels to the development of compulsive spectrum disorders. Positron emission tomography (PET) studies in drug-naive OCD patients reveal a reduction in frontal cortex serotonin 5-HT2A receptor availability (Perani et al. 2008), with specific correlations between serotonin 5-HT2A receptor availability in the orbitofrontal cortex and age of onset of the disorder (Simpson et al. 2011).
+        Little is known regarding the contribution of the striatal serotonin receptor subtypes to cognitive function. In the striatum, 5-HT receptors modulate the activity of DA, GABA and glutamate neurotransmission and output regions of the basal ganglia (Nicholson and Brotchie 2002), suggesting a role of the 5-HT system in regulating action selection and motor control (Di Matteo et al. 2008). More studies are needed to evaluate the role of the striatal 5-HT2A receptor in the impulsive-compulsive spectrum disorders.
+      
+      
+        Effect of chronic tryptophan-deficient diet on spontaneous locomotor activity and possible mechanisms
+        The diet-induced chronic TRP depletion resulted in the LH strain in an increase in spontaneous locomotor activity not observed in the Wistar strain. Contrary to our results, previous studies with Wistar rats reported increases in locomotor activity after a 5-week exposure to a TRP-deficient diet (Vergnes and Kempf 1981). Possibly, the effect of TRP depletion by diet on locomotor activity depends on the severity of 5-HT reductions, based on the observations of greater global reductions of 5-HT and its metabolite in LH but not in Wistar rats in our study. In fact, the increases of locomotor activity in Vergnes and Kempf’s study (1981) were found after a period of 5-week exposure to a TRP-free diet, in which 75% of reductions in brain 5-HT levels were observed. However, we have carried out an exposure of 2 weeks that is similar to the chronic TRP treatment in Fadda et al.’s study (2000), in which 35–45% of 5-HT reductions were found. Moreover, central 5-HT depletion by administration of 5,7-dihydroxytryptamine, an invasive neurotoxic method that drastically reduces 5-HT levels, reported an increase in locomotor activity in LH rats (Eagle et al. 2008). On the other hand, our results confirm previous observations of no differences in locomotor activity between the HD and LD Wistar rats (Moreno et al. 2010).
+        Besides this effect, depleted LH rats showed a downregulation of prefrontal 5-HT1A receptor that was not observed in the depleted Wistar rats. This is interesting as 5-HT1A receptors seem to be less susceptible to changes in serotonergic tonus compared to other 5-HT receptor subtypes, based on several studies of 5,7-DHT lesions (Berendsen et al. 1991; Frazer and Hensler 1990; Hensler et al. 1991; Miquel et al. 1992; Verge et al. 1986). However, Kawai et al. (1994) proposed a downregulation of 5-HT1A receptors in the frontal cortex as a homeostatic adaptive change in response to chronic TRP deprivation.
+      
+      
+        Effect of chronic tryptophan-deficient diet on monoaminergic concentration levels
+        Chronic TRP depletion was effective in reducing the levels of 5-HIAA/5-HT turnover ratio in prefrontal cortex, striatum, amygdala, nucleus accumbens and hippocampus in both strains of rats. In addition, the serotonin metabolite 5-HIAA was reduced in all cases with the exception of nucleus accumbens of the Wistar rats. More variability was found when exploring significant reductions of 5-HT, which was effectively decreased in all areas but not in the striatum of the Wistar rats and the nucleus accumbens of both strains. Previous studies have reported similar findings regarding significant reductions of serotonin and its metabolite in prefrontal cortex and hippocampus when challenging rats to a TRP depletion by diet (Cahir et al. 2007; Franklin et al. 2012; Koot et al. 2012). However, there were strain differences, as the LH rats showed additional changes in other monoamines such as DA, which was increased in the nucleus accumbens, and NE, which was decreased in the prefrontal cortex, not observed in the Wistar rats. Alterations of DA and NA when depleting chronically TRP by diet were also observed by Koot et al. (2012) in Wistar rats, indicating that this non-invasive depleting method of 5-HT may possibly lead to alterations in other brain neurotransmitter systems.
+        In conclusion, the primary findings of the present study highlight the contribution of serotonergic mechanisms in the compulsive drinking behaviour of rats on SIP, in which the serotonin depletion by chronic exposure to a TRP-free diet increased compulsive licking in HD Wistar rats compared to LD Wistar and LH rats on SIP. Moreover, the TRP depletion by diet produced a modulation of 5-HT1A and 5-HT2A receptor subtypes. The depleted HD Wistar rats showed 5-HT2A receptor reductions in the striatum, which may underlie the increases in licking on SIP. Changes in the 5-HT2A receptor subtype may represent a good potential biomarker for the vulnerability to compulsive spectrum disorders and a new target in the development of new therapeutic strategies.
+      
+    
+  
+
+    
+      Acknowledgements
+      The authors thank Luis Ruedas for his invaluable and continuous help and Hans Jørgen Jensen for skilled technical assistance.
+    
+    
+      Compliance with ethical standards
+      All procedures were conducted in accordance with the Spanish Royal Decree 53/2013 on the protection of experimental animals, with the European Community Council Directives (86/609/EEC) and with the University of Almería Animal Research Committee approval.
+      
+        Funding
+        This study was funded by grants from the Ministerio de Economía y Competitividad, Spanish Government (grants numbers PSI2012-31660 and PSI2015-70037-R).
+      
+      
+        Conflicts of interest
+        The authors declare that they have no conflict of interest.
+      
+    
+    
+      References
+      
+        
+          
+            American Psychiatric Association
+          
+          Diagnostic and Statistical Manual of Mental Disorders
+          2013
+          5
+          Washington DC
+          American Psychiatric Press
+        
+      
+      
+        
+          
+            
+              Angoa-Pérez
+              M
+            
+            
+              Kane
+              MJ
+            
+            
+              Briggs
+              DI
+            
+            
+              Sykes
+              CE
+            
+            
+              Shah
+              MM
+            
+            
+              Francescutti
+              DM
+            
+            
+              Rosenberg
+              DR
+            
+            
+              Thomas
+              DM
+            
+            
+              Kuhn
+              DM
+            
+          
+          Genetic depletion of brain 5HT reveals a common molecular pathway mediating compulsivity and impulsivity
+          J Neurochem
+          2012
+          121
+          974
+          984
+          10.1111/j.1471-4159.2012.07739.x
+          
+          22443164
+        
+      
+      
+        
+          
+            
+              Aznar
+              S
+            
+            
+              Klein
+              AB
+            
+          
+          Regulating prefrontal cortex activation: an emerging role for the 5-HT serotonin receptor in the modulation of emotion-based actions?
+          Mol Neurobiol
+          2013
+          48
+          841
+          853
+          10.1007/s12035-013-8472-0
+          
+          23696058
+        
+      
+      
+        
+          
+            
+              Aznar
+              S
+            
+            
+              Hervig
+              ME
+            
+          
+          The 5-HT2A serotonin receptor in executive function: implications for neuropsychiatric and neurodegenerative diseases
+          Neurosci Biobehav Rev
+          2016
+          64
+          63
+          82
+          10.1016/j.neubiorev.2016.02.008
+          
+          26891819
+        
+      
+      
+        
+          
+            
+              Bari
+              A
+            
+            
+              Theobald
+              DE
+            
+            
+              Caprioli
+              D
+            
+            
+              Mar
+              AC
+            
+            
+              Aidoo-Micah
+              A
+            
+            
+              Dalley
+              JW
+            
+            
+              Robbins
+              TW
+            
+          
+          Serotonin modulates sensitivity to reward and negative feedback in a probabilistic reversal learning task in rats
+          Neuropsychopharmacol
+          2010
+          35
+          1290
+          1301
+          10.1038/npp.2009.233
+        
+      
+      
+        
+          
+            
+              Barlow
+              RL
+            
+            
+              Alsiö
+              J
+            
+            
+              Jupp
+              B
+            
+            
+              Rabinovich
+              R
+            
+            
+              Shrestha
+              S
+            
+            
+              Roberts
+              AC
+            
+            
+          
+          Markers of serotonergic function in the orbitofrontal cortex and dorsal raphé nucleus predict individual variation in spatial-discrimination serial reversal learning
+          Neuropsychopharmacol
+          2015
+          40
+          7
+          1619
+          1630
+          10.1038/npp.2014.335
+        
+      
+      
+        
+          
+            
+              Barr
+              LC
+            
+            
+              Goodman
+              WK
+            
+            
+              McDougle
+              CJ
+            
+            
+              Delgado
+              PL
+            
+            
+              Heninger
+              GR
+            
+            
+              Charney
+              DS
+            
+            
+          
+          Tryptophan depletion in patients with obsessive-compulsive disorder who respond to serotonin reuptake inhibitors
+          Arch Gen Psychiatry
+          1994
+          51
+          309
+          317
+          10.1001/archpsyc.1994.03950040053007
+          
+          8161291
+        
+      
+      
+        
+          
+            
+              Berendsen
+              HH
+            
+            
+              Broekkamp
+              CL
+            
+            
+              Van Delft
+              AM
+            
+          
+          Depletion of brain serotonin differently affects behaviour induced by 5-HT1A, 5-HT1C and 5-HT2 receptor activation in rats
+          Behav Neural Biol
+          1991
+          55
+          214
+          226
+          10.1016/0163-1047(91)80140-A
+          
+          1829353
+        
+      
+      
+        
+          
+            
+              Berney
+              A
+            
+            
+              Sookman
+              D
+            
+            
+              Leyton
+              M
+            
+            
+              Young
+              S
+            
+            
+              Benkelfat
+              C
+            
+          
+          Lack of effects on core obsessive-compulsive symptoms of tryptophan depletion during symptom provocation in remitted obsessive-compulsive disorder patients
+          Biol Psychiatry
+          2006
+          59
+          9
+          853
+          857
+          10.1016/j.biopsych.2005.08.023
+          
+          16213470
+        
+      
+      
+        
+          
+            
+              Blackshear
+              MA
+            
+            
+              Steranka
+              LR
+            
+            
+              Sanders-Bush
+              E
+            
+          
+          Multiple serotonin receptors: regional distribution and effect of raphe lesions
+          Eur J Pharmacol
+          1981
+          76
+          325
+          334
+          10.1016/0014-2999(81)90103-5
+          
+          7327207
+        
+      
+      
+        
+          
+            
+              Bortolato
+              M
+            
+            
+              Frau
+              R
+            
+            
+              Orrù
+              M
+            
+            
+              Collu
+              M
+            
+            
+              Mereu
+              G
+            
+            
+              Carta
+              M
+            
+            
+          
+          Effects of tryptophan deficiency on prepulse inhibition of the acoustic startle in rats
+          Psychopharmacol (Berl)
+          2008
+          198
+          2
+          191
+          200
+          10.1007/s00213-008-1116-9
+        
+      
+      
+        
+          
+            
+              Boulougouris
+              V
+            
+            
+              Glennon
+              JC
+            
+            
+              Robbins
+              TW
+            
+          
+          Dissociable effects of selective 5-HT2A and 5-HT2C receptor antagonists on serial spatial reversal learning in rats
+          Neuropsychopharmacol
+          2008
+          33
+          2007
+          2019
+          10.1038/sj.npp.1301584
+        
+      
+      
+        
+          
+            
+              Broersen
+              LM
+            
+            
+              Uylings
+              HB
+            
+          
+          Visual attention task performance in Wistar and Lister hooded rats: response inhibition deficits after medial prefrontal cortex lesions
+          Neuroscience
+          1999
+          94
+          47
+          57
+          10.1016/S0306-4522(99)00312-7
+          
+          10613496
+        
+      
+      
+        
+          
+            
+              Brown
+              CM
+            
+            
+              Fletcher
+              PJ
+            
+            
+              Coscina
+              DV
+            
+          
+          Acute amino acid loads that deplete brain serotonin fail to alter behavior
+          Pharmacol Biochem Be
+          1998
+          59
+          115
+          121
+          10.1016/S0091-3057(97)00381-X
+        
+      
+      
+        
+          
+            
+              Cahir
+              M
+            
+            
+              Ardis
+              T
+            
+            
+              Reynolds
+              GP
+            
+            
+              Cooper
+              SJ
+            
+          
+          Acute and chronic tryptophan depletion differentially regulate central 5-HT1A and 5-HT2A receptor binding in the rat
+          Psychopharmacol
+          2007
+          190
+          497
+          506
+          10.1007/s00213-006-0635-5
+        
+      
+      
+        
+          
+            
+              Cardona
+              D
+            
+            
+              López-Grancha
+              M
+            
+            
+              López-Crespo
+              G
+            
+            
+              Nieto-Escámez
+              F
+            
+            
+              Sánchez-Santed
+              F
+            
+            
+              Flores
+              P
+            
+          
+          Vulnerability of long-term neurotoxicity of chlorpyrifos: effect on schedule-induced polydipsia and a delay discounting task
+          Psychopharmacol
+          2006
+          189
+          47
+          57
+          10.1007/s00213-006-0547-4
+        
+      
+      
+        
+          
+            
+              Cardona
+              D
+            
+            
+              López-Crespo
+              G
+            
+            
+              Sánchez-Amate
+              MC
+            
+            
+              Flores
+              P
+            
+            
+              Sánchez-Santed
+              F
+            
+          
+          Impulsivity as long-term sequelae after chlorpyrifos intoxication: time course and individual differences
+          Neurotox Res
+          2011
+          19
+          128
+          137
+          10.1007/s12640-009-9149-3
+          
+          20087798
+        
+      
+      
+        
+          
+            
+              Chen
+              WQ
+            
+            
+              Yuan
+              L
+            
+            
+              Xue
+              R
+            
+            
+              Li
+              YF
+            
+            
+              Su
+              RB
+            
+            
+              Zhang
+              YZ
+            
+            
+              Li
+              J
+            
+          
+          Repeated exposure to chlorpyrifos alters the performance of adolescent male rats in animal models of depression and anxiety
+          Neurotoxicology
+          2011
+          32
+          355
+          361
+          10.1016/j.neuro.2011.03.008
+          
+          21453723
+        
+      
+      
+        
+          
+            
+              Conn
+              PJ
+            
+            
+              Sanders-Bush
+              E
+            
+          
+          Regulation of serotonin-stimulated phosphoinositide hydrolysis: regulation to the serotonin 5-HT2 binding site
+          J Neurosci
+          1986
+          6
+          3669
+          3675
+          
+          3025382
+        
+      
+      
+        
+          
+            
+              Crean
+              J
+            
+            
+              Richards
+              JB
+            
+            
+              de Wit
+              H
+            
+          
+          Effect of tryptophan depletion on impulsive behavior in men with or without a family history of alcoholism
+          Behav Brain Res
+          2002
+          136
+          349
+          357
+          10.1016/S0166-4328(02)00132-8
+          
+          12429396
+        
+      
+      
+        
+          
+            
+              Dannon
+              PN
+            
+            
+              Sasson
+              Y
+            
+            
+              Hirschmann
+              S
+            
+            
+              Iancu
+              I
+            
+            
+              Grunhaus
+              LJ
+            
+            
+              Zohar
+              J
+            
+          
+          Pindolol augmentation in treatment-resistant obsessive compulsive disorder: a double-blind placebo controlled trial
+          Eur Neuropsychopharm
+          2000
+          3
+          165
+          169
+          10.1016/S0924-977X(00)00065-1
+        
+      
+      
+        
+          
+            
+              Di Matteo
+              V
+            
+            
+              Pierucci
+              M
+            
+            
+              Esposito
+              E
+            
+            
+              Crescimanno
+              G
+            
+            
+              Benigno
+              A
+            
+            
+              Di Giovanni
+              G
+            
+          
+          Serotonin modulation of the basal ganglia circuitry: therapeutic implication for Parkinson’s disease and other motor disorders
+          Prog Brain Res
+          2008
+          172
+          423
+          463
+          10.1016/S0079-6123(08)00921-7
+          
+          18772045
+        
+      
+      
+        
+          
+            
+              Eagle
+              DM
+            
+            
+              Baunez
+              C
+            
+            
+              Hutcheson
+              DM
+            
+            
+              Lehmann
+              O
+            
+            
+              Shah
+              AP
+            
+            
+              Robbins
+              TW
+            
+          
+          Stop-signal reaction-time task performance: role of prefrontal cortex and subthalamic nucleus
+          Cereb Cortex
+          2008
+          18
+          178
+          188
+          10.1093/cercor/bhm044
+          
+          17517682
+        
+      
+      
+        
+          
+            
+              Eagle
+              DM
+            
+            
+              Baunez
+              C
+            
+          
+          Is there an inhibitory-response-control system in the rat? Evidence from anatomical and pharmacological studies of behavioral inhibition
+          Neurosci Biobehav R
+          2010
+          34
+          1–3
+          50
+          72
+          10.1016/j.neubiorev.2009.07.003
+        
+      
+      
+        
+          
+            
+              El Mansari
+              M
+            
+            
+              Blier
+              P
+            
+          
+          Mechanisms of action of current and potential pharmacotherapies of obsessive-compulsive disorder
+          Prog Neuro-psychoph Biol Psychiatry
+          2006
+          30
+          362
+          373
+          10.1016/j.pnpbp.2005.11.005
+        
+      
+      
+        
+          
+            
+              Escher
+              T
+            
+            
+              Mittleman
+              G
+            
+          
+          Preclinical study: schedule-induced alcohol drinking: non-selective effects of acamprosate and naltrexone
+          Addict Biol
+          2006
+          11
+          55
+          63
+          10.1111/j.1369-1600.2006.00004.x
+          
+          16759337
+        
+      
+      
+        
+          
+            
+              Escorihuela
+              RM
+            
+            
+              Fernández-Teruel
+              A
+            
+            
+              Gil
+              L
+            
+            
+              Aguilar
+              R
+            
+            
+              Tobeña
+              A
+            
+            
+              Driscoll
+              P
+            
+          
+          Inbred Roman high- and low-avoidance rats: differences in anxiety, novelty-seeking, and shuttlebox behaviors
+          Physiol Behav
+          1999
+          67
+          19
+          26
+          10.1016/S0031-9384(99)00064-5
+          
+          10463624
+        
+      
+      
+        
+          
+            
+              Fadda
+              F
+            
+            
+              Cocco
+              S
+            
+            
+              Stancampiano
+              R
+            
+          
+          A physiological method to selectively decrease brain serotonin release
+          Brain Res Protocol
+          2000
+          5
+          219
+          222
+          10.1016/S1385-299X(00)00016-7
+        
+      
+      
+        
+          
+            
+              Falk
+              JL
+            
+          
+          Production of polydipsia in normal rats by an intermittent food schedule
+          Science
+          1961
+          133
+          195
+          196
+          10.1126/science.133.3447.195
+          
+          13698026
+        
+      
+      
+        
+          
+            
+              Falk
+              JL
+            
+          
+          The nature and determinants of adjunctive behavior
+          Physiol Behav
+          1971
+          6
+          577
+          588
+          10.1016/0031-9384(71)90209-5
+          
+          5004684
+        
+      
+      
+        
+          
+            
+              Fattore
+              L
+            
+            
+              Piras
+              G
+            
+            
+              Corda
+              MG
+            
+            
+              Giorgi
+              O
+            
+          
+          The Roman high- and low-avoidance rat lines differ in the acquisition, maintenance, extinction, and reinstatement of intravenous cocaine self-administration
+          Neuropsychopharmacol
+          2009
+          34
+          1091
+          1101
+          10.1038/npp.2008.43
+        
+      
+      
+        
+          
+            
+              Faulkner
+              P
+            
+            
+              Deakin
+              JF
+            
+          
+          The role of serotonin in reward, punishment and behavioural inhibition in humans: insights from studies with acute tryptophan depletion
+          Neurosci Biobehav R
+          2014
+          46
+          3
+          365
+          378
+          10.1016/j.neubiorev.2014.07.024
+        
+      
+      
+        
+          
+            
+              Fernstrom
+              JD
+            
+          
+          Role of precursor availability in control of monoamine biosynthesis in brain
+          Physiol Rev
+          1983
+          63
+          484
+          546
+          
+          6132421
+        
+      
+      
+        
+          
+            
+              Fineberg
+              NA
+            
+            
+              Potenza
+              MN
+            
+            
+              Chamberlain
+              SR
+            
+            
+              Berlin
+              HA
+            
+            
+              Menzies
+              L
+            
+            
+              Bechara
+              A
+            
+            
+          
+          Probing compulsive and impulsive behaviors, from animal models to endophenotypes: a narrative review
+          Neuropsychopharmacol
+          2010
+          35
+          591
+          604
+          10.1038/npp.2009.185
+        
+      
+      
+        
+          
+            
+              Fineberg
+              NA
+            
+            
+              Chamberlain
+              SR
+            
+            
+              Hollander
+              E
+            
+            
+              Boulougouris
+              V
+            
+            
+              Robbins
+              TW
+            
+          
+          Translational approaches to obsessive-compulsive disorder: from animal models to clinical treatment
+          Brit J Pharmacol
+          2011
+          4
+          1044
+          1061
+          10.1111/j.1476-5381.2011.01422.x
+        
+      
+      
+        
+          
+            
+              Fineberg
+              NA
+            
+            
+              Chamberlain
+              SR
+            
+            
+              Goudriaan
+              AE
+            
+            
+              Stein
+              DJ
+            
+            
+              Vanderschuren
+              LJ
+            
+            
+              Gillan
+              CM
+            
+            
+          
+          New developments in human neurocognition: clinical, genetic, and brain imaging correlates of impulsivity and compulsivity
+          CNS Spectrums
+          2014
+          19
+          69
+          89
+          10.1017/S1092852913000801
+          
+          24512640
+        
+      
+      
+        
+          
+            
+              Fischette
+              CT
+            
+            
+              Nock
+              B
+            
+            
+              Renner
+              K
+            
+          
+          Effects of 5,7-DHT on serotonin 1 and serotonin 2 receptors throughout the rat central nervous system using quantitative autoradiography
+          Brain Res
+          1987
+          421
+          263
+          279
+          10.1016/0006-8993(87)91296-0
+          
+          3690273
+        
+      
+      
+        
+          
+            
+              Ford
+              MM
+            
+          
+          Applications of schedule-induced polydipsia in rodents for the study of an excessive ethanol intake phenotype
+          Alcohol
+          2014
+          48
+          265
+          276
+          10.1016/j.alcohol.2014.01.005
+          
+          24680665
+        
+      
+      
+        
+          
+            
+              Franklin
+              M
+            
+            
+              Craven
+              RD
+            
+            
+              Dowling
+              B
+            
+            
+              Campling
+              G
+            
+            
+              Elliott
+              JM
+            
+            
+              Cowen
+              PJ
+            
+          
+          Effect of a long-term low tryptophan diet on the prolactin responses to the 5-HT1A and 5-HT2C agonists, 8-OH-DPAT and mCPP in the male rat
+          J Psychopharmacol
+          1999
+          13
+          58
+          63
+          10.1177/026988119901300107
+          
+          10221360
+        
+      
+      
+        
+          
+            
+              Franklin
+              M
+            
+            
+              Bermudez
+              I
+            
+            
+              Murck
+              H
+            
+            
+              Singewald
+              N
+            
+            
+              Gaburro
+              S
+            
+          
+          Sub-chronic dietary tryptophan depletion—an animal model of depression with improved face and good construct validity
+          J Psychiat Res
+          2012
+          46
+          239
+          246
+          10.1016/j.jpsychires.2011.10.003
+          
+          22074993
+        
+      
+      
+        
+          
+            
+              Fratta
+              W
+            
+            
+              Biggio
+              G
+            
+            
+              Gessa
+              GL
+            
+          
+          Homosexual mounting behavior induced in male rats and rabbits by a tryptophan-free diet
+          Life Sci
+          1977
+          21
+          379
+          384
+          10.1016/0024-3205(77)90518-5
+          
+          302380
+        
+      
+      
+        
+          
+            
+              Frazer
+              A
+            
+            
+              Hensler
+              JG
+            
+          
+          5-HT1A-mediated responses: effects of treatments that modify serotonergic neurotransmission
+          Ann N Y Acad Sci
+          1990
+          600
+          460
+          474
+          10.1111/j.1749-6632.1990.tb16902.x
+          
+          2174665
+        
+      
+      
+        
+          
+            
+              Gessa
+              GL
+            
+            
+              Biggio
+              G
+            
+            
+              Fadda
+              F
+            
+            
+              Corsini
+              GU
+            
+            
+              Tagliamonte
+              A
+            
+          
+          Effect of the oral administration of tryptophan-free amino acid mixtures on serum tryptophan and serotonin metabolism
+          J Neurochem
+          1974
+          22
+          869
+          870
+          10.1111/j.1471-4159.1974.tb04308.x
+          
+          4407107
+        
+      
+      
+        
+          
+            
+              Gillan
+              CM
+            
+            
+              Robbins
+              TW
+            
+          
+          Goal-directed learning and obsessive-compulsive disorder
+          Phil Trans R Soc B
+          2014
+          369
+          1655
+          10.1098/rstb.2013.0475
+        
+      
+      
+        
+          
+            
+              Gilpin
+              N
+            
+            
+              Badia-Elder
+              N
+            
+            
+              Elder
+              R
+            
+            
+              Stewart
+              R
+            
+          
+          Schedule-induced polydipsia in lines of rats selectively bred for high and low ethanol preference
+          Behav Genet
+          2008
+          38
+          515
+          524
+          10.1007/s10519-008-9224-1
+          
+          18780177
+        
+      
+      
+        
+          
+            
+              Hawken
+              ER
+            
+            
+              Delva
+              NJ
+            
+            
+              Reynolds
+              JN
+            
+            
+              Beninger
+              RJ
+            
+          
+          Increased schedule-induced polydipsia in the rat following subchronic treatment with MK-801
+          Schizophr Res
+          2011
+          125
+          93
+          98
+          10.1016/j.schres.2010.07.022
+          
+          20719474
+        
+      
+      
+        
+          
+            
+              Hawken
+              ER
+            
+            
+              Beninger
+              RJ
+            
+          
+          The amphetamine sensitization model of schizophrenia symptoms and its effects on schedule-induced polydipsia in the rat
+          Psychopharmacol
+          2014
+          231
+          2001
+          2008
+          10.1007/s00213-013-3345-9
+        
+      
+      
+        
+          
+            
+              Heal
+              DJ
+            
+            
+              Philpot
+              J
+            
+            
+              Molyneux
+              SG
+            
+            
+              Metz
+              A
+            
+          
+          Intracerebroventricular administration of 5,7-DHT to mice increases both head twitch response and the number of cortical 5-HT2 receptors
+          Neuropharmacology
+          1985
+          24
+          1201
+          1205
+          10.1016/0028-3908(85)90155-8
+          
+          4094656
+        
+      
+      
+        
+          
+            
+              Hensler
+              JG
+            
+            
+              Kovachich
+              GB
+            
+            
+              Frazer
+              A
+            
+          
+          A quantitative autoradiographic study of serotonin1A receptor regulation. Effects of 5,7-dihydroxytryptamine and antidepressant treatments
+          Neuropsychopharmacol
+          1991
+          4
+          131
+          144
+        
+      
+      
+        
+          
+            
+              Ibias
+              J
+            
+            
+              Pellón
+              R
+            
+          
+          Schedule-induced polydipsia in the spontaneously hypertensive rat and its relation to impulsive behaviour
+          Behav Brain Res
+          2011
+          223
+          58
+          69
+          10.1016/j.bbr.2011.04.017
+          
+          21540060
+        
+      
+      
+        
+          
+            
+              Kawai
+              K
+            
+            
+              Yokota
+              N
+            
+            
+              Yamawaki
+              S
+            
+          
+          Effect of chronic tryptophan depletion on the circadian rhythm of wheel-running activity in rats
+          Physiol Behav
+          1994
+          55
+          1005
+          1013
+          10.1016/0031-9384(94)90381-6
+          
+          7519351
+        
+      
+      
+        
+          
+            
+              Klein
+              AB
+            
+            
+              Ultved
+              L
+            
+            
+              Adamsen
+              D
+            
+            
+              Santini
+              MA
+            
+            
+              Tobeña
+              A
+            
+            
+              Fernandez-Teruel
+              A
+            
+            
+          
+          5-HT2A and mGlu2 receptor binding levels are related to differences in impulsive behavior in the Roman low- (RLA) and high- (RHA) avoidance rat strains
+          Neuroscience
+          2014
+          263
+          36
+          45
+          10.1016/j.neuroscience.2013.12.063
+          
+          24412375
+        
+      
+      
+        
+          
+            
+              Koot
+              S
+            
+            
+              Zoratto
+              F
+            
+            
+              Cassano
+              T
+            
+            
+              Colangeli
+              R
+            
+            
+              Laviola
+              G
+            
+            
+              van den Bos
+              R
+            
+            
+              Adriani
+              W
+            
+          
+          Compromised decision-making and increased gambling proneness following dietary serotonin depletion in rats
+          Neuropharmacology
+          2012
+          62
+          1640
+          1650
+          10.1016/j.neuropharm.2011.11.002
+          
+          22118880
+        
+      
+      
+        
+          
+            
+              Kötting
+              WF
+            
+            
+              Bubenzer
+              S
+            
+            
+              Helmbold
+              K
+            
+            
+              Eisert
+              A
+            
+            
+              Gaber
+              TJ
+            
+            
+              Zepf
+              FD
+            
+          
+          Effects of tryptophan depletion on reactive aggression and aggressive decision-making in young people with ADHD
+          Acta Psychiat Scand
+          2013
+          128
+          114
+          123
+          10.1111/acps.12001
+          
+          22913430
+        
+      
+      
+        
+          
+            
+              LeMarquand
+              DG
+            
+            
+              Pihl
+              RO
+            
+            
+              Young
+              SN
+            
+            
+              Tremblay
+              RE
+            
+            
+              Séguin
+              JR
+            
+            
+              Palmour
+              RM
+            
+            
+              Benkelfat
+              C
+            
+          
+          Tryptophan depletion, executive functions and disinhibition in aggressive, adolescent males
+          Neuropsychopharmacol
+          1998
+          19
+          4
+          333
+          341
+          10.1038/sj.npp.1395196
+        
+      
+      
+        
+          
+            
+              LeMarquand
+              DG
+            
+            
+              Benkelfat
+              C
+            
+            
+              Pihl
+              RO
+            
+            
+              Palmour
+              RM
+            
+            
+              Young
+              SN
+            
+          
+          Behavioral disinhibition induced by tryptophan depletion in nonalcoholic young men with multigenerational family histories of paternal alcoholism
+          Am J Psychiat
+          1999
+          156
+          1771
+          1779
+          
+          10553742
+        
+      
+      
+        
+          
+            
+              Lapiz-Bluhm
+              MD
+            
+            
+              Soto-Pina
+              AE
+            
+            
+              Hensler
+              JG
+            
+            
+              Morilak
+              DA
+            
+          
+          Chronic intermittent cold stress and serotonin depletion induce deficits of reversal learning in an attentional set-shifting test in rats
+          Psychopharmacol
+          2009
+          202
+          329
+          341
+          10.1007/s00213-008-1224-6
+        
+      
+      
+        
+          
+            
+              Licht
+              CL
+            
+            
+              Marcussen
+              AB
+            
+            
+              Wegener
+              G
+            
+            
+              Overstreet
+              DH
+            
+            
+              Aznar
+              S
+            
+            
+              Knudsen
+              GM
+            
+          
+          The brain 5-HT4 receptor binding is down-regulated in the Flinders Sensitive Line depression model and in response to paroxetine administration
+          J Neurochem
+          2009
+          109
+          5
+          1363
+          1374
+          10.1111/j.1471-4159.2009.06050.x
+          
+          19476548
+        
+      
+      
+        
+          
+            
+              Lieben
+              CK
+            
+            
+              Blokland
+              A
+            
+            
+              Westerink
+              B
+            
+            
+              Deutz
+              NE
+            
+          
+          Acute tryptophan and serotonin depletion using an optimized tryptophan-free protein-carbohydrate mixture in the adult rat
+          Neurochem Int
+          2004
+          44
+          9
+          16
+          10.1016/S0197-0186(03)00102-5
+          
+          12963083
+        
+      
+      
+        
+          
+            
+              Liu
+              RJ
+            
+            
+              Lambe
+              EK
+            
+            
+              Aghajanian
+              GK
+            
+          
+          Somatodendritic autoreceptor regulation of serotonergic neurons: dependence on L-tryptophan hydroxylase-activating kinases
+          Eur J Neurosci
+          2005
+          21
+          945
+          958
+          10.1111/j.1460-9568.2005.03930.x
+          
+          15787701
+        
+      
+      
+        
+          
+            
+              López-Grancha
+              M
+            
+            
+              López-Crespo
+              G
+            
+            
+              Sanchez-Amate
+              MC
+            
+            
+              Flores
+              P
+            
+          
+          Individual differences in schedule-induced polydipsia and the role of gabaergic and dopaminergic systems
+          Psychopharmacol
+          2008
+          197
+          487
+          498
+          10.1007/s00213-007-1059-6
+        
+      
+      
+        
+          
+            
+              Mette
+              C
+            
+            
+              Zimmermann
+              M
+            
+            
+              Grabemann
+              M
+            
+            
+              Abdel-Hamid
+              M
+            
+            
+              Uekermann
+              J
+            
+            
+              Biskup
+              CS
+            
+            
+              Wiltfang
+              J
+            
+            
+              Zepf
+              FD
+            
+            
+              Kis
+              B
+            
+          
+          The impact of acute tryptophan depletion on attentional performance in adult patients with ADHD
+          Acta Psychiatr Scand
+          2013
+          128
+          2
+          124
+          132
+          10.1111/acps.12090
+          
+          23419004
+        
+      
+      
+        
+          
+            
+              Miquel
+              MC
+            
+            
+              Doucet
+              E
+            
+            
+              Riad
+              M
+            
+            
+              Adrien
+              J
+            
+            
+              Verge
+              D
+            
+            
+              Hamon
+              M
+            
+          
+          Effect of the selective lesion of serotoninergic neurons on the regional distribution of 5-HT1A receptor mRNA in the rat brain
+          Mol Brain Res
+          1992
+          14
+          357
+          362
+          10.1016/0169-328X(92)90104-J
+          
+          1326699
+        
+      
+      
+        
+          
+            
+              Moreno
+              M
+            
+            
+              Cañadas
+              F
+            
+            
+              Cardona
+              D
+            
+            
+              Suñol
+              C
+            
+            
+              Campa
+              L
+            
+            
+              Sánchez-Amate
+              MC
+            
+            
+              Flores
+              P
+            
+            
+              Sánchez-Santed
+              F
+            
+          
+          Long-term monoamine changes in the striatum and nucleus accumbens after acute chlorpyrifos exposure
+          Toxicol Lett
+          2008
+          176
+          162
+          167
+          10.1016/j.toxlet.2007.11.003
+          
+          18164878
+        
+      
+      
+        
+          
+            
+              Moreno
+              M
+            
+            
+              Cardona
+              D
+            
+            
+              Gómez
+              MJ
+            
+            
+              Sánchez-Santed
+              F
+            
+            
+              Tobeña
+              A
+            
+            
+              Fernández-Teruel
+              A
+            
+            
+              Flores
+              P
+            
+            
+          
+          Impulsivity characterization in the Roman high- and low-avoidance rat strains: behavioral and neurochemical differences
+          Neuropsychopharmacol
+          2010
+          35
+          1198
+          1208
+          10.1038/npp.2009.224
+        
+      
+      
+        
+          
+            
+              Moreno
+              M
+            
+            
+              Gutiérrez-Ferre
+              VE
+            
+            
+              Ruedas
+              L
+            
+            
+              Campa
+              L
+            
+            
+              Suñol
+              C
+            
+            
+              Flores
+              P
+            
+          
+          Poor inhibitory control and neurochemical differences in high compulsive drinker rats selected by schedule-induced polydipsia
+          Psychopharmacol (Berl)
+          2012
+          219
+          661
+          672
+          10.1007/s00213-011-2575-y
+        
+      
+      
+        
+          
+            
+              Moreno
+              M
+            
+            
+              Flores
+              P
+            
+          
+          Schedule-induced polydipsia as a model of compulsive behavior: neuropharmacological and neuroendocrine bases
+          Psychopharmacol
+          2012
+          219
+          647
+          659
+          10.1007/s00213-011-2570-3
+        
+      
+      
+        
+          
+            
+              Navarro
+              SV
+            
+            
+              Gutiérrez-Ferre
+              V
+            
+            
+              Flores
+              P
+            
+            
+              Moreno
+              M
+            
+          
+          Activation of serotonin 5-HT2A receptors inhibits high compulsive drinking on schedule-induced polydipsia
+          Psychopharmacol (Berl)
+          2015
+          232
+          4
+          683
+          697
+          10.1007/s00213-014-3699-7
+        
+      
+      
+        
+          
+            
+              Nicholson
+              SL
+            
+            
+              Brotchie
+              JM
+            
+          
+          5-hydroxytryptamine (5-HT, serotonin) and Parkinson’s disease—opportunities for novel therapeutics to reduce the problems of levodopa therapy
+          Eur J Neurol
+          2002
+          9
+          3
+          1
+          6
+          10.1046/j.1468-1331.9.s3.1.x
+          
+          12464115
+        
+      
+      
+        
+          
+            
+              Pelloux
+              Y
+            
+            
+              Dilleen
+              R
+            
+            
+              Economidou
+              D
+            
+            
+              Theobald
+              D
+            
+            
+              Everitt
+              BJ
+            
+          
+          Reduced forebrain serotonin transmission is causally involved in the development of compulsive cocaine seeking in rats
+          Neuropsychopharmacol
+          2012
+          37
+          2505
+          2514
+          10.1038/npp.2012.111
+        
+      
+      
+        
+          
+            
+              Perani
+              D
+            
+            
+              Garibotto
+              V
+            
+            
+              Gorini
+              A
+            
+            
+              Moresco
+              RM
+            
+            
+              Henin
+              M
+            
+            
+              Panzacchi
+              A
+            
+            
+              Matarrese
+              M
+            
+            
+              Carpinelli
+              A
+            
+            
+              Bellodi
+              L
+            
+            
+              Fazio
+              F
+            
+          
+          In vivo PET study of 5HT(2A) serotonin and D(2) dopamine dysfunction in drug-naive obsessive-compulsive disorder
+          NeuroImage
+          2008
+          42
+          306
+          314
+          10.1016/j.neuroimage.2008.04.233
+          
+          18511303
+        
+      
+      
+        
+          
+            
+              Poyurovsky
+              M
+            
+            
+              Faragian
+              S
+            
+            
+              Shabeta
+              A
+            
+            
+              Kosov
+              A
+            
+          
+          Comparison of clinical characteristics, co-morbidity and pharmacotherapy in adolescent schizophrenia patients with and without obsessive-compulsive disorder
+          Psychiatry Res
+          2008
+          159
+          133
+          139
+          10.1016/j.psychres.2007.06.010
+          
+          18406469
+        
+      
+      
+        
+          
+            
+              Rǎdulescu
+              A
+            
+            
+              Marra
+              R
+            
+          
+          A mathematical model of reward and executive circuitry in obsessive compulsive disorder
+          J Theor Biol
+          2016
+          414
+          165
+          175
+          10.1016/j.jtbi.2016.11.025
+          
+          27915073
+        
+      
+      
+        
+          
+            
+              Seeman
+              P
+            
+            
+              Westman
+              K
+            
+            
+              Coscina
+              D
+            
+            
+              Warsh
+              JJ
+            
+          
+          Serotonin receptors in hippocampus and frontal cortex
+          Eur J Pharmacol
+          1980
+          66
+          179
+          191
+          10.1016/0014-2999(80)90141-7
+          
+          7439270
+        
+      
+      
+        
+          
+            
+              Simpson
+              HB
+            
+            
+              Slifstein
+              M
+            
+            
+              Bender
+              JJ
+            
+            
+              Xu
+              X
+            
+            
+              Hackett
+              E
+            
+            
+              Maher
+              MJ
+            
+            
+              Abi-Dargham
+              A
+            
+          
+          Serotonin 2A receptors in obsessive-compulsive disorder: a positron emission tomography study with [11C]MDL100907
+          Biol Psychiatry
+          2011
+          70
+          897
+          904
+          10.1016/j.biopsych.2011.06.023
+          
+          21855857
+        
+      
+      
+        
+          
+            
+              Skodol
+              AE
+            
+            
+              Oldham
+              JM
+            
+          
+          
+            
+              Oldham
+              JM
+            
+            
+              Hollander
+              E
+            
+            
+              Skodol
+              AE
+            
+          
+          Phenomenology, differential diagnosis, and comorbidity of impulsive-compulsive spectrum of disorders
+          Impulsivity and compulsivity
+          1996
+          Washington
+          American Psychiatric Press, Inc.
+          1
+          36
+        
+      
+      
+        
+          
+            
+              Slotkin
+              TA
+            
+            
+              Seidler
+              FJ
+            
+          
+          Developmental neurotoxicants target neurodifferentiation into the serotonin phenotype: chlorpyrifos, diazinon, dieldrin and divalent nickel
+          Toxicol Appl Pharm
+          2008
+          233
+          211
+          219
+          10.1016/j.taap.2008.08.020
+        
+      
+      
+        
+          
+            
+              Stadler
+              C
+            
+            
+              Zepf
+              FD
+            
+            
+              Demisch
+              L
+            
+            
+              Schmitt
+              M
+            
+            
+              Landgraf
+              M
+            
+            
+              Poustka
+              F
+            
+          
+          Influence of rapid tryptophan depletion on laboratory-provoked aggression in children with ADHD
+          Neuropsychobiology
+          2007
+          56
+          2–3
+          104
+          110
+          
+          18182830
+        
+      
+      
+        
+          
+            
+              Stancampiano
+              R
+            
+            
+              Melis
+              F
+            
+            
+              Sarais
+              L
+            
+            
+              Cocco
+              S
+            
+            
+              Cugusi
+              C
+            
+            
+              Fadda
+              F
+            
+          
+          Acute administration of a tryptophan-free amino acid mixture decreases 5-HT release in rat hippocampus in vivo
+          Am J Phys
+          1997
+          272
+          991
+          994
+        
+      
+      
+        
+          
+            
+              Stancampiano
+              R
+            
+            
+              Cocco
+              S
+            
+            
+              Melis
+              F
+            
+            
+              Cugusi
+              C
+            
+            
+              Sarais
+              L
+            
+            
+              Fadda
+              F
+            
+          
+          The decrease of serotonin release induced by a tryptophan-free amino acid diet does not affect spatial and passive avoidance learning
+          Brain Res
+          1997
+          762
+          269
+          274
+          10.1016/S0006-8993(97)00506-4
+          
+          9262189
+        
+      
+      
+        
+          
+            
+              Stancampiano
+              R
+            
+            
+              Frau
+              R
+            
+            
+              Bini
+              V
+            
+            
+              Collu
+              M
+            
+            
+              Carta
+              M
+            
+            
+              Fadda
+              F
+            
+            
+              Bortolato
+              M
+            
+          
+          Chronic tryptophan deprivation attenuates gating deficits induced by 5-HT(1A), but not 5-HT2 receptor activation
+          Eur Neuropsychopharmacol
+          2013
+          23
+          1329
+          1335
+          10.1016/j.euroneuro.2012.10.009
+          
+          23141373
+        
+      
+      
+        
+          
+            
+              Van der Plasse
+              G
+            
+            
+              Feenstra
+              MG
+            
+          
+          Serial reversal learning and acute tryptophan depletion
+          Behav Brain Res
+          2008
+          186
+          23
+          31
+          10.1016/j.bbr.2007.07.017
+          
+          17714800
+        
+      
+      
+        
+          
+            
+              Verge
+              D
+            
+            
+              Daval
+              G
+            
+            
+              Marcinkiewiczm
+              M
+            
+            
+              Patey
+              A
+            
+            
+              Mestikawy
+              S
+            
+            
+              Gozlan
+              H
+            
+            
+              Hamon
+              M
+            
+          
+          Quantitative autoradiography of multiple 5-HT1 receptor subtypes in the brain of control or 5,7-dihydroxytryptamine-treated rats
+          J Neurosci
+          1986
+          6
+          3474
+          3482
+          
+          2947981
+        
+      
+      
+        
+          
+            
+              Vergnes
+              M
+            
+            
+              Kempf
+              E
+            
+          
+          Tryptophan deprivation: effects on mouse-killing and reactivity in the rat
+          Pharmacol Biochem Be
+          1981
+          14
+          1
+          19
+          23
+          10.1016/S0091-3057(81)80005-6
+        
+      
+      
+        
+          
+            
+              Wallace
+              A
+            
+            
+              Pehrson
+              AL
+            
+            
+              Sánchez
+              C
+            
+            
+              Morilaz
+              DA
+            
+          
+          Vortioxetine restores reversal learning impaired by 5-HT depletion or chronic intermittent cold stress in rats
+          Int J Neuropsychopharmacol
+          2014
+          23
+          1
+          12
+        
+      
+      
+        
+          
+            
+              Westenberg
+              HG
+            
+            
+              Fineberg
+              NA
+            
+            
+              Denys
+              D
+            
+          
+          Neurobiology of obsessive-compulsive disorder: serotonin and beyond
+          CNS Spectr
+          2007
+          12
+          14
+          27
+          10.1017/S1092852900002479
+        
+      
+      
+        
+          
+            
+              Winstanley
+              CA
+            
+            
+              Theobald
+              DE
+            
+            
+              Dalley
+              JW
+            
+            
+              Glennon
+              JC
+            
+            
+              Robbins
+              TW
+            
+          
+          5-HT2A and 5-HT2C receptor antagonists have opposing effects on a measure of impulsivity: interactions with global 5-HT depletion
+          Psychopharmacol (Berl)
+          2004
+          176
+          376
+          385
+          10.1007/s00213-004-1884-9
+        
+      
+      
+        
+          
+            
+              Zepf
+              FD
+            
+            
+              Holtmann
+              M
+            
+            
+              Stadler
+              C
+            
+            
+              Demisch
+              L
+            
+            
+              Schmitt
+              M
+            
+            
+              Wöckel
+              L
+            
+            
+              Poustka
+              F
+            
+          
+          Diminished serotonergic functioning in hostile children with ADHD: tryptophan depletion increases behavioural inhibition
+          Pharmacopsychiatry
+          2008
+          41
+          60
+          65
+          10.1055/s-2007-1004593
+          
+          18311686
+        
+      
+      
+        
+          
+            
+              Zepf
+              FD
+            
+            
+              Holtmann
+              M
+            
+            
+              Stadler
+              C
+            
+            
+              Magnus
+              S
+            
+            
+              Wöckel
+              L
+            
+            
+              Poustka
+              F
+            
+          
+          Diminished central nervous 5-HT neurotransmission and mood self-ratings in children and adolescents with ADHD: no clear effect of rapid tryptophan depletion
+          Hum Psychopharmacol Clin Exp
+          2009
+          24
+          87
+          94
+          10.1002/hup.1002
+        
+      
+      
+        
+          
+            
+              Zepf
+              F
+            
+            
+              Gaber
+              TJ
+            
+            
+              Baurmann
+              D
+            
+            
+              Bubenzer
+              S
+            
+            
+              Konrad
+              K
+            
+            
+              Herpetz-Dahlmann
+              B
+            
+            
+          
+          Serotonergic neurotransmission and lapses of attention in children and adolescents with attention deficit hyperactivity disorder: availability of tryptophan influences attentional performance
+          International Neuropsychopharmacol
+          2010
+          13
+          933
+          941
+          10.1017/S146114571000012X
+        
+      
+      
+        
+          
+            
+              Zimmermann
+              M
+            
+            
+              Grabemann
+              M
+            
+            
+              Mette
+              C
+            
+            
+              Abdel-Hamid
+              M
+            
+            
+              Ueckermann
+              J
+            
+            
+              Kraemer
+              M
+            
+            
+          
+          The effects of acute tryptophan depletion on reactive aggression in adults with attention-deficit/hyperactivity disorder (ADHD) and healthy controls
+          PLoS One
+          2012
+          7
+          3
+          e32023
+          10.1371/journal.pone.0032023
+          
+          22431971
+        
+      
+    
+  

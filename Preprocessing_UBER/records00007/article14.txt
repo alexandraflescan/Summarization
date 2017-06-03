@@ -1,0 +1,600 @@
+oai:pubmedcentral.nih.gov:53598572017-04-04jripmc-open
+Patterns of emotional responses to pregnancy, experience of pregnancy and attitudes to parenthood among IVF couples: a longitudinal study
+
+        
+          Background:
+          Research supports that in vitro fertilization causes anxiety and that anxiety can continue into the resulting pregnancy. Most women who have IVF will have a less invasive treatment for infertility prior to IVF; however, it is unclear if specific less invasive treatment cycles impact anxiety that is experienced in the pregnancy resulting from IVF.
+        
+        
+          Methods:
+          A prospective study was conducted for women who became pregnant via IVF, and data was collected about reported previous non-IVF treatment cycles as well as Pregnancy Related Anxiety Measure. Latent Class Analysis was conducted A p-value of ≤0.05 was considered significant.
+        
+        
+          Results:
+          144 subjects participated and were highly educated, affluent, married, and primarily white. The LCA process yielded two groups that on average had similar levels on most items except for use of intra uterine insemination and/or ovarian stimulation. This information was used to generate four exhaustive and mutually exclusive groups: Stimulation Only (stim-only), Stimulation and Intra uterine Insemination (stim-IUI), Intra uterine Insemination only (IUI only), or No Treatment (No Tx). ANOVA found that those in the Stim Only group had statistically significantly higher PRAM scores than the Stim IUI (p=0.0036), the IUI only group (p=0.05), and the No Tx group (p=0.0013).
+        
+        
+          Conclusion:
+          Women who become pregnant via IVF and had a history of non-in vitro fertilization cycles that only involved ovarian stimulation experienced more pregnancy-specific anxiety in the pregnancy that results from in vitro fertilization.
+        
+      
+
+        Infertility
+        Intra uterine insemination
+        In vitro fertilization
+        Pregnancy anxiety
+        Stress
+      
+
+    
+      Introduction
+      Fifteen percent of women worldwide experience infertility during their lifetime (1). Use of assisted reproductive technology (ART) such as in vitro fertilization (IVF) to treat fertility problems continues to rise due to successes and advances in science (1, 2). Despite this trend, there is a lack of clear understanding of the psychological experience especially anxiety a woman experiences during the pregnancy that follows successful treatment with IVF. Additionally, it is unclear what may put women who ultimately achieve a pregnancy at increased risk for experiencing increases in anxiety in the pregnancy that follows successful IVF. Understanding how anxiety is experienced during pregnancy is critical because of potential impact on pregnancy outcomes. In the general preterm birth literature, there is support for a positive relationship between pregnancy-related anxiety and preterm birth (3, 4).
+      Treatment for infertility is expensive and physically invasive which can be repeated for months or years before a pregnancy is achieved, or the decision is made to discontinue treatment. Treatment can vary greatly based on the diagnosis. Most couples will be offered less invasive treatment options including ovulation stimulating medications with or without intra uterine insemination (IUI), IUI without use of medication prior to ART including IVF (Stevenson, Hersheberger &amp; Bergh, 2016) and some will seek IVF upon definitive diagnosis of underlying infertility cause such as complete blockage of fallopian tubes or severe male-factor infertility, thus bypassing less invasive treatment options.
+      Women who are being treated for infertility report increasing amounts of emotional distress during the treatment process (5) with infertility-related stress impacting emotional distress (6). The emotional distress experienced can carry over into resulting pregnancy from infertility treatment. Qualitative research has found that women who are pregnant following IVF experience their pregnancies differently than women who conceive without assistance, specifically, perceiving their pregnancies as special and hard won (7, 8). Additionally, quantitative research has found increases in stress, particularly pregnancy-related anxiety, in women pregnant via IVF as compared to women who conceive without assistance (9).
+      The process of infertility treatment can take a long time to navigate. One study found that the average time spent on fertility care was 125 hours in an 18-month period of time. This translated to 15.6 working days, with the majority of time spent on visits with the provider. Additionally, there was a direct relationship between time spent on care and fertility-related stress (10). Data supports that emotional distress increases over time in treatment (11). While anxiety has been shown to increase during a treatment cycle of IVF and length of IVF treatment has been associated with increases in stress (12), what is less clear is whether utilization of specific less invasive treatment leading up to IVF contributes to anxiety experienced in a resulting pregnancy. Therefore, the aim of this exploratory study of women in the early second trimester of a post-IVF pregnancy was to assess whether certain less invasive treatment options including ovarian stimulation-only cycles, ovarian stimulation with IUI cycles, IUI only cycles, and no previous treatment affect pregnancy-specific anxiety levels.
+    
+    
+      Methods
+      The study had a prospective design targeting a population of pregnant women via IVF. Participants were recruited upon discharge to their obstetrician or midwife, typically at gestational week 8, from a large, private infertility practice in the North Eastern United States. Participation in the study commenced at gestational week 12, and women who expressed interest were sent several reminders about participation until gestational week 18. Inclusion criteria were female, 25–40 years of age, single or twin fetus gestation between weeks 12 and 20 gestation and ability to read and write English. Exclusion criteria included having a selective reduction in current pregnancy, and being medically or obstetrically high-risk requiring perinatologist to follow the pregnancy. Between weeks 12–18, participants logged onto the dedicated website, completed consent, and answered the study questionnaires. Approval was obtained from the New York University Committee on Activities Involving Human Subjects, and all subjects provided informed consent prior to participation in this study. The analysis sample included 144 women, which was as many participants that the study team had capacity to recruit and manage. All participants provided informed consent and submitted study questionnaires.
+      Subjects completed survey questions about their demographic data, as well as the number of previous treatment cycles for infertility prior to IVF including stimulated cycles (i.e. clomiphene citrate or gonadotrophins) either with or without IUI, non-stimulated IUI cycles, or no previous treatment. The demographic questionnaire included age, marital status, education, income, and race. Clinical characteristics such as history of miscarriage, number of IVF cycles, and length of infertility were also collected. Number of miscarriages was dichotomized as either a history of miscarriage or no history of miscarriage. IVF count data was also recoded as either one IVF cycle or more than one cycle.
+      They were also asked about their perception of anxiety specific to pregnancy using the Pregnancy-Related Anxiety Measure (PRAM). The Pregnancy-Related Anxiety Measure (PRAM) (13) is a 5-item scale assessed maternal fears and anxiety related to the health of the baby and the labor and delivery process and confidence in the obstetrician and other health care providers. The revised 10-item version used in this study was comprised of an expanded set of items 48 that was used to assess the extent to which women worry or feel concerned about their health, their baby’s health, labor and delivery, and caring for the baby. The pregnancy-related anxiety score ranged from 10–40, with a higher score indicating more pregnancy-related anxiety. The internal reliability of the scale was found to be acceptable (Cronbach’s α= 0.78).
+      Descriptive statistics were used to summarize the demographic and clinical characteristics of the sample. In order to explore groups of subjects in the database, Latent Class Analysis (LCA) was conducted to identify patterns with the group definition variables. Unlike standard clustering techniques, LCA allows for statistical testing of model fit and class membership is probabilistic, with membership probabilities computed from the estimated model parameters. In the initial step of the analyses, increasingly complex models (adding more latent classes) were estimated to determine the optimal number of latent classes to fit the data. Following standard practice, the optimal number of latent classes was determined by comparing the Bayesian Information Criterion (BIC) of the candidate models, as well as applying substantive interpretability and clinical judgment to select between candidate models (i.e., Do the classes defined by a given model possess a more discernible clinical significance or meaning than those defined by another model?).
+      As described below, the LCA process yielded 2 classes of subjects which on average agreed on all response items except for use of IUI and/or ovarian stimulation. Post hoc to the LCA process, four analytic groups were developed: Stim Only, Stim IUI, IUI only, or No Tx.
+      Groups were evaluated for differences in PRAM levels using ANOVA. The level of significance was set at 0.05 for each test due the exploratory phase of this research. Cronbach’s alphas were calculated on the PRAM.
+    
+    
+      Results
+      Table 1 presents a summary of the demographic, clinical, and PRAM characteristics of the 144 women in the early second trimester of a post-IVF pregnancy. The mean age was 33.5 years, (range of 25 to 40, SD=3.9, median=34), and the majority of the sample was Caucasian (74.8%). Approximately, 8% of the sample was Hispanic or Latino. Among the 144 women, 98.6% were married or living with a partner, 81.3% reported having a bachelor’s degree or higher, and 70.0% had an annual household income of $100K or greater. The mean length of infertility was 31.5 months (range of 3 to 168 months, SD=27.6, median=24). Those with months of infertility less than 12 were likely due to a previously identified diagnosis that required a clinical decision to pursue IVF without following traditional guidelines of waiting for 12 months of unprotected intercourse without success first. Most of the women reported only one IVF cycle (59.0%), a negative history of miscarriage (61.1%), and gave birth to a singleton (72.9%). PRAM mean score was 20.5 (range of 10–38, SD= 6.0, median=20.0).
+      
+        Table 1.
+        
+          Sample characteristics
+        
+        
+          
+            
+              
+                Characteristic
+              
+              
+                Frequency
+              
+              
+                %
+              
+            
+          
+          
+            
+              
+                Married/Living with partner (n=144)
+              
+              142
+              98.6%
+            
+            
+              
+                Education level (n=144)
+              
+              
+              
+            
+            
+                1: High school graduate or GED
+              3
+              2.1%
+            
+            
+                2: Trade/Technical school/Other
+              9
+              6.2%
+            
+            
+                3: Associate’s degree/Some college
+              15
+              10.4%
+            
+            
+                4: Bachelor’s degree
+              46
+              31.9%
+            
+            
+                5: Some graduate school
+              8
+              5.6%
+            
+            
+                6: Graduate/Professional degree
+              63
+              43.8%
+            
+            
+              
+                Income (n=143)
+              
+              
+              
+            
+            
+                1: Under $50,000
+              3
+              2.1%
+            
+            
+                2: $50,000–75,000
+              17
+              11.9%
+            
+            
+                3: $75,001–100,000
+              23
+              16.1%
+            
+            
+                4: $100,001–125,000
+              30
+              21.0%
+            
+            
+                5: $125,001–$150,000
+              15
+              10.5%
+            
+            
+                6: &gt; $150,000
+              55
+              38.5%
+            
+            
+              
+                Ethnicity/Race (n=143)
+              
+              
+              
+            
+            
+                0: Black/African American
+              3
+              2.1%
+            
+            
+                0: Asian
+              23
+              16.1%
+            
+            
+                0: Other
+              10
+              7.0%
+            
+            
+                1: White
+              107
+              74.8%
+            
+            
+                Hispanic/Latino (n=143)
+              11
+              8.0%
+            
+            
+              
+                Miscarriage history (n=144)
+              
+              
+              
+            
+            
+                0: No
+              88
+              61.1%
+            
+            
+                1: One miscarriage
+              28
+              26.4%
+            
+            
+                1: Two or miscarriages
+              18
+              12.5%
+            
+            
+              
+                Twin pregnancy (n=144)
+              
+              
+              
+            
+            
+                0: Singleton
+              105
+              72.9%
+            
+            
+                1: Twins
+              39
+              27.1%
+            
+            
+              
+                Number of IVF cycles (n=144)
+              
+              
+              
+            
+            
+                0: One cycle
+              85
+              59.0%
+            
+            
+                1: More than one cycle
+              59
+              41.0%
+            
+          
+        
+      
+      The LCA process yielded two groups that on average had similar levels on most items (age, number of IVF cycles, number of previous miscarriages, previous living children, gestational size, and use of laparoscopy, amniocentesis, and saline sonography). There were two items in which they differed, use of IUI and/or ovarian stimulation. This information was used to generate four exhaustive and mutually exclusive groups: Stim Only, Stim IUI, IUI only, or No Tx. ANOVA found that those in the Stim Only group had statistically significantly higher PRAM scores than the Stim IUI group (p=0.0036) and the No Tx group (p= 0.0013), and the IUI only group (p=0.05) (Table 2).
+      
+        Table 2.
+        
+          LCA results
+        
+        
+          
+            
+              
+              
+                Neither IUI or Clomid (N)
+              
+              
+                IUI alone (I)
+              
+              
+                Clomid alone (C)
+              
+              
+                IUI and Clomid (IC)
+              
+              
+                Significant pairwise tests *
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                N=52
+              
+              
+                6
+              
+              
+                15
+              
+              
+                71
+              
+            
+          
+          
+            
+              
+                Characteristic
+              
+              
+              
+              
+              
+              
+            
+            
+              Age, in year (mean, sd)
+              33.4 (4.0)
+              37.8 (0.8)
+              30.7 (3.4)
+              33.8 (3.6)
+              N/SO, N/I, I/SI, SO/SI, SO/I
+            
+            
+              Length of infertility, in months (mean, sd)
+              2.2 (2.3)
+              3.5 (4.0)
+              2.3 (1.9)
+              2.3 (2.4)
+              
+            
+            
+              PRAM pregnancy-related anxiety score (mean, sd)
+              19.6 (5.6)
+              19.7 (4.1)
+              25.1 (7.5)
+              20.3 (5.7)
+              N/SO, SI/SO
+            
+            
+              
+                Characteristic
+              
+              
+              
+              
+              
+              
+            
+            
+                Married/Living with partner (%)
+              98.1
+              100
+              100
+              98.6
+              
+            
+            
+                Some graduate school or more (%)
+              42.3
+              100
+              53.3
+              59.2
+              
+            
+            
+                Income at least $100,000
+              67.3
+              33.3
+              66.7
+              74.7
+              
+            
+            
+                White ethnicity/Race
+              71.2
+              50.0
+              66.7
+              80.3
+              
+            
+            
+              
+                Miscarriage history
+              
+              
+              
+              
+              
+              
+            
+            
+                0: No
+              75.0
+              33.3
+              53.3
+              54.9
+              
+            
+            
+                1: One miscarriage
+              15.4
+              16.7
+              20.0
+              36.6
+              
+            
+            
+              
+                Twin pregnancy
+              
+              
+              
+              
+              
+              
+            
+            
+                Twins
+              21.2
+              16.7
+              20.0
+              33.8
+              
+            
+            
+              
+                Number of IVF cycles
+              
+              
+              
+              
+              
+              
+            
+            
+                One cycle
+              59.6
+              66.7
+              33.3
+              63.4
+              
+            
+          
+        
+        
+          
+            SD=Standard deviation; PRAM=Pregnancy-Related Anxiety Scale; N=No Tx, I=IUI only, SO=Stim only, SI=Stim IUI
+          
+          
+            *Significant at p=0.05
+          
+        
+      
+    
+    
+      Discussion
+      The present study sought to understand if certain previous less invasive infertility treatments leading up to a successful IVF cycle were associated with increased pregnancy-related anxiety. Surprisingly, the findings showed that women with a history of stimulated only cycles (i.e. clomiphene citrate and intercourse) had more pregnancy-related anxiety following a successful IVF than women who had more complex previous treatment including IUI (with or without stimulation) or no treatment at all.
+      The subjects for this study were recruited from a very large Reproductive Endocrinology (RE) center that serviced a densely populated geographic area in the Northeast of the U.S. Typical care for women with fertility concerns was to initially be seen by their primary women’s care provider for evaluation and possible treatment which could often include an ovulation inducing medication such as clomiphene citrate (14). Sometimes, these medications are prescribed for several cycles without a comprehensive medical evaluation of the underlying condition, and following unsuccessful treatment the women are then referred on to the RE for complete evaluation and initiation of a comprehensive treatment plan. For some, a diagnosis of unexplained infertility is determined, which supports utilization of IVF instead of less invasive methods such as IUI with or without ovarian stimulation (15), therefore many of these women may not be treated with cycles that include IUI. While these women have a tangible treatment plan, those for whom no identifiable reason can be found for their infertility may be left with uncertainty about their status including the ability to maintain a health pregnancy.
+      Uncertainty in disease processes can have a significant role in how anxiety may manifest for individuals. The unpredictability associated with not having a definitive diagnosis plays an important role in determining emotional responses and can create a reaction of sustained anxiety instead of short-term fear (16). For women who are experiencing unexplained infertility, they have already had many unsuccessful natural cycles before even liaising with medical professionals. If they continue under the care of their primary women’s care provider, they will experience even more cycles before ultimately seeking evaluation from the RE. A comprehensive evaluation (17) that ultimately does not find an underlying cause of the infertility may contribute to the feeling of unpredictability. For those who ultimately achieve a pregnancy via IVF, they acknowledge that their pregnancy was very difficult to achieve and if something were to negatively occur, there is uncertainty they would be able to achieve another (8). Women pregnant after IVF report certain activities that underscore their belief about the fragility of the pregnancy including checking for vaginal bleeding often and the feeling of assurance after each normal ultrasound scan (18).
+      When examining other literature, the uncertainty of the diagnosis has been evaluated in women with infertility issues. In one study, researchers found that anxiety played a significant role for women with unexplained infertility going through treatment as compared to those with a definitive diagnosis (19) because of a reaction to the ambiguous medical situation with its uncertain prognosis. This anxiety can change throughout the evaluation and treatment process. Early on, the main anxiety was thought to be related to a physical inferiority complex, while later it was influenced by anxiety related to what others outside the family say about the inability to conceive and give birth to a child (20). In another study examining the psychological experience of infertility treatment over the course of several years, women experienced an acute stress response to the initial diagnosis and treatment plan. Emotional strain was higher during the first year, and then dropped in the second year. If treatment continued into year three, this strain markedly increased. Additionally, aspects of women’s personal relationship with partners were affected in the third year including negatively impacting marital adjustment and sexual satisfaction (11).
+      Not surprisingly, the ambiguity and uncertainty of unexplained infertility causes a higher level of anxiety, which has the potential to carry into the pregnancy. Once pregnant, women have more anxiety about whether the pregnancy will be successful (21, 22). This may be because of a perception that their body is “broken” and may lead them to think that whatever was the roadblock to achieving a pregnancy will also affect the ability to have a successful birth outcome. In one qualitative study, women who had previous unsuccessful treatments were more focused on possible physical problems in the pregnancy (23).
+      Having a better understanding of risk factors for anxiety experienced by women undergoing infertility treatment who subsequently became pregnant has significant implications for improved clinical practice. For women still navigating the process of treatment, having a comprehensive understanding of how women navigate the evaluation and treatment process will help providers better meet the psychosocial needs of women, particularly those for whom no definitive cause of the infertility is found. It is important to appreciate that this study represented women who continued treatment through a successful IVF procedure. A substantial number of couples being treated for fertility will discontinue fertility care before achieving pregnancy with main contributing reasons for withdrawal including emotional distress and poor prognosis (24). Only half of women with infertility will receive the treatment that is needed to achieve a pregnancy. One significant contributor for this disparity is the discontinuation of care. Many will stop for reasons other than poor prognosis or the cost of treatment, but rather because of burden of treatment (22). The burden of treatment is so great for many women who ultimately decide to pursue other avenues such as adoption or child-free living. Based on the results of this study, it is clear that there is a level of anxiety that is tolerable to be able to continue treatment through a successful IVF cycle. Additional research is needed to uncover a potential threshold of acceptable anxiety, as well mediating and moderating factors that contribute to the experience of anxiety during the process of infertility treatment. Regardless, the evidence supports that despite the threshold, women who have only been treated with ovulation induction medications still have increases in anxiety about the resulting pregnancy following IVF.
+      This is an important consideration for those caring for women who become pregnant via IVF, as these patients may require additional emotional support during treatment. It has been suggested in the literature that patients who have IVF have their care experience improved by minimizing the burden associated with the process. First, patient vulnerability to anxiety and other negative psychosocial experiences can be improved with evidence-based screening for psychological distress at the start of treatment and when indicated, appropriate referral for support (25). Additionally, staff caring for women can reduce the potential for negative patient-staff interactions with increased staff training about issues in communication/interaction skills, promoting shared decision making (25, 26).
+      This study had limitations that should be acknowledged. While current trends in clinical care support the notion that women have been treated with an ovulation induction medication such as clomiphene citrate prior to comprehensive evaluation with the RE, the study would have benefited from ascertaining the specific diagnosis of women reporting their pregnancy-specific anxiety and therefore could have been incorporated into the data analysis, thus strengthening the findings. Also, capturing the number of less invasive treatment cycles subjects had prior to utilizing IVF would help to add dimension to the understanding of this phenomena. Finally, as anxiety has been shown to fluctuate throughout pregnancy (27), measuring this variable over multiple time points would allow for elucidation of how women who are pregnant via IVF experience pregnancy anxiety more comprehensively.
+    
+    
+      Conclusion
+      This study showed that the impact of previous less invasive infertility treatments prior to a successful IVF cycle was associated with increased pregnancy-related anxiety in the resulting pregnancy and women who had a history of stimulated only cycles (i.e. clomiphene citrate and intercourse) previous to their successful IVF had more pregnancy-related anxiety during their pregnancy conceived via IVF than those who had more complex previous treatment which included IUI (with or without stimulation) or no treatment at all. The understanding of the fact that the women who had only been previously treated with ovulation inducing medications without IUI helps understand the patient care experience such that better identification of those at risk for increased anxiety in pregnancy can be made, and an appropriate clinical response can be made for women who are experiencing increases in pregnancy-specific anxiety.
+    
+  
+
+    
+      
+        
+          Conflict of Interest
+        
+        Authors declare no conflict of interest.
+      
+    
+    
+      References
+      
+        1.
+        StephenEHChandraAKingRB.
+Supply of and demand for assisted reproductive technologies in the United States: clinic- and population-based data, 1995–2010. Fertil Steril. 2016;105(2):451–8.26597629
+      
+      
+        2.
+        SunderamSKissinDMCrawfordSBFolgerSGJamiesonDJBarfieldWD.
+Assisted reproductive technology surveillance-United States, 2011. MMWR Surveill Summ. 2014;63(10):1–28.
+      
+      
+        3.
+        SazonovaAKällenKThurin-KjellbergAWennerholmUBBerghC.
+Obstetric outcome after in vitro fertilization with single or double embryo transfer. Hum Reprod. 2011;26(2):442–50.21126967
+      
+      
+        4.
+        WisborgKIngerslevHJHenriksenTB.
+In vitro fertilization and preterm delivery, low birth weight, and admission to the neonatal intensive care unit: a prospective follow-up study. Fertil Steril. 2010;94 (6):2102–6.20188361
+      
+      
+        5.
+        GreilALSlauson-BlevinsKMcQuillanJ.
+The experience of infertility: a review of recent literature. Sociol Health Illn. 2010;32(1):140–62.20003036
+      
+      
+        6.
+        GanaKJakubowskaS.
+Relationship between infertility-related stress and emotional distress and marital satisfaction. J Health Psychol. 2016;21(6):1043–54.25139894
+      
+      
+        7.
+        OlshanskyEF.
+Psychosocial implications of pregnancy after infertility. NAACOGS Clin Issu Perinat Womens Health Nurs. 1990;1(3):342–7.2206754
+      
+      
+        8.
+        SandelowskiMHarrisBGBlackBP.
+Relinquishing infertility: the work of pregnancy for infertile couples. Qual Health Res. 1992;2(3):282–301.
+      
+      
+        9.
+        GourountiK.
+Psychological stress and adjustment in pregnancy following assisted reproductive technology and spontaneous conception: A systematic review. Women Health. 2016;56(1):98–118.26212077
+      
+      
+        10.
+        WuAKElliottPKatzPPSmithJF.
+Time costs of fertility care: the hidden hardship of building a family. Fertil Steril. 2013;99(7):2025–30.23454007
+      
+      
+        11.
+        BergBJWilsonJF.
+Psychological functioning across stages of treatment for infertility. J Behav Med. 1991;14(1):11–26.2038042
+      
+      
+        12.
+        MahajanNNTurnbullDADaviesMJJindalUNBriggsNETaplinJE.
+Changes in affect and state anxiety across an in vitro fertilization/intracytoplasmic sperm injection cycle. Fertil Steril. 2010; 93(2):517–26.19243748
+      
+      
+        13.
+        WadhwaPDSandmanCAPortoMDunkel-SchetterCGariteTJ.
+The association between prenatal stress and infant birth weight and gestational age at birth: a prospective investigation. Am J Obstet Gynecol. 1993;169(4):858–65.8238139
+      
+      
+        14.
+        CheckJH.
+A practical approach to diagnosing and treating infertility by the generalist in obstetrics and gynecology. Clin Exp Obstet Gynecol. 2015; 42(4):405–10.26411200
+      
+      
+        15.
+        PandianZGibreelABhattacharyaS.
+In vitro fertilisation for unexplained subfertility. Cochrane Database Syst Rev. 2015;11:CD003357.
+      
+      
+        16.
+        DaviesCDCraskeMG.
+Psychophysiological responses to unpredictable threat: effects of cue and temporal unpredictability. Emotion. 2015;15(2): 195–200.25603130
+      
+      
+        17.
+        StevensonELHershbergerPEBerghPA.
+Evidence-Based Care for Couples With Infertility. J Obstet Gynecol Neonatal Nurs. 2016;45(1):100–10.
+      
+      
+        18.
+        HjelmstedtAWidstromAMCollinsA.
+Psychological correlates of prenatal attachment in women who conceived after in vitro fertilization and women who conceived naturally. Birth. 2006;33(4):303–10.17150069
+      
+      
+        19.
+        DhaliwalLKGuptaKRGopalanSKulharaP.
+Psychological aspects of infertility due to various causes--prospective study. Int J Fertil Womens Med. 2004;49(1):44–8.15038509
+      
+      
+        20.
+        ChibaHMoriEMoriokaYKashiwakuraMNadaokaTSaitoH
+Stress of female infertility: relations to length of treatment. Gynecol Obstet Invest. 1997;43(3):171–7.9127130
+      
+      
+        21.
+        DarwicheJLawrenceCVialYWunderDStiefelFGermondM
+Anxiety and psychological stress before prenatal screening in first-time mothers who conceived through IVF/ICSI or spontaneously. Women Health. 2014;54(5):474–85.24794917
+      
+      
+        22.
+        McMahonCABoivinJGibsonFLHammarbergKWynterKSaundersD
+Pregnancy-specific anxiety, ART conception and infant temperament at 4 months post-partum. Hum Reprod. 2013;28 (4):997–1005.23427229
+      
+      
+        23.
+        DornellesLMMacCallumFLopesRCPiccininiCAPassosEP.
+The experience of pregnancy resulting from Assisted Reproductive Technology (ART) treatment: A qualitative Brazilian study. Women Birth. 2016;29(2):123–7.26388215
+      
+      
+        24.
+        BrandesMvan der SteenJOBokdamSBHamiltonCJde BruinJPNelenWL
+When and why do subfertile couples discontinue their fertility care? A longitudinal cohort study in a secondary care subfertility population. Hum Reprod. 2009;24 (12):3127–35.19783833
+      
+      
+        25.
+        GameiroSBoivinJDomarA.
+Optimal in vitro fertilization in 2020 should reduce treatment burden and enhance care delivery for patients and staff. Fertil Steril. 2013;100(2):302–9.23830151
+      
+      
+        26.
+        LeonardJStevensonEL.
+Team communication: critical in the care of the couple with fertility challenges. In: StevensonELHershbergerPE, editors. Fertility and Assisted Reproductive Technology (ART): Theory, practice, policy, and research for health care professionals. New York, NY: Springer Publishing Company; 2016 p. 295–309.
+      
+      
+        27.
+        HjelmstedtAWidströmAWramsbyHMCollinsA.
+Patterns of emotional responses to pregnancy, experience of pregnancy and attitudes to parenthood among IVF couples: a longitudinal study. J Psychosom Obstet Gynaecol. 2003;24(3):153–62.14584302
+      
+    
+  

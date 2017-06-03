@@ -1,0 +1,3980 @@
+oai:pubmedcentral.nih.gov:53626522017-04-04springeropenpmc-open
+Tick survey and detection of Crimean-Congo hemorrhagic fever virus in tick species from a non-endemic area, South Marmara region, Turkey
+
+    
+      Introduction
+      The global distribution and disease burden associated to arboviruses have increased over recent years. Unexpectedly, Chikungunya hit northeastern Italy in 2007 and struck France in 2010 and 2014 [1]. Dengue entered the European scene in 2010 followed by more human cases in subsequent years [2]. A more recent threat is the Zika virus (ZIKV) which is still unreported in the European territory, including the Mediterranean region, despite the increasing number of imported cases [3, 4••].
+      In countries of the Mediterranean and Black Sea regions, the epidemiology (presence, risk, transmission, etc.) of arboviruses remains poorly characterized. MediLabSecure is a European project (2014–2018) that has established a laboratory network including partners from 19 countries of the Mediterranean and Black Sea regions. These countries are in the Balkans, around the Black Sea, in South Caucasus, Middle East and North Africa. As they share common public health issues and threats, the overall objective of MediLabSecure is to increase through capacity building and harmonization of surveillance systems the health security in the whole Mediterranean region. Emerging mosquito-borne viruses that are pathogens for humans and/or animals are at the heart of this project: West Nile (WN), Dengue (DEN), Chikungunya (CHIK), and Rift Valley Fever (RVF). Within this One Health network, a subset of laboratories are dedicated to medical and veterinary entomology, while others are focused on human virology, animal virology, and public health. The entomologists target mosquitoes identified as present threats or with potential risk of emergence in the concerned region: Aedes mosquitoes (Aedes aegypti (=Stegomyia aegypti) and Aedes albopictus (=Stegomyia albopicta)) responsible for transmission of Dengue virus (DENV) and Chikungunya virus (CHIKV) to humans and Culex mosquitoes (e.g., Culex pipiens) implicated in the transmission of West Nile virus (WNV). Other arboviruses transmitted by sandflies or ticks (e.g., Crimean-Congo hemorrhagic fever (CCHF) virus transmitted by Hyalomma tick bites) are also considered in the MediLabSecure program activities.
+    
+    
+      The Past of Mosquito-Borne Diseases in Europe
+      Dengue (DEN) was not uncommon in the Mediterranean area in the past. The disease was reported in Athens in 1928 which was the theater of the last major epidemic on the European continent with 1 million cases and 1000 deaths [5]. It seemed that clinical severity was due to the sequential circulation of viruses DENV-1 and DENV-2. Aedes aegypti, the vector of dengue in Greece, disappeared from the Eastern Mediterranean after 1935 [6]. Since then, no local transmission of Dengue has been recorded in Europe until 2010 when autochthonous cases of Dengue were reported in Croatia and France [2].
+      Yellow Fever (YF) is mainly transmitted to humans by Ae. aegypti. While originating from Africa, YF was first reported in the Caribbean after the introduction of its vector via the slave trade from West Africa. Yellow Fever and Ae. aegypti were introduced around 1700 in harbors of Western Europe. Outbreaks occurred on the Iberian Peninsula (Gibraltar, Sevilla, Cadiz, Malaga, Lisbon, Porto, Barcelona), France (Marseille, Brest, Saint-Nazaire, Rochefort, Bordeaux), and Italy (Livorno) during the nineteenth and beginning of the twentieth centuries [7]. More than 5000 people died in Barcelona between 1821 and 1824, and more than 6000 in Lisbon in 1857 [8].
+      West Nile (WN) has been discovered in Africa in 1937 and circulated on the continent mainly associated with mild symptoms. Since the 1990s, new viral strains were responsible for increased incidence of human diseases in Europe. While lineage 1 was repeatedly isolated in Europe and North Africa, lineage 2, historically endemic in sub-Saharan Africa and Madagascar, has been recently associated with human cases in Hungary with subsequent spread into Austria, Italy, Russia, Greece, Serbia, and Croatia [9]. Currently, WNV is present in Africa, the Middle East, Europe, Asia, America and has become the most widely distributed of the encephalitic flaviviruses. Contrary to related flaviviruses such as DENV and YFV, WNV can be transmitted by wide range of vector species and has been detected in more than 59 different mosquito species [10].
+    
+    
+      The Vectors of Arboviruses in Europe
+      
+Aedes aegypti: This mosquito was common in southern Europe and the Middle East at the beginning of twentieth century [6, 11]. It was present in southern Europe and Western Asia at the beginning of twentieth century, in Syria, Lebanon, Turkey, Greece, former Yugoslavia, Italy, Corsica (France), and Spain [6, 11]. The species was the vector of a YF outbreak in Livorno in Italy in 1804. Following the development of sanitation and management of urban water collections and anti-malaria vector control with DDT, the vector disappeared from continental Europe after the 1950s. The last record of Ae. aegypti in Europe was in Desenzano del Garda (Brescia province, northern Italy) in 1971 [12] . An Ae. Aegypti-vectored outbreak was reported in Madeira in 2012 [13]. After decades of absence, Ae. aegypti is back to the Eurasian continent, more specifically around the Black Sea in southern Russia, Apkhazeti, and Georgia in 2004 [14], and north-eastern Turkey [15••]. Major outbreaks associated with Ae. aegypti may occur in South Europe as this mosquito was responsible for large epidemics of Dengue in Greece in 1927–1928 [5]. Additionally, this species is a vector of CHIKV and ZIKV.
+      
+Aedes albopictus: From its native home-range in the forests of South-East Asia, Ae. albopictus [16] has succeeded in colonizing most continents in the past 30–40 years [17]. The species was recorded for the first time in Europe in Albania in 1979 [18], then in Italy in 1990 [19, 20], and is now present in 20 European countries [21]. Today, it is established in most countries of the Mediterranean Sea, including Lebanon, Syria, and Israel. This mosquito is susceptible to 26 arboviruses including CHIKV, DENV, and YFV when provided by experimental infections [22]. Unexpectedly, Ae. albopictus was responsible for CHIKV and DENV cases in Europe. Chikungunya virus emerged in Europe: in Italy in 2007 [23] and in France in 2010 [24] and 2014 [25]. Dengue virus was detected in patients in Croatia in 2010 [26] and in France in 2010 [27], 2013 [28], 2015 [29].
+      
+Culex pipiens: Cx. pipiens complex should be considered as a polytypic species differentiated into several forms. The species Cx. pipiens is commonly found in the Palearctic and Oriental regions and described under two morphologically identical biotypes, named pipiens (Linnaeus 1758) and molestus (Forskål 1775), which show distinct feeding behavior. Biotype pipiens prefers birds as blood hosts whereas the biotype molestus prefers mammals [30]. Hybrids between the two biotypes have an intermediate host preference, which makes them ideal vectors to bridge arboviruses such as WN and Usutu from birds to mammals [31, 32]. The epidemiological cycle of WN disease involves migratory birds acting as reservoir and ornithophilic Culex mosquitoes mainly as vectors amplifying viral traffic between bird populations [33]. Migratory birds ensure the introduction of the virus from Africa into temperate areas, North Africa and Europe [34, 35]. Humans and horses present clinical symptoms, sometimes severe, but are generally considered dead-end hosts, as the level of viremia they develop is not high enough to infect mosquitoes.
+      Ticks: In Europe, ticks are the most important vectors of human and animal pathogens. They transmit several viruses such as tick-borne encephalitis virus (TBEV) and Crimean-Congo hemorrhagic fever virus (CCHFV) that are reemerging in many parts of the world. Tick-borne viruses (TBV) are traditionally maintained in a natural cycle between vector ticks and wild animal hosts, humans being accidental hosts. New TBVs are continually being discovered [36] presumably resulting from the proliferation of ticks in many regions of the world and incursion of humans into tick-infested habitats. Ixodes ricinus is the most widespread and abundant European tick presenting a high potential as vector of different pathogens: Borrelia bacteria responsible for Lyme disease, Anaplasma spp., Rickettsia, Babesia, and Theileria. Hyalomma ticks are aggressive species, which search for humans actively. Hyalomma marginatum and Hyalomma anatolicum are the main vectors of CCHF [37]. Other species of Rhipicephalus, Boophilus, Haemaphysalis, Amblyomma, Dermacentor, and Hyalomma genera play a role in maintaining enzootic circulation of CCHFV among tick vectors and wild/domestic mammals [37].
+    
+    
+      The Situation of Arboviruses in Countries Around the Mediterranean and Black Sea Regions (See Fig. 1 and Table 1) (in Alphabetical Order)
+      
+Fig. 1Map showing the arboviruses detected in countries that are partners of the MediLabsecure network
+Table 1Potential mosquito vectors of arboviruses in 16 non-EU countries from the Mediterranean and Black Sea regions participating to the MediLabsecure networkGenusSub-genusSpeciesAlbaniaAlgeriaArmeniaBosnia and HerzegovineEgyptGeorgiaJordanLebanonLibyaRep. of MacedoniaMoldovaMoroccoMontenegroPalestineSerbiaTunisiaTurkeyUkraineTotal
+Aedes
+
+Stegomyia
+
+aegypti
+1113
+Aedes
+
+Stegomyia
+
+albopictus
+11111111111112
+Aedes
+
+Ochlerotatus
+
+caspius
+11111111111111111118
+Aedes
+
+Aedimorphus
+
+vexans
+1111111111111114
+Culex
+
+Barraudius
+
+modestus
+111111111110
+Culex
+
+Culex
+
+perexiguus
+11111111111112
+Culex
+
+Culex
+
+pipiens
+11111111111111111118
+
+      
+        Albania
+        Former studies on the phlebotomine fauna of Albania showed that eight species are present: Phlebotomus neglectus, Phlebotomus papatasi, Phlebotomus perfiliewi, Phlebotomus tobbi, Phlebotomus similis, Phlebotomus simici, Sergentomyia dentata and Sergentomyia minuta, with P. neglectus being the most abundant and widespread species in Albania [38, 39]. A new phlebovirus, provisionally named Adria virus has been detected in 2/12 pools of sandflies trapped close to the Adriatic Sea (Kruje and Lezhe). This new virus is genetically close to Arbia virus (similarity 77.1% at nucleotide level), which belongs to the Salehabad serocomplex. Its distribution and probable pathogenicity to humans are still unknown [40]. A new virus has been detected by a next-generation sequencing approach in sandflies of Kruje region in 2014; it has been named Balkan virus belonging to the group of Sandfly fever Naples virus [41]. The Balkan virus is closely related to the Tehran virus with 16 and 3% of divergence at nucleotide and amino acid levels, respectively.
+        Crimean-Congo hemorrhagic fever virus (CCHFV) is endemic in Albania with intermittent outbreaks. The first CCHF case was described in 1986 in the northern part of the country (Kukes) near the border with Kosovo. Reemergence in the southern part of the country occurred in 2011 (Korce area, bordering Greece). Ticks collected during the 2003–2005 period from cattle were tested for presence of CCHFV RNA, while serum samples collected from goats, cattle, hares, and birds were tested for the presence of specific IgG antibodies to CCHFV. One of the 31 pools of ticks, consisting of four female Hyalomma spp. ticks, was found to carry CCHFV RNA with 99.2–100% homology to sequences detected in patients from the same region. Antibodies were not detected in cattle, hares, and birds, but two goats (among 10) presented high titers of IgG antibodies. The shepherd of the flock was a member of a family affected by CCHF 10 days before the collection of goats’sera, and he presented a mild form of the disease [42]. The overall CCHFV antibody seroprevalence rate for ruminants in Albania was 23% [43].
+        In 1958, WN antibodies were detected in two human blood samples [44]. In 2011, confirmed cases of WNV infections have been reported in humans. They were located in the coastal and in the central parts of Albania [45].
+      
+      
+        Algeria
+        West Nile virus (WNV) has been first isolated in Algeria in 1968 from a pool of Culex mosquitoes in the district of Djanet, a Saharan oasis in the southeastern part of the country [46]. In the 1970s (1973, 1975, and 1976), several serological surveys revealed WNV circulation in human populations in the Sahara and steppe areas [47]. In 1994, more than 50 human cases and 8 fatalities were documented during an outbreak of WNV encephalitis in Tinerkouk oasis in the south-west of Algeria [48]. In 2012, a retrospective serosurvey in Algiers and surrounding areas highlighted specific anti-WNV IgG in 11 out of 164 human samples tested [49]. During the same year, a fatal neuro-invasive case was reported for the first time in northern Algeria, in the province of Jijel [50]. In 2013, two more cases were notified, in the province of Guelma and in the Sahara desert, in the province of Timimoune [51]. Recently, the WNV lineage 1 was detected in a pool of Culex perexiguus collected from the Oasis of Aougrout, province of Timimoune (unpublished data).
+        Among sandfly-borne phleboviruses reported in Algeria, the Sandfly Fever Sicilian virus (SFSV) has been detected both in humans and sandflies in Tizi Ouzou district, northern part of the country [52]. Between 2015 and 2016, serological evidence of Toscana virus (TOSV) circulation was reported both in humans and dogs [53, 54]. During the same period, TOSV was isolated from sandflies collected in Tizi Ouzou [53]. Furthermore, several cases of meningitis and meningo-encephalitis due to TOSV were detected these last 2 years (unpublished data).
+        Regarding Rift Valley fever (RVF), Algeria as well as all North Africa region is at high risk with respect to the epidemiological situation in neighboring countries in the Sahara, with recurrent outbreaks in Mauritania (2010, 2012 and 2015) and recently in Niger (2016). So far, there has been no human case reported in Algeria, despite evidence from serological data that the virus circulated in the southern part of the country [55].
+        Between 2015 and 2016, only few imported cases of dengue were reported (unpublished data); however, the risk of autochthonous cases remains significant since Ae. albopictus, the vector of DENV, CHIKV, and ZIKV, has been recently established in two high densely populated cities in Algeria, Oran [56] and Algiers (unpublished data). Earlier this year 2016, the Crimean-Congo Hemorrhagic fever virus (CCHFV) has been isolated from Hyalomma aegyptium ticks in the South of Algeria [57].
+      
+      
+        Armenia
+        Armenia is located in the South Caucasus and is mainly composed of highlands and mountains. Until now, five genera of Culicidae have been described in Armenia. The genus Anopheles is represented by six species An. maculipennis, An. sacharovi, An. claviger, An. hyrcanus, An. superpictus, An. plumbeus [58]. The most common Culicine species are: Cx. pipiens, Cx. hortensis, Cx. theileri, and Ae. caspius. In 2006, an extensive entomological survey has allowed to collect 64,567 mosquitoes and 45,180 Ixodidae ticks and identify 125 distinct strains of arboviruses in four climatic regions: the dry steppe (up to 800 m above sea level), desert and semi-desert (800–1100 m above sea level), mountain steppe, mountain forest (2000–2500 m) and Alpine (above 2500 m). From the 64,567 mosquitoes, 47,674 were Anopheles (73.8%), 11,252 Culex (17.4%) and 5641 Aedes (8.7%). From 45,180 ticks are found 31,371 Dermacentor (70%), 4425 Rhipicephalus (10%), 3630 Hyalomma (8%), 2913 Boophilus (6%), 1747 Haemaphisalis (4%), and 1094 Ixodes (2%). From mosquitoes, four viruses have been isolated: Batai (Orthobunyavirus, Bunyaviridae) in Culex mosquitoes, Sindbis (Alphavirus, Togaviridae) in Culex, Tahyna (Orthobunyavirus, Bunyaviridae) in Aedes mosquitoes, and WNV in Cx. pipiens. From ticks, at least five viruses have been detected: TBEV (Flavivirus, Flaviviridae) in Ixodes, Dhori (Thogotovirus, Orthomyxoviridae) in Ixodidae, Bhanja (Phlebovirus, Bunyaviridae) in Haemaphysalis, Tamdy (Nairovirus, Bunyaviridae) in Ixodidae, and CCFHV (Nairovirus, Bunyaviridae) in Hyalomma [59].
+      
+      
+        Lebanon
+        Lebanon is located on the eastern side of the Mediterranean Sea that is considered endemic for several arboviral diseases such as West Nile that has been reported from neighboring countries: Israel [60] and Turkey [61]. A number of epidemics of Dengue fever had occurred in Lebanon in the past, of which one was reported from Beirut region and affected more than 100,000 individuals in 1945–1946. A serological survey conducted in 1962 to 1963 using the hemagglutination-inhibition test showed a seroprevalence for WNV and DENV of 62.5 and 61.9%, respectively. During the malaria control program and as a result of mosquito control efforts, Ae. aegypti, the widespread dengue vector, was eliminated from the country. With the beginning of the civil war in 1975, all vector control programs ceased and never resumed since then. Consequently, mosquito populations became a public health burden and a source of nuisance. Entomological studies conducted in 2002 showed a widespread of Cx. pipiens in the country in addition to the presence of other arbovirus vectors such as Cx. perexiguus, a species involved in the transmission of WNV in Israel [62]. Moreover, Ae. albopictus was introduced to Lebanon and recorded for the first time in 2002 [63]. This mosquito is now established in the country and is widespread in the coastal areas around big cities and in middle altitude humid regions. Local strains of the Asian tiger mosquito showed to be competent mainly for transmission of CHIKV but also DENV [64]. In 2007, an outbreak of Sandfly fever virus occurred in Nahr El Bared, near Tripoli, North Lebanon. More than 700 cases were declared among Lebanese soldiers during military operations. A Sandfly fever virus strain close to the Sicilian strain was identified as the causative agent (Lebanese Ministry of Health sources, unpublished data). Tick-borne viruses have never been documented in Lebanon. Some of these viruses such as CCHFV occur in some neighboring countries: Turkey and Iran [65, 66]. Presently, Lebanon is considered at risk for the occurrence of several arboviral diseases such as WNV. Not only is Lebanon situated in an endemic area, but it also constitutes a major stopover for migrating birds, WNV principal reservoir. Aedes-borne viruses, such as CHIKV, DENV, and ZIKV, should also be regarded as potential threats. Their introduction to the country is highly likely if we consider the important flux of Lebanese expatriates coming from endemic areas in Latin America, Africa, and South-East Asia.
+      
+      
+        Libya
+        Libya has become a place of passage for migrants who cross the country to Europe. They mainly come from Sub-Saharan Africa, where several arboviral diseases are endemic. As well, the illegal animal trade can be a risk for the introduction of zoonotic viruses such as RVFV. Libya is then subjected to regular serological surveys for arbovirus antibodies [67, 68]. In the most recent survey, 950 human blood samples collected in the country were examined to determine the seroprevalence (baseline exposure) to zoonotic viruses and bacteria causing acute febrile illness [68]. Antibodies against WNV (13.1%), SFNV (0.5%), SFSV (0.7%), Sindbis virus (SINV, 0.5%), and RVFV (0.4%) have been detected. For WNV, the prevalence among the Tripoli population is 2.8% (unpublished data) and 25% of the population in the Yfran area for TOSV (unpublished data).
+      
+      
+        The Former Yugoslav Republic of Macedonia
+        In the Republic of Macedonia, CCHF and WN are mandatory notifiable diseases. In 1970, the first outbreak of CCHF occurred in the Ciflik village, Tetovo, with 13 confirmed cases, of which there were two deaths. Until 2002, 11 new cases of CCHF were notified. During the period 2002–2010, only one new case was registered. From a total of 128 ticks collected from cattle, sheep, and goat, the ratio between Hyalomma and Rhipicephalus ticks was 1:3. Between 2009 and 2011, a seroepidemiological study for CCHFV on 158 serum samples collected from cattle, the prevalence of antibodies rated up to 80% in the cattle population from the Northeastern region of Macedonia [69].
+        Serological investigation on human for WNV IgM and IgG was performed since 2010 by ELISA. Until 2016, 214 human cases with symptoms of neurologic illness were tested: 53 were positive with WNV IgM antibodies.
+      
+      
+        Moldova
+        WNV is the main arbovirus isolated in Moldova. It has been detected in ticks in central and southern regions of Moldova between 1974 and 1978: Ixodes ricinus (1974, 1975) and Dermacentor marginatus (1974, 1976 and 1978) from Nisporeni, Hincesti, and Vulcanesti regions. CCHFV has been isolated from I. ricinus, D. marginatus, and Haemaphysalis punctata between 1973 and 1974 from Slobozia, Nisporeni, Hincesti, and Ceadir-Lunga regions [70]. TBEV was isolated from D. marginatus in 1975 in Nisporeni region and from mosquitoes in Moldova [71]. Batai virus has been detected in An. maculipennis s.l. in 1977 in Zberoaia village (western Moldova) [72]. Tahyna virus and WNV were isolated from mosquitoes in Moldova [71, 73]. Recent epidemiological studies in Romania in the Danube Delta, close to the border to Moldova reported the presence of WNV lineage 2 in mosquitoes and Ixodidae ticks collected from migratory birds [74, 75]. Migratory birds are well-known reservoir hosts for a number of arboviruses and play an important role in distributing pathogens within and between countries [76]. The Danube Delta is one of the most important migratory sites in Europe and the risk of arbovirus dissemination through the birds to Moldova is extremely high.
+      
+      
+        Montenegro
+        Using different trapping methods of adults and immature stages, 174 sampling sites have been examined during 127 sampling nights in 20 of 22 municipalities in Montenegro. A total of 22 mosquito species were identified: 3 Anopheles potential vectors of malaria (An. saccharovi, An. maculipennis, An. plumbeus), 12 Aedes with Aedes vexans and Ae. caspius, potential vector of RVFV, Ae. albopictus (vector of CHIKV and DENV), 3 Culex with Cx. modestus and Cx. pipiens, potential vector of WNV and RVFV, 2 Cs. (Culiseta annulata, Cs. longiareolata), and 2 Coquillettidia (Cq. richiardii and Cq. buxtoni) (study done by the LOVCEN project in cooperation with the MediLabSecure and VectorNet projects). Montenegro is a country susceptible to be hit by a mosquito-borne viral disease as its neighboring country Croatia which experienced in 2010 an autochthonous transmission of DENV [26].
+      
+      
+        Morocco
+        The most prevalent arbovirus in Morocco is WNV, mainly affecting horses with epizootics detected in 1996 [77], 2003 [78], and 2010 [79]. The viral isolates from 1996 to 2003 belonged to WNV lineage 1, clade 1a. In 1996, WNV infection was first detected in a patient [77]. In 2008, a serosurvey of wild birds confirmed the circulation of WNV in native birds [80]. Serological surveillance confirmed that WNV is widely present [81]. Culex pipiens is highly suspected in the transmission of WNV in Morocco [82]. Moreover, RVF is another arbovirus also transmitted by Cx. pipiens, which circulates at a common border with Mauritania where the first West African outbreak of RVF occurred in 1987 [83]. Following this epidemic, Mauritania has experienced several other episodes: in 1993, 1998, 2003, 2010, and 2012 [84, 85]. In 2010, following unusual heavy rains, an epidemic affecting mainly camels presenting severe clinical signs and high mortalities was reported in northern Mauritania. It has been suggested that the oasis can play a role as a site of emergence of RVF in the Maghreb where eco-climatic and entomological conditions are suitable for vector development. The border with Mauritania consists of hundreds of kilometers which are a real strainer to unauthorized migrants, nomads and domestic animals. Serological surveys of humans and animals should be reinforced in addition to viral isolations in mosquitoes. Apart from its role as vector, Cx. pipiens is mainly considered a nuisance in most urban areas. It is for this reason that it has been targeted for years in mosquito control programs. The most widely used insecticides are pyrethroids, organophosphorus and carbamates. Although the level of resistance to insecticides of this mosquito is the object of a regular surveillance by the Ministry of Health since 2003, published data remain fragmentary. Overall, Cx. pipiens populations showed significant resistance to insecticides used [86, 87] compromising the strategy of mosquito control. Other arboviruses such as DENV, CHIKV and ZIKV were not yet detected in Morocco. However, the vector Ae. albopictus has been detected recently in the town of Rabat [88].
+        Regarding sandfly-borne viruses, TOSV is known to be present in Morocco [89, 90]. It was isolated from P. sergenti and P. longicupis collected in north and center of Morocco between 2008 and 2011 [91]. Moreover, CCHFV has been isolated from Hyalomma marginatum ticks in South Morocco in 2011 [92].
+      
+      
+        Palestine
+        Only sporadic cases of WN have been detected in Palestine. Since 2000, six human cases were reported in the West Bank of Palestine with four cases occurring in the northern districts (2 cases in 2000 in Nablus and Jenin districts, and 2 cases in 2008–2010 in Qalqilia district) and two cases in Jericho city in 2011–2014. All patients were males between 35 and 65 years old. One patient from Jericho died from the WNV infection. Cx. pipiens was suspected as the main vector; it is present in the West Bank, especially in Tubas, Qalqiliah, Jericho, and Bethlehem districts and active all year long with the highest densities in summer. Other arboviral diseases are occasionally detected: CCHF, SINV fever, and Sandfly fever. In Palestine, arboviral diseases must be notified to the Preventive Medicine Division in the district of the patient’s residence. Then a special investigation is set off with reports to the Central Preventive Medicine Department. Control measures are immediately implemented by the vector control unit of the Health Promotion Department. In addition to Cx. pipiens, three other mosquito species were reported: Ae. albopictus, An. claviger, and Cs. longiareolata. Aedes albopictus widely found in the West Bank (Tubas, Qalqiliah, Jericho and Bethlehem districts), is active from March to November with the highest densities reported in August. Monthly investigations at district level for breeding sites are implemented by the vector control unit. In 2015, about 7500 sites were inspected for mosquito breeding and 61% were positive for immature stages. Eighty-five percent of positive sites were treated using environmental measures and 9% treated with pesticides (pyrethroids or Bacillus thuringiensis).
+      
+      
+        Serbia
+        Serbia experienced the second largest outbreak of WN in Europe, with 200 confirmed human cases in 2013 (http://ecdc.europa.eu/en/healthtopics/west_nile_fever/West-Nile-fever-maps/Pages/historical-data.aspx#sthash.S97C32Ep.dpuf). The largest numbers of human cases, as well as outbreaks of various magnitudes, have been reported repeatedly in the Vojvodina province of northern Serbia since 2012 (9 in 2012, 85 in 2013, 27 in 2014, and 10 in 2015) (http://www.batut.org.rs/index.php). The first serological investigation for WNV was conducted in 1972, and antibodies against WNV were found in 2.6–4.7% of human sera [93]. Between 2001 and 2005, the seroprevalence for WNV was 6.7% in 45 patients who had been hospitalized for encephalitis or meningoencephalitis. Information on asymptomatic cases was also provided: 3.7% among 406 samples taken from healthy people. In 2001–2009, the seroprevalence was estimated to be 4% (18 of 451). A total of 337 individuals tested in 2009 were exposed to at least one mosquito exposure-related risk factor. Within this group, 5% were seropositive for WNV. Most of the people with IgG positive against WNV did not have screen protections on windows and doors of their houses, while only 0.9% of those using window screens were seropositive for WNV [94]. During the same period, 56,757 mosquito specimens sampled on migratory and domestic bird reservoirs, were all negative for WNV RNA. A serological analysis by ELISA based on WNV recombinant envelope E (rE) protein and PRNT showed, for the first time in Serbia, that 12% of 349 horses from the northern part of country sampled in 2009–2010 presented specific neutralizing WNV antibodies [95]. Due to the absence of routine diagnosis and the limited resources of hospitals in Serbia, human cases of meningoencephalitis of unknown origin were not tested until 2012. In addition, regular surveillances of sentinel chicken, horses or mosquitoes are not performed. Consequently, the approach used to search for the virus in Serbia had been focused on detection of IgG-positive humans and virus in field-collected mosquitoes. In 2010, WNV linage 2 was detected in Cx. pipiens [94]. In August 2012, an outbreak of WN in humans was reported for the first time in Serbia (http://www.episouthnetwork.org/content/episouth-weekly-epi-bulletin-e-web; http://ecdc.europa.eu/en/healthtopics/west_nile_fever/West-Nile-fever-maps/Pages/index.aspx.). During the same year, viral RNA was detected for the first time in nine wild birds. All these isolates belonged to the WNV lineage 2 and were closely related to strains responsible for recent outbreaks in Greece, Italy and Hungary [96]. From 2005 to 2013, WNV surveillance activities in Vojvodina province, northern Serbia, were performed as part of ongoing research projects. In 2014, a specific and integrated surveillance system targeting mosquitoes [97], wild and sentinel birds as well as horses, was set up by the National Veterinary Directorate in Vojvodina. The main goals of this nationwide WNV surveillance have been to provide warnings of WNV circulation and evidence-based tools for controlling the spread of WNV infections in humans.
+      
+      
+        Tunisia
+        Since the first half of last century, rapid urbanization and changes in agriculture practices have created environmental conditions favorable to the proliferation of Cx. perexiguus and Cx. pipiens. The latter became the dominant species in urban and rural areas. Consequently, WN became the most important arboviral disease for public health. In Tunisia, the first outbreak of meningoencephalitis due to WNV was observed in autumn 1997 in two coastal districts (Sousse and Sfax) causing more than 173 cases with 8 deaths [98]. The WNV belonged to the lineage 1a (Tunisian strain PaH001) which is closely related to the group of American/Israeli viruses collected between 1998 and 2000 [99]. The second WN outbreak was reported in 2003 in all East coastal districts. Twenty patients with neurological signs including three fatal cases were reported in the district of Sousse [100]. In 2007, a total of 1854 sera collected from healthy patients from three different districts (north, center and south) were investigated by ELISA to detect specific IgG against WNV. Specific IgG were detected in 12.5% of studied population. The seroprevalence varied largely between the three districts: high endemicity in the center (27.7% in Kairouan district), moderate in the southern region (7.5% in the Sfax district), and low in the north (0.7% in the Bizerte district) [101]. The third important outbreak of WN was observed in 2012; 86 cases with neurological signs were confirmed by serological tests, 12 patients died [102]. Equids are also affected: the serological investigation tested by competitive enzyme-linked immunoassay of 284 horses conducted in 2012 in the southern west region of the country showed that 120 (42.3%) had WNV-specific neutralizing antibodies. The prevalence was significantly higher in areas close to the oasis compared with that of the surrounding arid areas [103].
+        Sandfly fever viruses belonging to the Phlebovirus genus of the Bunyaviridae family were occasionally reported. They include two main serocomplexes: Naples (Sandfly fever Naples virus, SFNV) and Sicilian (Sandfly fever Sicilian virus, SFSV), which are associated with human diseases. Besides, Toscana virus (TOSV) is a variant of Sandfly fever Naples virus. It is endemic in Mediterranean countries especially in Tunisia. In a recent study, Fezaa et al. [104] showed that out of 263 patients with neurological disorder tested using ELISA, 12.2% (n = 32/263) were IgM positive for TOSV. Of these 32 patients, 78% (n = 25/32) were IgG positive. In addition, 12.8% (n = 18/140) of the cerebrospinal fluid (CSF) samples tested by RT-PCR were positive for TOSV. One CSF sample tested by RT-PCR revealed the presence of SFSV [104]. By RT-PCR, TOSV was detected in Phlebotomus perniciosus and Phlebotomus perfiliewi collected in north Tunisia. In addition, the Punique virus was identified in P. perniciosus [104]. Among 494 healthy individuals from various regions of Tunisia tested by ELISA for anti-TOSV IgGs, 47 people (9.5%) were positive. Seroprevalence varied with bioclimatic regions and gender [104].
+        Usutu Virus (USUV), which is a “new” emerging Flavivirus antigenically close to WNV and also transmitted by Culex mosquitoes, has never been reported in humans in Tunisia. In a recent study, antibody titers against USUV were reported in 10 equines (among 284) [103]. In a serological investigation, Nabli et al. [105] recorded that 0.2% of human serum samples (n = 1406) from different regions of Tunisia were positive to the Sindbis virus [105].
+      
+      
+        Turkey
+        Arbovirus screening in vertebrate hosts and vectors conducted in the last 15 years have revealed the activity of arboviruses transmitted by mosquitoes, sandflies, ticks and Culicoides [106–108]. Among mosquito-borne viruses, WNV is known to be present in Turkey since the 1970s [109]. After the detection of serological evidence of WNV in various animals (ass-mule, cattle, dog, horse and sheep) in eight provinces [110], human cases were detected [61]. The WNV Lineage 1 clade 1a was confirmed in both humans and horses [111]. Further studies corroborated the circulation of the virus in the East (ducks and horses) as well as South East (horses and sheep), South (horses) and West parts of the country (dogs and sheep) [112]. The virus was also detected in primary and secondary vectors Cx. pipiens s.s. and Ae. caspius samples in North West [113], in Cx. quinquefasciatus and Cx. perexiguus in the South [112]. These results also confirmed the presence of the most important vector of the virus worldwide, Cx. quinquefasciatus with DNA barcoding for the first time in the country [112, 114]. Established populations of the invasive Ae. aegypti and Ae. albopictus were recorded in the northeast of the country in 2015 [15••]. Due to the fact that these species are involved in the transmission of CHIKV, DENV, YFV, and ZIKV, they will become a public health concern. Data from blood donors in recent years have shown evidence for DENV exposure in Central Anatolia, thus its reemergence is probable [115]. Imported cases of CHIK also represent a threat [116].
+        On the other hand, some major and novel Phlebovirus serotypes are endemic in Turkey. Sandfly fever Sicilian virus (SFSV), Naples virus (SFNV), and Toscana virus (TOSV) are known to be present in the country [106, 117]. In addition, Sandfly fever Turkish virus (SFTV), a variant of SFSV was discovered and Phlebotomus major s.l. is detected as the best vector candidate so far [118, 119]. Last year, Adana virus, a novel Phlebovirus belonging to the Salehabad virus complex was identified, with high seroprevalences in dogs, goats, sheeps but a low seroprevalence in humans [53]. A recent study revealed that dogs are candidate reservoirs of TOSV in Turkey and co-infection of this virus with Leishmania infantum is detected [120]. To put that into perspective, co-infection of TOSV and WNV was also documented in a human case for the first time, causing enhanced pathogenicity with severe clinical outcomes [121].
+        Caused by biting midges, bluetongue virus (BTV) is one of the most important diseases of domestic livestock. It was recorded in 15 provinces of Turkey, on Western [108], North Western [122], Eastern [123], South Eastern [124], and Central Anatolia [125] throughout the years, sharing lineages 2, 4, 6, 9, 10, 13, and 16 with its neighboring countries [108].
+        Tick-borne encephalitis (TBE) and Crimean-Congo hemorrhagic fever (CCHF) had a significant impact in Turkey. Since 2002, there have been more than 9700 patients infected with CCHFV with around 5% overall mortality rate [107]. Ticks collected from migratory birds were found infected with CCHFV genotype 4, whereas CCHFV Europe I clade is known to be present in Central Anatolia [126, 127]. In the same region, a recent study has shown that clade I is also affecting the Anatolian wild sheep Ovis gmelinii anatolica [128]. The virus was also detected in the north-western part of the country, outside the endemic region for several tick species [129].
+      
+    
+    
+      Conclusions
+      Arboviruses, mosquito-borne viruses in particular, including DENV, CHIKV, and WNV, are becoming a global health issue, spreading beyond their natural range of distribution, mainly in sub-Saharan Africa. DENV and CHIKV have benefitted from increasing human mobility and the larger geographical distribution of the vectors Ae. aegypti and Ae. albopictus which expand their area of activity to new regions and continents including high-income countries. The introduction of these viruses in naive countries relies on long distance spread taking advantage of human travels. By contrast, the spread of WNV depends primarily on bird migration and local viral dynamics relying on activities of mosquito populations. Given this global threat, the surveillance system (animal, human and vectors) must be strengthened to prevent outbreaks and/or to ensure the early detection of a potential epidemic. These are the objectives of the MedilLabSecure project: strengthen the preparedness for arboviral diseases in countries of the Mediterranean and Black Sea regions that should be considered a unique episystem for emergence of vector-borne diseases in Europe.
+    
+  
+
+    
+      
+        Anna-Bella Failloux, Ali Bouattour, Chafika Faraj, Filiz Gunay, Nabil Haddad, Zoubir Harrat, Elizabeta Jancheska, Khalil Kanani, Mohamed Amin Kenawy, Majlinda Kota, Igor Pajovic, Lusine Paronyan, Dusan Petric, Mhammed Sarih, Samir Sawalha, Taher Shaibi, Kurtesh Sherifi, Tatiana Sulesco, Enkelejda Velo, Lobna Gaayeb, Kathleen Victoir and Vincent Robert have contributed equally.
+      
+      
+        This article is part of the Topical Collection on Tropical Medicine in the Mediterranean Region
+
+      
+    
+    
+      Acknowledgements
+      We are grateful to Béatrice de Cougny (Institut Pasteur) for preparing the figure. Our thanks also go to Tamaš Petrović from Scientific Veterinary Institute “Novi Sad,” Serbia, and Ivana Hrnjaković Cvetković from the Institute of Public Health of Vojvodina Province/Faculty of Medicine, University of Novi Sad, Serbia for providing data on viruses in animal and human populations, and to Adbdallah Samy from Ain Shams University, Egypt, for the data on vector biology. The MediLabSecure project is supported by the European Commission (DEVCO: IFS/21010/23/_194) http://www.medilabsecure.com.
+    
+    
+      Compliance with Ethical Standards
+      
+        Conflict of Interest
+        All authors declare that they have no conflict of interest.
+      
+      
+        Human and Animal Rights and Informed Consent
+        This article does not contain any studies with human or animal subjects performed by any of the authors.
+      
+    
+    
+      References
+      
+        Papers of particular interest, published recently, have been highlighted as: •• Of major importance
+        
+          1.
+          
+            
+              
+                Amraoui
+                F
+              
+              
+                Failloux
+                AB
+              
+            
+            Chikungunya: an unexpected emergence in Europe
+            Curr Opin Virol
+            2016
+            21
+            146
+            50
+            
+            27771517
+          
+        
+        
+          2.
+          
+            
+              
+                Rezza
+                G
+              
+            
+            Dengue and chikungunya: long-distance spread and outbreaks in naive areas
+            Pathog Glob Health
+            2014
+            108
+            8
+            349
+            55
+            
+            25491436
+          
+        
+        
+          3.
+          
+            
+              
+                Septfons
+                A
+              
+              
+                Leparc-Goffart
+                I
+              
+              
+                Couturier
+                E
+              
+              
+                Franke
+                F
+              
+              
+                Deniau
+                J
+              
+              
+                Balestier
+                A
+              
+              
+            
+            Travel-associated and autochthonous Zika virus infection in mainland France, 1 January to 15 July 2016
+            Eur Surveill
+            2016
+            21
+            32
+            30315
+          
+        
+        
+          4.
+          •• Escadafal C, Gaayeb L, Riccardo F, Perez-Ramirez E, Picard M, Dente MG, et al. Risk of Zika virus transmission in the Euro-Mediterranean area and the added value of building preparedness to arboviral threats from a one health perspective. BMC Public Health. 2016;16(1):1219. The MediLabSecure network, created in 2014, comprising 55 laboratories in 19 countries in the Mediterranean and the Black Sea regions, aims to improve capacity-building for arbovirus diagnostics through trainings on techniques common to several arboviruses, including Zika..
+        
+        
+          5.
+          
+            
+              
+                Rosen
+                L
+              
+            
+            Dengue in Greece in 1927 and 1928 and the pathogenesis of dengue hemorrhagic fever: new data and a different conclusion
+            Am J Trop Med Hyg
+            1986
+            35
+            3
+            642
+            53
+            
+            3518510
+          
+        
+        
+          6.
+          
+            
+              
+                Curtin
+                TJ
+              
+            
+            Status of Aedes aegypti in the Eastern Mediterranean
+            J Med Entomol
+            1967
+            4
+            1
+            48
+            50
+            
+            6074036
+          
+        
+        
+          7.
+          
+            
+              
+                Bres
+                PL
+              
+            
+            A century of progress in combating yellow fever
+            Bull World Health Organ
+            1986
+            64
+            6
+            775
+            86
+            
+            3549030
+          
+        
+        
+          8.
+          Fontenille D, Failloux AB, Romi R. Should we expect chikungunya and dengue in Southern Europe? Emerging pests and vector-borne diseases in Europe. 2007;169–84.
+        
+        
+          9.
+          
+            
+              
+                Erdelyi
+                K
+              
+              
+                Ursu
+                K
+              
+              
+                Ferenczi
+                E
+              
+              
+                Szeredi
+                L
+              
+              
+                Ratz
+                F
+              
+              
+                Skare
+                J
+              
+              
+            
+            Clinical and pathologic features of lineage 2 West Nile virus infections in birds of prey in Hungary
+            Vector Borne Zoonotic Dis
+            2007
+            7
+            2
+            181
+            8
+            
+            17627436
+          
+        
+        
+          10.
+          
+            
+              
+                Ciota
+                AT
+              
+              
+                Kramer
+                LD
+              
+            
+            Vector-virus interactions and transmission dynamics of West Nile virus
+            Viruses
+            2013
+            5
+            12
+            3021
+            47
+            
+            24351794
+          
+        
+        
+          11.
+          
+            
+              
+                Aitken
+                TH
+              
+              
+                Maier
+                J
+              
+              
+                Trapido
+                H
+              
+            
+            The status of anophelism and malaria in Sardinia during 1951 and 1952
+            Am J Hyg
+            1954
+            60
+            1
+            37
+            51
+            
+            13180500
+          
+        
+        
+          12.
+          
+            
+              
+                Callot
+                J
+              
+              
+                Delecolle
+                JC
+              
+            
+            Entomological notes. VI. Septentrional localization of Aedes Aegypti
+            Ann Parasitol Hum Comp
+            1972
+            47
+            4
+            665
+            
+            4650815
+          
+        
+        
+          13.
+          Wilder-Smith A, Quam M, Sessions O, Rocklov J, Liu-Helmersson J, Franco L, Khan K. The 2012 dengue outbreak in Madeira: exploring the origins. Euro Surveill. 2014. doi:10.2807/1560-7917.ES2014.19.8.20718.
+        
+        
+          14.
+          
+            
+              
+                Yunicheva
+                YU
+              
+              
+                Ryabova
+                TE
+              
+              
+                Markovich
+                NY
+              
+              
+            
+            First data on the presence of breeding populations of the Aedes aegypti L. mosquito in Greater Sochi and various cities of Abkhazia
+            Med Parazitol
+            2008
+            3
+            40
+            3
+          
+        
+        
+          15.
+          •• Akiner MM, Demirci B, Babuadze G, Robert V, Schaffner F. Spread of the invasive mosquitoes Aedes aegypti and Aedes albopictus in the Black Sea region increases risk of Chikungunya, Dengue, and Zika outbreaks in Europe. PLoS Negl Trop Dis. 2016;10(4):e0004664. The mosquitoesAedes aegyptiandAedes albopictusare spreading in Europe with concerns about resurgences of the pathogens that they transmit. International collaboration, in particular around the Black Sea, is crucial in order to support local capacities and boost Europe’s preparedness.
+        
+        
+          16.
+          
+            
+              
+                Smith
+                CE
+              
+            
+            The history of dengue in tropical Asia and its probable relationship to the mosquito Aedes aegypti
+            J Trop Med Hyg
+            1956
+            59
+            10
+            243
+            51
+            
+            13368255
+          
+        
+        
+          17.
+          
+            
+              
+                Bonizzoni
+                M
+              
+              
+                Gasperi
+                G
+              
+              
+                Chen
+                X
+              
+              
+                James
+                AA
+              
+            
+            The invasive mosquito species Aedes albopictus: current knowledge and future perspectives
+            Trends Parasitol
+            2013
+            29
+            9
+            460
+            8
+            
+            23916878
+          
+        
+        
+          18.
+          
+            
+              
+                Adhami
+                J
+              
+              
+                Reiter
+                P
+              
+            
+            Introduction and establishment of Aedes (Stegomyia) albopictus skuse (Diptera: Culicidae) in Albania
+            J Am Mosq Control Assoc
+            1998
+            14
+            3
+            340
+            3
+            
+            9813831
+          
+        
+        
+          19.
+          
+            
+              
+                Sabatini
+                A
+              
+              
+                Raineri
+                V
+              
+              
+                Trovato
+                G
+              
+              
+                Coluzzi
+                M
+              
+            
+            Aedes albopictus in Italy and possible diffusion of the species into the Mediterranean area
+            Parassitologia
+            1990
+            32
+            3
+            301
+            4
+            
+            2132441
+          
+        
+        
+          20.
+          
+            
+              
+                Dalla Pozza
+                G
+              
+              
+                Majori
+                G
+              
+            
+            First record of Aedes albopictus establishment in Italy
+            J Am Mosq Control Assoc
+            1992
+            8
+            3
+            318
+            20
+            
+            1402871
+          
+        
+        
+          21.
+          
+            
+              
+                Medlock
+                JM
+              
+              
+                Hansford
+                KM
+              
+              
+                Schaffner
+                F
+              
+              
+                Versteirt
+                V
+              
+              
+                Hendrickx
+                G
+              
+              
+                Zeller
+                H
+              
+              
+            
+            A review of the invasive mosquitoes in Europe: ecology, public health risks, and control options
+            Vector Borne Zoonotic Dis
+            2012
+            12
+            6
+            435
+            47
+            
+            22448724
+          
+        
+        
+          22.
+          
+            
+              
+                Paupy
+                C
+              
+              
+                Delatte
+                H
+              
+              
+                Bagny
+                L
+              
+              
+                Corbel
+                V
+              
+              
+                Fontenille
+                D
+              
+            
+            Aedes albopictus, an arbovirus vector: from the darkness to the light
+            Microbes Infect Inst Pasteur
+            2009
+            11
+            14–15
+            1177
+            85
+          
+        
+        
+          23.
+          
+            
+              
+                Rezza
+                G
+              
+              
+                Nicoletti
+                L
+              
+              
+                Angelini
+                R
+              
+              
+                Romi
+                R
+              
+              
+                Finarelli
+                AC
+              
+              
+                Panning
+                M
+              
+              
+            
+            Infection with chikungunya virus in Italy: an outbreak in a temperate region
+            Lancet
+            2007
+            370
+            9602
+            1840
+            6
+            
+            18061059
+          
+        
+        
+          24.
+          
+            
+              
+                Grandadam
+                M
+              
+              
+                Caro
+                V
+              
+              
+                Plumet
+                S
+              
+              
+                Thiberge
+                JM
+              
+              
+                Souares
+                Y
+              
+              
+                Failloux
+                AB
+              
+              
+            
+            Chikungunya virus, southeastern France
+            Emerg Infect Dis
+            2011
+            17
+            5
+            910
+            3
+            
+            21529410
+          
+        
+        
+          25.
+          Delisle E, Rousseau C, Broche B, Leparc-Goffart I, L’Ambert G, Cochet A, Prat C, Foulongne V, Ferré JB, Catelinois O, Flusin O, Tchernonog E, Moussion IE, Wiegandt A, Septfons A, Mendy A, Moyano MB, Laporte L, Maurel J, Jourdain F, Reynes J, Paty MC, Golliot F. Chikungunya outbreak in Montpellier, France, September to October 2014. Euro Surveill. 2015. doi:10.2807/1560-7917.ES2015.20.17.21108.
+        
+        
+          26.
+          Schmidt-Chanasit J, Haditsch M, Schöneberg I, Günther S, Stark K, Frank C. Dengue virus infection in a traveller returning from Croatia to Germany. Euro Surveill. 2010. http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=19677.
+        
+        
+          27.
+          
+            
+              
+                La Ruche
+                G
+              
+              
+                Souares
+                Y
+              
+              
+                Armengaud
+                A
+              
+              
+                Peloux-Petiot
+                F
+              
+              
+                Delaunay
+                P
+              
+              
+                Despres
+                P
+              
+              
+            
+            First two autochthonous dengue virus infections in metropolitan France, September 2010
+            Eur Surveill
+            2010
+            15
+            39
+            19676
+          
+        
+        
+          28.
+          
+            
+              
+                Marchand
+                E
+              
+              
+                Prat
+                C
+              
+              
+                Jeannin
+                C
+              
+              
+                Lafont
+                E
+              
+              
+                Bergmann
+                T
+              
+              
+                Flusin
+                O
+              
+              
+            
+            Autochthonous case of dengue in France, October 2013
+            Eur Surveill
+            2013
+            18
+            50
+            20661
+          
+        
+        
+          29.
+          Succo T, Leparc-Goffart I, Ferré J, Roiz D, Broche B, Maquart M, Noel H, Catelinois O, Entezam F, Caire D, Jourdain F, Esteve-Moussion I, Cochet A, Paupy C, Rousseau C, Paty M, Golliot F. Autochthonous dengue outbreak in Nîmes, South of France, July to September 2015. Euro Surveill. 2016. doi:10.2807/1560-7917.ES.2016.21.21.30240.
+        
+        
+          30.
+          
+            
+              
+                Byrne
+                K
+              
+              
+                Nichols
+                RA
+              
+            
+            Culex pipiens in London Underground tunnels: differentiation between surface and subterranean populations
+            Heredity
+            1999
+            82
+            Pt 1
+            7
+            15
+            
+            10200079
+          
+        
+        
+          31.
+          
+            
+              
+                Fritz
+                ML
+              
+              
+                Walker
+                ED
+              
+              
+                Miller
+                JR
+              
+              
+                Severson
+                DW
+              
+              
+                Dworkin
+                I
+              
+            
+            Divergent host preferences of above- and below-ground Culex pipiens mosquitoes and their hybrid offspring
+            Med Vet Entomol
+            2015
+            29
+            2
+            115
+            23
+            
+            25600086
+          
+        
+        
+          32.
+          
+            
+              
+                Fros
+                JJ
+              
+              
+                Geertsema
+                C
+              
+              
+                Vogels
+                CB
+              
+              
+                Roosjen
+                PP
+              
+              
+                Failloux
+                AB
+              
+              
+                Vlak
+                JM
+              
+              
+            
+            West Nile virus: high transmission rate in North-Western European mosquitoes indicates its epidemic potential and warrants increased surveillance
+            PLoS Negl Trop Dis
+            2015
+            9
+            7
+            e0003956
+            
+            26225555
+          
+        
+        
+          33.
+          
+            
+              
+                Hubalek
+                Z
+              
+              
+                Halouzka
+                J
+              
+            
+            West Nile fever—a reemerging mosquito-borne viral disease in Europe
+            Emerg Infect Dis
+            1999
+            5
+            5
+            643
+            50
+            
+            10511520
+          
+        
+        
+          34.
+          
+            
+              
+                Traore-Lamizana
+                M
+              
+              
+                Zeller
+                HG
+              
+              
+                Mondo
+                M
+              
+              
+                Hervy
+                JP
+              
+              
+                Adam
+                F
+              
+              
+                Digoutte
+                JP
+              
+            
+            Isolations of West Nile and Bagaza viruses from mosquitoes (Diptera: Culicidae) in central Senegal (Ferlo)
+            J Med Entomol
+            1994
+            31
+            6
+            934
+            8
+            
+            7815413
+          
+        
+        
+          35.
+          
+            
+              
+                Zeller
+                HG
+              
+              
+                Schuffenecker
+                I
+              
+            
+            West Nile virus: an overview of its spread in Europe and the Mediterranean basin in contrast to its spread in the Americas
+            Eur J Clin Microbiol Infect Dis
+            2004
+            23
+            3
+            147
+            56
+            
+            14986160
+          
+        
+        
+          36.
+          
+            
+              
+                Brackney
+                DE
+              
+              
+                Armstrong
+                PM
+              
+            
+            Transmission and evolution of tick-borne viruses
+            Curr Opin Virol
+            2016
+            21
+            67
+            74
+            
+            27569396
+          
+        
+        
+          37.
+          
+            
+              
+                Hoogstraal
+                H
+              
+            
+            The epidemiology of tick-borne Crimean-Congo hemorrhagic fever in Asia, Europe, and Africa
+            J Med Entomol
+            1979
+            15
+            4
+            307
+            417
+            
+            113533
+          
+        
+        
+          38.
+          
+            
+              
+                Velo
+                E
+              
+              
+                Bino
+                S
+              
+              
+                Kuli-Lito
+                G
+              
+              
+                Pano
+                K
+              
+              
+                Gradoni
+                L
+              
+              
+                Maroli
+                M
+              
+              
+            
+            Recrudescence of visceral leishmaniasis in Albania: retrospective analysis of cases during 1997 to 2001 and results of an entomological survey carried out during 2001 in some districts
+            Trans R Soc Trop Med Hyg
+            2003
+            97
+            3
+            288
+            90
+            
+            15228243
+          
+        
+        
+          39.
+          
+            
+              
+                Adhami
+                J
+              
+              
+                Murati
+                N
+              
+            
+            Phlebotomine sand flies (diptera: Psychodidae) of domestic places in Albania
+            Rev Mjeksore
+            2000
+            1
+            60
+            75
+          
+        
+        
+          40.
+          
+            
+              
+                Papa
+                A
+              
+              
+                Velo
+                E
+              
+              
+                Bino
+                S
+              
+            
+            A novel phlebovirus in Albanian sandflies
+            Clin Microbiol Infect
+            2011
+            17
+            4
+            585
+            7
+            
+            21414085
+          
+        
+        
+          41.
+          
+            
+              
+                Ayhan
+                N
+              
+              
+                Velo
+                E
+              
+              
+                de Lamballerie
+                X
+              
+              
+                Kota
+                M
+              
+              
+                Kadriaj
+                P
+              
+              
+                Ozbel
+                Y
+              
+              
+            
+            Detection of Leishmania infantum and a Novel Phlebovirus (Balkan Virus) from Sand Flies in Albania
+            Vector Borne Zoonotic Dis
+            2016
+            16
+            12
+            802
+            6
+            
+            27788062
+          
+        
+        
+          42.
+          
+            
+              
+                Papa
+                A
+              
+              
+                Velo
+                E
+              
+              
+                Papadimitriou
+                E
+              
+              
+                Cahani
+                G
+              
+              
+                Kota
+                M
+              
+              
+                Bino
+                S
+              
+            
+            Ecology of the Crimean-Congo hemorrhagic fever endemic area in Albania
+            Vector Borne Zoonotic Dis
+            2009
+            9
+            6
+            713
+            6
+            
+            19402760
+          
+        
+        
+          43.
+          
+            
+              
+                Schuster
+                I
+              
+              
+                Mertens
+                M
+              
+              
+                Mrenoshki
+                S
+              
+              
+                Staubach
+                C
+              
+              
+                Mertens
+                C
+              
+              
+                Bruning
+                F
+              
+              
+            
+            Sheep and goats as indicator animals for the circulation of CCHFV in the environment
+            Exp Appl Acarol
+            2016
+            68
+            3
+            337
+            46
+            
+            26704262
+          
+        
+        
+          44.
+          
+            
+              
+                Bardos
+                V
+              
+              
+                Adamcova
+                J
+              
+              
+                Dedei
+                S
+              
+              
+                Gjini
+                N
+              
+              
+                Rosicky
+                B
+              
+              
+                Simkova
+                A
+              
+            
+            Neutralizing antibodies against some neurotropic viruses determined in human sera in Albania
+            J Hyg Epidemiol Microbiol Immunol
+            1959
+            3
+            277
+            82
+            
+            13796704
+          
+        
+        
+          45.
+          EpiSouth Weekly Epi Bulletin, No 178, 10th August 2011 – 16th August 2011.
+        
+        
+          46.
+          
+            
+              
+                Pilo-Moron
+                E
+              
+              
+                Vincent
+                J
+              
+              
+                Le Corroller
+                Y
+              
+            
+            Isolation of a West-Nile virus in the extreme south of the Algerian Sahara (Djanet)
+            Arch Inst Pasteur Alger
+            1970
+            48
+            181
+            4
+            
+            4148584
+          
+        
+        
+          47.
+          
+            
+              
+                Bouguermouh
+                A
+              
+              
+                Bouslama
+                Z
+              
+              
+                Bitam
+                I
+              
+              
+            
+            Ces arbovirus qui menacent l’Algérie
+            La revue medicopharmaceutique
+            2008
+            48
+            3
+            46
+            52
+          
+        
+        
+          48.
+          
+            
+              
+                Le Guenno
+                B
+              
+              
+                Bougermouh
+                A
+              
+              
+                Azzam
+                T
+              
+              
+                Bouakaz
+                R
+              
+            
+            West Nile: a deadly virus?
+            Lancet
+            1996
+            348
+            9037
+            1315
+            
+            8909403
+          
+        
+        
+          49.
+          Hachid A, Beloufa MA, Bahoura N, Fall G, Dia M, Sall AA, Seghier M. First serological evidence of human circulation of West Nile virus in central-north Algeria.. Communication at 23th European society in clinical microbiology and infectious diseases (ECCMID) Berlin, Germany. 2013.
+        
+        
+          50.
+          
+            
+              INVS
+            
+            Bulletin hebdomadaire international du 10 au 16 Octobre 2012
+            2012
+            France
+            Institut de Veille Sanitaire
+            369
+          
+        
+        
+          51.
+          
+            
+              
+                Ayhan
+                N
+              
+              
+                Velo
+                E
+              
+              
+                de Lamballerie
+                X
+              
+              
+                Kota
+                M
+              
+              
+                Kadriaj
+                P
+              
+              
+                Ozbel
+                Y
+              
+              
+            
+            Detection of Leishmania infantum and a Novel Phlebovirus (Balkan Virus) from Sand Flies in Albania
+            Vector Borne Zoonotic Dis
+            2016
+            16
+            12
+            802
+            6
+            
+            27788062
+          
+        
+        
+          52.
+          
+            
+              
+                Izri
+                A
+              
+              
+                Temmam
+                S
+              
+              
+                Moureau
+                G
+              
+              
+                Hamrioui
+                B
+              
+              
+                de Lamballerie
+                X
+              
+              
+                Charrel
+                RN
+              
+            
+            Sandfly fever Sicilian virus, Algeria
+            Emerg Infect Dis
+            2008
+            14
+            5
+            795
+            7
+            
+            18439364
+          
+        
+        
+          53.
+          
+            
+              
+                Alkan
+                C
+              
+              
+                Alwassouf
+                S
+              
+              
+                Piorkowski
+                G
+              
+              
+                Bichaud
+                L
+              
+              
+                Tezcan
+                S
+              
+              
+                Dincer
+                E
+              
+              
+            
+            Isolation, genetic characterization, and seroprevalence of Adana virus, a novel phlebovirus belonging to the Salehabad virus complex, in Turkey
+            J Virol
+            2015
+            89
+            8
+            4080
+            91
+            
+            25653443
+          
+        
+        
+          54.
+          
+            
+              
+                Tahir
+                D
+              
+              
+                Alwassouf
+                S
+              
+              
+                Loudahi
+                A
+              
+              
+                Davoust
+                B
+              
+              
+                Charrel
+                RN
+              
+            
+            Seroprevalence of Toscana virus in dogs from Kabylia (Algeria)
+            Clin Microbiol Infect
+            2016
+            22
+            3
+            e16
+            7
+            
+            26551844
+          
+        
+        
+          55.
+          
+            
+              
+                Arsevska
+                E
+              
+              
+                Lancelot
+                R
+              
+              
+                El Mamy
+                AB
+              
+              
+                Cetre-Sossah
+                C
+              
+            
+            Situation épidémiologique de la fièvre de la Vallée du Rift en Afrique de l’Ouest et du Nord
+            Bull Epidémiol
+            2016
+            74
+            25
+            9
+          
+        
+        
+          56.
+          
+            
+              
+                Benallal
+                KE
+              
+              
+                Allal-Ikhlef
+                A
+              
+              
+                Benhamouda
+                K
+              
+              
+                Schaffner
+                F
+              
+              
+                Harrat
+                Z
+              
+            
+            First report of Aedes (Stegomyia) albopictus (Diptera: Culicidae) in Oran, West of Algeria
+            Acta Trop
+            2016
+            164
+            411
+            3
+            
+            27697483
+          
+        
+        
+          57.
+          
+            
+              
+                Kautman
+                M
+              
+              
+                Tiar
+                G
+              
+              
+                Papa
+                A
+              
+              
+                Siroky
+                P
+              
+            
+            AP92-like Crimean-Congo hemorrhagic fever virus in Hyalomma aegyptium ticks, Algeria
+            Emerg Infect Dis
+            2016
+            22
+            2
+            354
+            6
+            
+            26812469
+          
+        
+        
+          58.
+          
+            
+              
+                Avetisyan
+                LM
+              
+              
+                Manukyan
+                DV
+              
+            
+            Modern epidemiological geography of malaria of Armenia
+            Med Sci Armenia
+            2010
+            2
+            101
+            7
+          
+        
+        
+          59.
+          
+            
+              
+                Manukian
+                DV
+              
+              
+                Oganesian
+                AS
+              
+              
+                Shakhnazarian
+                SA
+              
+              
+                Aleskanian
+                IT
+              
+            
+            The species composition of mosquitoes and ticks in Armenia
+            Med Parazitol (Mosk)
+            2006
+            1
+            31
+            3
+          
+        
+        
+          60.
+          
+            
+              
+                Anis
+                E
+              
+              
+                Grotto
+                I
+              
+              
+                Mendelson
+                E
+              
+              
+                Bin
+                H
+              
+              
+                Orshan
+                L
+              
+              
+                Gandacu
+                D
+              
+              
+            
+            West Nile fever in Israel: the reemergence of an endemic disease
+            J Infect
+            2014
+            68
+            2
+            170
+            5
+            
+            24183889
+          
+        
+        
+          61.
+          Kalaycioglu H, Korukluoglu G, Ozkul A, Oncul O, Tosun S, Karabay O, Gozalan A, Uyar Y, Caglayık DY, Atasoylu G, Altas AB, Yolbakan S, Ozden TN, Bayrakdar F, Sezak N, Pelıtlı TS, Kurtcebe ZO, Aydın E, Ertek M. Emergence of West Nile virus infections in humans in Turkey, 2010 to 2011. Euro Surveill. 2012. http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20182
+        
+        
+          62.
+          
+            
+              
+                Orshan
+                L
+              
+              
+                Bin
+                H
+              
+              
+                Schnur
+                H
+              
+              
+                Kaufman
+                A
+              
+              
+                Valinsky
+                A
+              
+              
+                Shulman
+                L
+              
+              
+            
+            Mosquito vectors of West Nile fever in Israel
+            J Med Entomol
+            2008
+            45
+            5
+            939
+            47
+            
+            18826039
+          
+        
+        
+          63.
+          
+            
+              
+                Haddad
+                N
+              
+              
+                Harbach
+                RE
+              
+              
+                Chamat
+                S
+              
+              
+                Bouharoun-Tayoun
+                H
+              
+            
+            Presence of Aedes albopictus in Lebanon and Syria
+            J Am Mosq Control Assoc
+            2007
+            23
+            2
+            226
+            8
+            
+            17847859
+          
+        
+        
+          64.
+          
+            
+              
+                Haddad
+                N
+              
+              
+                Mousson
+                L
+              
+              
+                Vazeille
+                M
+              
+              
+                Chamat
+                S
+              
+              
+                Tayeh
+                J
+              
+              
+                Osta
+                MA
+              
+              
+            
+            Aedes albopictus in Lebanon, a potential risk of arboviruses outbreak
+            BMC Infect Dis
+            2012
+            12
+            300
+            
+            23151056
+          
+        
+        
+          65.
+          
+            
+              
+                Mertens
+                M
+              
+              
+                Schuster
+                I
+              
+              
+                Sas
+                MA
+              
+              
+                Vatansever
+                Z
+              
+              
+                Hubalek
+                Z
+              
+              
+                Guven
+                E
+              
+              
+            
+            Crimean-Congo hemorrhagic fever virus in Bulgaria and Turkey
+            Vector Borne Zoonotic Dis
+            2016
+            16
+            9
+            619
+            23
+            
+            27467142
+          
+        
+        
+          66.
+          
+            
+              
+                Sharififard
+                M
+              
+              
+                Alavi
+                SM
+              
+              
+                Salmanzadeh
+                S
+              
+              
+                Safdari
+                F
+              
+              
+                Kamali
+                A
+              
+            
+            Epidemiological survey of Crimean-Congo hemorrhagic fever (CCHF), a fatal infectious disease in Khuzestan province, Southwest Iran, during 1999–2015
+            Jundishapur J Microbiol
+            2016
+            9
+            5
+            e30883
+            
+            27540454
+          
+        
+        
+          67.
+          
+            
+              
+                Darwish
+                MA
+              
+              
+                Ibrahim
+                AH
+              
+            
+            A serological survey on group A and B arbovirus antibodies in Libya
+            J Egypt Public Health Assoc
+            1974
+            49
+            1
+            20
+            6
+            
+            4850294
+          
+        
+        
+          68.
+          Elahmer OR, Abdelfadeel M, Safwat S, Smeo MN, Abudher A, Sammoud MA, et al. A retrospective study to define viral and bacterial etiologies causing acute febrile illness in Libya. The conference of endemic and emerging infectious diseases of priority in the Middle East and North Africa ‐ research opportunities and biosafety in a changing environment June 18–21, 2012; Istanbul, Turkey. 2012.
+        
+        
+          69.
+          
+            
+              
+                Mertens
+                M
+              
+              
+                Vatansever
+                Z
+              
+              
+                Mrenoshki
+                S
+              
+              
+                Krstevski
+                K
+              
+              
+                Stefanovska
+                J
+              
+              
+                Djadjovski
+                I
+              
+              
+            
+            Circulation of Crimean-Congo hemorrhagic fever virus in the former Yugoslav Republic of Macedonia revealed by screening of cattle sera using a novel enzyme-linked immunosorbent assay
+            PLoS Negl Trop Dis
+            2015
+            9
+            3
+            e0003519
+            
+            25742017
+          
+        
+        
+          70.
+          
+            
+              
+                Chumakov
+                MP
+              
+              
+                Bashkirtsev
+                VN
+              
+              
+                Golger
+                EI
+              
+              
+            
+            Isolation and identification of Crimean hemorrhagic fever and West Nile fever viruses from ticks collected in Moldavia (in Russian)
+            Medicinskaya Virusol
+            1974
+            22
+            45
+            9
+          
+        
+        
+          71.
+          
+            
+              
+                Scoferta
+                PG
+              
+              
+                Stepanova
+                OA
+              
+            
+            Arboviral infections and lymphocytic choriomeningitis in Moldova
+            Virusologia
+            1992
+            27
+            97
+            101
+          
+        
+        
+          72.
+          
+            
+              
+                Chumakov
+                MP
+              
+              
+                Spasski
+                AA
+              
+              
+                Tihon
+                EI
+              
+              
+                Uspenskaia
+                IG
+              
+              
+                Konovalov
+                YN
+              
+            
+            
+              
+                Markevich
+                AP
+              
+            
+            The mixed foci of arbovirus infections in Moldavia
+            Proceedings of the 2nd Vsesoiuznii Siezd Parazitotsenologov. 1983 October 11–14
+            1983
+            Kiev, Ukraine
+            Naukova dumka
+            368
+            9
+          
+        
+        
+          73.
+          
+            
+              
+                Scoferta
+                PG
+              
+              
+                Ciobanu
+                DS
+              
+              
+                Spinu
+                CI
+              
+              
+                Belous
+                AM
+              
+              
+                Mikhailenko
+                AG
+              
+            
+            Isolation of West Nile fever virus in Moldova Republic
+            J Prev Med
+            1996
+            4
+            111
+          
+        
+        
+          74.
+          
+            
+              
+                Kolodziejek
+                J
+              
+              
+                Marinov
+                M
+              
+              
+                Kiss
+                BJ
+              
+              
+                Alexe
+                V
+              
+              
+                Nowotny
+                N
+              
+            
+            The complete sequence of a West Nile virus lineage 2 strain detected in a Hyalomma marginatum marginatum tick collected from a song thrush (Turdus philomelos) in eastern Romania in 2013 revealed closest genetic relationship to strain Volgograd 2007
+            PLoS One
+            2014
+            9
+            10
+            e109905
+            
+            25279973
+          
+        
+        
+          75.
+          Dinu S, Cotar AI, Pănculescu-Gătej IR, Fălcuţă E, Prioteasa FL, Sîrbu A, Oprişan G, Bădescu D, Reiter P, Ceianu CS. West Nile virus circulation in south-eastern Romania, 2011 to 2013. Euro Surveill. 2015. doi:10.2807/1560-7917.ES2015.20.20.21130
+        
+        
+          76.
+          
+            
+              
+                Marcutan
+                ID
+              
+              
+                Kalmar
+                Z
+              
+              
+                Ionica
+                AM
+              
+              
+                D’Amico
+                G
+              
+              
+                Mihalca
+                AD
+              
+              
+                Vasile
+                C
+              
+              
+            
+            Spotted fever group rickettsiae in ticks of migratory birds in Romania
+            Parasit Vectors
+            2016
+            9
+            1
+            294
+            
+            27207258
+          
+        
+        
+          77.
+          
+            
+              
+                El Harrak
+                M
+              
+              
+                Le Gounon
+                B
+              
+              
+                Le Gounon
+                P
+              
+            
+            Isolation of West Nile virus in Morocco [in French]
+            Virologie
+            1997
+            1
+            248
+            9
+          
+        
+        
+          78.
+          
+            
+              
+                Schuffenecker
+                I
+              
+              
+                Peyrefitte
+                CN
+              
+              
+                el Harrak
+                M
+              
+              
+                Murri
+                S
+              
+              
+                Leblond
+                A
+              
+              
+                Zeller
+                HG
+              
+            
+            West Nile virus in Morocco, 2003
+            Emerg Infect Dis
+            2005
+            11
+            2
+            306
+            9
+            
+            15752452
+          
+        
+        
+          79.
+          World Animal Health Information Database. Event summary: West Nile fever, Morocco. 2010.
+        
+        
+          80.
+          
+            
+              
+                Figuerola
+                J
+              
+              
+                Baouab
+                RE
+              
+              
+                Soriguer
+                R
+              
+              
+                Fassi-Fihri
+                O
+              
+              
+                Llorente
+                F
+              
+              
+                Jimenez-Clavero
+                MA
+              
+            
+            West Nile virus antibodies in wild birds, Morocco, 2008
+            Emerg Infect Dis
+            2009
+            15
+            10
+            1651
+            3
+            
+            19861065
+          
+        
+        
+          81.
+          
+            
+              
+                El-Harrak
+                M
+              
+              
+                Martin-Folgar
+                R
+              
+              
+                Llorente
+                F
+              
+              
+                Fernandez-Pacheco
+                P
+              
+              
+                Brun
+                A
+              
+              
+                Figuerola
+                J
+              
+              
+            
+            Rift Valley and West Nile virus antibodies in camels, North Africa
+            Emerg Infect Dis
+            2011
+            17
+            12
+            2372
+            4
+            
+            22172452
+          
+        
+        
+          82.
+          
+            
+              
+                Faraj
+                C
+              
+              
+                Elkohli
+                M
+              
+              
+                Lyagoubi
+                M
+              
+            
+            The gonotrophic cycle of Culex pipiens (Diptera: Culicidae), West Nile virus potential vector, in Morocco: evaluation of its duration in laboratory
+            Bull Soc Pathol Exot
+            2006
+            99
+            2
+            119
+            21
+            
+            16821445
+          
+        
+        
+          83.
+          
+            
+              
+                Jouan
+                A
+              
+              
+                Le Guenno
+                B
+              
+              
+                Digoutte
+                JP
+              
+              
+                Philippe
+                B
+              
+              
+                Riou
+                O
+              
+              
+                Adam
+                F
+              
+            
+            An RVF epidemic in southern Mauritania
+            Ann Inst Pasteur Virol
+            1988
+            139
+            3
+            307
+            8
+            
+            3207509
+          
+        
+        
+          84.
+          
+            
+              
+                Nabeth
+                P
+              
+              
+                Kane
+                Y
+              
+              
+                Abdalahi
+                MO
+              
+              
+                Diallo
+                M
+              
+              
+                Ndiaye
+                K
+              
+              
+                Ba
+                K
+              
+              
+            
+            Rift Valley fever outbreak, Mauritania, 1998: seroepidemiologic, virologic, entomologic, and zoologic investigations
+            Emerg Infect Dis
+            2001
+            7
+            6
+            1052
+            4
+            
+            11747742
+          
+        
+        
+          85.
+          
+            
+              
+                Sow
+                A
+              
+              
+                Faye
+                O
+              
+              
+                Ba
+                Y
+              
+              
+                Ba
+                H
+              
+              
+                Diallo
+                D
+              
+              
+                Faye
+                O
+              
+              
+            
+            Rift Valley fever outbreak, southern Mauritania, 2012
+            Emerg Infect Dis
+            2014
+            20
+            2
+            296
+            9
+            
+            24447334
+          
+        
+        
+          86.
+          
+            
+              
+                El Ouali Lalami
+                A
+              
+              
+                El-Akhal
+                F
+              
+              
+                El Amri
+                N
+              
+              
+                Maniar
+                S
+              
+              
+                Faraj
+                C
+              
+            
+            State resistance of the mosquito Culex pipiens towards temephos central Morocco
+            Bull Soc Pathol Exot
+            2014
+            107
+            3
+            194
+            8
+            
+            24827876
+          
+        
+        
+          87.
+          
+            
+              
+                El Joubari
+                M
+              
+              
+                Faraj
+                C
+              
+              
+                Louah
+                A
+              
+              
+                Himmi
+                O
+              
+            
+            Sensibilité des moustiques Anopheles labranchiae, Culex pipiens, Ochlerotatus detritus et Ochlerotatus caspius de la région de Smir (Nord-Ouest du Maroc) aux organophosphorés utilisés en santé publique
+            Environ Risque Sante
+            2015
+            14
+            72
+            9
+          
+        
+        
+          88.
+          
+            
+              
+                Bennouna
+                A
+              
+              
+                Balenghien
+                T
+              
+              
+                El Rhaffouli
+                H
+              
+              
+                Schaffner
+                F
+              
+              
+                Garros
+                C
+              
+              
+                Gardès
+                L
+              
+              
+            
+            First record of Stegomyia albopicta (=Aedes albopictus) in Morocco: a major threat to public health in North Africa?
+            Med Vet Entomol
+            2017
+            31
+            102
+            6
+            
+            27775162
+          
+        
+        
+          89.
+          
+            
+              
+                Es-Sette
+                N
+              
+              
+                Nourlil
+                J
+              
+              
+                Hamdi
+                S
+              
+              
+                Mellouki
+                F
+              
+              
+                Lemrani
+                M
+              
+            
+            First detection of Toscana virus RNA from sand flies in the genus Phlebotomus (Diptera: Phlebotomidae) naturally infected in Morocco
+            J Med Entomol
+            2012
+            49
+            1507
+            9
+            
+            23270183
+          
+        
+        
+          90.
+          
+            
+              
+                Es-Sette
+                N
+              
+              
+                Ajaoud
+                M
+              
+              
+                Bichaud
+                L
+              
+              
+                Hamdi
+                S
+              
+              
+                Mellouki
+                F
+              
+              
+                Charrel
+                RN
+              
+              
+            
+            Phlebotomus sergenti a common vector of Leishmania tropica and Toscana virus in Morocco
+            J Vector Borne Dis
+            2014
+            51
+            2
+            86
+            90
+            
+            24947214
+          
+        
+        
+          91.
+          
+            
+              
+                Es-sette
+                N
+              
+              
+                Ajaoud
+                M
+              
+              
+                Anga
+                L
+              
+              
+                Mellouki
+                F
+              
+              
+                Lemrani
+                M
+              
+            
+            Toscana virus isolated from sandflies, Morocco
+            Parasit Vectors
+            2015
+            8
+            205
+            
+            25886511
+          
+        
+        
+          92.
+          
+            
+              
+                Palomar
+                AM
+              
+              
+                Portillo
+                A
+              
+              
+                Santibanez
+                P
+              
+              
+                Mazuelas
+                D
+              
+              
+                Arizaga
+                J
+              
+              
+                Crespo
+                A
+              
+              
+            
+            Crimean-Congo hemorrhagic fever virus in ticks from migratory birds, Morocco
+            Emerg Infect Dis
+            2013
+            19
+            2
+            260
+            3
+            
+            23347801
+          
+        
+        
+          93.
+          
+            
+              
+                Bordjoski
+                M
+              
+              
+                Gligić
+                A
+              
+              
+                Boskovic
+                R
+              
+            
+            Arbovirusne infekcije u SR Srbiji
+            Vojnosanit Pregl
+            1972
+            29
+            4
+            173
+            5
+            5031508
+          
+        
+        
+          94.
+          Petrić D, Petrović T, Hrnjaković Cvjetković I, Zgomba M, Milošević V, Lazić G, et al. West Nile virus “circulation” in Vojvodina, Serbia: Mosquito, bird, horse and human surveillance. Molecular and Cellular Probes 31, February 2017, p. 28–36, ISSN 0890–8508.
+        
+        
+          95.
+          
+            
+              
+                Lupulovic
+                D
+              
+              
+                Martin-Acebes
+                MA
+              
+              
+                Lazic
+                S
+              
+              
+                Alonso-Padilla
+                J
+              
+              
+                Blazquez
+                AB
+              
+              
+                Escribano-Romero
+                E
+              
+              
+            
+            First serological evidence of West Nile virus activity in horses in Serbia
+            Vector Borne Zoonotic Dis
+            2011
+            11
+            9
+            1303
+            5
+            
+            21438694
+          
+        
+        
+          96.
+          Petrović T, Blázquez AB, Lupulović D, Lazić G, Escribano-Romero E, Fabijan D, Kapetanov M, Lazić S, Saiz JC. Monitoring West Nile virus (WNV) infection in wild birds in Serbia during 2012: first isolation and characterisation of WNV strains from Serbia. Euro Surveill. 2013. http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20622.
+        
+        
+          97.
+          
+            
+              
+                Petric
+                D
+              
+              
+                Hrnjakovic Cvjetkovic
+                I
+              
+              
+                Radovanov
+                J
+              
+              
+                Cvjetkovic
+                D
+              
+              
+                Jerant Patic
+                V
+              
+              
+                Milosevic
+                V
+              
+              
+            
+            West Nile virus surveillance in humans and mosquitoes and detection of cell fusing agent virus in Vojvodina Province (Serbia)
+            HealthMED
+            2012
+            6
+            2
+            462
+            8
+          
+        
+        
+          98.
+          
+            
+              
+                Triki
+                H
+              
+              
+                Murri
+                S
+              
+              
+                Le Guenno
+                B
+              
+              
+                Bahri
+                O
+              
+              
+                Hili
+                K
+              
+              
+                Sidhom
+                M
+              
+              
+            
+            West Nile viral meningo-encephalitis in Tunisia
+            Med Trop (Mars)
+            2001
+            61
+            6
+            487
+            90
+            11980397
+          
+        
+        
+          99.
+          
+            
+              
+                Charrel
+                RN
+              
+              
+                Brault
+                AC
+              
+              
+                Gallian
+                P
+              
+              
+                Lemasson
+                JJ
+              
+              
+                Murgue
+                B
+              
+              
+                Murri
+                S
+              
+              
+            
+            Evolutionary relationship between Old World West Nile virus strains. Evidence for viral gene flow between Africa, the Middle East, and Europe
+            Virology
+            2003
+            315
+            2
+            381
+            8
+            
+            14585341
+          
+        
+        
+          100.
+          
+            
+              
+                Hachfi
+                W
+              
+              
+                Bougmiza
+                I
+              
+              
+                Bellazreg
+                F
+              
+              
+                Bahri
+                O
+              
+              
+                Kaabia
+                N
+              
+              
+                Bahri
+                F
+              
+              
+            
+            Second epidemic of West Nile virus meningoencephalitis in Tunisia
+            Med Mal Infect
+            2010
+            40
+            8
+            456
+            61
+            
+            20079988
+          
+        
+        
+          101.
+          
+            
+              
+                Bahri
+                O
+              
+              
+                Dhifallah
+                I
+              
+              
+                Ben Alaya-Bouafif
+                N
+              
+              
+                Fekih
+                H
+              
+              
+                Gargouri
+                J
+              
+              
+                Triki
+                H
+              
+            
+            Sero-epidemiological study of West Nile virus circulation in human in Tunisia
+            Bull Soc Pathol Exot
+            2011
+            104
+            4
+            272
+            6
+            
+            21161623
+          
+        
+        
+          102.
+          Bougatef S, Ben Alaya Bouafif N, Achour N. Bilan de la surveillance des infections à virus de West Nile en Tunisie (Année 2012).Surveillance de l’infection à VWN en Tunisie. 2013.
+        
+        
+          103.
+          
+            
+              
+                Ben Hassine
+                T
+              
+              
+                De Massis
+                F
+              
+              
+                Calistri
+                P
+              
+              
+                Savini
+                G
+              
+              
+                BelHaj Mohamed
+                B
+              
+              
+                Ranen
+                A
+              
+              
+            
+            First detection of co-circulation of West Nile and Usutu viruses in equids in the south-west of Tunisia
+            Transbound Emerg Dis
+            2014
+            61
+            5
+            385
+            9
+            
+            25065813
+          
+        
+        
+          104.
+          
+            
+              
+                Fezaa
+                O
+              
+              
+                M’Ghirbi
+                Y
+              
+              
+                Savellini
+                GG
+              
+              
+                Ammari
+                L
+              
+              
+                Hogga
+                N
+              
+              
+                Triki
+                H
+              
+              
+            
+            Serological and molecular detection of Toscana and other Phleboviruses in patients and sandflies in Tunisia
+            BMC Infect Dis
+            2014
+            14
+            598
+            
+            25398483
+          
+        
+        
+          105.
+          
+            
+              
+                Nabli
+                B
+              
+              
+                Chippaux-Hyppolite
+                C
+              
+              
+                Chippaux
+                A
+              
+              
+                Tamalet
+                J
+              
+            
+            Serological study of arboviruses in Tunisia
+            Bull World Health Organ
+            1970
+            42
+            2
+            297
+            303
+            
+            5310141
+          
+        
+        
+          106.
+          
+            
+              
+                Ergunay
+                K
+              
+              
+                Whitehouse
+                CA
+              
+              
+                Ozkul
+                A
+              
+            
+            Current status of human arboviral diseases in Turkey
+            Vector Borne Zoonotic Dis
+            2011
+            11
+            6
+            731
+            41
+            
+            21133776
+          
+        
+        
+          107.
+          Leblebicioglu H, Sunbul M, Guner R, Bodur H, Bulut C, Duygu F, et al. Healthcare-associated Crimean-Congo haemorrhagic fever in Turkey, 2002–2014: a multicentre retrospective cross-sectional study. Clin Microbiol Infect. 2016;22(4):387 e1-4.
+        
+        
+          108.
+          
+            
+              
+                Mellor
+                PS
+              
+              
+                Wittmann
+                EJ
+              
+            
+            Bluetongue virus in the Mediterranean Basin 1998–2001
+            Vet J
+            2002
+            164
+            1
+            20
+            37
+            
+            12359482
+          
+        
+        
+          109.
+          
+            
+              
+                Meco
+                O
+              
+            
+            West Nile arbovirus antibodies with hemagglutination inhibition (HI) in residents of Southeast Anatolia
+            Mikrobiol Bul
+            1977
+            11
+            1
+            3
+            17
+          
+        
+        
+          110.
+          
+            
+              
+                Ozkul
+                A
+              
+              
+                Yildirim
+                Y
+              
+              
+                Pinar
+                D
+              
+              
+                Akcali
+                A
+              
+              
+                Yilmaz
+                V
+              
+              
+                Colak
+                D
+              
+            
+            Serological evidence of West Nile Virus (WNV) in mammalian species in Turkey
+            Epidemiol Infect
+            2006
+            134
+            4
+            826
+            9
+            
+            16316496
+          
+        
+        
+          111.
+          
+            
+              
+                Ozkul
+                A
+              
+              
+                Ergunay
+                K
+              
+              
+                Koysuren
+                A
+              
+              
+                Alkan
+                F
+              
+              
+                Arsava
+                EM
+              
+              
+                Tezcan
+                S
+              
+              
+            
+            Concurrent occurrence of human and equine West Nile virus infections in Central Anatolia, Turkey: the first evidence for circulation of lineage 1 viruses
+            Int J Infect Dis
+            2013
+            17
+            7
+            e546
+            51
+            
+            23517780
+          
+        
+        
+          112.
+          
+            
+              
+                Ergunay
+                K
+              
+              
+                Gunay
+                F
+              
+              
+                Erisoz Kasap
+                O
+              
+              
+                Oter
+                K
+              
+              
+                Gargari
+                S
+              
+              
+                Karaoglu
+                T
+              
+              
+            
+            Serological, molecular and entomological surveillance demonstrates widespread circulation of West Nile virus in Turkey
+            PLoS Negl Trop Dis
+            2014
+            8
+            7
+            e3028
+            
+            25058465
+          
+        
+        
+          113.
+          
+            
+              
+                Ergunay
+                K
+              
+              
+                Gunay
+                F
+              
+              
+                Oter
+                K
+              
+              
+                Kasap
+                OE
+              
+              
+                Orsten
+                S
+              
+              
+                Akkutay
+                AZ
+              
+              
+            
+            Arboviral surveillance of field-collected mosquitoes reveals circulation of West Nile virus lineage 1 strains in Eastern Thrace, Turkey
+            Vector Borne Zoonotic Dis
+            2013
+            13
+            10
+            744
+            52
+            
+            23919608
+          
+        
+        
+          114.
+          
+            
+              
+                Gunay
+                F
+              
+              
+                Alten
+                B
+              
+              
+                Simsek
+                F
+              
+              
+                Aldemir
+                A
+              
+              
+                Linton
+                YM
+              
+            
+            Barcoding Turkish Culex mosquitoes to facilitate arbovirus vector incrimination studies reveals hidden diversity and new potential vectors
+            Acta Trop
+            2015
+            143
+            112
+            20
+            
+            25446171
+          
+        
+        
+          115.
+          
+            
+              
+                Ergunay
+                K
+              
+              
+                Saygan
+                MB
+              
+              
+                Aydogan
+                S
+              
+              
+                Menemenlioglu
+                D
+              
+              
+                Turan
+                HM
+              
+              
+                Ozkul
+                A
+              
+              
+            
+            West Nile virus seroprevalence in blood donors from Central Anatolia, Turkey
+            Vector Borne Zoonotic Dis
+            2010
+            10
+            8
+            771
+            5
+            
+            20021274
+          
+        
+        
+          116.
+          
+            
+              
+                Yagci Caglayik
+                D
+              
+              
+                Uyar
+                Y
+              
+              
+                Korukluoglu
+                G
+              
+              
+                Ertek
+                M
+              
+              
+                Unal
+                S
+              
+            
+            An imported Chikungunya fever case from New Delhi, India to Ankara, Turkey: the first imported case of Turkey and review of the literature
+            Mikrobiol Bul
+            2012
+            46
+            1
+            122
+            8
+          
+        
+        
+          117.
+          
+            
+              
+                Ocal
+                M
+              
+              
+                Orsten
+                S
+              
+              
+                Inkaya
+                AC
+              
+              
+                Yetim
+                E
+              
+              
+                Acar
+                NP
+              
+              
+                Alp
+                S
+              
+              
+            
+            Ongoing activity of Toscana virus genotype A and West Nile virus lineage 1 strains in Turkey: a clinical and field survey
+            Zoonoses Public Health
+            2014
+            61
+            7
+            480
+            91
+            
+            25285941
+          
+        
+        
+          118.
+          
+            
+              
+                Carhan
+                A
+              
+              
+                Uyar
+                Y
+              
+              
+                Ozkaya
+                E
+              
+              
+                Ertek
+                M
+              
+              
+                Dobler
+                G
+              
+              
+                Dilcher
+                M
+              
+              
+            
+            Characterization of a sandfly fever Sicilian virus isolated during a sandfly fever epidemic in Turkey
+            J Clin Virol
+            2010
+            48
+            4
+            264
+            9
+            
+            20579934
+          
+        
+        
+          119.
+          
+            
+              
+                Ergunay
+                K
+              
+              
+                Sayiner
+                AA
+              
+              
+                Litzba
+                N
+              
+              
+                Lederer
+                S
+              
+              
+                Charrel
+                R
+              
+              
+                Kreher
+                P
+              
+              
+            
+            Multicentre evaluation of central nervous system infections due to Flavi and Phleboviruses in Turkey
+            J Infect
+            2012
+            65
+            4
+            343
+            9
+            
+            22705706
+          
+        
+        
+          120.
+          
+            
+              
+                Dincer
+                E
+              
+              
+                Gargari
+                S
+              
+              
+                Ozkul
+                A
+              
+              
+                Ergunay
+                K
+              
+            
+            Potential animal reservoirs of Toscana virus and coinfections with Leishmania infantum in Turkey
+            Am J Trop Med Hyg
+            2015
+            92
+            4
+            690
+            7
+            
+            25711610
+          
+        
+        
+          121.
+          
+            
+              
+                Erdem
+                H
+              
+              
+                Ergunay
+                K
+              
+              
+                Yilmaz
+                A
+              
+              
+                Naz
+                H
+              
+              
+                Akata
+                F
+              
+              
+                Inan
+                AS
+              
+              
+            
+            Emergence and co-infections of West Nile virus and Toscana virus in Eastern Thrace, Turkey
+            Clin Microbiol Infect
+            2014
+            20
+            4
+            319
+            25
+            
+            23910388
+          
+        
+        
+          122.
+          
+            
+              
+                Karaoğlu
+                T
+              
+              
+                Özgünlük
+                I
+              
+              
+                Demir
+                B
+              
+              
+                Özkul
+                A
+              
+              
+                Burgu
+                I
+              
+            
+            Seroprevalence of culicoides-borne disease in cattle in European Turkey
+            Ank Üniv Vet Fak Derg
+            2007
+            54
+            121
+            5
+          
+        
+        
+          123.
+          
+            
+              
+                Yilmaz
+                V
+              
+              
+                Yildirim
+                Y
+              
+              
+                Coskun
+                N
+              
+            
+            Serological investigation of Bluetongue virus and Rift valley fever virus infections in sheep in Kars province of Turkey
+            EBSCOhost
+            2016
+            26
+            119
+            22
+          
+        
+        
+          124.
+          
+            
+              
+                Gur
+                S
+              
+            
+            A serologic investigation of blue tongue virus (BTV) in cattle, sheep and gazella subgutturosa subgutturosa in southeastern Turkey
+            Trop Anim Health Prod
+            2008
+            40
+            3
+            217
+            21
+            
+            18484124
+          
+        
+        
+          125.
+          
+            
+              
+                Azkur
+                AK
+              
+              
+                Gazyagci
+                S
+              
+              
+                Aslan
+                ME
+              
+            
+            Serological and epidemiological investigation of bluetongue, Maedi-Visna and Caprien arthritis-encephalitis viruses in small ruminant in Kirikkale district in Turkey
+            Kafkas Univ Vet Fak Derg
+            2011
+            17
+            5
+            803
+            8
+          
+        
+        
+          126.
+          
+            
+              
+                Bursali
+                A
+              
+              
+                Tekin
+                S
+              
+              
+                Keskin
+                A
+              
+              
+                Ekici
+                M
+              
+              
+                Dundar
+                E
+              
+            
+            Species diversity of ixodid ticks feeding on humans in Amasya, Turkey: seasonal abundance and presence of Crimean-Congo hemorrhagic fever virus
+            J Med Entomol
+            2011
+            48
+            1
+            85
+            93
+            
+            21337953
+          
+        
+        
+          127.
+          
+            
+              
+                Leblebicioglu
+                H
+              
+              
+                Eroglu
+                C
+              
+              
+                Erciyas-Yavuz
+                K
+              
+              
+                Hokelek
+                M
+              
+              
+                Acici
+                M
+              
+              
+                Yilmaz
+                H
+              
+            
+            Role of migratory birds in spreading Crimean-Congo hemorrhagic fever, Turkey
+            Emerg Infect Dis
+            2014
+            20
+            8
+            1331
+            4
+            
+            25062428
+          
+        
+        
+          128.
+          
+            
+              
+                Orkun
+                O
+              
+              
+                Emir
+                H
+              
+              
+                Karaer
+                Z
+              
+            
+            Ticks threatening lineage of Anatolian wild sheep (Ovis gmelinii anatolica) and determination of their tick-borne pathogens
+            Vet Parasitol
+            2016
+            228
+            77
+            84
+            
+            27692336
+          
+        
+        
+          129.
+          
+            
+              
+                Yesilbag
+                K
+              
+              
+                Aydin
+                L
+              
+              
+                Dincer
+                E
+              
+              
+                Alpay
+                G
+              
+              
+                Girisgin
+                AO
+              
+              
+                Tuncer
+                P
+              
+              
+            
+            Tick survey and detection of Crimean-Congo hemorrhagic fever virus in tick species from a non-endemic area, South Marmara region, Turkey
+            Exp Appl Acarol
+            2013
+            60
+            2
+            253
+            61
+            
+            23229492
+          
+        
+      
+    
+  

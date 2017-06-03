@@ -1,0 +1,642 @@
+oai:pubmedcentral.nih.gov:53596252017-04-04frontplantscipmc-open
+Involvement of reactive oxygen species in endosperm cap weakening and embryo elongation growth during lettuce seed germination.
+
+        Seed dormancy is one of the adaptive responses in the plant life cycle and an important agronomic trait. Reactive oxygen species (ROS) release seed dormancy and promote seed germination in several cereal crops; however, the key regulatory mechanism of ROS-mediated seed dormancy and germination remains controversial. Here, we focused on the relationship between hydrogen peroxide (a ROS) and abscisic acid (ABA) in dormant and non-dormant barley seeds. The hydrogen peroxide (H2O2) level produced in barley seed embryos after imbibition was higher in non-dormant seeds than in dormant seeds. H2O2 regulated the ABA content in the embryos through ABA-8′-hydroxylase, an ABA catabolic enzyme. Moreover, compared with non-dormant seeds, in dormant seeds the activity of NADPH oxidase, which produces ROS, was lower, whereas the activity of catalase, which is a H2O2 scavenging enzyme, was higher, as was the expression of HvCAT2. Furthermore, precocious germination of isolated immature embryos was suppressed by the transient introduction of HvCAT2 driven by the maize (Zea mays) ubiquitin promoter. HvCAT2 expression was regulated through an ABA-responsive transcription factor (HvABI5) induced by ABA. These results suggest that the changing of balance between ABA and ROS is active in barley seed embryos after imbibition and regulates barley seed dormancy and germination.
+      
+
+        abscisic acid
+        barley
+        catalase
+        embryo
+        reactive oxygen species
+        seed dormancy
+      
+
+    
+      Introduction
+      Seed dormancy and germination are crucial stages in a plant’s life. In wild plant species, seed dormancy plays a key role in ensuring survival by blocking germination until conditions become favorable for the later stages of germination and growth of that species (Bewley, 1997). Unlike many wild plant species, cultivated crops such as barley (Hordeum vulgare L.) and wheat (Triticum aestivum L.) display weak grain dormancy at maturity due to selective breeding against dormancy for uniform and vigorous germination on industrial and agricultural fields. For malting barley, long dormancy increases costs and potential damage resulting from grain storage (Carn, 1980). In addition, cool, moist conditions in the field can disrupt seed dormancy and cause PHS, resulting in serious losses of grain yield and quality (Gubler et al., 2005; Rodríguez et al., 2015). Therefore, research aimed at understanding environmental and genetic controls of dormancy will assist in the development of new strategies for industrial utilization and the elimination of PHS worldwide in domesticated crops.
+      Plant hormones such as GAs and ABA play key roles in seed dormancy and germination. In particular, ABA is considered to be the key molecule in dormancy induction and maintenance (Finkelstein et al., 2008; Rodríguez et al., 2015; Shu et al., 2016). During seed development, embryonic ABA is required to impose lasting dormancy (Nambara and Marion-Poll, 2005), and de novo ABA synthesis in the embryo during imbibition ensures maintenance of dormancy (Kucera et al., 2005). Dormancy release by after-ripening is mediated by a decrease in ABA content in imbibed wheat and barley grains as a result of the coordinated promotion of ABA catabolism and repression of ABA biosynthesis genes (Millar et al., 2006; Jacobsen et al., 2013). In several species, the transcriptional regulation of nine-cis-epoxycarotenoid dioxygenase (NCED) and ABA-8′-hydroxylase (ABA8′OH) genes are considered key steps in this control mechanism (Nambara et al., 2010). In barley, HvNCED1 is particularly important in the regulation of primary dormancy in blue light (Gubler et al., 2008) or at high temperatures (Leymarie et al., 2008), whereas HvNCED2 expression has been implicated in the induction of primary dormancy (Chono et al., 2006) and the maintenance of secondary dormancy (Leymarie et al., 2008). The HvABA8′OH1 gene plays a major role in that ABA catabolism that is required to alleviate barley grain dormancy (Chono et al., 2006; Millar et al., 2006; Gubler et al., 2008). ABA functions are regulated, in part, by crosstalk with other hormones such as GA and their associated signaling networks. Application of GA, an antagonist of ABA, can break dormancy in cereals (Jacobsen et al., 2002; Tuttle et al., 2015).
+      Recently, it was reported that several signal molecules such as nitric oxide (NO) and ROS also regulate seed dormancy and germination (Ma et al., 2016). In barley, ROS break seed dormancy and promote germination (Fontaine et al., 1994; Ishibashi et al., 2010; Bahin et al., 2011). The relationships between ROS, seed dormancy, and germination have been described for many plant species, including Zinnia elegans, and sunflower (Ogawa and Iwabuchi, 2001; Oracz et al., 2007). Hydrogen peroxide (H2O2), which is a ROS, is regarded as a signaling hub for the regulation of seed dormancy and germination; the precise regulation of H2O2 accumulation by the cell antioxidant machinery is essential to achieve a balance between oxidative signaling that promotes germination and oxidative damage that prevents or delays germination (Wojtyla et al., 2016). These findings were clearly summarized and presented by Bailly et al. (2008) as the principle of the “oxidative window” for germination. According to this hypothesis, both lower and higher levels of ROS impair seed germination, which is only possible within a defined range of concentrations.
+      Recent evidence shows that the selective oxidation of proteins and mRNAs can act as a positive regulator of seed germination (Job et al., 2005; Oracz et al., 2007; Barba-Espín et al., 2010; Bazin et al., 2011). Bazin et al. (2011) showed that approximately 24 stored mRNAs undergo oxidation during sunflower (Helianthus annuus) after-ripening. ROS production during germination contributes to reserve mobilization through oxidative modifications of stored proteins; storage organs may then recognize these modifications as signals to mobilize reserves to the rapidly growing axis. Due to the abundance of available seed storage proteins, the oxidized forms of these proteins such as heat shock proteins and elongation factors can also be considered as actor of ROS signaling in seed germination (Job et al., 2005; Barba-Espín et al., 2010). Oracz et al. (2007) proposed a mechanism for seed dormancy release that involves a change in proteome oxidation resulting from the accumulation of ROS during the after-ripening phase.
+      The breaking of dormancy by ROS has also been reported in relation to plant hormone signaling in several seeds (El-Maarouf-Bouteau et al., 2013). Studies on phytohormone interactions in germinated seeds have shown that exogenously applied ABA inhibits ROS accumulation in barley (Ishibashi et al., 2012), rice (Oryza sativa; Ye et al., 2012), lettuce (Zhang et al., 2014), and sunflower (El-Maarouf-Bouteau et al., 2015). By contrast, the addition of GA enhances the production of ROS, mainly superoxide and H2O2, found in radish plants (Schopfer et al., 2001) and Arabidopsis (Liu et al., 2010; Lariguet et al., 2013). Bahin et al. (2011) suggested that exogenously applied H2O2 does not influence ABA biosynthesis and signaling but has a pronounced effect on GA signaling, resulting in the modulation of hormonal balance and in subsequent germination initiation. The modulation of phytohormone balance during germination by exogenously applied H2O2 is also a product of changes in H2O2 levels in seeds treated with GA and ABA. Exogenous H2O2 and NADPH oxidase inhibitor increased ABA catabolism by enhancing the expression of CYP707A genes, which encode ABA 8′-hydroxylases, and enhanced the expression of genes for GA synthesis in dormant Arabidopsis seeds (Liu et al., 2010) and non-dormant barley seeds (Ishibashi et al., 2015). In non-dormant barley seeds, H2O2 accumulation via superoxide produced by NADPH oxidases promote GA biosynthesis in embryos; the resulting GA induces and activates NADPH oxidases in aleurone cells, and the H2O2 accumulated by the NADPH oxidases induce α-amylase in these cells (Ishibashi et al., 2015). Therefore, it is likely that ROS is central molecule in the regulation of barley seed dormancy and germination through GA and ABA. However, the role of H2O2 interactions with phytohormones in the regulation of barley seed dormancy and germination is still open to debate. The mechanism of dormancy breaking by ROS needs to be examined in detail. In this study, we, therefore, focused on the balance between plant hormones and ROS in dormant and non-dormant seeds.
+    
+    
+      Materials and Methods
+      
+        Plant Material
+        Hordeum vulgare L. ‘Ichibanboshi’ grains, which were grown at Kyushu University, were harvested on June 5, 2010. Experiments were carried out with dormant grains that had been stored at -28°C from harvest until the experiments began in order to maintain their initial dormancy (Lenoir et al., 1983). Non-dormant grains were used as controls (i.e., grains from the same harvest but stored for 6 months at 23°C).
+      
+      
+        Germination Test
+        Five replications of 20 seeds each sterilized with sodium hypochlorite were placed on filter paper in a 9-cm Petri dish, to which 6 mL of a solution of 100 mM hydrogen peroxide, 20 mM sodium ascorbate, and distilled water as control was added. The dishes were then incubated in the dark at 22°C (CRB-41L, HITACHI), and the germinating seeds, defined as seeds whose radical protruded through the seed coat, were counted daily for 5 days.
+      
+      
+        Hydrogen Peroxide Content
+        Hydrogen peroxide (H2O2) content in embryos isolated from seed after imbibition was measured according to the method of Oracz et al. (2007) by using a peroxidase-based assay with 3-dimethylaminobenzoic acid and 1.3 mM 3-methyl-2-benzothiazolinone hydrazone to measure H2O2 (O’Kane et al., 1996).
+      
+      
+        ABA Content
+        To measure the ABA content in embryos, we isolated embryos from 20 seeds that had imbibed for 48 h and stored them at -80°C. ABA levels were measured by using a Phytodetek Competitive ELISA kit (Agdia). Each experiment comprised five biological replicates.
+      
+      
+        Quantitative Real-Time PCR
+        Total RNA was extracted from embryos isolated after germination treatment or from embryoless half-seeds by using the SDS/phenol/LiCl method (Chirgwin et al., 1979). cDNA synthesis and amplification were conducted as described by Ishibashi et al. (2015). The amount of each gene transcript was normalized against the amount of mRNA for HvActin (Trevaskis et al., 2006) by using the method of Pfaffl (2001). The sequences for the HvActin primer came from Ishibashi et al. (2015); the other primer sequences are shown in Supplementary Table S1.
+      
+      
+        Barley Transient Expression Assay
+        The plasmid was transformed by particle bombardment into immature embryos according to the method of Pellegrineschi et al. (2002) and Nakamura et al. (2011). For this assay, H. vulgare L. ‘Seijo-17’ immature grains, which were grown at Kyushu University, were harvested, and immature embryos isolated from the immature grain. The immature embryos were bombarded with each plasmid, Ubi:HvCAT or Ubi:GUS, which was constructed to express each gene under the control of the promoter region and the first intron of the maize ubiquitin (Ubi-1) gene (Toki et al., 1992; Christensen and Quail, 1996). After bombardment, the immature embryos were transferred to 1/2MS medium containing 200 mg/L MES and 30 g/L maltose, and were incubated at 25°C for 2.5 days. We checked introduction of each genes using RT-PCR (Supplementary Figure S1).
+      
+      
+        Electrophoretic Mobility Shift Assay
+        The EMSA was performed as described by Wang et al. (2011). Recombinant pGEX-HvABI5 proteins were produced in Escherichia coli BL21 (DE3) pLysE. The E. coli cells were lysed by sonication, and purified with glutathione–Sepharose 4B beads (GE Healthcare). Double-stranded oligonucleotide spanning the ACGT core motif upstream of HvCAT2 was prepared and carried out labeling according to the protocol provided with the DIG Kit (Roche Diagnostics). EMSAs were carried out using a DIG Gel Shift kit, 2nd Generation (Roche Diagnostics) according to the manufacturer’s instructions. The primer sequences for constructing the pGEX-HvABI5 vector and the probe sequences for the EMSA are shown in Supplementary Table S1.
+      
+      
+        Enzyme Activities
+        To measure enzyme activities, we isolated embryos from 20 seeds that had imbibed for 48 h and stored them at -80°C. The enzyme activities of APX, GPX, SOD, and CAT were measured as described by Ishibashi et al. (2008). NADPH oxidase activity was assayed according to the method of Van Gestelen et al. (1997) and Sarath et al. (2007). Protein concentration was determined by using the method Bradford (1976). The results are expressed as μmol mg-1 protein.
+      
+    
+    
+      Results
+      
+        Germination Rate and Hydrogen Peroxide Content of Dormant and Non-dormant Seeds
+        Non-dormant seeds had a germination rate of 22% at 1 day after imbibition (DAI), and 85% had germinated at 3 DAI. Dormant seeds had a germination rate of 27 and 50% at 3 and 5 DAI, respectively (Figure 1A). At 2 DAI, the H2O2 content in the non-dormant seeds was higher six times that in the dormant seeds (Figures 1B,C). In addition, nine barley cultivars that were at different stages of dormancy had positive correlations with the H2O2 contents of their embryos after imbibition (Supplementary Figure S2). These data strongly suggest that non-dormant seeds accumulate H2O2 in the embryo after imbibition, but dormant seeds do not.
+        
+          FIGURE 1
+          
+            Germination percentage and hydrogen peroxide content in dormant and non-dormant seeds. (A) Time course of the percentage of germination of dormant (closed circles) and non-dormant (open circles) seeds. Embryos removed from dormant (B) and non-dormant (C) seeds after imbibition were used to determine hydrogen peroxide contents (n = 5).
+          
+          
+        
+      
+      
+        Hydrogen Peroxide and Sodium Ascorbate Regulate Barley Seed Germination through ABA Catabolism
+        The germination rate of dormant seeds treated with H2O2 was significantly higher than that of the control (Figure 2A). In contrast, the germination rate of non-dormant seeds treated with sodium ascorbate was significantly lower than that of the control (Figure 2B). In addition, H2O2 and sodium ascorbate treatments were increased and decreased the H2O2 contents in the embryos after imbibition, respectively (Supplementary Figure S4). We previously reported that a decrease in ROS, induced by the NADPH oxidase inhibitor DPI, in the embryos of barley seeds suppressed ABA catabolism in those embryos after imbibition (Ishibashi et al., 2015). Therefore, we examined ABA content and biosynthesis, as well as the expression of ABA catabolism-related genes, in the embryos of dormant or non-dormant seeds treated with sodium ascorbate or H2O2, respectively. In the dormant seeds, the ABA content of the embryos treated with H2O2 was significantly decreased compared with that in the control (Figure 2C). In the non-dormant seeds, the ABA content of the embryos treated with sodium ascorbate was significantly higher than that in the control (Figure 2D). The expression of HvNCED1, one of the ABA biosynthesis-related genes and a key gene regulating primary dormancy of barley (Millar et al., 2006), in the embryos did not differ significantly regardless of dormancy or treatment (Figures 2E,F). However, the expression of ABA8′-OH1, one of the ABA catabolism-related genes and a key gene regulating primary dormancy of barley (Millar et al., 2006), in the embryo, was suppressed by sodium ascorbate in the non-dormant seeds and increased by H2O2 in the dormant seeds (Figures 2G,H). These results indicate that ROS regulate ABA catabolism in the embryos of non-dormant and dormant seeds by regulating HvABA8′-OH1.
+        
+          FIGURE 2
+          
+            Germination rate, ABA contents, and expression of ABA metabolism-related genes in dormant and non-dormant seeds. Embryos removed from seeds after 48 h imbibition were used to determine ABA contents and gene expression. (A,B) Germination rate after 48 h imbibition; (C,D) ABA contents; (E,F)
+HvNCED1 expression; (G,H)
+HvABA8′-OH1 expression. (C) control (distilled water); (H) 100 mM hydrogen peroxide; (A) 20 mM sodium ascorbate. (∗∗P &lt; 0.01, Student’s test, n = 5).
+          
+          
+        
+      
+      
+        Activities of Antioxidant Enzymes and NADPH Oxidase in the Embryos of Non-dormant and Dormant Seeds
+        Then, we examined the activities of antioxidant enzymes such as APX, GPX, SOD, and CAT, as well as the activity of NADPH oxidase (Figure 3), because the H2O2 contents of the embryos during germination were higher in non-dormant seeds than in dormant seeds (Figure 1). APX activity in the embryos of dormant seeds was significantly higher than that of the embryos of non-dormant seeds (Figure 3A), although GPX activity was the same in the embryos of both non-dormant and dormant seeds (Figure 3B). In contrast, SOD and CAT activities in the embryos of dormant seeds were significantly lower than those in the embryos of non-dormant seeds (Figures 3C,D). We previously reported that NADPH oxidase plays a role in barley seed germination through the regulation of GA and ABA signaling (Ishibashi et al., 2015). Therefore, we examined NADPH oxidase activity in the embryos of dormant and non-dormant seeds (Figure 3E). NADPH oxidase activity was significantly higher in non-dormant seeds than in dormant seeds. These results suggest that the production of ROS in the embryos of barley seeds after imbibition is regulated by SOD, CAT, and NADPH oxidase.
+        
+          FIGURE 3
+          
+            Activity of antioxidant enzymes and NADPH oxidase in dormant and non-dormant seeds. Embryos removed from seeds after 48 h imbibition were used. (A) APX; (B), GPX; (C), SOD; (D), CAT; (E), NADPH oxidase. D, dormant seed; ND, non-dormant seed. (∗∗P &lt; 0.01, Student’s test, n = 5).
+          
+          
+        
+      
+      
+        Transient Expression of CAT in Immature Embryos Decreases Their Ability to Germinate
+        We examined the expression of HvSOD and HvCAT in the embryos of non-dormant and dormant seeds. After 24 h imbibition, the expression of HvSOD and HvCAT2 was increased in the embryos of dormant seeds compared with that in the embryos of non-dormant seeds (Figures 4A,C), while, after 48 h imbibition, the expression of HvSOD and HvCAT2 were high in the embryo of non-dormant and dormant seeds, respectively (Figures 4B,D). SOD catalyzes the reduction of the superoxide anion to hydrogen peroxide, and CAT catalyzes the decomposition of hydrogen peroxide to water. In wheat, the expression of CAT in dormant seeds was higher than that in non-dormant seeds during seed maturation (Ishibashi et al., 2008). In sunflower seed, relationship between CAT activity and germination is a quite close (Bailly et al., 1998). Additionally, Bahin et al. (2011) have reported that the CAT regulates hydrogen peroxide content in embryo of barley dormant seed. Therefore, we focus on the role of CAT in barley seed dormancy and germination. To examine the function of HvCAT2, which directly scavenges hydrogen peroxide, in barley seed germination, we transiently overexpressed HvCAT2 in immature embryos and examined their germination. HvCAT2 driven by the maize (Zea mays) ubiquitin promoter (Ubi:HvCAT2) was directly bombarded into immature embryos isolated from Himalaya seeds at approximately 10 days after anthesis. In general, cultured immature wheat embryos germinate precociously (Williamson et al., 1985). However, we observed a significant decrease in the germination percentage of immature embryos that were transformed with Ubi:HvCAT2 (Figure 4E). In contrast, immature embryos transformed with the control construct β-glucuronidase (GUS) driven by the maize ubiquitin promoter (Ubi:GUS) germinated well (Figure 4E). Nakamura et al. (2011) previously reported that the Ubi:TaMFT construct, in a similar transient assay, completely suppressed the germination of immature embryos of wheat because the TaMFT protein moved from the scutellum and coleorhiza to other parts of the seed. The partial effect of Ubi:HvCAT2 in our study was likely caused by scavenging H2O2 which across cell membranes in plants (Hooijmaijers et al., 2012), even though HvCAT2 cannot move from the scutellum and coleorhiza to other parts of the seed.
+        
+          FIGURE 4
+          
+            Expression of HvSOD and HvCAT2 in dormant and non-dormant seeds and the germination percentage in the transient HvCAT2 expression assay. Embryos removed from seeds after 24 h (A,C) and 48 h (B,D) imbibition were used to determine gene expression levels. (A,B)
+HvSOD expression; (C,D)
+HvCAT2 expression. (E) Time course of the germination percentage after transformation with Ubi:HvCAT2 (closed circles) or Ubi:GUS (open circles). The barley cultivar Himalaya was used. D, dormant seed; ND, non-dormant seed. (∗P &lt; 0.05, ∗∗P &lt; 0.01, Student’s test, n = 5).
+          
+          
+        
+      
+      
+        ABA Regulates the Expression of HvCAT2 through HvABI5
+        Abscisic acid significantly increased the expression of HvCAT2 in the barley seed embryo (Figures 5A,B). To explore the underlying mechanisms by which ABA regulates the expression of HvCAT2 during seed germination, we analyzed the promoter sequences of HvCAT2 and found an ABA response element (ABRE), which is a cis-acting element recognized by several bZIP transcription factors, such as ABI5, AREB1, AREB2, and ABF3, that function in ABA signal transduction (Supplementary Figure S5; Finkelstein and Lynch, 2000). These bZIP transcription factors mediate downstream gene expression in Arabidopsis upon binding to the ABRE (Furihata et al., 2006; Yoshida et al., 2010). Our finding suggests that the expression of HvCAT2 may be regulated by bZIP transcription factors involved in ABA signaling. Indeed, the expression of HvABI5 in the barley seed embryo was increased by ABA (Figures 5C,D). Therefore, to test this possibility, we used EMSA analyses to investigate whether HvABI5 directly binds to the promoter of HvCAT2 containing the ABRE element (Figure 5E). The recombinant protein of GST–HvABI5 showed binding activities to HvCAT2 promoter fragment, and the DNA-binding activity was suppressed by competitor.
+        
+          FIGURE 5
+          
+            Expression of HvCAT2 and HvABI5 in non-dormant seeds treated with 50 μM ABA and the direct interaction between HvABI5 and the HvHAT2 promoter as determined by EMSA. Embryos removed from seeds after 24 h (A,C) and 48 h (B,D) imbibition were used to determine gene expression levels. (A,B)
+HvCAT2;
+(C,D)
+HvABI5. (E) The retarded DNA-protein complex was reduced by competition using either the wild-type or the unlabeled probes at a 100× molar excess. The arrows indicate the positions of the shifted bands and free probes, respectively. (∗∗P &lt; 0.01, Student’s test, n = 5).
+          
+          
+        
+      
+    
+    
+      Discussion
+      The present study demonstrates that the balance between ABA and ROS in the barley seed embryo is involved in the regulation of seed dormancy and germination. The first line of evidence supporting this conclusion is the relationship between seed dormancy and H2O2 level, because the degree of seed dormancy was dependent on the H2O2 levels in the embryo after imbibition (Figure 1 and Supplementary Figure S2). Additionally, germination rate of dormant seeds were promoted by H2O2 and suppressed by sodium ascorbate, while that of non-dormant seeds were suppressed by sodium ascorbate, but not promoted by H2O2 (Figure 2A and Supplementary Figure S3). There have been several reports about the relationship between ROS and seed dormancy and germination, many of which are focused on phytohormone signaling and ROS involvement (Oracz and Karpiński, 2016). H2O2 has been implicated in dormancy alleviation via its activation of GA signaling and synthesis rather than repression of ABA signaling (Bahin et al., 2011). In sunflower seed, however, ROS interact at the transcriptional level with the ABA signaling pathway (El-Maarouf-Bouteau et al., 2015). We previously reported that ROS produced by NADPH oxidase in the embryos of barley seeds promoted the catabolism of ABA (Ishibashi et al., 2015). In the present study, NADPH oxidase activity in the embryos of non-dormant seeds was higher than that in the embryos of dormant seeds (Figure 3E). In non-dormant seeds, ABA content in the embryos treated with ascorbate was higher than that in treated with distilled water, whereas, in dormant seeds, the ABA content in the embryos treated with H2O2 was lower than in treated with distilled water (Figures 2C,D). In addition, the regulation of ABA in the embryos of both dormant and non-dormant seeds could be attributed to the induction of HvABA8′-OH1 by ROS (Figures 2G,H). Two genes encoding ABA8′-OH have been identified in barley, and HvABA8′OH1 is predominantly expressed in the embryos of imbibing seeds (Millar et al., 2006). Of note, HvABA8′OH1 expression is closely associated with ABA level and germination capacity (Chono et al., 2006). Consistent with these facts, the knocking down of ABA8′OH1 leads to increased seed ABA levels and to enhanced dormancy (Gubler et al., 2008). ROS produced after imbibition is involved in the regulation of barley seed dormancy and germination through the catabolism of ABA; therefore, we focused on the mechanism of ROS production. It had been reported that ROS generated by NADPH oxidases regulate barley seed germination through GA/ABA metabolism and signaling in the embryo and aleurone cells (Ishibashi et al., 2015). In the present study, H2O2 content and NADPH oxidase activity in the embryos of dormant seeds were lower than those in the embryos of non-dormant seeds (Figures 1B,C, 3E). In the embryos of barley seeds, ABA suppressed the activity of NADPH oxidases (Ishibashi et al., 2015). The decrease in ABA content by catabolism in the embryo after imbibition is promoted by ROS production through NADPH oxidase. In Arabidopsis, ABA treatment induces the expression of NADPH oxidases (AtrbohD and AtrbohF) in guard cells (Kwak et al., 2003). The ROS enhanced by NADPH oxidase could result in enhanced ABA accumulation, whereas enhanced ABA could result in enhanced ROS production in guard cells, creating a positive feedback loop to mediate stomatal closure (Mittler and Blumwald, 2015). Our results indicate that in the embryo after imbibition, ROS and ABA act antagonistically to regulate seed dormancy and germination, although this suggestion is inconsistent with other reports.
+      In this study, we also examined the activity of the antioxidant enzymes SOD, CAT, and peroxidases (APX, GPX) that can scavenge ROS. The CAT activities in the embryos of the dormant seeds were significantly higher than those in the embryos of the non-dormant seeds (Figure 3D). These results suggest that the H2O2 contents in the embryos of dormant and non-dormant seeds depend on CAT activity. CAT is reported to play an important role in the seed germination process. CAT expression levels increase in germinating sunflower seeds prior to radicle protrusion, with a concomitant decrease in H2O2 content (Bailly, 2004). A similar increase in CAT activity has been described during the germination of maize, soybean, Arabidopsis, and sweet corn seeds (Puntarulo et al., 1991; Gallardo et al., 2001; Posmyk et al., 2001; Chiu et al., 2002). In dormant barley seeds, H2O2 treatment induced an increase in CAT activity that was associated with accumulation of the HvCAT2 transcript in the embryos (Bahin et al., 2011). Barley has two CAT isozymes, HvCAT1 and HvCAT2; however, HvCAT1 was not expressed in our embryos (data not shown). In the present study, the expression of HvCAT2 in the embryos of dormant seeds was significantly higher than in those of non-dormant seeds (Figure 4A). In nine cultivars that were at different stages of dormancy, HvCAT2 expression correlated with the germination index except for one cultivar (Supplementary Figure S6). In addition, precocious germination of isolated immature embryos was suppressed by the transient introduction of HvCAT2 driven by the maize (Zea mays) ubiquitin promoter (Figure 4E). These results indicated that CAT is involved in germination of barley seed after imbibition through the regulation of ROS.
+      The expression of HvCAT2 was suppressed by ABA (Figures 5A,B, also Bahin et al., 2011); therefore, we investigated the promoter sequence of HvCAT2. The promoter sequence included an ABA-responsive element (ABRE), an ABRE-related coupling element (CE), and RY repeat motifs (Supplementary Figure S5). Interestingly, the promoter of Sdr4, which regulates rice seed dormancy, has seven RY repeats, which are important for seed-specific gene expression and are the target of the VP1/ABI3 subfamily of B3 domain transcription factors (Baumlein et al., 1992), along with the ABRE and CE (Sugimoto et al., 2010). The dormancy state is characterized by the transcription of genes with large numbers of ABRE sequences to which transcription factors like ABI5 bind to regulate seed dormancy (Finch-Savage and Leubner-Metzger, 2006). In the present study, the expression of HvABI5 in the embryos was increased by ABA (Figure 5C), but not HvVP1 (data not shown). Moreover, we determined that recombinant HvABI5 binds to the HvCAT2 promoter including the ABRE (Figure 5E). These results suggest that the expression of HvCAT2 is regulated through HvABI5 induced by ABA.
+      Bahin et al. (2011) suggested that H2O2 plays a role in the alleviation of barley seed dormancy through the activation of GA signaling and/or biosynthesis rather than through the inhibition of ABA signaling. They found that exogenously applied H2O2 does not influence ABA biosynthesis and signaling but does have a pronounced effect on GA signaling, resulting in the modulation of hormonal balance and in subsequent germination initiation. However, by using dormant and non-dormant seeds in this study, we found that H2O2 regulated ABA content through HvABA8′-OH1-mediated catabolism of ABA (Figures 2C,D,G,H). Liu et al. (2010) proposed a hypothetical model that explains the interrelationships between H2O2 and NO in the regulation of Arabidopsis seed germination in terms of the joint actions of ABA and GA. According to this model, H2O2 can interrupt the dormancy of Arabidopsis seeds through two pathways. The first pathway relies on the enhancement of ABA catabolism and GA biosynthesis. The signaling molecule (NO) does not regulate GA biosynthesis directly but instead acts as a temporary signaling molecule involved in the H2O2 regulation of ABA catabolism. The second pathway assumes negative regulation of GA biosynthesis by ABA. We previously reported that ROS induced by NADPH oxidase regulate barley seed germination by promoting ABA catabolism and GA biosynthesis (Ishibashi et al., 2015). Our results in this study suggest that dormant seeds maintain high ABA contents, promoting HvCAT2 expression through ABI5 for H2O2 catabolism. In addition, ABA catabolism through HvABA8′OH1 was promoted by H2O2. Therefore, dormant seeds had low ROS contents with decreased HvABA8′OH1 expression, which maintained high ABA contents. Taken together, our findings suggest that the interrelationship between ABA and ROS may play an important role in seed dormancy and germination, as shown in Figure 6, although it should also be added that the mechanism might be included in seedling stage.
+      
+        FIGURE 6
+        
+          The interrelationship between ABA and ROS involved in barley seed dormancy and germination.
+        
+        
+      
+    
+    
+      Author Contributions
+      Conceived and designed the experiments: YI, TY, and MI-I. Performed the experiments: YI, SK, MS, NA, KK, RT, and GW. Analyzed the data: YI, NA, TY, and MI-I. Contributed reagents/materials/analysis tools: YI, SK, MS, NA, KK, RT, and GW. Wrote the paper: YI and MI-I.
+    
+    
+      Conflict of Interest Statement
+      The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+    
+  
+
+    
+      This work was supported by JSPS KAKENHI Grant Number 16H06183.
+    
+    
+      Supplementary Material
+      The Supplementary Material for this article can be found online at: http://journal.frontiersin.org/article/10.3389/fpls.2017.00275/full#supplementary-material
+      
+        
+          
+            Click here for additional data file.
+          
+        
+      
+      
+        
+          
+            Click here for additional data file.
+          
+        
+      
+    
+    
+      References
+      
+        BahinE.BaillyC.SottaB.KrannerI.CorbineauF.LeymarieJ. (2011). Crosstalk between reactive oxygen species and hormonal signaling pathways regulates grain dormancy in barley.
+Plant Cell Environ.
+34
+980–993. 10.1111/j.1365-3040.2011.02298.x21388415
+      
+      
+        BaillyC. (2004). Active oxygen species and antioxidants in seed biology.
+Seed Sci. Res.
+4
+93–107. 10.1079/SSR2004159
+      
+      
+        BaillyC.BenamarA.CorbineauF.CômeD. (1998). Free radical scavenging as affected by accelerated ageing and subsequent priming in sunflower seeds.
+Physiol. Planta.
+104
+646–652. 10.1034/j.1399-3054.1998.1040418.x
+      
+      
+        BaillyC.El-Maarouf-BouteauH.CorbineauF. (2008). From intracellular signaling networks to cell death: the dual role of reactive oxygen species in seed physiology.
+C. R. Biol.
+331
+806–814. 10.1016/j.crvi.2008.07.02218926495
+      
+      
+        Barba-EspínG.Díaz-VivancosP.Clemente-MorenoM. J.AlbaceteA.FaizeL.FaizeM. (2010). Interaction between hydrogen peroxide and plant hormones during germination and the early growth of pea seedlings.
+Plant Cell Environ.
+33
+981–994. 10.1111/j.1365-3040.2010.02120.x20102539
+      
+      
+        BaumleinH.NagytI.VillarroelR.InzéD.WobusU. (1992). Cis-analysis of a seed protein gene promoter: the conservative RY repeat CATGCATG within the legumin box is essential for tissue-specific expression of a legumin gene.
+Plant J.
+2
+233–239.1338774
+      
+      
+        BazinJ.BatllaD.DussertS.Maarouf-BouteauH. E.BaillyC. (2011). Role of relative humidity, temperature, and water status in dormancy alleviation of sunflower seeds during dry after-ripening.
+J. Exp. Bot.
+62
+627–640. 10.1093/jxb/erq31420978143
+      
+      
+        BewleyD. (1997). Seed germination and dormancy.
+Plant Cell
+9
+1055–1066. 10.1105/tpc.9.7.105512237375
+      
+      
+        BradfordM. M. (1976). Rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding.
+Anal. Biochem.
+72
+248–254. 10.1016/0003-2697(76)90527-3942051
+      
+      
+        CarnJ. D. (1980). “Detection of rain damaged barley at harvest (pre-harvest sprouting),” in
+Proceedings of the 30th Annual Australian Cereal Chemistry Conference (Melbourne, VIC: Royal Australian Chemistry Institute) 34–38.
+      
+      
+        ChirgwinJ. M.PrzybylaA. E.MacDonaldR. J.RutterW. J. (1979). Isolation of biologically active ribonucleic acid from sources enriched in ribonuclease.
+Biochemistry
+24
+5294–5299. 10.1021/bi00591a005
+      
+      
+        ChiuK. Y.ChenC. L.SungJ. M. (2002). Effect of priming temperature on storability of primed sh-2 sweet corn seed.
+Crop Sci.
+42
+1996–2003. 10.2135/cropsci2002.1996
+      
+      
+        ChonoM.HondaI.ShinodaS.KushiroT.KamiyaY.NambaraE. (2006). Field studies on the regulation of abscisic acid content and germinability during grain development of barley: molecular and chemical analysis of pre-harvest sprouting.
+J. Exp. Bot.
+57
+2421–2434. 10.1093/jxb/erj21516798848
+      
+      
+        ChristensenA. H.QuailP. H. (1996). Ubiquitin promoter-based vectors for high-level expression of selectable and/or screenable marker genes in monocotyledonous plants.
+Transgenic Res.
+5
+213–218. 10.1007/BF019697128673150
+      
+      
+        El-Maarouf-BouteauH.MeimounP.JobC.JobD.BaillyC. (2013). Role of protein and mRNA oxidation in seed dormancy and germination.
+Front. Plant Sci.
+4:77
+10.3389/fpls.2013.00077
+      
+      
+        El-Maarouf-BouteauH.SajjadY.BazinJ.LangladeN.CristescuS. M.BalzergueS. (2015). Reactive oxygen species, abscisic acid and ethylene interact to regulate sunflower seed germination.
+Plant Cell Environ.
+38
+364–374. 10.1111/pce.1237124811898
+      
+      
+        Finch-SavageW. E.Leubner-MetzgerG. (2006). Seed dormancy and the control of germination.
+New Phytol.
+171
+501–523. 10.1111/j.1469-8137.2006.01787.x16866955
+      
+      
+        FinkelsteinR. R.LynchT. J. (2000). The Arabidopsis abscisic acid response gene ABI5 encodes a basic leucine zipper transcription factor.
+Plant Cell
+12
+599–609. 10.1105/tpc.12.4.59910760247
+      
+      
+        FinkelsteinR.ReevesW.AriizumiT.SteberC. (2008). Molecular aspects of seed dormancy.
+Ann. Rev. Plant Biol.
+59
+387–415. 10.1146/annurev.arplant.59.032607.09274018257711
+      
+      
+        FontaineO.HuaultC.PavisN.BillardJ. P. (1994). Dormancy breakage of Hordeum vulgare seeds: effects of hydrogen peroxide and scarification on glutathione level and glutathione reductase activity.
+Plant Physiol. Biochem.
+32
+677–683.
+      
+      
+        FurihataT.MaruyamaK.FujitaY.UmezawaT.YoshidaR.ShinozakiK. (2006). ABA-dependent multisite phosphorylation regulates the activity of a transcription activator AREB1.
+Proc. Nati. Acad. Sci. U.S.A.
+103
+1988–1993. 10.1073/pnas.0505667103
+      
+      
+        GallardoK.JobC.GrootS. P.PuypeM.DemolH.VandekerckhoveJ. (2001). Proteomic analysis of Arabidopsis seed germination and priming.
+Plant Physiol.
+126
+835–848. 10.1104/pp.126.2.83511402211
+      
+      
+        GublerF.HughesT.WaterhouseP.JacobsenJ. (2008). Regulation of dormancy in barley by blue light and after-ripening: effects on abscisic acid and gibberellin metabolism.
+Plant Physiol.
+147
+886–896. 10.1104/pp.107.11546918408047
+      
+      
+        GublerF.MillarA. A.JacobsenJ. V. (2005). Dormancy release, ABA and pre-harvest sprouting.
+Curr. Opin. Plant Biol.
+8
+183–187. 10.1016/j.pbi.2005.01.01115752999
+      
+      
+        HooijmaijersC.RheeJ. Y.KwakK. J.ChungG. C.HorieT.KatsuharaM. (2012). Hydrogen peroxide permeability of plasma membrane aquaporins of Arabidopsis thaliana.
+J. Plant Res.
+125
+147–153. 10.1007/s10265-011-0413-221390558
+      
+      
+        IshibashiY.KasaS.SakamotoM.AokiN.KaiK.YuasaT. (2015). A role for reactive oxygen species produced by NADPH oxidases in the embryo and aleurone cells in barley seed germination.
+PLoS ONE
+10:e0143173
+10.1371/journal.pone.0143173
+      
+      
+        IshibashiY.TawaratsumidaT.KondoK.KasaS.SakamotoM.AokiN. (2012). Reactive oxygen species are involved in gibberellin/abscisic acid signaling in barley aleurone cells.
+Plant Physiol.
+158
+1705–1714. 10.1104/pp.111.19274022291200
+      
+      
+        IshibashiY.TawaratsumidaT.ZhengS. H.YuasaT.Iwaya-InoueM. (2010). NADPH oxidases act as key enzyme on germination and seedling growth in barley (Hordeum vulgare L.).
+Plant Prod. Sci.
+13
+45–52. 10.1626/pps.13.45
+      
+      
+        IshibashiY.YamamotoK.TawaratsumidaT.YuasaT.Iwaya-InoueM. (2008). Hydrogen peroxide scavenging regulates germination ability during wheat (Triticum aestivum L.) seed maturation.
+Plant Signal. Behav.
+3
+183–188. 10.4161/psb.3.3.554019513213
+      
+      
+        JacobsenJ. V.BarreroJ. M.HughesT.JulkowskaM.TaylorJ. M.XuQ. (2013). Roles for blue light, jasmonate and nitric oxide in the regulation of dormancy and germination in wheat grain (Triticum aestivum L).
+Planta
+238
+121–138. 10.1007/s00425-013-1878-023588419
+      
+      
+        JacobsenJ. V.PearceD. W.PooleA. T.PharisR. P.ManderL. N. (2002). Abscisic acid, phaseic acid and gibberellin contents associated with dormancy and germination in barley.
+Physiol. Planta.
+115
+428–441. 10.1034/j.1399-3054.2002.1150313.x
+      
+      
+        JobC.RajjouL.LovignyY.BelghaziM.JobD. (2005). Patterns of protein oxidation in Arabidopsis seeds during germination.
+Plant Physiol.
+138
+790–802. 10.1104/pp.105.06277815908592
+      
+      
+        KuceraB.CohnM. A.Leubner-MetzgerG. (2005). Plant hormone interactions during seed dormancy release and germination.
+Seed Sci. Res.
+15
+281–307. 10.1079/SSR2005218
+      
+      
+        KwakJ. M.MoriI. C.PeiZ.-M.LeonhardtN.TorresM. A.DanglJ. L. (2003). NADPH oxidase AtrbohD and AtrbohF genes function in ROS-dependent ABA signaling in Arabidopsis.
+EMBO J.
+22
+2623–2633. 10.1093/emboj/cdg27712773379
+      
+      
+        LariguetP.RanochaP.De MeyerM.BarbierO.PenelC.DunandC. (2013). Identification of a hydrogen peroxide signalling pathway in the control of light-dependent germination in Arabidopsis.
+Planta
+238
+381–395. 10.1007/s00425-013-1901-523716184
+      
+      
+        LenoirC.CorbineauF.CômeD. (1983). Rôle des glumelles dans la dormance des semences d’orge.
+Physiol. Végétale
+121
+633–643.
+      
+      
+        LeymarieJ.Robayo-RomeroM. E.GendreauE.Benech-ArnoldR. L.CorbineauF. (2008). Involvement of ABA in induction of secondary dormancy in barley (Hordeum vulgare L.) seeds.
+Plant Cell Physiol.
+49
+1830–1838. 10.1093/pcp/pcn16418974197
+      
+      
+        LiuY.YeN.LiuR.ChenM.ZhangJ. (2010). H2O2 mediates the regulation of ABA catabolism and GA biosynthesis in Arabidopsis seed dormancy and germination.
+J. Exp. Bot.
+61
+2979–2990. 10.1093/jxb/erq12520460363
+      
+      
+        MaZ.MarsolaisF.BykovaN. V.IgamberdievA. U. (2016). Nitric oxide and reactive oxygen species mediate metabolic changes in barley seed embryo during germination.
+Front. Plant Sci.
+7:138
+10.3389/fpls.2016.00138
+      
+      
+        MillarA. A.JacobsenJ. V.RossJ. J.HelliwellC. A.PooleA. T.ScofieldG. (2006). Seed dormancy and ABA metabolism in Arabidopsis and barley: the role of ABA 8′-hydroxylase.
+Plant J.
+45
+942–954. 10.1111/j.1365-313X.2006.02659.x16507085
+      
+      
+        MittlerR.BlumwaldE. (2015). The roles of ROS and ABA in systemic acquired acclimation.
+Plant Cell
+27
+64–70. 10.1105/tpc.114.13309025604442
+      
+      
+        NakamuraS.AbeF.KawahigashiH.NakazonoK.TagiriA.MatsumotoT. (2011). A wheat homolog of MOTHER OF FT AND TFL1 acts in the regulation of germination.
+Plant Cell
+23
+3215–3229. 10.1105/tpc.111.08849221896881
+      
+      
+        NambaraE.Marion-PollA. (2005). Abscisic acid biosynthesis and catabolism.
+Ann. Rev. Plant Biol.
+56
+165–185. 10.1146/annurev.arplant.56.032604.14404615862093
+      
+      
+        NambaraE.OkamotoM.TatematsuK.YanoR.SeoM.KamiyaY. (2010). Abscisic acid and the control of seed dormancy and germination.
+Seed Sci. Res.
+20
+55–67. 10.1017/S0960258510000012
+      
+      
+        OgawaK.IwabuchiM. (2001). Mechanism for promoting the germination of Zinnia elegans seeds by hydrogen peroxide.
+Plant Cell Physiol.
+42
+286–291. 10.1093/pcp/pce03211266579
+      
+      
+        O’KaneD.GillV.BoydP.BurdonR. (1996). Chilling, oxidative stress and antioxidant responses in Arabidopsis thaliana callus.
+Planta
+198
+371–377. 10.1007/BF006200538717134
+      
+      
+        OraczK.El-Maarouf-BouteauH.FarrantJ. M.CooperK.BelghaziM.JobC. (2007). ROS production and protein oxidation as a novel mechanism of seed dormancy alleviation.
+Plant J.
+50
+452–465. 10.1111/j.1365-313X.2007.03063.x17376157
+      
+      
+        OraczK.KarpińskiS. (2016). Phytohormones signaling pathways and ROS involvement in seed germination.
+Front. Plant Sci.
+7:864
+10.3389/fpls.2016.00864
+      
+      
+        PellegrineschiA.NogueraL. M.SkovmandB.BritoR. M.VelazquezL.SalgadoM. M. (2002). Identification of highly transformable wheat genotypes for mass production of fertile transgenic plants.
+Genome
+45
+421–430. 10.1139/g01-15411962639
+      
+      
+        PfafflM. W. (2001). A new mathematical model for relative quantification in real-time RT-PCR.
+Nucl. Acids Res.
+29
+2002–2007. 10.1093/nar/29.9.e45
+      
+      
+        PosmykM. M.CorbineauF.VinelD.BaillyC.CômeD. (2001). Osmoconditioning reduces physiological and biochemical damage induced by chilling in soybean seeds.
+Physiol. Planta.
+111
+473–482. 10.1034/j.1399-3054.2001.1110407.x
+      
+      
+        PuntaruloS.GalleanoM.SanchezR. A.BoverisA. (1991). Superoxide anion and hydrogen peroxide metabolism in soybean embryonic axes during germination.
+Biochim. Biophys. Acta
+1074
+277–283. 10.1016/0304-4165(91)90164-C1648400
+      
+      
+        RodríguezM. V.BarreroJ. M.CorbineauF.GublerF.Benech-ArnoldR. L. (2015). Dormancy in cereals (not too much, not so little): about the mechanisms behind this trait.
+Seed Sci. Res.
+25
+99–119. 10.1017/S0960258515000021
+      
+      
+        SarathG.MitchellR.HouG.BairdL. M. (2007). Reactive oxygen species, ABA and nitric oxide interactions on the germination of warm-season C4 grasses.
+Planta
+226
+697–708. 10.1007/s00425-007-0517-z17431667
+      
+      
+        SchopferP.PlachyC.FrahryG. (2001). Release of reactive oxygen intermediates (superoxide radicals, hydrogen peroxide, and hydroxyl radicals) and peroxidase in germinating radish seeds controlled by light, gibberellin, and abscisic acid.
+Plant Physiol.
+125
+1591–1602. 10.1104/pp.125.4.159111299341
+      
+      
+        ShuK.LiuX. D.XieQ.HeZ. H. (2016). Two faces of one seed: hormonal regulation of dormancy and germination.
+Mol. Plant
+9
+34–45. 10.1016/j.molp.2015.08.01026343970
+      
+      
+        SugimotoK.TakeuchiY.EbanaK.MiyaoA.HirochikaH.HaraN. (2010). Molecular cloning of Sdr4, a regulator involved in seed dormancy and domestication of rice.
+Proc. Nati. Acad. Sci. U.S.A.
+107
+5792–5797. 10.1073/pnas.0911965107
+      
+      
+        TokiS.TakamatsuS.NojiriC.OobaS.AnzaiH.IwataM. (1992). Expression of a maize ubiquitin gene promoter-bar chimeric gene in transgenic rice plants.
+Plant Physiol.
+100
+1503–1507. 10.1104/pp.100.3.150316653150
+      
+      
+        TrevaskisB.HemmingM. N.PeacockW. J.DennisE. J. (2006). HvVRN2 responds to daylength, whereas HvVRN1 is regulated by vernalization and developmental status.
+Plant Physiol.
+140
+1397–1405. 10.1104/pp.105.07348616500994
+      
+      
+        TuttleK. M.MartinezS. A.SchrammE. C.TakebayashiY.SeoM.SteberC. M. (2015). Grain dormancy loss is associated with changes in ABA and GA sensitivity and hormone accumulation in bread wheat, Triticum aestivum (L).
+Seed Sci. Res.
+25
+179–193. 10.1017/S0960258515000057
+      
+      
+        Van GestelenP.AsardH.CaubergsR. J. (1997). Solubilization and separation of a plant plasma membrane NADPH-O2- synthase from other NAD(P)H oxidoreductases.
+Plant Physiol.
+115
+543–550. 10.1104/pp.115.2.54312223822
+      
+      
+        WangL.HuaD.HeJ.DuanY.ChenZ.HongX. (2011). Auxin Response Factor2 (ARF2) and its regulated homeodomain gene HB33 mediate abscisic acid response in Arabidopsis.
+PLoS Genet.
+7:e1002172
+10.1371/journal.pgen.1002172
+      
+      
+        WilliamsonJ. D.QuatranoR. S.CumingA. C. (1985). Em polypep- tide and its messenger RNA levels are modulated by abscisic acid during embryogenesis in wheat.
+Eur. J. Biochem.
+152
+501–507. 10.1111/j.1432-1033.1985.tb09224.x2932332
+      
+      
+        WojtylaL.LechowskaK.KubalaS.GarnczarskaM. (2016). Different modes of hydrogen peroxide action during seed germination.
+Front. Plant Sci.
+7:66
+10.3389/fpls.2016.00066
+      
+      
+        YeN. H.ZhuG. H.LiuY. G.ZhangA. Y.LiY. X.LiuR. (2012). Ascorbic acid and reactive oxygen species are involved in the inhibition of seed germination by abscisic acid in rice seeds.
+J. Exp. Bot.
+63
+1809–1822. 10.1093/jxb/err33622200664
+      
+      
+        YoshidaT.FujitaY.SayamaH.KidokoroS.MaruyamaK.MizoiJ. (2010). AREB1, AREB2, and ABF3 are master transcription factors that cooperatively regulate ABRE-dependent ABA signaling involved in drought stress tolerance and require ABA for full activation.
+Plant J.
+61
+672–685. 10.1111/j.1365-313X.2009.04092.x19947981
+      
+      
+        ZhangY.ChenB.XuZ.ShiZ.ChenS.HuangX. (2014). Involvement of reactive oxygen species in endosperm cap weakening and embryo elongation growth during lettuce seed germination.
+J. Exp. Bot.
+65
+3189–3200. 10.1093/jxb/eru16724744430
+      
+    
+    
+      Abbreviations
+      
+        
+          ABA
+          
+            abscisic acid
+          
+        
+        
+          ABI5
+          
+            ABA insensitive 5
+          
+        
+        
+          APX
+          
+            ascorbate peroxidase
+          
+        
+        
+          CAT
+          
+            catalase
+          
+        
+        
+          EMSA
+          
+            electrophoretic mobility shift assay
+          
+        
+        
+          GA
+          
+            gibberellin
+          
+        
+        
+          GPX
+          
+            glutathione peroxidase 
+          
+        
+        
+          H2O2
+          
+            hydrogen peroxide
+          
+        
+        
+          PHS
+          
+            pre-harvest sprouting
+          
+        
+        
+          ROS
+          
+            reactive oxygen species
+          
+        
+        
+          SOD
+          
+            superoxide dismutase
+          
+        
+      
+    
+  

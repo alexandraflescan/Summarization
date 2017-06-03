@@ -1,0 +1,1269 @@
+oai:pubmedcentral.nih.gov:53626692017-04-04springeropenpmc-open
+Technical aspects of dental CBCT: state of the art
+
+    
+      Introduction
+      Additive manufacturing (AM), also known as three-dimensional (3D) printing, refers to a process where a series of successive layers are laid down to create a 3D construct. AM combined with advanced medical imaging technologies such as computed tomography (CT) and magnetic resonance imaging (MRI) has resulted in a paradigm shift in medicine from traditional serial production to patient-specific constructs. This combination of technologies offers new possibilities for the fabrication of implants, saw guides and drill guides that are designed to meet the specific anatomical needs of patients [1].Fig. 1A schematic diagram of the three steps required to fabricate an AM medical construct
+
+      The three-step medical AM process begins with image acquisition (Fig. 1, Step 1), which is commonly performed using a multi-detector row computed tomography (MDCT) scanner. However, dual-energy computed tomography (DECT), which offers the possibility of acquiring CT images using two different X-ray spectra, is becoming more common in hospital environments [2]. Furthermore, cone-beam computed tomography (CBCT) is being increasingly used in dentistry and maxillofacial surgery due to its low costs and reduced radiation dose when compared with MDCT scanners [3].
+      Images acquired using CT technologies are commonly saved as Digital Imaging and Communications in Medicine (DICOM) files. These files contain voxels with grey values that are proportional to the attenuation coefficient in the corresponding volume of the patient. In MDCT, these grey values are scaled according to Hounsfield units (HU): air (−1000 HU), water (0 HU), and compact bone (+1000 HU). In CBCT technology, the degree of X-ray attenuation is scaled using grey values, hence voxel values [4]. CBCT grey values are often arbitrary and do not correspond to MDCT HU values [3, 5, 6]. Furthermore, a large variability in the grey values has been reported between different CBCT scanners [7, 8].
+      At present, medical AM requires the conversion of DICOM images into virtual 3D surface models that are commonly saved as standard tessellation language (STL) files (Fig. 1, Step 2). STL models are commonly used to design medical constructs using computer-aided design (CAD) software. The DICOM-to-STL conversion process requires the partitioning and hence the segmentation of voxels into different tissue types. The most common segmentation method used to date is thresholding. During the thresholding process, all voxels with a grey value that is equal or greater than a selected threshold value t are included in a segmented volume [9] using a binary mask \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$M_{x,y}$$\end{document}Mx,y (Eq. 1):1\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\begin{aligned} \hbox {M}_{\mathrm{x,y}} =\left\{ {\begin{array}{lllll} 0&amp;{}\quad \hbox {I}_{\mathrm{x,y}} &amp;{}&lt;&amp;{}t \\ 1&amp;{}\quad \hbox {I}_{\mathrm{x,y}} &amp;{}\ge &amp;{}\hbox {t} \\ \end{array}},\right. \end{aligned}$$\end{document}Mx,y=0Ix,y&lt;t1Ix,y≥t,where \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\hbox {I}_{\mathrm{x,y}}$$\end{document}Ix,y denotes the grey value at coordinates x and y.
+      The medical image segmentation software packages available offer only a single, default threshold value for compact bone, soft tissue, and cartilage. However, these default values are often not optimized for all types of MDCT, DECT, and CBCT images and do not take into account the variations in grey values between different scanners [10]. Therefore, in most cases, manual threshold selection is necessary to acquire an optimal STL model. Threshold selection, however, still remains a subjective task [11], especially in the head area due to the plethora of complex bony geometries (Fig. 2). Furthermore, minor dislocations in the facial area can have an impact on patient function and aesthetic appearance.Fig. 2The effect of threshold selection on skull STL models
+
+      At present, there is a paucity of the literature on threshold selection in the head area for medical purposes. Therefore, the aim of this study was to assess the impact of manual and default threshold selection on the reliability and accuracy of skull STL models acquired using different MDCT and CBCT technologies.
+    
+    
+      Materials and methods
+      One female and one male human cadaver head were anonymously provided by the Department of Anatomy, VU University Medical Center Amsterdam, The Netherlands. The two heads were embedded in a novel embalming liquid “Fix for Life” [12] that produces near life-like cadavers. Ethical approval for this study was provided by the Medical Ethical Committee of the VU University Medical Center (Ref. 2016.401).Fig. 3Outline of the study
+
+      The two “Fix for Life” cadaver heads were imaged using the following CT technologies: GE Discovery CT750 HD 64-slice MDCT (GE Healthcare, Little Chalfont, Buckinghamshire, UK), NewTom 5G CBCT (NewTom, Verona, Italy), and Vatech PaX Zenith 3D CBCT (Vatech, Fort Lee, USA) (Fig. 3, Step 1). The GE Discovery CT750 MDCT scanner was also operated using a dual-energy imaging mode (DECT). All scanners and image acquisition parameters are summarized in Table 1.Table 1Image acquisition parameters for all CT scansGE discovery CT750 HD 64-slice (MDCT)GE discovery CT750 HD 64-slice (DECT)NewTom 5G (CBCT)Vatech PaX Zenith 3D (CBCT)FemaleMaleFemaleMaleFemaleMaleFemaleMaleTube voltage (kV)12012080,14080,140110110115115Tube current (mA)3003003753757766Exposure time (s)0.6380.9120.9120.69910102424Spacing between slices (mm)0.3120.3120.3120.312n.a.n.a.n.a.n.a.Slices thickness (mm)0.6250.6250.6250.6250.3000.3000.3000.300Number of voxels512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 767512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 919512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 767512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 512 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 919610 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 610 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 539610 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 610 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 541800 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 800 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 632800 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 800 \documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$\times $$\end{document}× 632Reconstruction kernelBoneplusBoneplusSoftSoftStandardStandardn.a.n.a.
+
+      After CT image acquisition, all DICOM files were imported into Osirix\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® MD software (Osirix Foundation, Geneva, Switzerland). This software is FDA-cleared, CE-labelled for primary diagnostics, and is commonly used in medical AM. Osirix\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® MD software provides options for both manual and default threshold selection.
+      Four medical engineers were subsequently requested to manually select the optimal threshold value for bone in order to create an accurate STL model of the female and male skull, hence facial bony structures (Fig. 3, Step 2). All four engineers were blinded for their own results and those of others. The manual threshold selection procedure was repeated after a six-week interval in order to determine the intra-observer variability and to calculate the mean threshold value. In addition, the inter-observer variability and intra-class correlation coefficients (ICC) were calculated using SPSS\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® software (SPSS\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® version 22, Chicago, IL, USA). ICC ranges between 0 and 1, with 0 corresponding to no agreement and 1 corresponding to complete agreement [13].
+      In order to graphically represent the distribution of grey values in the manually selected and default threshold values, histograms were plotted for each of the four CT scanners using MatLab\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® software (MatLab v.2012, MathWorks, Natick, Massachusetts, USA) (Fig. 4). Only the highest and lowest mean selected threshold values presented on the eight histograms were used to generate STL models (Fig. 3, Step 3). The generated STL models were subsequently geometrically compared to each other using GOM Inspect\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® software (GOM Inspect v8, GOM mbH, Braunschweig, Germany) in order to calculate the variations between the highest and lowest threshold STL models (Fig. 3, Step 4).Fig. 4
+a–h The mean threshold values (HU) selected by four medical engineers and the pre-defined default threshold value (500 HU) are presented in histograms a–h. The y-axis of the histograms (frequencies) is set to a logarithmic scale
+Fig. 5Geometric variations in mm between the highest and lowest thresholded STL models acquired using four different CT scanners (see also Fig. 4).
+
+      In a final step, all soft tissues were manually removed from the cadaver heads using standard dissection equipment (i.e., scrapers and scalpels) by a highly experienced technician at the Department of Anatomy. Manual removal was opted for since this procedure ensured minimal dimensional changes in the bony structures of the cadaver skulls [14]. The resulting dry female and male skulls were subsequently scanned using a GOM ATOS\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{\mathrm{TM}}$$\end{document}TM III optical 3D scanner (GOM GmbH, Braunschweig, Germany) with an accuracy of &lt;0.05 mm to acquire a “gold standard” STL model of the skulls (Fig. 3). These “gold standard” STL models were subsequently superimposed on the STL models generated using the highest and lowest manually selected and default threshold values in order to calculate the accuracy of each thresholded STL model (Fig. 3, Step 5).Fig. 6
+(a–k) Accuracy of all STL models of the female skull acquired using the lowest (left) and highest (middle) mean threshold value selected by the four engineers and the default threshold value of 500 HU (right). The arrows indicate missing data (c, f) or excessive noise (i) in the default threshold STL models
+
+    
+    
+      Results
+      The intra- and inter-observer reliability results of all manually selected threshold values are presented in Table 2. All selected threshold values ranged from 113 to 303 HU for the MDCT and DECT technologies and from 537 to 1281 gv for the CBCT technologies (Fig. 4a–h). As shown in the histograms, all the selected threshold values differed from the default threshold value provided by Osirix MD\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{{\circledR }}$$\end{document}® software (500 HU). Furthermore, the geometric variations between the highest and lowest thresholded STL models were larger in the STL models derived from DECT and CBCT when compared with the MDCT-derived STL models (Fig. 5).
+      When compared to the “gold standard”, all manually and automatically thresholded STL models demonstrated inaccuracies ranging from −0.8 to +1.1 mm, −0.7 to +2.0 mm, and −2.3 to +4.8 mm for all STL models derived from MDCT, DECT, and CBCT, respectively (Fig. 6a–k). The male skull presented comparable accuracies to those observed on the female skull. The MDCT- and DECT-derived STL models acquired using the default threshold value demonstrated the highest loss of bone HU values (Fig. 6c, f). The NewTom CBCT-derived STL model acquired using the default threshold value (500 HU) provided by Osirix MD software resulted in an increase in artefacts and noise (Fig. 6i). The Vatech CBCT DICOM images did not allow the creation of an STL model using the 500-HU default threshold value since the grey values were not scaled to HU values (Fig. 4d, h).Table 2Intra- and inter-observer variability of manual threshold selection by four medical engineers on CT images of a female and a male cadaver headIntra-observer variabilityInter-observer variability between the engineersIntra-class correlation coefficient (ICC)ICCICCICCEngineer 2Engineer 3Engineer 4Cadaver headFemale/maleFemale/maleFemale/maleFemale/maleEngineer 10.999/0.997Engineer 10.994/0.9880.980/0.9870.970/0.954Engineer 20.995/0.995Engineer 20.978/0.9980.961/0.931Engineer 30.992/0.999Engineer 30.914/0.917Engineer 40.969/0.989Engineer 4
+
+    
+    
+      Discussion
+      To date, thresholding is the most commonly used segmentation method in medical AM. However, accurate bone segmentation often requires manual threshold selection, which still remains a subjective task. Moreover, recent studies suggest that the majority of inaccuracies that occur during the medical AM process are introduced during the image acquisition and image processing phases, rather than during the manufacturing, i.e., the 3D printing process itself [15–17]. Such inaccuracies can markedly influence the resulting STL model (see Fig. 6) and subsequently lead to ill-fitting AM implants [18]. Therefore, the aim of the present study was to assess the impact of manual and automatic default threshold selection on the reliability and accuracy of skull STL models.Fig. 7MDCT-derived low-threshold STL model of the female cadaver skull (grey) with disjointed “soft-tissue” structures (red)
+
+      In the present study, all threshold values selected by the four engineers demonstrated a good intra-observer reliability (ICC &gt; 0.9). Furthermore, the inter-observer reliability was also good (ICC &gt; 0.9), as shown in Table 2. Interestingly, all engineers that were blinded during the experiment selected threshold values for bone that were very close to the grey values of soft tissues (Fig. 4). This resulted in small disjointed structures in the STL model (marked red in Fig. 7) that represent the transition from bone into soft tissue grey values. Such disjointed “soft-tissue” structures can be manually removed during STL post-processing [19]. All engineers purposely selected the “soft tissue” threshold values during bone segmentation in order to incorporate the maximum number of bone-specific grey values. These grey values are allocated to voxels that represent different tissues during the CT image reconstruction process. However, during this process, voxels on the bone-to-soft tissue boundaries that are partially filled with soft tissue are commonly assigned a lower grey value than bone. This phenomenon is coined the partial volume effect (PVE) [20]. As a consequence of the PVE, voxels may be erroneously allocated to “soft tissue” instead of “bone”, resulting in data loss and hence bone voids in the STL model (Fig. 6). Therefore, engineers should be aware of this phenomenon since data loss can lead to large inaccuracies in individualized printed medical constructs [18, 20].
+      Another major finding in this study was the difference between the MDCT and CBCT DICOM files that were used to construct STL models (Fig. 4). One explanation for this phenomenon is the inherent difference between these technologies. CBCT technology is typically more heavily affected by image noise and distortions due to the “cone-beam” geometry of the X-ray beam [21, 22]. In CBCT, the simultaneously irradiated area is typically larger than in MDCT technology. This causes increased scatter levels and results in cupping, reduced contrast, and other scatter-induced artefacts in the reconstructed image. In addition, CBCT images are more subject to cone-beam artefacts due to the large cone-beam angle and the imaging geometry comprising a single focal plane. The cone-beam artefacts result from violating Tuy’s sufficiency condition [23] that requires that each plane intersecting a region of interest must intersect the focal trajectory, i.e., the path defining the radiation source position during the imaging. The embodiments of cone-beam artefacts are dependent on the reconstruction algorithm and the imaging geometry. Typical cone-beam artefacts include the elongation of structures in the axial direction and negative undershoots at sharp edges in the transaxial planes [24]. In CBCT, the focal trajectory consists of a single planar circle or arc that results in a violation of Tuy’s sufficiency condition in all regions outside the focal plane. The resulting cone-beam artefacts are more pronounced the further away the region of interest is from the focal plane. In MDCT, the volume that satisfies Tuy’s sufficiency condition is notably larger due to the helical nature of the focal trajectory.
+      The presence of artefacts makes the segmentation and hence the thresholding of bone-specific grey values in CBCT images more cumbersome [25]. This subsequently leads to a larger variation in manually selected threshold values for CBCT images (Fig. 4) and to the larger geometric variations of up to 0.55 mm in CBCT-derived STL models observed in this study (Fig. 5). DECT-derived STL models demonstrated geometric variations of up to 0.59 mm (Fig. 5). As a consequence of these geometric variations in STL models, the use of DECT and CBCT technology in its present form does not deliver reproducible STL models for medical AM. Therefore, the authors of this study suggest that only MDCT technology should be used for AM applications because of the lower variability (0.13 mm, see Fig.  5) and higher accuracy (Fig. 6) of the technology.
+      The present study demonstrates that the “human factor”, i.e., the medical engineer, influences the outcome of the segmentation process. Moreover, no single bone threshold value is applicable for all facial bones. The authors of this study therefore recommend the use of individual threshold values for each anatomical buttress. Recently, attempts have been made to develop novel segmentation algorithms using multi-thresholding [26], adaptive thresholding [11], and semi-automatic region growing [27]. However, these algorithms are still in an early stage of development [28] and do not take the inherent differences between MDCT and CBCT technologies into account. Future research should therefore focus on developing novel medical image segmentation software that is suitable for different CT imaging modalities. Furthermore, new approaches should be developed using pattern recognition and machine learning algorithms.
+    
+    
+      Conclusion
+      This study shows that manual threshold selection results in better skull STL models than default thresholding since all the medical engineers in our study selected grey values closer to soft tissue to compensate for bone voids. Our study also showed that MDCT-derived STL models offer the lowest variability and highest accuracy, whilst the use of DECT and CBCT technology in its present form does not deliver reliable STL models for medical AM. New approaches based on pattern recognition and machine learning algorithms are required.
+    
+  
+
+    
+      Compliance with ethical standards
+      
+        Conflict of interest
+        Juha Koivisto and Kalle Karhu are currently employed by Planmeca Ltd (Finland), a company that specializes in the manufacture of cone-beam computed tomography scanners. The other authors declare that they have no conflict of interest.
+      
+      
+        Ethical approval
+        This article does not contain any studies with human participants or animals performed by any of the authors. All human cadaveric materials that were used in the present study (one female and one male head) were anonymously acquired through the body donor programme of the Department of Anatomy of the VU University Medical Center Amsterdam, The Netherlands, in full accordance with Article 1 of the Dutch law on funeral services (http://wetten.overheid.nl/BWBR0005009/2015-07-01) and European legislation. Furthermore, ethical approval for this study was provided by the Medical Ethical Committee (METC) of the VU University Medical Center (Ref. 2016.401).
+      
+      
+        Informed consent
+        For this type of study, no formal consent was required.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Abou-El Fetouh
+              A
+            
+            
+              Barakat
+              A
+            
+            
+              Abdel-Ghany
+              K
+            
+          
+          Computer-guided rapid-prototyped templates for segmental mandibular osteotomies: a preliminary report
+          Int J Med Robot
+          2011
+          7
+          187
+          192
+          10.1002/rcs.387
+          21412965
+        
+      
+      
+        2.
+        
+          
+            
+              Johnson
+              TRC
+            
+          
+          Dual-energy CT: general principles
+          Am J Roentgenol
+          2012
+          199
+          3
+          8
+          10.2214/AJR.12.9116
+        
+      
+      
+        3.
+        
+          
+            
+              Pauwels
+              R
+            
+            
+              Nackaerts
+              O
+            
+            
+              Bellaiche
+              N
+            
+            
+              Stamatakis
+              H
+            
+            
+              Tsiklakis
+              K
+            
+            
+              Walker
+              A
+            
+            
+              Bosmans
+              H
+            
+            
+              Bogaerts
+              R
+            
+            
+              Jacobs
+              R
+            
+            
+              Horner
+              K
+            
+          
+          Variability of dental cone beam CT grey values for density estimations
+          Br J Radiol
+          2013
+          86
+          20120135
+          10.1259/bjr.20120135
+          
+          23255537
+        
+      
+      
+        4.
+        
+          
+            
+              Razi
+              T
+            
+            
+              Niknami
+              M
+            
+            
+              Alavi Ghazani
+              F
+            
+          
+          Relationship between Hounsfield Unit in CT scan and gray scale in CBCT
+          J Dent Res Dent Clin Dent Prospects
+          2014
+          8
+          107
+          110
+          
+          25093055
+        
+      
+      
+        5.
+        
+          
+            
+              Katsumata
+              A
+            
+            
+              Hirukawa
+              A
+            
+            
+              Okumura
+              S
+            
+            
+              Naitoh
+              M
+            
+            
+              Fujishita
+              M
+            
+            
+              Ariji
+              E
+            
+            
+              Langlais
+              RP
+            
+          
+          Effects of image artifacts on gray-value density in limited-volume cone-beam computerized tomography
+          Oral Surg Oral Med Oral Pathol Oral Radiol Endod
+          2007
+          104
+          829
+          836
+          10.1016/j.tripleo.2006.12.005
+          
+          17448704
+        
+      
+      
+        6.
+        
+          
+            
+              Silva
+              IM
+            
+            
+              Freitas
+              DQ
+            
+            
+              Ambrosano
+              GM
+            
+            
+              Bóscolo
+              FN
+            
+            
+              Almeida
+              SM
+            
+          
+          Bone density: comparative evaluation of Hounsfield units in multislice and cone-beam computed tomography
+          Braz Oral Res
+          2012
+          26
+          550
+          556
+          10.1590/S1806-83242012000600011
+          
+          23184166
+        
+      
+      
+        7.
+        
+          
+            
+              Nackaerts
+              O
+            
+            
+              Maes
+              F
+            
+            
+              Yan
+              H
+            
+            
+              Couto Souza
+              P
+            
+            
+              Pauwels
+              R
+            
+            
+              Jacobs
+              R
+            
+          
+          Analysis of intensity variability in multislice and cone beam computed tomography
+          Clin Oral Implants Res
+          2011
+          22
+          873
+          879
+          10.1111/j.1600-0501.2010.02076.x
+          
+          21244502
+        
+      
+      
+        8.
+        
+          
+            
+              Reeves
+              T
+            
+            
+              Mah
+              P
+            
+            
+              McDavid
+              W
+            
+          
+          Deriving Hounsfield units using grey levels in cone beam CT: a clinical application
+          Dentomaxillofacial Radiol
+          2012
+          41
+          500
+          508
+          10.1259/dmfr/31640433
+        
+      
+      
+        9.
+        
+          
+            
+              Sahoo
+              PK
+            
+            
+              Soltani
+              S
+            
+            
+              Wong
+              AKC
+            
+          
+          A survey of thresholding techniques
+          Comput Vision Graph Image Process
+          1988
+          41
+          233
+          260
+          10.1016/0734-189X(88)90022-9
+        
+      
+      
+        10.
+        
+          
+            
+              Logan
+              H
+            
+            
+              Wolfaardt
+              J
+            
+            
+              Boulanger
+              P
+            
+            
+              Hodgetts
+              B
+            
+            
+              Seikaly
+              H
+            
+          
+          Evaluation of the accuracy of cone beam computerized tomography (CBCT): medical imaging technology in head and neck reconstruction
+          J Otolaryngol Head Neck Surg
+          2013
+          42
+          25
+          10.1186/1916-0216-42-25
+          
+          23672880
+        
+      
+      
+        11.
+        
+          
+            
+              Nackaerts
+              O
+            
+            
+              Depypere
+              M
+            
+            
+              Zhang
+              G
+            
+            
+              Vandenberghe
+              B
+            
+            
+              Maes
+              F
+            
+            
+              Jacobs
+              R
+            
+          
+          Segmentation of trabecular jaw bone on cone beam CT datasets
+          Clin Implant Dent Relat Res
+          2015
+          17
+          1082
+          1091
+          10.1111/cid.12217
+          
+          24629139
+        
+      
+      
+        12.
+        van Dam A, van, Munsteren C, de, Ruiter M, (2015) Fix for life. The development of a new embalming method to preserve life-like morphology. FASEB J 29(547):10
+      
+      
+        13.
+        
+          
+            
+              Bartko
+              JJ
+            
+          
+          The intraclass correlation coefficient as a measure of reliability
+          Psychol Rep
+          1966
+          19
+          3
+          11
+          10.2466/pr0.1966.19.1.3
+          
+          5942109
+        
+      
+      
+        14.
+        
+          
+            
+              Van den Broeck
+              J
+            
+            
+              Vereecke
+              E
+            
+            
+              Wirix-Speetjens
+              R
+            
+            
+              Van der Sloten
+              J
+            
+          
+          Segmentation accuracy of long bones
+          Med Eng Phys
+          2014
+          36
+          949
+          953
+          10.1016/j.medengphy.2014.03.016
+          
+          24768087
+        
+      
+      
+        15.
+        
+          
+            
+              Huotilainen
+              E
+            
+            
+              Paloheimo
+              M
+            
+            
+              Salmi
+              M
+            
+            
+              Paloheimo
+              K-S
+            
+            
+              Björkstrand
+              R
+            
+            
+              Tuomi
+              J
+            
+            
+              Markkola
+              A
+            
+            
+              Mäkitie
+              A
+            
+          
+          Imaging requirements for medical applications of additive manufacturing
+          Acta Radiol
+          2014
+          55
+          78
+          85
+          10.1177/0284185113494198
+          
+          23901144
+        
+      
+      
+        16.
+        
+          
+            
+              Gibson
+              I
+            
+            
+              Rosen
+              D
+            
+            
+              Stucker
+              B
+            
+          
+          Additive manufacturing technologies—3D printing, rapid prototyping, and direct digital manufacturing
+          2014
+          New York
+          Springer
+        
+      
+      
+        17.
+        
+          
+            
+              Smith
+              EJ
+            
+            
+              Anstey
+              JA
+            
+            
+              Venne
+              G
+            
+            
+              Ellis
+              RE
+            
+          
+          Using additive manufacturing in accuracy evaluation of reconstructions from computed tomography
+          Proc Inst Mech Eng H
+          2013
+          227
+          551
+          559
+          10.1177/0954411912474612
+          
+          23637265
+        
+      
+      
+        18.
+        
+          
+            
+              Stoor
+              P
+            
+            
+              Suomalainen
+              A
+            
+            
+              Lindqvist
+              C
+            
+            
+              Mesimaki
+              K
+            
+            
+              Danielsson
+              D
+            
+            
+              Westermark
+              A
+            
+            
+              Kontio
+              RK
+            
+          
+          Rapid prototyped patient specific implants for reconstruction of orbital wall defects
+          J Craniomaxillofac Surg
+          2014
+          42
+          1644
+          1649
+          10.1016/j.jcms.2014.05.006
+          
+          25139812
+        
+      
+      
+        19.
+        
+          
+            
+              Mitsouras
+              D
+            
+            
+              Liacouras
+              P
+            
+            
+              Imanzadeh
+              A
+            
+            
+              Giannopoulos
+              AA
+            
+            
+              Cai
+              T
+            
+            
+              Kumamaru
+              KK
+            
+            
+              George
+              E
+            
+            
+              Wake
+              N
+            
+            
+              Caterson
+              EJ
+            
+            
+              Pomahac
+              B
+            
+            
+              Ho
+              VB
+            
+            
+              Grant
+              GT
+            
+            
+              Rybicki
+              FJ
+            
+          
+          Medical 3D printing for the radiologist
+          Radiographics
+          2015
+          35
+          1965
+          1988
+          10.1148/rg.2015140320
+          
+          26562233
+        
+      
+      
+        20.
+        
+          
+            
+              Huotilainen
+              E
+            
+            
+              Jaanimets
+              R
+            
+            
+              Valášek
+              J
+            
+            
+              Marcián
+              P
+            
+            
+              Salmi
+              M
+            
+            
+              Tuomi
+              J
+            
+            
+              Mäkitie
+              A
+            
+            
+              Wolff
+              J
+            
+          
+          Inaccuracies in additive manufactured medical skull models caused by the DICOM to STL conversion process
+          J Cranio-Maxillofacial Surg
+          2014
+          42
+          e259
+          e265
+          10.1016/j.jcms.2013.10.001
+        
+      
+      
+        21.
+        
+          
+            
+              Feldkamp
+              LA
+            
+            
+              Davis
+              LC
+            
+            
+              Kress
+              JW
+            
+          
+          Practical cone-beam algorithm
+          J Opt Soc Am
+          1984
+          1
+          612
+          10.1364/JOSAA.1.000612
+        
+      
+      
+        22.
+        
+          
+            
+              Endo
+              M
+            
+            
+              Tsunoo
+              T
+            
+            
+              Nakamori
+              N
+            
+            
+              Yoshida
+              K
+            
+          
+          Effect of scattered radiation on image noise in cone beam CT
+          Med Phys
+          2001
+          28
+          469
+          474
+          10.1118/1.1357457
+          
+          11339743
+        
+      
+      
+        23.
+        
+          
+            
+              Tuy
+              HK
+            
+          
+          An inversion formula for cone-beam reconstruction
+          SIAM J Appl Math
+          1983
+          43
+          546
+          552
+          10.1137/0143035
+        
+      
+      
+        24.
+        
+          
+            
+              Clack
+              R
+            
+            
+              Zeng
+              GL
+            
+            
+              Weng
+              Y
+            
+            
+              Christian
+              PE
+            
+            
+              Gullberg
+              GT
+            
+          
+          
+            
+              Colchester
+              ACF
+            
+            
+              Hawkes
+              DJ
+            
+          
+          Cone beam single photon emission computed tomography using two orbits
+          Proceedings of the Information processing in medical imaging: 12th international conference, IPMI ’91 Wye, July 7–12, 1991
+          1991
+          Berlin
+          Springer
+          45
+          54
+        
+      
+      
+        25.
+        
+          
+            
+              Maret
+              D
+            
+            
+              Telmon
+              N
+            
+            
+              Peters
+              OA
+            
+            
+              Lepage
+              B
+            
+            
+              Treil
+              J
+            
+            
+              Inglèse
+              JM
+            
+            
+              Peyre
+              A
+            
+            
+              Kahn
+              JL
+            
+            
+              Sixou
+              M
+            
+          
+          Effect of voxel size on the accuracy of 3D reconstructions with cone beam CT
+          Dentomaxillofacial Radiol
+          2012
+          41
+          649
+          655
+          10.1259/dmfr/81804525
+        
+      
+      
+        26.
+        
+          
+            
+              Rathnayaka
+              K
+            
+            
+              Sahama
+              T
+            
+            
+              Schuetz
+              MA
+            
+            
+              Schmutz
+              B
+            
+          
+          Effects of CT image segmentation methods on the accuracy of long bone 3D reconstructions
+          Med Eng Phys
+          2011
+          33
+          226
+          233
+          10.1016/j.medengphy.2010.10.002
+          
+          21030288
+        
+      
+      
+        27.
+        
+          
+            
+              Xi
+              T
+            
+            
+              Schreurs
+              R
+            
+            
+              Heerink
+              WJ
+            
+            
+              Bergé
+              SJ
+            
+            
+              Maal
+              TJJ
+            
+          
+          A novel region-growing based semi-automatic segmentation protocol for three-dimensional condylar reconstruction using cone beam computed tomography (CBCT)
+          PLoS One
+          2014
+          9
+          e111126
+          10.1371/journal.pone.0111126
+          
+          25401954
+        
+      
+      
+        28.
+        
+          
+            
+              Pauwels
+              R
+            
+            
+              Araki
+              K
+            
+            
+              Siewerdsen
+              JH
+            
+            
+              Thongvigitmanee
+              SS
+            
+          
+          Technical aspects of dental CBCT: state of the art
+          Dentomaxillofacial Radiol
+          2015
+          44
+          20140224
+          10.1259/dmfr.20140224
+        
+      
+    
+  

@@ -1,0 +1,609 @@
+oai:pubmedcentral.nih.gov:53598552017-04-04jripmc-open
+Embryo implantation in in vitro fertilization and intracytoplasmic sperm injecttion: impact of cleavage status, morphology grade, and number of embryos transferred
+
+        
+          Background:
+          Singleton pregnancy with a live birth beyond 37 weeks of gestation is the ultimate goal of any assisted reproductive technology. However, singletons conceived after ART are found to have a poor perinatal outcome in comparison to naturally conceived singletons. It was hypothesized that the outcome of singleton conceived after transfer of two or more embryos may be dependent on the sharing of uterine space with other embryos.
+        
+        
+          Methods:
+          Patients who had single gestational sac visualized at 6 weeks after transfer of 4, 3 or 2 embryos were considered for the study. 195 singleton pregnancies were selected for final evaluation such that as per implantation rates of 25%, 33%, and 50%, they were divided into 3 groups of 50, 82 and 63 cases, respectively. The basic characteristics of pregnancy (gestational age, birth weight) were compared using analysis of variance (continuous variables), and categorical variables were evaluated with chi-squared test. The p&lt;0.05 was considered statistically significant.
+        
+        
+          Results:
+          Among the various variables including maternal age, conception, type of infertility, type of abortion, total live birth, gestational age in live birth, birth weight, kind of embryo transfer and gestational age, there was not significant statistical differences between groups except gestational age that it was higher in group with 50% (p&lt;0.04) implantation rate. Therefore, higher number of initial embryos may affect the perinatal outcome of singleton conceived subsequently.
+        
+        
+          Conclusion:
+          There is higher chance of missed abortion in patients with singleton pregnancies conceived after multiple embryo transfer. Gestational age at delivery and birth weight were correlated with number of embryo transfered.
+        
+      
+
+        Assisted Reproductive Technology
+        Embryo transfer
+        Implantation rate
+        Perinatal outcome
+        Singleton pregnancy
+      
+
+    
+      Introduction
+      Singleton pregnancy is the desired outcome of any assisted reproductive technique (ART). With advances in the field of embryology and laboratory practices, great advances have been made such that the average pregnancy rate per cycle has increased. However, implantation remains the bottleneck of any ART cycle. Even though transfer of a single good quality embryo is advocated by most of the guidelines (1), it has not become a routine practice globally. Sometimes, in certain circumstances, as in repeated failure cases or, owing to a limited ability to select the embryos with the highest chance for implantation, a large cohort of embryos is transferred deliberately. In all these cases, though the chance of multifetal pregnancy is increased, singleton pregnancies are also seen. Limited implantation potential of the transferred embryo or of the uterus itself may lead to variable implantation rate of the cycle.
+      Different embryo transfer strategies have resulted in different multiple pregnancy rates ranging from 38.3% in Siberia to 5.7% in Sweden (2). Therefore, as the number of children born by ART is significant, knowledge of factors affecting perinatal outcome in ART singletons is crucial. It is known that singletons conceived by ART are at increased risk of adverse pregnancy outcomes (2–4) whether this outcome is related to infertility itself, ART technology or the embryo (4). This study aimed to find if the obstetric outcomes are also affected by implantation rate.
+      Many previous studies have considered aspects which alter or influence implantation rate and thereby predict/determine the number of embryos to be transferred (1, 5). This study examined implantation rate from a different perspective. The purpose was to evaluate the perinatal outcome in singleton pregnancies as a function of different implantation rates. This may help understand two aspects of conception: 1) does embryonic crowding initially affect the implanted embryo? and 2) does higher implantation rate translates into better reproductive and perinatal performance?
+      To the best of our knowledge, there have been no studies evaluating the possible effects of implantation rate on singleton pregnancies resulting from transfer of 4 or less cleavage stage embryos. The purpose of this study was to compare the perinatal outcomes of singleton pregnancies according to implantation rate.
+    
+    
+      Methods
+      This is a retrospective analysis done in the department of reproductive medicine and surgery at Sri Aurobindo Institute of Medical sciences from the year 2012 to 2014. Women who conceived after in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI) with a single gestation sac visible on ultrasound (USG) at 6 weeks (approximately 4 weeks after embryo transfer) were included in the study. Records of the patients were studied to exclude patients with elective single embryo transfers, blastocyst transfers, with donor oocyte, surrogacies and monochorionic gestation. As this was a retrospective study, informed consent could not be taken from patients. Both fresh and frozen thaw cycles were included in the study. For all cases in the study, less than 4 cleavage stage embryos transfer was done at a time. The following data was recorded from case file of patients included in this study– age, previous conception (parity), cause of infertility, type of transfer (fresh or frozen), number of embryos transferred, pregnancy outcome in terms of abortion, live birth and birth weight at delivery. Average number of IVF cycles was 2–3. Patients who had chronic diseases like diabetes mellitus, hypertension, thyroiditis and autoimmune disorders were excluded from the study.
+      For purpose of stimulation, antagonist protocol was used in all patients included in the study (6). The stimulation started with recombinant gonadotropins from day 2 or 3 of cycle when estradiol levels were &lt;50 pg/ml and ovarian quiescence seen on USG. The dose of recombinant gonadotropin Gonal F (Merck serono SpA, Italy) was decided as per patient’s age, antral follicle count, BMI and previous response to stimulation if any. Gonadotropin releasing hormone antagonist (cetrorelix 0.25 mg, Serum Institute of India Ltd, India) was initiated as per flexible protocol when at least 1 follicle reached the average diameter of 14 mm till the day of trigger. Ovulation trigger was given using either 10,000 IU (250 μg) recombinant HCG (Sanzyme Ltd., India) or leuprolide (Celon Laboratories Ltd., India) 2 mg when 3 or more follicles reached an average diameter of 17 mm. The choice of trigger depended on pre-trigger estradiol values and risk of ovarian hyperstimulation syndrome. Patients given agonist trigger underwent frozen-thawed cycle in subsequent months wherein, down regulation was done using 3.75 mg leuprolide (BDR Pharmaceutical International Pvt Ltd., India) depot on day 21. Endometrial preparation was done with estradiol valerate (in incremental doses) (7). Transfer was done when endometrial thickness was more than 7 mm with trilaminar pattern. All patients were given luteal phase support from day of oocyte retrieval till 14 weeks of gestation in the form of micronized progesterone vaginal gel once daily (Naturogest- East Sikkim) once daily. Concentration of vaginal gel was 8% (1.35 gr in a pack which delivers 90 mg progesterone daily) (8).
+      Based on semen quality, the oocytes were inseminated 3–6 hr after oocyte retrieval with either ICSI or conventional insemination. Fertilization was indicated by the appearance of two distinct pronuclei and two polar bodies 16–18 hr after insemination. The zygotes were cultured in cleavage medium (Cook Medical, Australia). Embryonic development was assessed on day 2 (41–43 hr) and on day 3 (65–67 hr) after insemination. Cleavage stage embryo transfer was performed using embryos with the highest number of blastomeres with the highest embryo score. All embryo transfers were performed by the same person under ultrasound guidance and a serum beta-hCG pregnancy test was performed 16 days after embryo transfer.
+      As per departmental protocol, all patients had conceived after embryo transfer and had transvaginal USG done at around 6 weeks (4 weeks after embryo transfer). All patients were followed up every 2 to 4 weeks in the department till delivery/abortion and records were periodically updated.
+      Missed abortion was defined as absence of cardiac activity at 6 weeks of gestation. Early abortion was defined as loss of cardiac activity or disappearance of gestational sac before 12 weeks after documentation of live fetus at 6 weeks. Loss of fetus between 13 to 28 weeks was defined as late abortion. Any birth after 28 completed weeks of gestation (period of viability for present study) was considered as live birth with those between 29–32 weeks being very preterm, 33 to 36 weeks as preterm and after 37 weeks as term birth.
+      Implantation rate was calculated by dividing number of gestational sacs seen (1) by the number of embryo transferred (4, 3 or 2).
+      Quantitative data was expressed as mean±standard deviation. The basic characteristics of pregnancy (gestational age, birth weight) were compared using analysis of variance (continuous variables), and categorical variables were evaluated with chi-squared tests and t test as applicable. P-value of &lt;0.05 was considered statistically significant.
+      Ethical clearance from institutional ethical committee was taken for the study.
+    
+    
+      Results
+      As per the inclusion criteria, 195 patients conceived with singleton after ART and delivered/aborted by the completion of study period. Depending on the number of cleavage stage embryos, patients were divided into 3 groups as per calculated implantation rate (25%, 33.33%, and 50%).
+      The age and previous conception were similar in all three groups, and the age of patients with an implantation rate of 50% was lesser than the other two groups (Table 1) though the difference was not statistically significant. Tubal factor infertility was the most common cause of treatment in the entire cohort.
+      
+        Table 1.
+        
+          Patients characteristics in different implantation rate groups
+        
+        
+          
+            
+              
+                Variables
+              
+              
+                Implantation rate
+              
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                25%
+              
+              
+                33.33%
+              
+              
+                50%
+              
+            
+          
+          
+            
+              
+                Age (years)
+              
+              32.46±6.0 (20–45 years)
+              32.19±5.9 (25–42 years)
+              30.67±4.0 (20–39 years)
+              0.142
+            
+            
+              
+                Previous conception
+              
+              8 (16)
+              24(29.2)
+              13(20.6)
+              0.184
+            
+            
+              
+                Type of Infertility
+              
+              
+              
+              
+              
+            
+            
+              
+                Male factor
+              
+              12 (24)
+              24 (29.27)
+              18 (28.57)
+              0.076
+            
+            
+              
+                Ovarian factor
+              
+              14 (28)
+              24 (29.27)
+              8 (12.7)
+            
+            
+              
+                Tubal factor
+              
+              15 (30)
+              18 (21.95)
+              25 (39.68)
+            
+            
+              
+                Uterine factor
+              
+              5 (10)
+              5 (6.1)
+              1 (1.59)
+            
+            
+              
+                Unexplained
+              
+              4 (8)
+              11 (13.41)
+              11 (17.46)
+            
+            
+              
+                Total
+              
+              50
+              82
+              63
+              195
+            
+          
+        
+        
+          
+            Numbers in parenthesis denote percentage
+          
+        
+      
+      Out of 195 patients included in the study, a total of 157 had a live birth (Table 2). A majority, 68.15% (107/157) had term delivery (at or beyond 37 weeks of gestation). The number of preterm and term deliveries between the three groups was not statistically significant. The average gestational age in live births showed an increasing trend as the implantation rate increased; however, this does not appear to be statistically significant (p=0.66). When the average gestational age of the entire cohort was considered (live births and abortions), a statistically higher probability of delivering later in gestation was found when the implantation rate was 50% (p=0.04).
+      
+        Table 2.
+        
+          Implantation rate and delivery outcome
+        
+        
+          
+            
+              
+                Variable
+              
+              
+                Implantation rate
+              
+              
+                p-value
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                25%
+              
+              
+                33.33%
+              
+              
+                50%
+              
+            
+          
+          
+            
+              
+                Very preterm delivery (&lt;32 weeks)
+              
+              2(5.4)
+              3 (4.6)
+              2 (3.5)
+              0.97
+            
+            
+              
+                Preterm delivery (32–37 weeks)
+              
+              10 (27.1)
+              16 (25.1)
+              17 (30.4)
+            
+            
+              
+                Term delivery (&gt;37 weeks)
+              
+              25 (67.5)
+              45 (70.3)
+              37 (66.1)
+            
+            
+              
+                Total Live births
+              
+              37 (74)
+              64 (78)
+              56 (88.8)
+              0.11
+            
+            
+              
+                Mean gestational age at live birth
+              
+              36.57±2.67
+              36.78±2.25
+              37.02±2.26
+              0.66
+            
+            
+              
+                Mean gestational age of delivery
+              
+              29.52±12.63
+              30.6±12.17
+              34.40±8.20
+              0.04
+            
+          
+        
+        
+          
+            Numbers in parenthesis denote percentage
+          
+        
+      
+      Out of 195 patients, a total of 38 patients aborted or delivered at or before 28 weeks of gestation. The rate of abortion gestation did not appear to be statistically related to the implantation rate (p= 0.37) (Table 3). In the group of 25% implantation rate, 26% patients (13/50) had undergone spontaneous abortion as against 11.11% (7/63) in the group of 50% implantation though this result did not reach statistical significance.
+      
+        Table 3.
+        
+          Implantation rate and spontaneous miscarriage
+        
+        
+          
+            
+              
+                Variable
+              
+              
+                Implantation rate
+              
+              
+                p-value
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                25% (n=50)
+              
+              
+                33.33% (n=82)
+              
+              
+                50% (n=63)
+              
+            
+          
+          
+            
+              
+                Missed abortion (up to 6 weeks)
+              
+              8 (16)
+              12 (14.6)
+              2 (3.1)
+              0.37
+            
+            
+              
+                Early abortion (up to 12 weeks
+              
+              3 (6)
+              4 (4.8)
+              2 (3.1)
+            
+            
+              
+                Late abortion (13–28 weeks)
+              
+              2 (4)
+              2 (2.4)
+              3 (4.7)
+            
+            
+              
+                Total No of abortion
+              
+              13 (26%)
+              18 (21.95%)
+              7 (11.11%)
+              0.1059
+            
+          
+        
+        
+          
+            Numbers in parenthesis denote percentage
+          
+        
+      
+      In the present study, 157 patients had a live birth with a majority 61.78% (97/157) with a birth weight of over 2.6 kg (Table 4). No statistical significance was found in the birth weight amongst the 3-implantation groups. However, the percentage of babies with birth weight of more than 2.6 kg (66.07%) and the average birth weight (2.71 kg) was the highest in the 50% implantation group.
+      
+        Table 4.
+        
+          Implantation rate and birth weight in live births
+        
+        
+          
+            
+              
+                Birth weight
+              
+              
+                Implantation rate
+              
+              
+                p-value
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                25% (37)
+              
+              
+                33.33% (64)
+              
+              
+                50% (56)
+              
+            
+          
+          
+            
+              
+                Very low birth weight (1 to 1.5 kg)
+              
+              3 (8.1)
+              3 (4.6)
+              4 (7.1)
+              0.82
+            
+            
+              
+                Low birth weight (1.6 to 2.5 kg)
+              
+              13 (35.1)
+              22 (34.2)
+              15 (26.7)
+            
+            
+              
+                Normal birth weight (≥2.6 kg)
+              
+              21 (56.75)
+              39 (60.94)
+              37 (66.07)
+            
+            
+              
+                Average weight (In kg)
+              
+              2.68±0.63 kg
+              2.7±0.59 kg
+              2.71±0.52 kg
+              0.98
+            
+          
+        
+        
+          
+            Numbers in parenthesis denote percentage
+          
+        
+      
+      In the present study, out of 195 patients, 110 had frozen-thawed embryo transfers while 85 had fresh transfers. The type of embryo transfer (fresh or frozen–thawed) does not appear to be statistically associated with the 3-implantation groups (Table 5).
+      
+        Table 5.
+        
+          Implantation rate and fresh/frozen-thawed transfers
+        
+        
+          
+            
+              
+                Embryo transfer
+              
+              
+                Implantation Rate
+              
+              
+                p-value
+              
+            
+            
+              
+                
+              
+            
+            
+              
+                25%
+              
+              
+                33.33%
+              
+              
+                50%
+              
+            
+          
+          
+            
+              
+                Fresh transfers
+              
+              19 (38)
+              34 (41.4)
+              32 (50.7)
+              0.767
+            
+            
+              
+                Frozen transfers
+              
+              31(62)
+              48 (58.6)
+              31 (49.3)
+            
+            
+              
+                Total
+              
+              50
+              82
+              63
+              
+            
+          
+        
+        
+          
+            Numbers in parenthesis denote percentage
+          
+        
+      
+    
+    
+      Discussion
+      Embryo quality and endometrial receptivity are two determinants for pregnancy success in patients undergoing IVF-ET program. With respect to embryos, clinical data show that 70% of embryos selected for transfer fail to implant. To increase pregnancy rates, multiple embryos are transferred, which is responsible for complications due to multiple gestation pregnancy (9); therefore, it is essential to develop better understanding of implantation and factors determining its rate. In an elaborate study done on rodent uteri (10), embryo implantation at unfavorable site was postulated to be associated with pregnancy complication as well. The authors also suggested that one cause of vanishing twin syndrome seen in IVF conceptions might be due to embryo crowding at implantation and subsequent resorption of one embryo as the result of competition for space and nutrient supply. It is an open but intriguing possibility that maternal stress at the time of embryo transfer and/or implantation may cause similar sympathetic activation of uterine β2-AR (Beta 2 adrenergic receptor) in humans, resulting in sub-optimal embryo location and pregnancy complications (10).
+      Oren et al. (3) have demonstrated that embryo quality had no effect on perinatal outcomes but it does affect pregnancy rate and implantation rate (11). Also, in our study, no significant association was found between live birth rate and birth weight and implantation rate in singleton conception/deliveries. However, regarding gestational age at termination of pregnancy (abortion or delivery), a decreasing age with lower implantation rate was found. Therefore, it is believed that early pregnancy events may depend on implantation rate though once the singleton progresses beyond the luteo-placental shift, number of initial embryos may not be relevant anymore. Pinborg et al. (12) have suggested that with increasing fetal/embryo number, the obstetric outcome of surviving singleton is adversely affected. They too have supported the hypothesis that early implantation site crowding leads to first trimester losses.
+      A meta-analysis (2) found high-grade evidence that singleton IVF babies have higher risk of worse perinatal outcome in comparison to singleton of unselected spontaneously conceived women. Also, in this study, it was shown that number of embryos transferred does not affect the outcome of a singleton pregnancy conceived consequently. This in turn indicates that there may be factors inherent to ART technique or the infertile patient herself that may lead to poorer outcome. This meta-analysis also looked into the evidence comparing perinatal outcomes of singleton pregnancies after single or double embryo transfer. They found low quality evidence of similar outcome in both groups. Our own result is similar when live births are compared. However, a slightly higher average birth weight and gestational age at delivery (of live born) were found when implantation rate was higher (50%) as against lower implantation rates (25% and 33%). Even the percentage of abortion was higher in lower implantation rate group though none of these results reached a statistical significance.
+      A retrospective cohort study (13) showed that in older women, the chance of multiple sacs leading to delivery of multiple babies is low and likely reflects aneuploidy. Therefore, they have advocated a more aggressive embryo transfer strategy to maximize the chance of actual live birth. In cases of multiple embryo transfer, especially in absence of pre implantation genetic screening, implantation rate will depend on the quality of the embryos themselves. Presuming that only the best embryo implants in a singleton pregnancy, it can be further concluded that this naturally selected embryo will have similar obstetric outcome irrespective of its initial competition. In other words, correct measure of uterine receptivity and embryo quality will help pre select the one embryo that will implant and thereby reduces the potential for multiple pregnancies.
+      ASRM guidelines (1) have defined the number of embryos transferred on basis of patient age, embryo quality, the opportunity for cryopreservation, and results of previous IVF cycles if any. Transfer of multiple embryos (2 or more) has been suggested in cases with relatively poor prognosis secondary to age, previous failure or embryo quality. For patients with previous IVF failures, additional embryos may be considered for transfer. However, our study shows that as the implantation rate decreases, chances of live birth also decrease. Therefore, in view of our own study, it is believed that the best outcome in terms of live birth may be achieved by increasing the implantation rate by transferring better quality embryo itself.
+      In a large retrospective cohort analysis, over 35000 ET after oocyte donation (14), the authors concluded that as the number of embryos transferred per cycle increased, so did the total number of cycles required to achieve a newborn. This study also showed that percentage of miscarriage also increased along with total number of embryo transferred. This study, however, did not evaluate single-, double-, or triple-embryo transfers per se and the researchers did not take into consideration the quality of embryos transferred. Despite these differences, the result of our own study appears to be similar.
+      Previous studies have demonstrated a poorer neonatal outcome in singleton pregnancies of ART especially in fresh transfers (2, 3). An improvement in the outcome with frozen transfers (15) is attributed to better endometrial receptivity. Our study shows that as the implantation potential improves, the possibility of better outcome especially in terms of live birth also increases. Hsu et al. (16), in their retrospective controlled clinical study, found an inverse relation between implantation rate and number of embryos transferred irrespective of their quality.
+      A major strength of our study is that it was a single center study with close follow up by a single physician in all conceived patients.
+      
+        Limitations of the study:
+        Our results are limited by the retrospective nature of the study and smaller numbers. Due to the study design itself, nature of endometrium at time of transfer and previously failed IVF cycles were not considered for evaluation.
+      
+    
+    
+      Conclusion
+      Our study shows that in patients with singleton pregnancies conceived after multiple embryo transfer, there is higher chance of missed abortion which is significant if more than 2 embryos are transferred. However, there is a correlation between the number of embryos transferred with gestational age at delivery and birth weight.
+    
+  
+
+    
+      
+        
+          Conflict of Interest
+        
+        Conflict of Interest: none
+      
+    
+    
+      References
+      
+        1.
+        Practice Committee of the American Society for Reproductive Medicine; Practice Committee of the Society for Assisted Reproductive Technology.
+Criteria for number of embryos to transfer: a committee opinion. Fertil Steril. 2013;99(1):44–6.23095140
+      
+      
+        2.
+        PinborgAWennerholmUBRomundstadLBLoftAAittomakiKSoderstrom-AnttilaV
+Why do singletons conceived after assisted reproduction technology have adverse perinatal outcome? Systematic review and meta-analysis. Hum Reprod Update. 2013;19(2):87–104.23154145
+      
+      
+        3.
+        OronGSonWYBuckettWTulandiTHolzerH.
+The association between embryo quality and perinatal outcome of singletons born after single embryo transfers: a pilot study. Hum Reprod. 2014:29(7): 1444–51.24812313
+      
+      
+        4.
+        PoikkeusPUnkila-KallioLVilskaSRepokariLPunamakiRLAitokallio-TallbergA
+Impact of infertility characteristics and treatment modalities on singleton pregnancies after assisted reproduction. Reprod Biomed Online. 2006;13(1):135–44.16820125
+      
+      
+        5.
+        HunaultCCEijkemansMJPietersMHte VeldeERHabbemaJDFauserBC
+A prediction model for selecting patients undergoing in vitro fertilization for elective single embryo transfer. Fertil Steril. 2002;77(4):725–32.11937124
+      
+      
+        6.
+        HillierSG.
+The Parkes lecture: controlled ovarian stimulation in women. J Reprod Fertil. 2010;120(2): 201–10.
+      
+      
+        7.
+        CasperRFYanushpolskyEH.
+Optimal endometrial preparation for frozen embryo transfer cycles: window of implantation and progesterone support. Fertil Steril. 2016;105(4):867–72.26820769
+      
+      
+        8.
+        Practice Committee of the American Society for Reproductive Medicine in collaboration with Society for Reproductive Endocrinology and Infertility.
+Progesterone supplementation during the luteal phase and in early pregnancy in the treatment of infertility: an educational bulletin. Fertil Steril. 2008;90(5 Suppl):S150–3.19007614
+      
+      
+        9.
+        ZhangSLinHKongSWangSWangHWangH
+Physiological and molecular determinants of embryo implantation. Mol Aspects Med. 2013;34 (5):939–80.23290997
+      
+      
+        10.
+        ChenQZhangYPengHLeiLKuangHZhangL
+Transient {beta}2-adrenoceptor activation confers pregnancy loss by disrupting embryo spacing at implantation. J Biol Chem. 2011;286(6): 4349–56.21148315
+      
+      
+        11.
+        TerriouPSapinCGiorgettiCHansESpachJLRoulierR.
+Embryo score is a better predictor of pregnancy than the number of transferred embryos or female age. Fertil steril. 2001;75(3):525–31.11239536
+      
+      
+        12.
+        PinborgALidegaardOla Cour FreieslebenNAndersenAN.
+Consequences of vanishing twins in IVF/ICSI pregnancies. Hum Reprod. 2005;20(10): 2821–9.15979998
+      
+      
+        13.
+        BalassianoEMalikSVaidPKnochenhauerESTraubML.
+The presence of multiple gestational sacs confers a higher live birth rate in women with infertility who achieve a positive pregnancy test after fresh and frozen embryo transfer: a retrospective local cohort. Reprod Biol Endocrinol. 2014; 12:104.25422171
+      
+      
+        14.
+        GarridoNBellverJRemohiJAlamaPPellicerA.
+Cumulative newborn rates increase with the total number of transferred embryos according to an analysis of 15,792 ovum donation cycles. Fertil Steril. 2012;98(2):341–6.22633263
+      
+      
+        15.
+        PelkonenSKoivunenRGisslerMNuojua-HuttunenSSuikkariAMHyden-GranskogC
+Perinatal outcome of children born after frozen and fresh embryo transfer: the Finnish cohort study 1995–2006. Hum Reprod. 2010;25(4):914–23.20124395
+      
+      
+        16.
+        HsuMIMayerJAronshonMLanzendorfSMuasherSKolmP
+Embryo implantation in in vitro fertilization and intracytoplasmic sperm injecttion: impact of cleavage status, morphology grade, and number of embryos transferred. Fertil Steril. 1999;72(4):679–85.10521110
+      
+    
+  

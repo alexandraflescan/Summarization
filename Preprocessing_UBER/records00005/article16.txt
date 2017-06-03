@@ -1,0 +1,711 @@
+oai:pubmedcentral.nih.gov:53593162017-04-04frontphysiolpmc-open
+Use of proteins as biomarkers and their role in carcinogenesis
+
+        Malignant pleural mesothelioma (MPM) is a highly aggressive tumor primarily associated with asbestos exposure. Early detection of MPM is restricted by the long latency period until clinical presentation, the ineffectiveness of imaging techniques in early stage detection and the lack of non-invasive biomarkers with high sensitivity and specificity. In this study we used transcriptome data mining in order to determine which CLAUDIN (CLDN) genes are differentially expressed in MPM as compared to controls. Using the same approach we identified the interactome of the differentially expressed CLDN genes and assessed their expression profile. Subsequently, we evaluated the effect of tumor histology, asbestos exposure, CDKN2A deletion status, and gender on the gene expression level of the claudin interactome. We found that 5 out of 15 studied CLDNs (4, 5, 8, 10, 15) and 4 out of 27 available interactors (S100B, SHBG, CDH5, CXCL8) were differentially expressed in MPM specimens vs. healthy tissues. The genes encoding the CLDN-15 and S100B proteins present differences in their expression profile between the three histological subtypes of MPM. Moreover, CLDN-15 is significantly under-expressed in the cohort of patients with previous history of asbestos exposure. CLDN-15 was also found significantly underexpressed in patients lacking the CDKN2A gene. These results warrant the detailed in vitro investigation of the role of CDLN-15 in the pathobiology of MPM.
+      
+
+        asbestos
+        CDKN2A
+        claudins
+        interactome
+        malignant mesothelioma
+        pleura
+        tight junctions
+        transcriptome
+      
+
+    
+      Introduction
+      Malignant Pleural Mesothelioma (MPM) is a highly aggressive tumor primarily associated with exposure to asbestos. Due to the prolonged latent period between asbestos exposure and clinical presentation of the disease, the incidence of MPM has continued to rise across Europe even after the imposed restrictions on asbestos use (Jennings et al., 2014). Worldwide the incidence of MPM is increasing and it is expected to peak in the years 2015–2025 (Robinson and Lake, 2005). MPM diagnosis and treatment is challenging, therefore current research efforts are focused in biomarker discovery that would aid its early diagnosis, prognosis and therapeutic outcome prediction (Brims et al., 2013). Transcriptome studies combined with data mining techniques have provided new insights into the pathogenesis of the disease and have led to the identification of new candidate biomarkers with potential clinical value (Melaiu et al., 2012).
+      Claudins represent a 24-member family of tetraspan transmembrane proteins that contribute to the formation and the proper function of tight junctions (TJs) (Valle and Morin, 2010). They regulate the paracellular transport of ions and molecules in a size and charge sensitive manner (Gonzalez-Mariscal et al., 2010). A notable feature of claudins is that some members increase the paracellular permeability while others decrease it. More specifically, claudin-2, -7, -10, -15, and -16 increase the paracellular cation permeability in the Tight Junctions (TJ) whereas claudin-3-, -4, -5, -8, -11, -14, and -18 have a sealing function (Amasheh et al., 2002, 2005; Milatz et al., 2010; Soini, 2011). In addition to their contribution to the establishment of cellular polarity, the TJ proteins also participate in the regulation of cell differentiation and proliferation (Facchetti et al., 2007b; Lal-Nag and Morin, 2009; Soini, 2011).
+      The pleural mesothelial cells (PMCs) form a monolayer that expresses claudins in their TJs, although their exact role in the pleural physiology and pathophysiology is scarcely investigated (Apostolidou et al., 2012). Currently it is known that mesothelial TJ claudins contribute to the pleural membrane permeability, while during inflammation the expression levels of claudins change leading to increased pleural permeability (Markov et al., 2011; Markov and Amasheh, 2014). These data highlight the role of claudins and TJ related proteins in the context of pleural physiology and pathophysiology.
+      Several studies have highlighted the role of claudins in cancer since in several malignancies (lung, kidney, breast, stomach, instestine, pancreas, and others) their expression is deregulated (Osanai et al., 2017). Furthermore, accumulating data suggest roles for claudins in tumor development and progression as well as in signal transduction while in several cancers expression of claudins is associated with prognosis (Osanai et al., 2017). Claudins have also been studied in the context of MPM by means of immunohistochemistry (Kleinberg et al., 2007; Chaouche-Mazouni et al., 2015). In this aspect several changes in the expression of claudins have been documented (Ouban and Ahmed, 2010; Soini, 2011). Most studies so far have focused on the diagnostic value of claudins, notably claudins 1–7, in distinguishing MPM from other carcinomas. Claudin-4 has been shown to be highly effective in the differential diagnosis between MPM and metastatic carcinomas (Facchetti et al., 2007a,b; Ohta et al., 2013; Ordóñez, 2013; Jo et al., 2014). However, at the transcriptional level there is scarcity of information regarding the differential gene expression of claudins between healthy and MPM samples.
+      In this study we applied data mining and transcriptomic analysis in order to determine the CLAUDIN (CLDN) genes that are differentially expressed in MPM specimens as compared to healthy controls. Using the same approach we also probed for CLDN interactors and assessed their expression patterns so as to identify novel genes interacting with CLDNs that may contribute to the pathophysiology of MPM. Finally, we evaluated the effect of MPM histology, asbestos exposure, CDKN2A deletion status, and gender on the gene expression level of the claudin interactome.
+    
+    
+      Materials and methods
+      
+        Identification of the differential gene expression profile of CLDNs in microarray data from MPM and control counterparts
+        We used gene expression data from an MPM study included in the Oncomine Research Premium Edition Cancer Microarray database (http://www.oncomine.org) in order to investigate the gene expression profile of CLDNs (Gordon et al., 2005; GEO Profiles: GDS 1220). We analyzed data for the 15 CLDN genes that were assessed in this study (CLDN-1, -3, -4, -5, -6, -7, -8, -9, -10, -11, -14, -15, -16, -17, -18) in order to detect their potential differential expression in MPM specimens as compared to healthy ones. The genes that were not assessed in GDS 1220, were CLDNs -2, -12, -19, -20, -22, -23, -24,-25. In order to ensure that the data were generated with the same methodology, we selected gene expression data from a single study (a study that from this point on will be referred as Gordon Mesothelioma study throughout the text). In this study the Affymetrix Human Genome U133A array was used assessing 12.624 genes. The raw data were downloaded from Oncomine in Excel format, and were scrutinized selecting only the ones referring to surgically excised samples excluding the ones referring to mesothelial (1 sample) and MPM cell lines (4 samples). Finally, in this study there were n = 40 MPM cases and n = 9 controls (n = 5 pleura and n = 4 lung samples). The gene expression data were log transformed, median centered per array, and the standard deviation was normalized to one per array as described previously (Rhodes et al., 2004). All values from the transformed data were downloaded from Oncomine during March 2013.
+      
+      
+        Identification of the interactome of the differentially expressed claudins
+        The gene interaction network of the significantly differentially expressed CLDNs in MPM patients was constructed using Bio-grid (http://thebiogrid.org), ConsensusPathDB (http://cpdb.molgen.mpg.de/) and String 9.05 (http://string-db.org/) databases. The Bio-grid database is a repository of genetic and protein-protein interactions that are curated from the primary biomedical literature for all major model organism species (Chatr-Aryamontri et al., 2013). The ConsensusPathDB database integrates interaction networks including binary and complex protein-protein, genetic, metabolic, signaling, gene regulatory, and drug-target interactions as well as biochemical pathways (Kamburov et al., 2009, 2013). String 9.05 is a database of known and predicted protein interactions including both direct (physical), and indirect (functional) associations (Szklarczyk et al., 2011).
+        After querying for each differentially expressed CLDN in the above databases, we superimposed the results in order to remove duplicate or triplicate genes and created a list of unique genes (List 1) that comprised the interactome of the significantly over- and under- expressed CLDNs in MPM patients from the Gordon Mesothelioma study. The members of List 1 are shown in Table 1, where their name along with their description is provided based on GeneCards query that was performed. GeneCards (http://www.genecards.org) is an integrated database of human genes that provides concise genomic related information, on all known and predicted human genes (Safran et al., 2003). The members of List 1 were subject to the differential gene expression analysis in the microarray data of the Gordon Mesothelioma study so as to identify their profile.
+        
+          Table 1
+          
+            Interactome of the gene networks of claudin 4, 5, 8, 10, and 15.
+          
+          
+            
+              
+                
+                  Gene symbol
+                
+                
+                  Gene description
+                
+              
+            
+            
+              
+                VKORC1
+                Vitamin K epoxide reductase complex, subunit 1
+              
+              
+                S100B
+                S100 calcium binding protein B
+              
+              
+                EPHA2
+                EPH receptor A2
+              
+              
+                GEM
+                GTP binding protein overexpressed in skeletal muscle
+              
+              
+                SHBG
+                Sex hormone-binding globulin
+              
+              
+                UBC
+                Ubiquitin C
+              
+              
+                OCLN
+                Occludin
+              
+              
+                TJP1
+                Tight junction protein 1
+              
+              
+                TJP2
+                Tight junction protein 2
+              
+              
+                TJP3
+                Tight junction protein 3
+              
+              
+                INADL
+                InaD-like (Drosophila)
+              
+              
+                CDH5
+                Cadherin 5, type 2 (vascular endothelium)
+              
+              
+                MPDZ
+                Multiple PDZ domain protein
+              
+              
+                WNK4
+                WNK lysine deficient protein kinase 4
+              
+              
+                CLDN1
+                Claudin 1
+              
+              
+                CLDN2
+                Claudin 2
+              
+              
+                CLDN3
+                Claudin 3
+              
+              
+                CLDN6
+                Claudin 6
+              
+              
+                CLDN9
+                Claudin 9
+              
+              
+                CLDN11
+                Claudin 11
+              
+              
+                CLDN12
+                Claudin 12
+              
+              
+                CLDN14
+                Claudin 14
+              
+              
+                CLDN16
+                Claudin 16
+              
+              
+                CLDN17
+                Claudin 17
+              
+              
+                CLDN18
+                Claudin 18
+              
+              
+                CLDN19
+                Claudin 19
+              
+              
+                CLDN20
+                Claudin 20
+              
+              
+                CLDN22
+                Claudin 22
+              
+              
+                CLDN23
+                Claudin 23
+              
+              
+                CLDN24
+                Claudin 24
+              
+              
+                CLDN25
+                Claudin25
+              
+              
+                ESAM
+                Endothelial cell adhesion molecule
+              
+              
+                TACSTD2
+                Tumor-associated calcium signal transducer 2
+              
+              
+                CCDC155
+                Coiled-coil domain containing 155
+              
+              
+                SYNE4
+                Spectrin repeat containing, nuclear envelope family member 4
+              
+              
+                ATE1
+                Arginyltransferase 1
+              
+              
+                MARVELD3
+                Marvel domain containing 3
+              
+              
+                CXCL8
+                Chemokine (C-X-C Motif) ligand 8
+              
+              
+                ETV5
+                Ets variant 5
+              
+              
+                GRM5
+                Glutamate receptor, metabotropic 5
+              
+              
+                FGF1
+                Fibroplast growth factor 1
+              
+            
+          
+        
+      
+      
+        Identification of the differential gene expression profile of CLDNs interactome in microarray data from MPM with respect to tumor histology, asbestos exposure, CDKN2A deletion status, and gender
+        We used gene expression data from the only MPM study included in the Oncomine Research Premium Edition Cancer Microarray database (http://www.oncomine.org) that compared gene expression levels in the three main phenotypes of MPM (epithelioid, biphasic, and sarcomatoid) in order to investigate the gene expression profile of the claudin interactome in relation to disease phenotype (Lopez-Rios et al., 2006; a study that from this point on will be referred as Lopez-Rios Mesothelioma study throughout the text). Furthermore, the same genes were analyzed based asbestos exposure (exposed/unexposed), CDKN2A deletion status (deletion/no deletion), and gender (male/female). Reported asbestos exposure history was extracted by the sample annotation information file provided in the supplementary materials of the Lopez-Rios Mesothelioma study provided in http://cbio.mskcc.org/public/Ladanyi_lab_mesothelioma_datasets/. This study included adequate microarray data from each histological subtype of MPM (n = 69 epithelioid, n = 10 sarcomatoid, n = 20 biphasic). We analyzed data only for those genes that were found to be over- or under-expressed in the samples of MPM patients in the Gordon Mesothelioma study. All values from the transformed data were downloaded from Oncomine during March 2013 following the same procedures as in the case of the Gordon Mesothelioma study. The levels of gene expression were subsequently arranged into strata with respect to asbestos exposure history (exposed/unexposed), CDKN2A deletion status (deletion/no deletion) and gender (male/female). Regarding asbestos exposure history, 58 patients reported asbestos exposure history, 29 patients reported non-exposure to asbestos, while for 12 patients this information was unknown and they were excluded from the sub-analysis concerning the effects of asbestos exposure. Regarding CDKN2A deletion status, homozygous deletion was present in 59 patients, in 29 patients it was not present while in 19 patients the information was not available thus they were excluded from the subanalysis.
+      
+      
+        Statistical analysis
+        GraphPad Prism 5.0 was used for statistical analysis. The Kolmogorov–Smirnov normality test was used to assess the data distribution. Comparisons of gene expression between MPM and healthy specimens were performed with the un-paired t-test for parametric data and the Mann–Whitney U-test for non-parametric data. The Benjamini–Hochberg False Discovery Rate (FDR) was employed for multiple correction testing, which reports FDR (or q-value), in order to corroborate the validity of the results. The calculation of the q statistic was based on the formula given by Rhodes et al. (2004). The mean values of gene expression in the three histological subtypes of MPM were compared with the One-Way ANOVA with Tukey's multiple comparison test for parametric data and the Kruskal–Wallis test with Dunn's multiple comparison test for non-parametric data. Analysis with respect to asbestos exposure history (exposed/unexposed), CDKN2A deletion status (deletion/no deletion) and gender (male/female) was performed with the un-paired t-test and the Mann–Whitney U-test for parametric and non-parametric data respectively. Statistical significance was set at the p &lt; 0.05 and q &lt; 0.05 level.
+      
+    
+    
+      Results
+      
+        Identification of the differential gene expression profile of CLDNs in microarray data from MPM and control counterparts
+        The gene expression of CLDN-15 was found to be significantly over-expressed in MPM specimens (q &lt; 0.002) as compared to healthy tissues. On the other hand, CLDNs -4, -5, -8, and -10 were significantly under-expressed compared to controls (q = 0.036, q = 0.001, q = 0.003, and q = 0.001, respectively). There was no significant difference in the gene expression of CLDN -1, -3, -6, -7, -11, -14, -16, and -17. The results are summarized in Table 2.
+        
+          Table 2
+          
+            Claudins differentially expressed in MPM patients.
+          
+          
+            
+              
+                
+                  Gene ID
+                
+                
+                  
+                    q
+                  
+                  -value
+                
+                
+                  FC
+                
+              
+            
+            
+              
+                
+                  UP-REGULATED
+                
+              
+              
+                CLDN15
+                0.002
+                6.351
+              
+              
+                
+                  DOWN-REGULATED
+                
+              
+              
+                CLDN4
+                0.036
+                −2.291
+              
+              
+                CLDN5
+                0.001
+                −4.055
+              
+              
+                CLDN8
+                0.003
+                −3.090
+              
+              
+                CLDN10
+                0.001
+                −1.484
+              
+            
+          
+        
+      
+      
+        Identification of the interactome of the differentially expressed CLDNs
+        In the analysis performed in the 3 databases as explained in the Section Materials and Methods, 41 genes were found to constitute the interaction network of the significantly differentially expressed CLDNs. The symbols and descriptions of those genes, as reported in the GeneCards database are presented in Table 1. Gene expression data for further analysis in the Gordon Mesothelioma study were available for 27 interactors (gene symbols: VKORC1, S100B, EPHA2, GEM, SHBG, UBC, OCLN, TJP1-3, INADL, CDH5, MPDZ, CLDN-1, -3, -6, -9, -11, -14, -16, -17, -18, TACSTD2, CXCL8, ETV5, GRM5, FGF1) while no gene expression data were available for 14 interactors (gene symbols: WNK4, CLDN -2, -12, -19, -20, -22, -23, -24, -25, ESAM, CCDC155, SYNE4, ATE1, MARVELD3).
+      
+      
+        Identification of the differential gene expression profile of the interactome members of the significantly differentially expressed CLDNs
+        The gene expression of S100B, SHBG, CDH5, and CXCL8 were significantly under-expressed compared to controls (q = 0.001, q = 0.004, q = 0.015, and q = 0.007, respectively). The results are summarized in Table 3.
+        
+          Table 3
+          
+            Claudin interactome genes differentially expressed in MPM patients.
+          
+          
+            
+              
+                
+                  Gene ID
+                
+                
+                  
+                    q
+                  
+                  -value
+                
+                
+                  FC
+                
+              
+            
+            
+              
+                S100B
+                0.001
+                −4.675
+              
+              
+                SHBG
+                0.004
+                −1.848
+              
+              
+                CDH5
+                0.015
+                −2.926
+              
+              
+                CXCL8
+                0.007
+                −3.605
+              
+            
+          
+        
+      
+      
+        Evaluation of the effect of disease phenotype, CDKN2A deletion status, asbestos exposure, and gender
+        The gene expression of CLDN-15 was found to be significantly increased in the epithelioid histological subtype of MPM as compared to both the biphasic and sarcomatoid phenotypes (p &lt; 0.01 and p &lt; 0.001, respectively; Figure 1). The S100B gene was found significantly over-expressed in the sarcomatoid type of MPM compared to the epithelioid one (p &lt; 0.05; Figure 2). There was no significant difference in the gene expression of CLDN-4, -5, -8, -10, SHBG, CDH5, and CXCL8 among the three histological subtypes of MPM. Subsequent analysis with respect to history of asbestos exposure showed that the CLDN-15 gene was significantly under-expressed in the cohort of patients that were previously exposed to asbestos as compared to the unexposed ones (p = 0.004; Figure 3). In addition, CLDN-15 was found significantly under-expressed in the subgroup of patients with homozygous deletion of the CDKN2A gene as opposed to the patients with no deletion (p = 0.035; Figure 4). Gene expression of CLDN-4, -5, -8, -10, S100B, SHBG, CDH5, and CXCL8 was not influenced by asbestos exposure and CDKN2A deletion status. Finally, the gene expression of CLDN-4, -5, -8, -10, -15, S100B, SHBG, CDH5, and CXCL8 was not influenced by gender.
+        
+          Figure 1
+          
+            CLDN-15 is over-expressed in epithelioid MPM as compared to biphasic and sarcomatoid MPM. The number of patients per group is demonstrated in the figure. Gene expression of CLDN15 gene data was log transformed and normalized as described previously (Rhodes et al., 2004). **p &lt; 0.01; ***p &lt; 0.001.
+          
+          
+        
+        
+          Figure 2
+          
+            S100B is over-expressed in sarcomatoid MPM as compared to epithelioid MPM while it does not differ from biphasic MPM. The number of patients per group is demonstrated in the figure. Gene expression of S100B gene data was log transformed and normalized as described previously (Rhodes et al., 2004). *p &lt; 0.05.
+          
+          
+        
+        
+          Figure 3
+          
+            CLDN-15 is under-expressed in MPM patients with history of asbestos exposure. The number of patients per group is demonstrated in the figure. Gene expression of CLDN-15 gene data were log transformed and normalized as described previously (Rhodes et al., 2004). **p &lt; 0.01.
+          
+          
+        
+        
+          Figure 4
+          
+            CLDN-15 is under-expressed in MPM patients with deletion of the CDKN2A gene. The number of patients per group is demonstrated in the figure. Gene expression of CLDN-15 gene data were log transformed and normalized as described previously (Rhodes et al., 2004). *p &lt; 0.05.
+          
+          
+        
+      
+    
+    
+      Discussion
+      MPM is a highly aggressive tumor arising from the mesothelial cells that line the pleural cavity (Rascoe et al., 2012). Due to the established cause and effect relationship between asbestos exposure and MPM development, researchers seek to identify suitable biomarkers for screening asbestos exposed populations and for early diagnosis while avoiding false positive results and unnecessary invasive procedures (Ostroff et al., 2012). Although, several studies have pointed to the effectiveness of soluble mesothelin as a biomarker with high specificity, its limited sensitivity confines its use as a screening tool for the asymptomatic, asbestos-exposed cohorts (Creaney et al., 2015). Thus, at the present time, there are no biomarkers in widespread clinical use for MPM (Creaney et al., 2015).
+      Transcript profiling along with new omics-technologies and bioinformatics, have been extensively used in the field of personalized medicine enabling researchers to identify biomarkers for cancer screening, diagnosis, and prognosis (Diamantis et al., 2010). In this study we used established data mining techniques through which we have already reported AQP1, CLIC3, CLIC4, and BBS1 to be ideal candidates for further study in MPM pathophysiology (Jagirdar et al., 2013; Tasiopoulou et al., 2015; Vavougios et al., 2015).
+      Claudins are structural molecules of TJs present in epithelial, endothelial, and mesothelial cells (Soini et al., 2006; Soini, 2011). The patterns of claudin expression within TJs are distinctly diverse among different tissues accounting for the observed differences in permeability and electrical resistance of various epithelia (Chao et al., 2009; Markov et al., 2011). It should be noted that not only the expression of claudin family members but also their localization within cells may vary (Amasheh et al., 2002; Dittmann et al., 2014). The latter might be affected by several exogenous factors such as food components, plant compounds and microbial toxins (Dittmann et al., 2014; Markov et al., 2014).
+      Differential gene expression of claudins has been reported in several tumors depending on the exact claudin and cancer studied (Facchetti et al., 2007b; Chao et al., 2009; Lal-Nag and Morin, 2009; Gonzalez-Mariscal et al., 2010; Valle and Morin, 2010; Davidson, 2011; Soini, 2011). Here we report that -15 is significantly over-expressed in MPM patients as compared to controls, while CLDNs -4, -5, and -8 are significantly under-expressed. An in vitro study using M14K (epithelioid MPM) and M38K (biphasic MPM) cell lines (Chaouche-Mazouni et al., 2013) has shown by means of immunohistochemistry and immunoblotting a high level of claudin 15 in both cell lines as opposed to claudins 3 and 4. An earlier study demonstrated by means of immunohistochemistry that in MPM there was a lower expression of claudin-1, -3, -4, -5, and -7 than in metastatic adenocarcinomas of the pleura, suggesting that they could serve as differential diagnostic markers (Soini et al., 2006). In the same report, non-neoplastic PMCs showed expression of claudin 2 but no expression was found for claudin-3, -4, -5, and -7. Two more studies assessing the expression of claudin-4 in a large series of normal and MPM tissues by immunohistochemistry, reported that claudin-4 is a definitive negative marker for MPM which is in agreement with our data showing the significant under-expression of CLDN-4 in MPM as opposed to controls (Facchetti et al., 2007a,b). This finding has been consistently shown in other studies as well (Ohta et al., 2013; Ordóñez, 2013; Jo et al., 2014). Finally one more study has demonstrated that the gene expression of CLDN-3, -4, and -6 was significantly lower in malignant peritoneal mesothelioma as compared to ovarian carcinomas (Davidson et al., 2006).
+      In our study we also demonstrate that the CLDN-15 gene is significantly over-expressed in the epithelioid histological subtype of MPM as compared to the sarcomatoid and biphasic phenotypes. Similar results were shown in diffuse malignant peritoneal mesothelioma at the protein level (Davidson et al., 2006).
+      On the contrary, we observed that the gene expression of S100B is significantly increased in sarcomatoid MPM as compared to epithelioid MPM. S100B has been reported as a useful biomarker in assessing tumor load, stage, and prognosis for patients with malignant melanoma (Zarogoulidis et al., 2015).
+      It has been suggested that the differences in the molecular biology of epithelioid and non-epithelioid MPM may contribute to differences in their clinical behavior (Balduyck et al., 2010). The epithelioid cell type is among the factors that favor the overall survival of MPM patients (Balduyck et al., 2010; Musk et al., 2011; Linton et al., 2014). As a consequence it has been proposed that the diagnosis of the sarcomatoid variant on a biopsy should preclude radical surgery, and therapy should aim at symptoms management and preservation of quality of life (Balduyck et al., 2010). Therefore, the clear distinction of histological subtypes could direct clinicians to the appropriate treatment options. In the literature it is supported that the current golden standard for MPM diagnosis is a combination of two positive and two negative immunohistochemical markers in the epithelioid and biphasic type, but sarcomatous type do not have specific markers, making diagnosis more difficult (Panou et al., 2015). Here we propose that CLDN-15 and S100B could serve as complementary diagnostic tools and should be further investigated.
+      Next we observed that CLDN-15 was under-expressed in patients lacking the CDKN2A gene. Moreover, the CLDN-15 gene was significantly under-expressed in MPM patients with previous history of asbestos exposure compared to the unexposed ones. CDKN2A is the most frequently inactivated tumor suppressor gene in human MPM. The inactivation of both p16INK4a and Arf products of the CDKN2A gene has been suggested to act synergistically in accelerating asbestos-induced tumorigenesis in vivo (Sekido, 2013). Development of MPM is strongly associated with asbestos exposure, with 80% of the patients having previous exposure to asbestos fibers (Robinson and Lake, 2005; Nakano, 2008; Sekido, 2013). A significant association has been described between increasing number of methylated cell cycle control genes and asbestos burden. This finding was followed by the observation that quantitative measure of asbestos exposure was associated with over 100 discrete CpG loci and that in 94% of cases there was increased methylation associated with increased exposure (Christensen and Marsit, 2011). The correlation between methylation status and extended exposure to asbestos was also confirmed by Fujii et al. (2012). Likewise, the results of this study are indicative of the epigenetic effect of asbestos in the transcriptional level of the CLDN-15 gene suggesting its potential utility as a screening biomarker for populations at risk.
+      Although, in our analysis with respect to gender the gene expression of CLDN-4, -5, -8, -15, S100B, SHBG, CDH5, and CXCL8 was not different between sexes, we observed that the SHBG gene which encodes the Sex Hormone-Binding Globulin was under-expressed in MPM patients as compared to healthy controls. SHBG is a major regulator of free plasma androgens and also mediates androgen and estrogen signaling at the cell membrane via cyclic adenosine monophosphate (Mononen and Schleutker, 2009).
+      It is generally accepted that although MPM is less common in women compared to men, female MPM patients survive longer (Balduyck et al., 2010; Musk et al., 2011; Linton et al., 2014; Taioli et al., 2014). It has been proposed that differences in asbestos exposure, tumor biology, and the impact of circulating hormones on host response must be investigated to understand this survival advantage and improve prognosis for patients of both genders (Taioli et al., 2014). The observed down-regulation of the SHBG gene in the group of MPM patients relative to the control group advocates the role of sex hormones in the pathogenesis and prognosis of the disease. This is stressed out by a study showing that estrogen receptor beta (ERβ) acts as a tumor suppressor of high potential relevance to prediction of disease progression and to therapeutic response in MPM patients (Pinton et al., 2009).
+      As in the case of SHBG, the genes encoding S100B, CDH5 and CXCL8 were found significantly under-expressed in MPM specimens as compared to their healthy counterparts. The protein product of S100B interacts with its target proteins within cells to regulate enzyme activities, cell growth, differentiation and Ca2+ homeostasis (Pang et al., 2012). It is thought that expression levels of individual S100 family proteins vary considerably in different tumors and with respect to cancer progression (Harpio and Einarsson, 2004).
+      CXCL8 or interleukin-8 (IL-8) is a proinflammatory CXC-type chemokine involved in the promotion of neutrophil chemotaxis and degranulation (Waugh and Wilson, 2008). It has been demonstrated that many types of human carcinomas express high levels of IL-8 relative to normal tissues (Palena et al., 2012). In addition, high serum levels of this chemokine correlate with disease progression and poor prognosis while a link exists between IL-8, tumor epithelial-mesenchymal transition (EMT) and tumor stemness (Palena et al., 2012; Gales et al., 2013). In this study, IL-8 gene was found down-regulated in the group of MPM patients compared to the control group. It has been demonstrated that neutrophil infiltration into the pleural space is a characteristic feature of an early and acute inflammatory response in several pleural diseases and that activated PMCs secrete IL-8 in a polarized fashion (Nasreen et al., 2001). Inhibition of IL-8 has been shown to reduce human MPM propagation in a nude mouse model (Galffy et al., 1999). Asbestos directly stimulate PMCs to synthesize IL-8, possibly playing an important role in mediating asbestos induced pleural inflammation (Batra and Antony, 2015; Mutsaers et al., 2015). Further studies are warranted to compare IL-8 expression and features of EMT at various stages of tumor development (Palena et al., 2012).
+      Vascular endothelial cadherin (VE-cadherin; CDH5), an endothelial specific cell-cell adhesion molecule, plays a pivotal role in the formation, maturation, and remodeling of the vascular wall (Gavard, 2009). It has been shown that CDH5 directly enhances the expression level of CLDN-5 by tethering repressive transcription factors away from the CLDN-5 promoter. Conversely, the absence of functional CDH5 is associated with loss of CLDN-5 expression (Taddei et al., 2008; Gavard, 2009). These results suggest that any changes in CDH5 will impact the endothelial barrier function at multiple levels and also explain why CDH5 inhibition may cause a marked increase in permeability (Gavard and Gutkind, 2008; Taddei et al., 2008). Increased permeability is an early step in the angiogenic process enabling endothelial migration out of the primary vessel in order to begin formation of the tumor neovasculature (Le Guelte et al., 2011). On the other hand, it has been demonstrated that induction of CDH5 during EMT promotes breast cancer progression via TGFβ signaling indicating that in certain tumor cells, CDH5 can induce cellular responses that are in contrast to its role in cell-cell contact growth inhibition in endothelial cells (Labelle et al., 2008). Thus, there are two distinct functions of CDH5 both in angiogenesis and progression of cancer (Labelle et al., 2008).
+      Regarding thoracic tumors in particular, it has been reported that VE-cadherin may be an interesting marker for analysis in anti-angiogenic therapeutic trials although results from clinical studies are pending (Reinmuth et al., 2010).
+      An important limitation of our findings is the lack of information regarding the asbestos exposure history of the MPM patients of the Gordon Mesothelioma study. If these data were available we could assess asbestos induced gene expression changes between MPM patients and controls. Our results require further investigation in the clinical setting with the inclusion of a large series of MPM patients vs. healthy asbestos exposed individuals serving as controls. Moreover, detailed information regarding the duration of asbestos exposure and the type of exposure (environmental/occupational) should also be incorporated in future research.
+    
+    
+      Conclusions
+      The results of this study are suggestive of a distinct gene expression profile of the claudin interactome in MPM and underline the epigenetic effect of asbestos on the transcriptional level of the CLDN-15 gene. The role of claudin-15 and S100B in pleural physiology and pathophysiology is unknown and requires in depth investigation at the functional level. Additionally, both CLDN-15 and S100B should be further investigated as gene biomarkers in MPM with respect to their potential to discriminate the histological MPM subgroups at the molecular level and thus provide tools for personalized therapy.
+    
+    
+      Author contributions
+      ER contributed in the study design; acquired, analyzed, and interpreted data; drafted the manuscript; gave final approval of the submitted version; agreed to be accountable for all aspects of the work. GV contributed in data analysis and interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. ES contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. KG contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. CH contributed in data interpretation; revised the draft critically; gave final approval of the submitted version; agreeded to be accountable for all aspects of the work. SZ conceived and designed the study; acquired, analyzed, and interpreted data; revised the draft critically; gave final approval of the submitted version; agreed to be accountable for all aspects of the work.
+    
+    
+      Funding
+      This work was funded by the Postgraduate Program in Primary Health Care by the Faculty of Medicine of the University of Thessaly, BIOPOLIS, Larissa, Greece.
+      
+        Conflict of interest statement
+        The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+      
+    
+  
+
+    
+      References
+      
+        AmashehS.MeiriN.GitterA. H.SchönebergT.MankertzJ.SchulzkeJ. D.. (2002). Claudin-2 expression induces cation-selective channels in tight junctions of epithelial cells. J. Cell Sci.
+115, 4969–4976. 10.1242/jcs.0016512432083
+      
+      
+        AmashehS.SchmidtT.MahnM.FlorianP.MankertzJ.TavalaliS.. (2005). Contribution of claudin 5 to barrier properties in tight junctions of epithelial cells. Cell Tissue Res.
+321, 89–96. 10.1007/s00441-005-1101-016158492
+      
+      
+        ApostolidouE.ParaskevaE.GourgoulianisK.MolyvdasP. A.HatzoglouC. (2012). Matrix metalloproteinases 2 and 9 increase permeability of sheep pleura in vivo. BMC Physiol.
+12:2. 10.1186/1472-6793-12-222424238
+      
+      
+        BalduyckB.TrousseD.NakasA.Martin-UcarA. E.EdwardsJ.WallerD. A. (2010). Therapeutic surgery for nonepithelioid malignant pleural mesothelioma: is it really worthwhile?
+Ann. Thorac. Surg.
+89, 907–911. 10.1016/j.athoracsur.2009.12.04120172152
+      
+      
+        BatraH.AntonyV. B. (2015). Pleural mesothelial cells in pleural and lung diseases. J. Thorac. Dis.
+7, 964–980. 10.3978/j.issn.2072-1439.2015.02.1926150910
+      
+      
+        BrimsF. J.LeeY. C.CreaneyJ. (2013). The continual search for ideal biomarkers for mesothelioma: the hurdles. J. Thorac. Dis.
+5, 364–366. 10.3978/j.issn.2072-1439.2013.04.1923825777
+      
+      
+        ChaoY. C.PanS. H.YangS. C.YuS. L.CheT. F.LinC. W.. (2009). Claudin-1 is a metastasis suppressor and correlates with clinical outcome in lung adenocarcinoma. Am. J. Respir. Crit. Care Med.
+179, 123–133. 10.1164/rccm.200803-456OC18787218
+      
+      
+        Chaouche-MazouniS.CopinM. C.LassalleP.LebailiN.CortotA.ScherpereelA. (2013). M14K and M38K malignant pleural mesothelioma cell lines preserve the same claudin-based phenotype in vivo. In Vivo
+27, 227–232. 23422483
+      
+      
+        Chaouche-MazouniS.ScherpereelA.ZaamoumR.MihalacheA.AmirZ. C.LebailiN.. (2015). Claudin 3, 4, and 15 expression in solid tumors of lung adenocarcinoma versus malignant pleural mesothelioma. Ann. Diagn. Pathol.
+19, 193–197. 10.1016/j.anndiagpath.2015.03.00725935651
+      
+      
+        Chatr-AryamontriA.BreitkreutzB. J.HeinickeS.BoucherL.WinterA.StarkC. (2013). The Biogrid interaction database: 2013 update. Nucleic Acids Res.
+41, 816–823. 10.1093/nar/gks115823203989
+      
+      
+        ChristensenB. C.MarsitC. J. (2011). Epigenomics in environmental health. Front Genet.
+2:84. 10.3389/fgene.2011.0008422303378
+      
+      
+        CreaneyJ.DickI. M.RobinsonB. W. S. (2015). Discovery of new biomarkers for malignant mesothelioma. Curr. Pulmonol. Rep.
+4, 15–21. 10.1007/s13665-015-0106-825927434
+      
+      
+        DavidsonB. (2011). The diagnostic and molecular characteristics of malignant mesothelioma and ovarian/peritoneal serous carcinoma. Cytopathology
+22, 5–21. 10.1111/j.1365-2303.2010.00829.x21114695
+      
+      
+        DavidsonB.ZhangZ.KleinbergL.LiM.FlørenesV. A.WangT. L.. (2006). Gene expression signatures differentiate ovarian/peritoneal serous carcinoma from diffuse malignant peritoneal mesothelioma. Clin. Cancer Res.
+12, 5944–5950. 10.1158/1078-0432.CCR-06-105917062665
+      
+      
+        DiamantisM.WhiteN. M. A.YousefG. M. (2010). Personalized medicine: marking a new epoch in cancer patient management. Mol. Cancer Res.
+8, 1175–1187. 10.1158/1541-7786.MCR-10-026420693306
+      
+      
+        DittmannI.AmashehM.KrugS. M.MarkovA. G.FrommM.AmashehS. (2014). Laurate permeabilizes the paracellular pathway for small molecules in the intestinal epithelial cell model HT-29/B6 via opening the tight junctions by reversible relocation of claudin-5 [corrected]. Pharm. Res.
+31, 2539–2548. 10.1007/s11095-014-1350-224633418
+      
+      
+        FacchettiF.GentiliF.LonardiS.BercichL.SantinA. (2007a). Claudin-4 in mesothelioma diagnosis. Histopathology
+51, 261–263. 10.1111/j.1365-2559.2007.02743.x17573941
+      
+      
+        FacchettiF.LonardiS.GentiliF.BercichL.FalchettiM.TardanicoR.. (2007b). Claudin 4 identifies a wide spectrum of epithelial neoplasms and represents a very useful marker for carcinoma versus mesothelioma diagnosis in pleural and peritoneal biopsies and effusions. Virchows Arch.
+451, 669–680. 10.1007/s00428-007-0448-x17609977
+      
+      
+        FujiiM.FujimotoN.HirakiA.GembaK.AoeK.UmemuraS.. (2012). Aberrant DNA methylation profile in pleural fluid for differential diagnosis of malignant pleural mesothelioma. Cancer Sci.
+103, 510–514. 10.1111/j.1349-7006.2011.02180.x22146010
+      
+      
+        GalesD.ClarkC.ManneU.SamuelT. (2013). The chemokine CXCL8 in carcinogenesis and drug response. ISRN Oncol.
+2013:859154. 10.1155/2013/85915424224100
+      
+      
+        GalffyG.MohammedK. A.NasreenN.WardM. J.AntonyV. B. (1999). Inhibition of Inteleukin-8 reduces human malignant pleural mesothelioma propagation in nude mouse model. Oncol. Res.
+11, 187–194. 10566617
+      
+      
+        GavardJ. (2009). Breaking the VE-cadherin bonds. FEBS Lett.
+538, 1–6. 10.1016/j.febslet.2008.11.032
+      
+      
+        GavardJ.GutkindJ. S. (2008). VE-cadherin and claudin-5: it takes two to tango. Nat. Cell Biol.
+10, 883–885. 10.1038/ncb0808-88318670447
+      
+      
+        Gonzalez-MariscalL.GarayE.QuirósM. (2010). Regulation of claudins by posttranslational modifications and cell-signaling cascades. Curr. Top. Membr.
+65, 113–150. 10.1016/S1063-5823(10)65006-5
+      
+      
+        GordonG. J.RockwellG. N.JensenR. V.RheinwaldJ. G.GlickmanJ. N.AronsonJ. P.. (2005). Identification of novel candidate oncogenes and tumor suppressors in malignant pleural mesothelioma using large scale transcriptional profiling. Am. J. Pathol.
+166, 1827–1840. 10.1016/S0002-9440(10)62492-315920167
+      
+      
+        HarpioR.EinarssonR. (2004). S100 proteins as cancer biomarkers with focus on S100B in malignant melanoma. Clin. Biochem.
+37, 512–518. 10.1016/j.clinbiochem.2004.05.01215234232
+      
+      
+        JagirdarR.SolenovE. I.HatzoglouC.MolyvdasP. A.GourgoulianisK. I.ZarogiannisS. G. (2013). Gene expression profile of aquaporin 1 and associated interactors in malignant pleural mesothelioma. Gene
+517, 99–105. 10.1016/j.gene.2012.12.07523313295
+      
+      
+        JenningsC. J.WalshP. M.DeadyS.HarveyB. J.ThomasW. (2014). Malignant pleural mesothelioma incidence and survival in the Republic of Ireland 1994-2009. Cancer Epidemiol.
+38, 35–41. 10.1016/j.canep.2013.12.00224394956
+      
+      
+        JoV. Y.CibasE. S.PinkusG. S. (2014). Claudin-4 immunochemistry is highly effective in distinguishing adenocarcinoma from malignant mesothelioma in effusion cytology. Cancer Cytopathol.
+122, 299–306. 10.1002/cncy.2139224421209
+      
+      
+        KamburovA.StelzlU.LehrachH.HerwigR. (2013). The ConsensusPathDB interaction database: 2013 update. Nucleic Acids Res.
+41, 793–800. 10.1093/nar/gks105523143270
+      
+      
+        KamburovA.WierlingC.LehrachH.HerwigR. (2009). ConsensusPathDB-a database for integrating human functional interaction networks. Nucleic Acids Res.
+37, 623–628. 10.1093/nar/gkn69818940869
+      
+      
+        KleinbergL.HolthA.FridmanE.SchwartzI.Le ShihM.DavidsonB. (2007). The diagnostic role of claudins in serous effusions. Am. J. Clin. Pathol.
+127, 928–937. 10.1309/V025QRN3R9CJGNPX17509990
+      
+      
+        LabelleM.SchnittlerH. J.AustD. E.FriedrichK.BarettonG.VestweberD.. (2008). Vascular endothelial cadherin promotes breast cancer progression via transforming growth factor β signaling. Cancer Res.
+68, 1388–1397. 10.1158/0008-5472.CAN-07-270618316602
+      
+      
+        Lal-NagM.MorinP. J. (2009). The Claudins. Genome Biol.
+10:235. 10.1186/gb-2009-10-8-23519706201
+      
+      
+        Le GuelteA.DwyerJ.GavardJ. (2011). Jumping the barrier: VE-cadherin, VGFA and other angiogenic modifiers in cancer. Biol. Cell
+103, 593–605. 10.1042/BC2011006922054419
+      
+      
+        LintonA.PavlakisN.O'ConnellR.SoebergM.KaoS.ClarkeS.. (2014). Factors associated with survival in a large series of patients with malignant pleural mesothelioma in New South Wales. Br. J. Cancer
+111, 1860–1869. 10.1038/bjc.2014.47825188323
+      
+      
+        Lopez-RiosF.ChuaiS.FloresR.ShimizuS.OhnoT.WakaharaK.. (2006). Global gene expression profiling of pleural mesotheliomas: overexpression of aurora kinases and P16/CDKN2A deletion as prognostic factors and critical evaluation of microarray-based prognostic prediction. Cancer Res.
+66, 2970–2979. 10.1158/0008-5472.CAN-05-390716540645
+      
+      
+        MarkovA. G.AmashehS. (2014). Tight junction physiology of pleural mesothelium. Front. Physiol.
+5:221. 10.3389/fphys.2014.0022125009499
+      
+      
+        MarkovA. G.FalchukE. L.KruglovaN. M.RybalchenkoO. V.FrommM.AmashehS. (2014). Comparative analysis of theophylline and cholera toxin in rat colon reveals an induction of sealing tight junction proteins. Pflugers Arch.
+466, 2059–2065. 10.1007/s00424-014-1460-z24515293
+      
+      
+        MarkovA. G.VoronkovaM. A.VolginG. N.YablonskyP. K.FrommM.AmaneshS. (2011). Tight junction proteins contribute to barrier properties in human pleura. Respir. Physiol. Neurobiol.
+175, 331–335. 10.1016/j.resp.2010.12.01221187167
+      
+      
+        MelaiuO.CristaudoA.MelissariE.Di RussoM.BonottiA.BrunoR.. (2012). A review of transcriptome studies combined with data mining reveals novel potential markers of malignant pleural mesothelioma. Mutat. Res.
+750, 132–140. 10.1016/j.mrrev.2011.12.00322198210
+      
+      
+        MilatzS.KrugS. M.RosenthalR.GünzelD.MüllerD.SchulzkeJ. D.. (2010). Claudin-3 acts as a sealing component of the tight junction for ions of either charge and uncharged solutes. Biochim. Biophys. Acta
+1798, 2048–2057. 10.1016/j.bbamem.2010.07.01420655293
+      
+      
+        MononenN.SchleutkerJ. (2009). Polymorphisms in genes involved in androgen pathways as risk factors for prostate cancer. J. Urol.
+181, 1541–1549. 10.1016/j.juro.2008.11.07619230916
+      
+      
+        MuskA. W.OlsenN.AlfonsoH.ReidA.MinaR.FranklinP.. (2011). Predicting survival in malignant mesothelioma. Eur. Respir. J.
+38, 1420–1424. 10.1183/09031936.0000081121737558
+      
+      
+        MutsaersS. E.BirnieK.LansleyS.HerrickS. E.LimC. B.PreleC. M. (2015). Mesothelial cells in tissue repair and fibrosis. Front. Pharmacol.
+6:113. 10.3389/fphar.2015.0011326106328
+      
+      
+        NakanoT. (2008). Current therapies for malignant pleural mesothelioma. Environ. Health Prev. Med.
+13, 75–83. 10.1007/s12199-007-0016-719568885
+      
+      
+        NasreenN.MohammedK. A.HardwickJ.Van HornR. D.SandersK. L.DoerschukC. M.. (2001). Polar production of interleukin-8 by mesothelial cells promotes the transmesothelial migration of neutrophils: role of intercellular adhesion molecule-1. J. Infect. Dis.
+183, 1638–1645. 10.1086/32070011343213
+      
+      
+        OhtaY.SasakiY.SaitoM.KushimaM.TakimotoM.ShiokawaA.. (2013). Claudin-4 as a marker for distinguishing malignant mesothelioma from lung carcinoma and serous adenocarcinoma. Int. J. Surg. Pathol.
+21, 493–501. 10.1177/106689691349132023775021
+      
+      
+        OrdóñezN. G. (2013). Value of claudin-4 immunostaining in the diagnosis of mesothelioma. Am. J. Clin. Pathol.
+139, 611–619. 10.1309/AJCP0B3YJBXWXJII23596113
+      
+      
+        OsanaiM.TakasawaA.MurataM.SawadaN. (2017). Claudins in cancer: bench to bedside. Pflugers Arch.
+469, 55–67. 10.1007/s00424-016-1877-727624415
+      
+      
+        OstroffR. M.MehanM. R.StewartA.AyersD.BrodyE. N.WilliamsS. A.. (2012). Early detection of malignant pleural mesothelioma in asbestos-exposed individuals with a noninvasive proteomics-based surveillance tool. PLoS ONE
+7:e46091. 10.1371/journal.pone.004609123056237
+      
+      
+        OubanA.AhmedA. A. (2010). Claudins in human cancer: a review. Histol. Histopathol.
+25, 83–90. 10.14670/HH-25.8319924644
+      
+      
+        PalenaC.HamiltonD. H.FernandoR. I. (2012). Influence of IL-8 on the epithelial-mesenchymal transition and the tumor microenvironment. Future Oncol.
+8, 713–722. 10.2217/fon.12.5922764769
+      
+      
+        PangX.MinJ.LiuL.LiuY.MaN.ZhangH. (2012). S100B protein as a possible participant in the brain metastasis of NSCLC. Med. Oncol.
+29, 2626–2632. 10.1007/s12032-012-0169-022286962
+      
+      
+        PanouV.VybergM.WeinreichU. M.MeristoudisC.FalkmerU. G.RøeO. D. (2015). The established and future biomarkers of malignant pleural mesothelioma. Cancer Treat. Rev.
+41, 486–495. 10.1016/j.ctrv.2015.05.00125979846
+      
+      
+        PintonG.BrunelliE.MurerB.PuntoniR.PuntoniM.FennelD. A.. (2009). Estrogen receptor-b affects the prognosis of human malignant mesothelioma. Cancer Res.
+69, 4598–4604. 10.1158/0008-5472.CAN-08-452319487281
+      
+      
+        RascoeP. A.JupiterD.CaoX.LittlejohnJ. E.SmytheW. R. (2012). Molecular pathogenesis of malignant mesothelioma. Expert Rev. Mol. Med.
+14:e12. 10.1017/erm.2012.622622048
+      
+      
+        ReinmuthN.ThomasM.MeisterM.SchnabelP. A.KreuterM. (2010). Current data on predictive markers for anti-angiogenic therapy in thoracic tumors. Eur. Respir. J.
+36, 915–924. 10.1183/09031936.0007400920889462
+      
+      
+        RhodesD. R.YuJ.ShankerK.DeshpandeN.VaramballyR.GhoshD.. (2004). ONCOMINE: a cancer microarray database and integrated data-mining platform. Neoplasia
+6, 1–6. 10.1016/S1476-5586(04)80047-215068665
+      
+      
+        RobinsonB. W.LakeR. A. (2005). Advances in malignant mesothelioma. N. Engl. J. Med.
+353, 1591–1603. 10.1056/NEJMra05015216221782
+      
+      
+        SafranM.Chalifa-CaspiV.ShmueliO.OlenderT.LapidotM.RosenN.. (2003). Human gene-centric databases at the weizmann institute of science: genecards, UDB, CroW 21 and HORDE. Nucleic Acids Res.
+31, 142–146. 10.1093/nar/gkg05012519968
+      
+      
+        SekidoY. (2013). Molecular pathogenesis of malignant mesothelioma. Carcinogenesis
+34, 1413–1419. 10.1093/carcin/bgt16623677068
+      
+      
+        SoiniY. (2011). Claudins in lung diseases. Respir. Res.
+12:70. 10.1186/1465-9921-12-7021619599
+      
+      
+        SoiniY.KinnulaV.KahlosK.PääkköP. (2006). Claudins in differential diagnosis between mesothelioma and metastatic adenocarcinoma of the pleura. J. Clin. Pathol.
+59, 250–254. 10.1136/jcp.2005.02858916505274
+      
+      
+        SzklarczykD.FranceschiniA.KuhnM.SimonovicM.RothA.MinguezP.. (2011). The STRING database in 2011: functional interaction networks of proteins, globally integrated and scored. Nucleic Acids Res.
+39, 561–568. 10.1093/nar/gkq97321045058
+      
+      
+        TaddeiA.GiampietroC.ContiA.OrsenigoF.BreviarioF.PirazzoliV.. (2008). Endothelial adherens junctions control tight junctions by VE-cadherin mediated upregulation of claudin-5. Nat. Cell Biol.
+10, 923–934. 10.1038/ncb175218604199
+      
+      
+        TaioliE.WolfA. S.Camacho-RiveraM.FloresR. M. (2014). Women with malignant mesothelioma have a three-fold better survival rate than men. Ann. Thorac. Surg.
+98, 1020–1024. 10.1016/j.athoracsur.2014.04.04024928677
+      
+      
+        TasiopoulouV.MagouliotisD.SolenovE. I.VavougiosG.MolyvdasP. A.GourgoulianisK. I.. (2015). Transcriptional over-expression of chloride intracellular channels 3 and 4 in malignant pleural mesothelioma. Comput. Biol. Chem.
+59, 111–116. 10.1016/j.compbiolchem.2015.09.01226445368
+      
+      
+        ValleB. L.MorinP. J. (2010). Claudins in cancer biology. Curr. Top. Membr.
+65, 293–333. 10.1016/S1063-5823(10)65013-2
+      
+      
+        VavougiosG. D.SolenovE. I.HatzoglouC.BaturinaG. S.KatkovaL. E.MolyvdasP. A.. (2015). Computational genomic analysis of PARK7 interactome reveals high BBS1 gene expression as a prognostic factor favoring survival in malignant pleural mesothelioma. Am. J. Physiol. Lung Cell. Mol. Physiol.
+309, 677–686. 10.1152/ajplung.00051.201526254420
+      
+      
+        WaughD. J.WilsonC. (2008). The interleukin-8 pathway in cancer. Clin. Cancer Res.
+14, 6735–6741. 10.1158/1078-0432.CCR-07-484318980965
+      
+      
+        ZarogoulidisP.TsakiridisK.KarapantzouC.LampakiS.KioumisI.PitsiouG.. (2015). Use of proteins as biomarkers and their role in carcinogenesis. J. Cancer
+6, 9–18. 10.7150/jca.1056025553084
+      
+    
+  

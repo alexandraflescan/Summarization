@@ -1,0 +1,1482 @@
+oai:pubmedcentral.nih.gov:53626512017-04-04springeropenpmc-open
+Current concepts of mechanisms in drug-induced hepatotoxicity
+
+    
+      Key Points
+      
+Compared with past use, current use of antibiotics in children was associated with an increase in the risk for liver injury.Substantial differences in risk estimates have been found among individual antibiotics.Paediatricians should be aware of the potential increase of liver enzymes in children taking ceftriaxone, sulphamethoxazole/trimethoprim combination or clarithromycin, even for short periods.
+
+    
+    
+      Introduction
+      Antibiotics are the most common drug class causing liver injury in the general population [1–4]. Antibiotic-induced hepatotoxic reactions are usually idiosyncratic, unpredictable and present a poorly understood pathogenesis [5–7]. The diagnosis of liver injury is challenging due to heterogeneous clinical manifestations, ranging from transient, mild, asymptomatic liver function abnormalities to rare, potentially fatal, acute liver failure [5]. Moreover, especially for antibiotics, causality assessment is difficult because the indication for antibiotic treatment acts as confounder. In fact, it is known that bacterial infection may lead to changes in hepatic enzymes, representing an underlying cause of liver injury per se [7].
+      The diagnosis of antibiotic-induced liver injury is even more of a challenge in the paediatric setting because of the age-dependent maturation of the cytochrome P450 enzymes involved in the antibiotic (and overall medicines) metabolism [8].
+      Although several case reports in paediatrics suggest that antibiotic-induced liver injury in children would be likely, at least as in the general population [7], only a few studies addressed this issue specifically in paediatrics [1, 2, 9–11]. Moreover, spontaneous adverse drug reaction (ADR) reporting systems showed that antibiotics are most frequently implicated in hepatic ADRs in children and adolescents [1]. However, since these data lack denominator [12–14], findings from spontaneous reports may also be explained by the widespread use of these drugs in the paediatric population [15]. Moreover, a previous population-based study investigating the power of real-world data mining on electronic healthcare databases to assess hepatic drug safety in paediatric outpatients showed that antibiotics had the highest risk of acute liver injury compared with non-use of any drug (age- and sex-adjusted relative risks: 25.9, 95% confidence interval [CI] 13.4–50.0, for clarithromycin; 18.6, 95% CI 11.3–30.6, for amoxicillin/clavulanic acid; and 7.5, 95% CI 3.4–16.8, for amoxicillin) [2]. However, confounding by indication and protopathic bias could not be fully excluded.
+      Given that antibiotics are more commonly prescribed in children than in adults, and since no studies have so far examined antibiotic-induced liver injury specifically in the paediatric population, we conducted a large, multi-database, population-based, case-control study to investigate the risk estimates of liver injury associated with individual antibiotics in children and adolescent outpatients.
+    
+    
+      Methods
+      
+        Source Population
+        We selected all children and adolescents younger than 18 years of age from three longitudinal electronic primary care databases in two European countries: (i) Pedianet, a family paediatrician (FP) registry; (ii) Health Search–IMS Longitudinal Patient Database (HSD), a general practice (GP) registry from Italy; and (iii) the Integrated Primary Care Information (IPCI), a GP database from The Netherlands.
+        All three databases contain anonymous data on patient demographics, reasons for clinic visits, medical diagnoses by GP/FP and specialist, hospitalizations, drug prescriptions, and laboratory and other diagnostic findings. In The Netherlands, the paediatric population receives medical care from GPs, while, in Italy, medical care is provided by FPs (up to 14 years of age) and GPs (over 14 years of age). These databases are representative of the Italian and Dutch paediatric populations and have been proven to be valid data sources for pharmacoepidemiological studies [1, 15–19]. The study period ran from 1 January 2000 to 31 December 2008.
+      
+      
+        Case and Control Selection
+        From this population, we excluded all children with clear competing causes of liver injury, including viral infections, hepatic neoplasm, autoimmune hepatitis, neonatal jaundice, genetic hepatopathy, biliary tract diseases and abdominal trauma. Details on case definition, identification and validation have been previously described [2]. In brief, by applying a similar stepwise approach across all three databases, all potential cases were extracted using (i) International Classification of Primary Care (ICPC) codes (as used in the IPCI database) or International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9-CM) codes (as used in the Pedianet and HSD databases) for hepatic reactions/signs (i.e. hepatitis, liver failure, hepatic steatosis, hepatic cirrhosis, hepatic necrosis, hepatomegaly, or jaundice); (ii) specific keywords for free-text search; and (iii) laboratory age-specific values of liver function tests (i.e. alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase [AP] and total bilirubin). For each potential case, the complete electronic medical record history (including results of laboratory data, ultrasound and other diagnostic tests, as well as hospital discharge summaries and specialists’ letters) was then manually validated by four medically trained investigators, blinded to the drug exposure. Based on Council for International Organizations of Medical Sciences (CIOMS) criteria and in accordance with previously published evidence [20–24], cases of liver injury were defined as (i) any age-specific increase of more than two times the upper limit of normal (ULN) range for liver function tests, i.e. ALT, AST, AP or total bilirubin, or their combinations; or (ii) diagnosis of liver injury confirmed by either a specialist, GP or FP, or via ultrasound evidence [20, 21]. Specific search terms, such as jaundice and hepatomegaly, which are suggestive of liver injury but are not sufficient by themselves to confirm a diagnosis of livery injury, were considered only in association with other more specific symptoms/signs (e.g. abnormal liver enzyme values, steatosis). Children with elevation of biochemical liver tests (i.e. ALT, AST, or AP) less than two times the ULN, or with isolated increases of γ-glutamyltransferase, were excluded as cases [21, 25]. In case of uncertainty, cases were reviewed by expert medical doctors with the aim of reaching consensus on whether the case was indeed indicative of liver injury [2].
+        The index date of the event was defined as the earliest date of the hepatic symptoms/signs (i.e. fatigue, weakness, anorexia, nausea, jaundice, dark urine, light stools, itching and bloating) or, in the absence of these, the date of abnormal liver tests immediately preceding the diagnosis.
+        Within the same underlying study population, we selected up to 100 control participants for each case at the same index date, through incidence density sampling, according to which the likelihood of being selected as a control is proportional to the person-time [26]. Controls were matched to the corresponding case on index date, year of birth, sex, and database.
+      
+      
+        Exposure Definition
+        Antibiotic exposure (Anatomical Therapeutic Chemical [ATC] code J01*) was evaluated based on prescription data from these healthcare databases. To estimate the association between antibiotic use and liver injury, we created exposure categories based on timing and duration of use. Exposure was categorized as current if the index date fell during antibiotic exposure or within 15 days after the end of the prescription (i.e. carryover period), recent if the last prescription ended within 16–90 days before the index date, or past if it ended more than 90 days before. No use was defined as the absence of a prescription before the index date.
+      
+      
+        Patient Comorbidities
+        Several comorbidities were addressed as potential risk factors for liver injury. Patient medical histories were screened for diagnoses of diabetes mellitus, hypoglycemia, obesity, hyperlipidemia, nutrition-related disorders, hyper- or hypothyroidism, hypertension, or alcohol intake or smoking within 1 year before the index date, while congenital diseases were identified any time before the index date. We also considered concomitant use (i.e. within 3 months of the index date) of other potential hepatotoxic medications, including antimycotics, drugs for the treatment of tuberculosis, drugs for acid-related disorders, anticonvulsants, drugs for respiratory disorders, paracetamol and its combinations, nervous system drugs (such as psycholeptics and psychoanaleptics), non-steroidal anti-inflammatory drugs (NSAIDs), or immunosuppressants.
+      
+      
+        Main Analyses
+        We compared characteristics of cases and controls using conditional logistic regression. Covariates associated with liver injury in the univariate analysis at a p-value &lt;0.10, and those that changed the point estimate of the association between antibiotics and liver injury by more than 10%, were included in the final adjusted model [27–29].
+        To minimize the effect of confounding by indication, past use of any antibiotic served as the reference category, instead of non-use of antibiotics [30]. Children who have never been treated with antibiotics during the study period may be healthier than those receiving antibiotics, and ultimately this may result in an overestimation of the risk of liver injury for all antibiotic users. Several multivariate models have been run as primary analyses to estimate the odds ratios (ORs), together with 95% CIs, as a measure of the association between liver injury and current use of antibiotics grouped as follows: (i) antibiotics overall; (ii) antibiotics by class; (iii) individual antibiotics.
+      
+      
+        Sensitivity and Subgroup Analyses
+        To rule out possible effects of outcome misclassification, we repeated all the analyses in a dataset restricted to patients for which liver injury was strictly defined as more than twice higher than the ULN of laboratory parameters and confirmed by specialists.
+        To better address confounding by indication due to current infections, a sensitivity analysis was conducted using current use of amoxicillin as a reference group. Amoxicillin was chosen since it is the most commonly prescribed antibiotic in children [31] and is considered to be ‘non-hepatotoxic’ when used as a single ingredient compared with its combination with clavulanic acid [15, 32].
+        To investigate exposure misclassification, we changed the risk window from 15 days to 0 days (i.e. no carryover period at all). In order to explore the impact of age as an effect modifier, we stratified the analysis by age category.
+        All analyses were conducted using SPSS version 20 (IBM Corporation, Armonk, NY, USA). We used a p value of &lt;0.05 as the threshold of statistical significance, except for the selection of the covariates to be included in the final multivariate models (p &lt; 0.10). Wald’s test was used to compare characteristics among cases and controls.
+      
+    
+    
+      Results
+      
+        Main Analysis
+        In the database source population of 429,772 children and adolescents (&lt;18 years of age) in Italy (n = 145,706 from Pedianet and n = 190,772 from HSD) and The Netherlands (n = 93,294 from IPCI), we identified 938 cases of liver injury after exclusion of all clear competing causes. These cases were matched to 93,665 controls. Case characteristics are described in the electronic supplementary table.
+        The majority of cases were males (58.2%) with a mean age of 11.3 years (standard deviation 5.1). Cases had a greater burden of comorbidities such as diabetes, hyperlipidaemia, obesity, thyroid disorders or congenital disease than controls. Children with liver injury were more likely to be currently exposed to acid-suppressant drugs, anticonvulsants, NSAIDs, psycholeptic agents, paracetamol, and anti-asthmatics than children without liver injury (Table 1).Table 1Demographic and clinical characteristics of cases of liver injury and matched controls from the paediatric population identifiedCases [N = 938] (%)Controls [N = 93,665] (%)OR (95% CI)
+p valuea
+GenderMatching factor Male546 (58.2)54,559 (58.2)Mean age, years (±SD)11.3 (5.1)11.4 (5.2)Matching factorAge category, years &lt;288 (9.4)8811 (9.4) 2–5101 (10.8)9704 (10.4) 6–11260 (27.8)26,060 (27.7) 12–18489 (52.1)49,090 (52.4)DatabaseMatching factor HSD (Italy)478 (51.0)47,480 (51.0) Pedianet (Italy)382 (40.7)38,159 (40.7) IPCI (Netherlands)78 (8.3)7706 (8.2)Matching factorComorbiditiesb
+ Diabetes mellitus16 (1.7)264 (0.3)6.2 (3.7–10.3)&lt;0.001 Hypoglycaemia–27 Obesity57 (6.1)1767 (1.9)3.5 (2.6–4.5)&lt;0.001 Hyperlipidaemia7 (0.7)177 (0.2)4.0 (1.9–8.5)&lt;0.001 Thyroid imbalance9 (1.0)395 (0.4)2.3 (1.2–4.5)0.014 Nutrition-related disordersc
+10 (1.1)762 (0.8)1.3 (0.7–2.5)0.390 Hypertension1 (0.1)89 (0.1)NA Congenital diseasesd
+18 (1.9)871 (0.9)2.1 (1.3–3.4)0.002 Alcohol consumptione
+–22 (0.0)NA Smokinge
+1 (0.1)238 (0.3)NAOther hepatotoxic medicationsf [ATC code II level] Drugs for acid-related disorders [A02]8 (0.9)141 (0.2)5.8 (2.8–11.9)&lt;0.001 Antimycotics for systemic use [J02]1 (0.01)41 (0.1)NA0.375 Antimycobacterials [J04]2 (0.2)9 (0.1)NA&lt;0.001 Sex hormones [G03]10 (1.1)678 (0.7)1.8 (0.8–3.8)0.133 Immunosuppressants [L04]–113NA NSAIDs [M01]10 (1.1)320 (0.3)3.4 (1.8–6.3)&lt;0.001 Paracetamol and its combinations [N02BE]4 (0.4)128 (0.1)3.2 (1.2–8.7)0.022 Anticonvulsants [N03]12 (1.3)323 (0.3)3.7 (2.1–6.7)&lt;0.001 Psycholeptics [N05]3(0.3)93 (0.1)3.3 (1.0–10.4)0.043 Psychoanaleptics [N06]3 (0.3)107 (0.1)2.9 (0.9–9.1)0.075 Anti-asthmatic agents [R03]37 (3.9)1859 (2.0)2.4 (1.7–3.3)&lt;0.001Estimates were only provided in the event of at least three exposed cases
+OR odds ratio, CI confidence interval, SD standard deviation, NA not available, HSD Health Search/CSD database, IPCI Integrated Primary Care Information, NSAIDs non-steroidal anti-inflammatory drugs, ATC Anatomical Chemical Therapeutic
+aWald’s test
+bAll the covariates for comorbidity were assessed within 365 days before the index date, except for congenital defects (cardiovascular, haematologic, pregnancy, childbirth and puerperium complications) that have been evaluated from birth
+cNutrition-related disorders include feeding problems of children
+dCongenital diseases include ‘congenital cardiac defects’, ‘congenital defects’, ‘complications of pregnancy, childbirth, and the puerperium’, ‘haemolytic congenital defects’ and ‘congenital anomalies’
+eData available only from the HSD
+fUse of other potentially hepatotoxic medications was assessed at the index date
+
+        Compared with past use, current use of antibiotics overall (adjusted OR [ORadj] 3.22, 95% CI 2.57–4.03) was significantly (p &lt; 0.001) associated with an increased risk of liver injury. This association, although less strong, was also observed for recent use of any antibiotic (ORadj 1.53, 95% CI 1.24–1.89; p = 0.043). With regard to different antibiotic classes, we found some heterogeneity, with the lowest risk estimates being those for penicillins (ORadj 2.83, 95% CI 2.06–3.90) and the highest for fluoroquinolones (ORadj 13.87, 95% CI 4.81–39.95) [Table 2].Table 2Associations between the use of antibiotica therapeutic classes and risk of liver injury in the paediatric population identifiedLiver injury (broad definition)Liver injury (strict definition)Cases [N = 938] (%)Controls [N = 93,665] (%)ORmatched (95% CI)ORadjusted
+b (95% CI)Cases [N = 485] (%)Controls [N = 48,500] (%)ORadjusted
+b (95% CI)Past use of any antibiotic417 (44.5)40,740 (43.5)RefRef211 (43.5)21,200 (43.7)RefRecent use of any antibiotic138 (14.7)8044 (8.6)1.73 (1.42–2.12)1.53 (1.24–1.89)69 (14.2)4198 (8.7)0.68 (0.55–0.85)Current antibiotic use (ATC code)117 (12.5)3398 (3.6)3.49 (2.82–4.32)3.22 (2.57–4.03)59 (12.2)1749 (3.6)3.52 (2.60–4.76) Tetracyclines (J01A)3 (0.3)68 (0.1)4.07 (1.27–13.05)4.05 (1.25–13.18)–36 (0.1)NA Amphenicols (J01B)–12 (0.4)NANA–8 (0)NA Penicillins (J01C)46 (4.9)1600 (1.7)2.91 (2.13–3.98)2.83 (2.06–3.90)17 (3.5)822 (1.7)2.16 (1.30–3.57) Cephalosporins (J01D)26 (2.8)719 (0.8)3.77 (2.50–5.69)3.48 (2.29–5.31)15 (3.1)369 (0.8)4.47 (2.53–7.53) Sulfonamides (J01E)5 (0.5)55 (0.1)8.81 (3.51–22.15)12.39 (5.49–27.98)2 (0.4)32 (0.1)NA Macrolides (J01F)21 (2.2)695 (0.7)3.01 (1.93–4.71)2.89 (1.84–4.54)12 (2.5)351 (0.7)3.53 (1.95–6.40) Aminoglycosides (J01G)–5 (0.1)NANA–5 (0)NA Fluoroquinolonesc (J01M)3 (0.3)29 (0)10.07(3.04–33.33)13.87 (4.81–39.95)3 (0.6)16 (0)19.03 (5.41–66.88) Other antibiotics–44 (1.3)NANA–22 (0)NA More than one antibiotic13 (1.4)171 (0.2)7.69 (4.32–13.69)9.41 (5.54–15.97)10 (2.1)88 (0.2)12.20 (6.19–24.04)No antibiotic use266 (28.4)41,483 (44.3)0.61 (0.52–0. 72)0.76 (0.64–0.89)146 (30.1)21,353 (44.0)0.68 (0.55–0.85)
+OR
+matched matched odds ratio, OR
+adjusted adjusted odds ratio, ATC Anatomical Chemical Therapeutic, NA not available, OR odds ratio, CI confidence interval, Ref reference TBC tubercolosis
+aAll classes of antibiotics, as retrieved from prescription data, are reported in the table; however, risk estimates were only estimated for antibiotic classes having more than three exposed cases
+bOR adjusted for potential confounders only if, in the univariate analysis, they changed the point estimate of the association between antibiotics and liver injury by more than 10% (such as concomitant use of anti-asthmatics and drugs for the treatment of TBC), or between antibiotics and definite liver injury (any covariate)
+cNo further analyses fit within the group because of the low number of cases
+
+        Table 3 shows the risk estimates of liver injury for each individual antibiotic compared with past use of any antibiotic. Except for azithromycin, the risk was significantly increased for current use of each antibiotic (p &lt; 0.005), varying from the lowest ORadj of 1.86 (95% CI 1.08–3.21) for amoxicillin to the highest ORadj of 24.16 (95% CI 11.78–49.54) for cotrimoxazole (i.e. sulphamethoxazole/trimethoprim) and 26.70 (95% CI 12.09–58.96) for ceftriaxone.Table 3Associationsa between individual antibioticsb and the risk of liver injury in the paediatric population identifiedLiver injury (broad definition)Liver injury (strict definition)Cases [N = 938] (%)Controls [N = 93,665] (%)ORmatched (95% CI)ORadjusted
+c (95 CI%)Cases [N = 485] (%)Controls [N = 48,500] (%)ORadjusted
+c (95% CI)Past use of any antibiotic417 (44.5)40740 (43.5)RefRef211 (43.5)21,200 (43.7)RefPenicillins Amoxicillin19 (2.0)842 (0.9)2.31 (1.45–3.70)1.86 (1.08–3.21)6 (1.2)424 (0.9)1.51 (0.66–3.45) Amoxicillin/clavulanic acid22 (2.3)697 (0.7)3.20 (2.07–4.9)2.77 (1.70–4.51)10 (2.1)365 (0.8)2.83 (1.49–5.40)Cephalosporins Cefuroxime1 (0.1)40 (0.0)NANA1 (0.2)23 (0.0)NA Cefaclor8 (0.9)199 (0.2)4.38 (2.12–9.03)4.33 (2.03–9.24)2 (0.4)93 (0.2)NA Ceftriaxone3 (0.3)37 (0.0)8.42 (2.58–27.42)26.70 (12.09–58.96)3 (0.6)22 (0.0)14.68 (4.36–49.45) Cefixime8 (0.9)192 (0.2)4.33 (2.11–8.89)4.39 (2.07–9.31)5 (1)88 (0.2)6.10 (2.43–15.28) Cefpodoxime2 (0.2)65 (0.1)NANA1 (0.2)44 (0.1)NA Ceftibuten3 (0.3)82 (0.1)3.84 (1.20–12.26)3.64 (1.05–12.59)2 (0.4)40 (0.1)NASulfonamides Cotrimoxazole4 (0.4)49 (0.1)8.13 (2.92–22.63)24.16 (11.78–49.54)2 (0.4)30 (0.1)NAMacrolides Clarithromycin12 (1.3)293 (0.3)4.09 (2.27–7.37)4.27 (2.34–7.79)8 (1.6)147 (0.3)5.6 (2.7–11.6) Azithromycin4 (0.4)262 (0.3)1.53 (0.56–4.14)1.25 (0.40–3.90)3 (0.6)128 (0.3)2.4 (0.8–7.7) Rokitamycind
+3 (0.3)35 (0.0)8.69 (2.66–28.36)31.84 (14.69–69.0)1 (0.2)21 (0)NA
+OR
+matched matched odds ratio, OR
+adjusted adjusted odds ratio, NA not available, OR odds ratio, CI confidence interval, Ref reference TBC tubercolosis
+aThese results have been confirmed by logistic regression, with penalized likelihood, in order to rule out potential underestimation of the rare events
+bRisk estimates are reported for all antibiotics with at least three exposed cases
+cOR adjusted for potential confounders only if, in the univariate analysis, they changed the point estimate of the association between antibiotics and liver injury by more than 10% (such as concomitant use of anti-asthmatics and drugs for the treatment of TBC), or between antibiotics and definite liver injury (no covariate)
+dWithdrawn from the Italian market in 2013
+
+      
+      
+        Sensitivity and Subgroup Analyses
+        When considering current use of amoxicillin as the reference group, we found a statistically significant increase in the risk of liver injury for ceftriaxone (ORadj 14.35, 95% CI 5.58–36.87), cotrimoxazole (ORadj 12.98, 95% CI 5.34–31.53) and clarithromycin (ORadj 2.29, 95% CI 1.04–5.07). The association was still observed for all other antibiotics, such as amoxicillin/clavulanic acid, cefaclor, cefixime, ceftibuten, however results were not statistically significant due to limited statistical power (Table 4).Table 4Association between individual antibioticsa and the risk of liver injury in paediatric outpatients using current use of amoxicillin as the comparatorLiver injury (broad definition)Liver injury (strict definition)Cases [N = 938] (%)Controls [N = 93,665] (%)ORmatched (95% CI)ORadjusted
+b (95% CI)Cases [N = 485] (%)Controls [N = 48,500] (%)ORadjusted
+b (95% CI)Amoxicillin19 (2.0)842 (0.9)RefRef6 (1.2)424 (0.9)RefAmoxicillin/clavulanic acid22 (2.3)697 (0.7)1.38 (0.74–2.58)1.49 (0.73–3.03)10 (2.1)365 (0.8)1.87 (0.67–5.20)Cefaclor8 (0.9)199 (0.2)1.89 (0.81–4.40)2.33 (0.93–5.81)2 (0.4)93 (0.2)NACeftriaxone3 (0.3)37 (0.0)3.64 (1.03–12.81)14.35 (5.58–36.87)3 (0.6)22 (0.0)9.70 (2.28–41.24)Cefixime8 (0.9)192 (0.2)1.87 (0.81–4.35)2.36 (0.95–5.87)5 (1)88 (0.2)4.03 (1.20–13.50)Ceftibuten3 (0.3)82 (0.1)1.66 (0.48–5.74)1.95 (0.51–7.50)2 (0.4)40 (0.1)NACotrimoxazole4 (0.4)49 (0.1)3.51 (1.15–10.72)12.98 (5.34–31.53)2 (0.4)30 (0.1)NAClarithromycin12 (1.3)293 (0.3)1.77 (0.85–3.70)2.29 (1.04–5.07)8 (1.6)147 (0.3)3.71 (1.26–10.90)Rokitamycinc
+3 (0.3)35 (0.0)3.75 (1.06–13.28)17.10 (6.75–43.37)1 (0.2)21 (0)NA
+OR
+matched matched odds ratio, OR
+adjusted adjusted odds ratio, NA not available, OR odds ratio, CI confidence interval, Ref reference TBC tubercolosis
+aRisk estimates are reported for all antibiotics significantly associated with any liver injury in the main analysis, provided that at least three cases were exposed
+bOR adjusted for potential confounders only if, in the univariate analysis, they changed the point estimate of the association between antibiotics and liver injury by more than 10% (such as concomitant use of anti-asthmatics and drugs for the treatment of TBC), or between antibiotics and definite liver injury (any covariate)
+cWithdrawn from the Italian market in 2013
+
+        To estimate the effect of potential misclassification of exposure, we removed the carryover period in a sensitivity analysis, which yielded an increase in the risk of liver injury by approximately 20% for current use of amoxicillin/clavulanic acid (ORadj 3.34, 95% CI 1.74–6.43), 50% for current use of amoxicillin (ORadj 2.82, 95% CI 1.51–5.28), 10-fold for current use of clarithromycin (ORadj 46.41, 95% CI 30.86–69.77) and 25-fold for ceftibuten (ORadj 93.22, 95% CI 43.59–199.36) [Table 5].Table 5Effect of exclusion of the carryover period on the association between individual antibioticsa and the risk of liver injury in the paediatric population identifiedLiver injury (broad definition)Liver injury (strict definition)Cases [N = 938] (%)Controls [N = 93,665] (%)ORmatched (95% CI)ORadjusted
+b (95% CI)Cases [N = 485] (%)Controls [N = 48,500] (%)ORadjusted
+b (CI 95%)Past use of any antibiotic417 (44.5)40,740 (43.5)RefRef211 (43.5)21,200 (43.7)RefAmoxicillin13 (1.4)413 (0.4)3.20 (1.95–5.24)2.82 (1.51–5.28)6 (1.2)206 (0.4)2.89 (1.26–6.65)Amoxicillin/clavulanic acid11 (1.2)311 (0.3)3.18 (1.82–5.58)3.34 (1.74–6.43)8 (1.6)161 (0.3)4.83 (2.34–10.00)Ceftibuten3 (0.3)27 (0)7.06 (2.18–22.88)93.22 (43.59–199.36)2 (0.4)7 (0)NAClarithromycin11 (1.2)114 (0.1)7.63 (4.21–13.84)46.41 (30.86–69.77)8 (1.6)57 (0.1)13.05 (6.12–27.83)Rokitamycinc
+3 (0.3)9 (0.0)23.44 (6.58–83.53)NA1 (0.2)6 (0)NA
+OR
+matched matched odds ratio, OR
+adjusted adjusted odds ratio, NA not available, OR odds ratio, CI confidence interval, Ref reference
+aRisk estimates were only reported for antibiotics significantly associated with an increased risk of any liver injury in the main analysis provided that there were at least three exposed cases
+bOR adjusted for potential confounders only if, in the univariate analysis, they changed the point estimate of the association between antibiotics and liver injury/definite liver injury by more than 10% (such as concomitant use of anti-asthmatics)
+cWithdrawn from the Italian market in 2013
+
+        When restricted to only cases of abnormal liver parameters confirmed by a specialist, the associations between current use of antibiotics and liver injury did not change substantially (Tables 2, 3). In terms of individual antibiotics, the increased risk was confirmed for amoxicillin/clavulanic acid and ceftriaxone, and became stronger for cefixime and clarithromycin. This analysis was limited by statistical power given the few cases exposed to cefaclor, ceftibuten, and cotrimoxazole. The analyses were not stratified by age category because of the very low number of exposed cases among each age subgroup.
+      
+    
+    
+      Discussion
+      In this population-based, multi-database, case-control study, we found that current use of antibiotics in children and adolescents was associated with a threefold increased risk of liver injury when compared with past use. Risk estimates differed among antibiotic classes and varied even more among individual antibiotics belonging to the same subclass. Although these associations may be partly explained by confounding due to current infections, the use of cotrimoxazole, ceftriaxone, and clarithromycin still remained associated with a higher risk of liver injury when the potential effect of confounding by indication has been ruled out.
+      To the best of our knowledge, no other paediatric population-based studies have addressed the association between liver injury and individual antibiotic use specifically providing risk estimates. Thus, our results can only be compared with adult data, descriptive studies from drug/induced liver injury registries [11] and results from signal detection analyses [1, 10].
+      Fluoroquinolones, sulfonamides, tetracyclines, cephalosporins, macrolides and penicillins have been associated with liver injury [6, 33–36]. Of course, variations on risk estimates across antibiotic classes depend on different pharmacodynamics and pharmacokinetics which play a crucial role in their manifestations of liver injury [6, 25, 32, 35].
+      Our results confirmed the high risk of ceftriaxone-induced hepatitis or elevated liver enzymes, as already described in a few case reports in children/adolescents [37–39]. Moreover, the high risk is also supported by our previous finding from signal detection analysis on ADR spontaneous reporting systems in children [1]. Clinical manifestation of the ceftriaxone-induced hepatitis may represent a direct toxic effect, an idiosyncratic reaction, or a cholestatic injury associated with its calcium precipitation, which is known to typically occur after 9–11 days of treatment [6, 33, 34]. Cotrimoxazole-induced liver injury is well-described in adults and has also been detected as an hepatotoxic signal in children from ADR spontaneous reporting system analysis [18, 40–43]. As in adults, the typical presentation is sudden occurrence of fever and rash, followed by jaundice within a few days or weeks of starting the medication, and the typical pattern of serum enzyme elevations is mixed or cholestatic and often asymptomatic. The mechanism underlying sulphonamide liver injury is probably immunoallergic [40].
+      In contrast to previous evidence [25, 44, 45], our results showed different hepatotoxic profiles amongst macrolides. A higher risk was observed for rokitamycin (withdrawn from the Italian market in 2013) and clarithromycin, while the association was not significant for azithromycin. The effect of reducing carryover time on the risk estimate for clarithromycin is consistent with the proposed mechanism suggesting the short-term onset of liver injury [45, 46].
+      Consistent with existing evidence, amoxicillin with clavulanic acid is associated with a higher risk of liver injury than amoxicillin alone, supporting the potential role of clavulanic acid in the toxic pathway [2, 25, 32]. Nevertheless, we cannot definitely exclude an increased risk, however small, of liver injury associated with amoxicillin use.
+      
+        Strengths
+        First, given the large study population identified from three longitudinal, nationally representative GP and FP databases, the results can be largely generalized to the paediatric population in these countries. Second, these electronic registries are maintained for daily routine healthcare purposes and the exposure is prospectively collected, thus limiting the possibility of recall bias. Third, we were able to adjust the analyses for many potential confounders because of the availability of clinically relevant information in the study databases. In addition, we confirmed, in the paediatric setting, some risk factors for liver injury only known in adults, such as underlying diabetes, obesity, hyperlipidaemia, thyroid imbalance or congenital diseases. Fourth, confounding by indication is a main concern when studying the association between antibiotics and liver injury. Accordingly, the sensitivity analysis in which current exposure to amoxicillin was used as the reference category allowed to control for this potential confounding because amoxicillin is the most frequently used antibiotic in children [31] and is usually considered less hepatotoxic than other antibiotics [25, 32]. Thus, the risk estimate during amoxicillin exposure can be regarded as a proxy of the background risk of liver injury [32].
+      
+      
+        Limitations
+        This study has some potential limitations because of its observational nature. Due to the limited number of exposed cases, we could not explore the effect of heterogeneity by country. Residual confounding due to unmeasured severity of infection cannot be excluded. Moreover, although we carefully excluded viral infections as underlying disease, they still may represent the non-documented indication for antibiotic prescription [47–49].
+        With regard to liver injury case selection, we adopted a very sensitive search strategy, as in previous database studies investigating the same association and thereafter manually validating all automatically detected potential cases. Nevertheless, it is likely that outcome misclassification (if any) is randomly distributed among those exposed and unexposed to antibiotics, thus again eventually leading to risk dilution.
+        As we used outpatient prescription and no dispensing data, we might have misclassified the exposure. However, if present, such a bias would likely be non-differential between cases and controls, thus underestimating the actual risk.
+        We could not exclude the potential effect of diagnostic bias on the risk estimates because children exposed to specific well-known hepatotoxic antibiotics might receive liver function tests more likely than children exposed to other drugs. Moreover, the analyses were not stratified by dosage; however, since antibiotics are usually responsible for idiosyncratic liver injury reactions, i.e. ‘not dose-related’ by definition [50], it is unlikely that the risk of liver injury is influenced by the dose of antibiotic.
+        The system of medical record databases did not allow to collect, and then to explore, the over-the-counter medications, such as paracetamol, well-known to be hepatotoxic in children. Thus, although we were able to identify paracetamol as a potential risk factor for liver injury in children, despite the low number of cases and controls exposed, we failed to test it as an effect modifier.
+        Lastly, the limited number of cases exposed to individual antibiotics resulted in wide CIs, particularly for cephalosporin antibiotics. As a result, their risk estimates need to be interpreted with caution.
+      
+    
+    
+      Conclusion
+      The use of antibiotics in paediatric outpatients is associated with an increased risk of liver injury, with substantial differences in risk among individual antibiotics. In particular, after several analyses, the potential risk of liver injury in children was found to be associated with current exposure to ceftriaxone, cotrimoxazole and clarithromycin. Paediatricians should be aware of this risk when using these antibiotics, even if for short periods. From a methodological point of view, this study demonstrates that combining data from different databases is crucial in paediatric postmarketing surveillance to provide the large sample size required for the adequate assessment of drug safety profiles in routine clinical care. However, a larger and more heterogeneous sample size is needed to investigate safety in terms of less commonly used antibiotics, or even other medications.
+    
+    
+      Electronic supplementary material
+      
+        Below is the link to the electronic supplementary material.
+Supplementary material 1 (PDF 54 kb)
+
+      
+    
+  
+
+    
+      Acknowledgements
+      The authors would like to thank Dr. Florentia Kaguelidou for reviewing the manuscript, and to Dr. Janet Sultana for editing.
+    
+    
+      Compliance with Ethical Standards
+      
+        Funding
+        No sources of funding were used to assist in the preparation of this study.
+      
+      
+        Conflict of interest
+        Katia M.C. Verhamme works for a department who, in the past, received unconditional grants from Pfizer, Boehringer Ingelheim, Novartis, GlaxoSmithKline, Servier and Yamanouchi, none of which are related to the subject of this manuscript. Miriam J.C.M. Sturkenboom leads a research group that is conducting research for pharmaceutical companies through non-conditional grants, none of which is related to this research. Carmen Ferrajolo, Gianluca Trifirò, Geert W ‘t Jong, Gino Picelli, Carlo Giaquinto, Giampiero Mazzaglia, Bruno H. Stricker, Francesco Rossi and Annalisa Capuano have no conflicts of interest to disclose.
+      
+    
+    
+      References
+      
+        1.
+        
+          
+            
+              Ferrajolo
+              C
+            
+            
+              Capuano
+              A
+            
+            
+              Verhamme
+              KM
+            
+            
+          
+          Drug-induced hepatic injury in children: a case/non-case study of suspected adverse drug reactions in vigibase
+          Br J Clin Pharmacol
+          2010
+          70
+          5
+          721
+          728
+          10.1111/j.1365-2125.2010.03754.x
+          
+          21039766
+        
+      
+      
+        2.
+        
+          
+            
+              Ferrajolo
+              C
+            
+            
+              Verhamme
+              KM
+            
+            
+              Trifiro
+              G
+            
+            
+          
+          Idiopathic acute liver injury in paediatric outpatients: incidence and signal detection in two european countries
+          Drug Saf
+          2013
+          36
+          10
+          1007
+          1016
+          10.1007/s40264-013-0045-7
+          
+          23591830
+        
+      
+      
+        3.
+        
+          
+            
+              Meier
+              Y
+            
+            
+              Cavallaro
+              M
+            
+            
+              Roos
+              M
+            
+            
+          
+          Incidence of drug-induced liver injury in medical inpatients
+          Eur J Clin Pharmacol
+          2005
+          61
+          2
+          135
+          143
+          10.1007/s00228-004-0888-z
+          
+          15726344
+        
+      
+      
+        4.
+        
+          
+            
+              Robles
+              M
+            
+            
+              Toscano
+              E
+            
+            
+              Cotta
+              J
+            
+            
+          
+          Antibiotic-induced liver toxicity: mechanisms, clinical features and causality assessment
+          Curr Drug Saf.
+          2010
+          5
+          3
+          212
+          222
+          10.2174/157488610791698307
+          
+          20210729
+        
+      
+      
+        5.
+        
+          
+            
+              Leitner
+              JM
+            
+            
+              Graninger
+              W
+            
+            
+              Thalhammer
+              F
+            
+          
+          Hepatotoxicity of antibacterials: pathomechanisms and clinical
+          Infection
+          2010
+          38
+          1
+          3
+          11
+          10.1007/s15010-009-9179-z
+          
+          20107858
+        
+      
+      
+        6.
+        
+          
+            
+              Andrade
+              RJ
+            
+            
+              Tulkens
+              PM
+            
+          
+          Hepatic safety of antibiotics used in primary care
+          J Antimicrob Chemother
+          2011
+          66
+          7
+          1431
+          1446
+          10.1093/jac/dkr159
+          
+          21586591
+        
+      
+      
+        7.
+        
+          
+            
+              Serranti
+              D
+            
+            
+              Montagnani
+              C
+            
+            
+              Indolfi
+              G
+            
+            
+          
+          Antibiotic induced liver injury: what about children?
+          J Chemother
+          2013
+          25
+          5
+          255
+          272
+          10.1179/1973947813Y.0000000090
+          
+          24070133
+        
+      
+      
+        8.
+        
+          
+            
+              Pineiro-Carrero
+              VM
+            
+            
+              Pineiro
+              EO
+            
+          
+          Liver
+          Pediatrics.
+          2004
+          113
+          4 Suppl
+          1097
+          1106
+          
+          15060205
+        
+      
+      
+        9.
+        
+          
+            
+              Devarbhavi
+              H
+            
+            
+              Karanth
+              D
+            
+            
+              Prasanna
+              KS
+            
+            
+          
+          Drug-induced liver injury with hypersensitivity features has a better outcome: a single-center experience of 39 children and adolescents
+          Hepatology
+          2011
+          54
+          4
+          1344
+          1350
+          10.1002/hep.24527
+          
+          21735470
+        
+      
+      
+        10.
+        
+          
+            
+              Ferrajolo
+              C
+            
+            
+              Coloma
+              PM
+            
+            
+              Verhamme
+              KM
+            
+            
+          
+          Signal detection of potentially drug-induced acute liver injury in children using a multi-country healthcare database network
+          Drug Saf
+          2014
+          37
+          2
+          99
+          108
+          10.1007/s40264-013-0132-9
+          
+          24446276
+        
+      
+      
+        11.
+        
+          
+            
+              Molleston
+              JP
+            
+            
+              Fontana
+              RJ
+            
+            
+              Lopez
+              MJ
+            
+            
+          
+          Characteristics of idiosyncratic drug-induced liver injury in children: results from the dilin prospective study
+          J Pediatr Gastroenterol Nutr
+          2011
+          53
+          2
+          182
+          189
+          10.1097/MPG.0b013e31821d6cfd
+          
+          21788760
+        
+      
+      
+        12.
+        
+          
+            
+              Mazzitello
+              C
+            
+            
+              Esposito
+              S
+            
+            
+              De Francesco
+              AE
+            
+            
+          
+          Pharmacovigilance in italy: an overview
+          J Pharmacol Pharmacother.
+          2013
+          4
+          Suppl 1
+          S20
+          S28
+          
+          24347976
+        
+      
+      
+        13.
+        
+          
+            
+              de Bie
+              S
+            
+            
+              Ferrajolo
+              C
+            
+            
+              Straus
+              SM
+            
+            
+          
+          Pediatric drug safety surveillance in FDA-AERS: a description of adverse events from grip project
+          PLoS One
+          2015
+          10
+          6
+          e0130399
+          10.1371/journal.pone.0130399
+          
+          26090678
+        
+      
+      
+        14.
+        
+          
+            
+              Ferrajolo
+              C
+            
+            
+              Capuano
+              A
+            
+            
+              Trifiro
+              G
+            
+            
+          
+          Pediatric drug safety surveillance in italian pharmacovigilance network: an overview of adverse drug reactions in the years 2001–2012
+          Expert Opin Drug Saf.
+          2014
+          13
+          Suppl 1
+          S9
+          S20
+          10.1517/14740338.2014.939581
+          
+          25171155
+        
+      
+      
+        15.
+        
+          
+            
+              Sturkenboom
+              MC
+            
+            
+              Verhamme
+              KM
+            
+            
+              Nicolosi
+              A
+            
+            
+          
+          Drug use in children: cohort study in three european countries
+          BMJ
+          2008
+          337
+          a2245
+          10.1136/bmj.a2245
+          
+          19029175
+        
+      
+      
+        16.
+        
+          
+            
+              Valkhoff
+              VE
+            
+            
+              van Soest
+              EM
+            
+            
+              Mazzaglia
+              G
+            
+            
+          
+          Adherence to gastroprotection during cyclooxygenase 2 inhibitor treatment and the risk of upper gastrointestinal tract events: a population-based study
+          Arthritis Rheum
+          2012
+          64
+          8
+          2792
+          2802
+          10.1002/art.34433
+          
+          22508379
+        
+      
+      
+        17.
+        
+          
+            
+              Sen
+              EF
+            
+            
+              Verhamme
+              KM
+            
+            
+              Neubert
+              A
+            
+            
+          
+          Assessment of pediatric asthma drug use in three european countries: a TEDDY study
+          Eur J Pediatr
+          2011
+          170
+          1
+          81
+          92
+          10.1007/s00431-010-1275-7
+          
+          20811908
+        
+      
+      
+        18.
+        
+          
+            
+              Masclee
+              GM
+            
+            
+              Valkhoff
+              VE
+            
+            
+              van Soest
+              EM
+            
+            
+          
+          Cyclo-oxygenase-2 inhibitors or nonselective nsaids plus gastroprotective agents: what to prescribe in daily clinical practice?
+          Aliment Pharmacol Ther
+          2013
+          38
+          2
+          178
+          189
+          10.1111/apt.12348
+          
+          23710837
+        
+      
+      
+        19.
+        Valkhoff VE, Schade R, t Jong GW, et al. Population-based analysis of non-steroidal anti-inflammatory drug use among children in four European countries in the SOS project: what size of data platforms and which study designs do we need to assess safety issues? BMC Pediatr. 2013;13:192.
+      
+      
+        20.
+        Standardization of definitions and criteria of causality assessment of adverse drug reactions. Drug-induced liver disorders: report of an international consensus meeting. Int J Clin Pharmacol Ther Toxicol. 1990;28(8):317–322.
+      
+      
+        21.
+        
+          
+            
+              Benichou
+              C
+            
+          
+          Criteria of drug-induced liver disorders. Report of an international consensus meeting
+          J Hepatol
+          1990
+          11
+          2
+          272
+          276
+          10.1016/0168-8278(90)90124-A
+          
+          2254635
+        
+      
+      
+        22.
+        
+          
+            
+              Brauer
+              R
+            
+            
+              Douglas
+              I
+            
+            
+              Garcia Rodriguez
+              LA
+            
+            
+          
+          Risk of acute liver injury associated with use of antibiotics. Comparative cohort and nested case-control studies using two primary care databases in europe
+          Pharmacoepidemiol Drug Saf
+          2016
+          25
+          Suppl 1
+          29
+          38
+          10.1002/pds.3861
+          
+          27038354
+        
+      
+      
+        23.
+        
+          
+            
+              Ruigomez
+              A
+            
+            
+              Brauer
+              R
+            
+            
+              Rodriguez
+              LA
+            
+            
+          
+          Ascertainment of acute liver injury in two european primary care databases
+          Eur J Clin Pharmacol
+          2014
+          70
+          10
+          1227
+          1235
+          10.1007/s00228-014-1721-y
+          
+          25066450
+        
+      
+      
+        24.
+        
+          
+            
+              Traversa
+              G
+            
+            
+              Bianchi
+              C
+            
+            
+              Da Cas
+              R
+            
+            
+          
+          Cohort study of hepatotoxicity associated with nimesulide and other non-steroidal anti-inflammatory drugs
+          BMJ
+          2003
+          327
+          7405
+          18
+          22
+          10.1136/bmj.327.7405.18
+          
+          12842950
+        
+      
+      
+        25.
+        
+          
+            
+              de Abajo
+              FJ
+            
+            
+              Montero
+              D
+            
+            
+              Madurga
+              M
+            
+            
+          
+          Acute and clinically relevant drug-induced liver injury: a population based case-control study
+          Br J Clin Pharmacol
+          2004
+          58
+          1
+          71
+          80
+          10.1111/j.1365-2125.2004.02133.x
+          
+          15206996
+        
+      
+      
+        26.
+        
+          
+            
+              Walker
+              AM
+            
+          
+          Observation and inference: an introduction to the methods of epidemiology
+          J Epidemiol Community Health
+          1992
+          46
+          2
+          174
+        
+      
+      
+        27.
+        
+          
+            
+              Greenland
+              S
+            
+          
+          Modeling and variable selection in epidemiologic analysis
+          Am J Public Health
+          1989
+          79
+          3
+          340
+          349
+          10.2105/AJPH.79.3.340
+          
+          2916724
+        
+      
+      
+        28.
+        
+          
+            
+              Bertuola
+              F
+            
+            
+              Morando
+              C
+            
+            
+              Menniti-Ippolito
+              F
+            
+            
+          
+          Association between drug and vaccine use and acute immune thrombocytopenia in childhood: a case-control study in Italy
+          Drug Saf
+          2010
+          33
+          1
+          65
+          72
+          10.2165/11530350-000000000-00000
+          
+          20000868
+        
+      
+      
+        29.
+        
+          
+            
+              Bianciotto
+              M
+            
+            
+              Chiappini
+              E
+            
+            
+              Raffaldi
+              I
+            
+            
+          
+          Drug use and upper gastrointestinal complications in children: a case-control study
+          Arch Dis Child
+          2013
+          98
+          3
+          218
+          221
+          10.1136/archdischild-2012-302100
+          
+          23264432
+        
+      
+      
+        30.
+        Trifiro G, Gambassi G, Sen EF, et al. Association of community-acquired pneumonia with antipsychotic drug use in elderly patients: a nested case-control study. Ann Intern Med. 2010;152(7):418–425, W139–440.
+      
+      
+        31.
+        
+          
+            
+              Piovani
+              D
+            
+            
+              Clavenna
+              A
+            
+            
+              Bonati
+              M
+            
+          
+          Review of italian primary care paediatricians identifies 38 commonly prescribed drugs for children
+          Acta Paediatr
+          2014
+          103
+          12
+          e532
+          e537
+          10.1111/apa.12783
+          
+          25164591
+        
+      
+      
+        32.
+        
+          
+            
+              Garcia Rodriguez
+              LA
+            
+            
+              Stricker
+              BH
+            
+            
+              Zimmerman
+              HJ
+            
+          
+          Risk of acute liver injury associated with the combination of amoxicillin and clavulanic acid
+          Arch Intern Med
+          1996
+          156
+          12
+          1327
+          1332
+          10.1001/archinte.156.12.1327
+          
+          8651842
+        
+      
+      
+        33.
+        
+          
+            
+              Ammann
+              R
+            
+            
+              Neftel
+              K
+            
+            
+              Hardmeier
+              T
+            
+            
+          
+          Cephalosporin-induced cholestatic jaundice
+          Lancet
+          1982
+          2
+          8293
+          336
+          337
+          10.1016/S0140-6736(82)90311-7
+          
+          6124751
+        
+      
+      
+        34.
+        
+          
+            
+              Brown
+              SJ
+            
+            
+              Desmond
+              PV
+            
+          
+          Hepatotoxicity of antimicrobial agents
+          Semin Liver Dis
+          2002
+          22
+          2
+          157
+          167
+          10.1055/s-2002-30103
+          
+          12016547
+        
+      
+      
+        35.
+        
+          
+            
+              Paterson
+              JM
+            
+            
+              Mamdani
+              MM
+            
+            
+              Manno
+              M
+            
+            
+          
+          Fluoroquinolone therapy and idiosyncratic acute liver injury: a population-based study
+          CMAJ
+          2012
+          184
+          14
+          1565
+          1570
+          10.1503/cmaj.111823
+          
+          22891208
+        
+      
+      
+        36.
+        Polson JE. Hepatotoxicity due to antibiotics. Clin Liver Dis. 2007;11(3):549–561, vi.
+      
+      
+        37.
+        
+          
+            
+              Bell
+              MJ
+            
+            
+              Stockwell
+              DC
+            
+            
+              Luban
+              NL
+            
+            
+          
+          Ceftriaxone-induced hemolytic anemia and hepatitis in an adolescent with hemoglobin sc disease
+          Pediatr Crit Care Med.
+          2005
+          6
+          3
+          363
+          366
+          10.1097/01.PCC.0000161285.12396.FF
+          
+          15857541
+        
+      
+      
+        38.
+        
+          
+            
+              Longo
+              F
+            
+            
+              Hastier
+              P
+            
+            
+              Buckley
+              MJ
+            
+            
+          
+          Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone
+          Am J Gastroenterol
+          1998
+          93
+          5
+          836
+          837
+          10.1111/j.1572-0241.1998.239_a.x
+          
+          9625142
+        
+      
+      
+        39.
+        
+          
+            
+              Peker
+              E
+            
+            
+              Cagan
+              E
+            
+            
+              Dogan
+              M
+            
+          
+          Ceftriaxone-induced toxic hepatitis
+          World J Gastroenterol
+          2009
+          15
+          21
+          2669
+          2671
+          10.3748/wjg.15.2669
+          
+          19496200
+        
+      
+      
+        40.
+        
+          
+            
+              Dujovne
+              CA
+            
+            
+              Chan
+              CH
+            
+            
+              Zimmerman
+              HJ
+            
+          
+          Sulfonamide hepatic injury. Review of the literature and report of a case due to sulfamethoxazole
+          N Engl J Med
+          1967
+          277
+          15
+          785
+          788
+          10.1056/NEJM196710122771503
+          
+          6046676
+        
+      
+      
+        41.
+        
+          
+            
+              Mainra
+              RR
+            
+            
+              Card
+              SE
+            
+          
+          Trimethoprim-sulfamethoxazole-associated hepatotoxicity: part of a hypersensitivity syndrome
+          Can J Clin Pharmacol.
+          2003
+          10
+          4
+          175
+          178
+          
+          14712321
+        
+      
+      
+        42.
+        
+          
+            
+              Abusin
+              S
+            
+            
+              Johnson
+              S
+            
+          
+          Sulfamethoxazole/trimethoprim induced liver failure: a case report
+          Cases J.
+          2008
+          1
+          1
+          44
+          10.1186/1757-1626-1-44
+          
+          18637204
+        
+      
+      
+        43.
+        
+          
+            
+              Bell
+              TL
+            
+            
+              Foster
+              JN
+            
+            
+              Townsend
+              ML
+            
+          
+          Trimethoprim-sulfamethoxazole-induced hepatotoxicity in a pediatric patient
+          Pharmacotherapy.
+          2010
+          30
+          5
+          539
+          10.1592/phco.30.5.539
+          
+          20412003
+        
+      
+      
+        44.
+        
+          
+            
+              Christopher
+              K
+            
+            
+              Hyatt
+              PA
+            
+            
+              Horkan
+              C
+            
+            
+          
+          Clarithromycin use preceding fulminant hepatic failure
+          Am J Gastroenterol
+          2002
+          97
+          2
+          489
+          490
+          
+          11866297
+        
+      
+      
+        45.
+        
+          
+            
+              Principi
+              N
+            
+            
+              Esposito
+              S
+            
+          
+          Comparative tolerability of erythromycin and newer macrolide antibacterials in paediatric patients
+          Drug Saf
+          1999
+          20
+          1
+          25
+          41
+          10.2165/00002018-199920010-00004
+          
+          9935275
+        
+      
+      
+        46.
+        
+          
+            
+              Shaheen
+              N
+            
+            
+              Grimm
+              IS
+            
+          
+          Fulminant hepatic failure associated with clarithromycin
+          Am J Gastroenterol
+          1996
+          91
+          2
+          394
+          395
+          
+          8607519
+        
+      
+      
+        47.
+        
+          
+            
+              Mitsuyasu
+              R
+            
+            
+              Groopman
+              J
+            
+            
+              Volberding
+              P
+            
+          
+          Cutaneous reaction to trimethoprim-sulfamethoxazole in patients with aids and kaposi’s sarcoma
+          N Engl J Med
+          1983
+          308
+          25
+          1535
+          1536
+          10.1056/NEJM198306233082512
+          
+          6222258
+        
+      
+      
+        48.
+        
+          
+            
+              Pullen
+              H
+            
+            
+              Wright
+              N
+            
+            
+              Murdoch
+              JM
+            
+          
+          Hypersensitivity reactions to antibacterial drugs in infectious mononucleosis
+          Lancet
+          1967
+          2
+          7527
+          1176
+          1178
+          10.1016/S0140-6736(67)91893-4
+          
+          4168380
+        
+      
+      
+        49.
+        
+          
+            
+              Uetrecht
+              J
+            
+            
+              Naisbitt
+              DJ
+            
+          
+          Idiosyncratic adverse drug reactions: current concepts
+          Pharmacol Rev
+          2013
+          65
+          2
+          779
+          808
+          10.1124/pr.113.007450
+          
+          23476052
+        
+      
+      
+        50.
+        
+          
+            
+              Russmann
+              S
+            
+            
+              Kullak-Ublick
+              GA
+            
+            
+              Grattagliano
+              I
+            
+          
+          Current concepts of mechanisms in drug-induced hepatotoxicity
+          Curr Med Chem
+          2009
+          16
+          23
+          3041
+          3053
+          10.2174/092986709788803097
+          
+          19689281
+        
+      
+    
+  
