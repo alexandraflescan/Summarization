@@ -1,0 +1,18 @@
+$ ./keywords_tfidf.py
+$ ./keywords_tfidf.py -k 20 -d 100
+$ ./keywords_lda.py -k 10 -d 100 -t 5 -w 20
+
+
+keywords_tfidf.py, extracting keywords based on tf-idf scores. Options:
+-k : number of keywords to be generated (default 10)
+-d : document length (the documents provided by the user will be split into parts containing the specified number of words; by default the documents will not be split.)
+
+keywords_lda.py, extracting keywords based on either Gensim's or Mallet's implementation of LDA topic modeling. Options:
+-t : number of topics (default 10)
+-w : number of words per topic (default 10)
+-k : number of keywords (default 10)
+-d : document length (the documents provided by the user will be split into parts containing the specified number of words; by default the documents will not be split.)
+-m : mallet path (full path to the Mallet executable; if not provided, Gensim's LDA implementation will be used to generate topics.)
+
+PRECONDITIONS 
+sudo apt-get install python-future
